@@ -1,0 +1,83 @@
+Andrew Jassy - CEO
+
+It's not that there won't be any more or that we don't see anymore, but it's just attenuated very significantly. And at the same time, what we've seen is that migrations and this speaks to some of the backlog, migrations that were proceeding, but maybe not at the pace that we saw before, have started to pick up again. We've also seen that a number of the deals that typically signed more quickly, but were signing more slowly in more uncertain environments.
+
+Lot of those got done in the last quarter, and you heard in my opening remarks some of the examples, but that was some of several, and we're continuing to see that trend.
+
+And then on the Gen AI side, it's -- if you look at the Gen AI revenue we have, in absolute numbers, it's a pretty big number, but in the scheme of a 100 billion annual revenue run rate business, it's still relatively small, much smaller than what it will be in the future, where we really believe we're going to drive tens of billions of dollars of revenue over the next several years. But it's encouraging how fast it's growing and our offering is really resonating with customers. Thank you, Brian, I appreciate it.
+
+I'll take the first, and I'll let Brian take the second. On the cost to serve coming down, as I mentioned in my opening remarks, I don't think that we feel like where we're going to ultimately be. I think we feel like we have meaningful upside there.
+
+And I think one thing that it's easy to make as large a change as we made in regionalization in the U. S. and saying, check, we got that done. But the reality is, we still have several improvements and a bunch of ways that we can hone the regionalization improvements that we made in 2023 and in 2024.
+
+And so when the team speaks about the areas where they believe they have opportunities, there's still opportunities just in regionalization as we continue to hone that, but I also think, in many ways, it was very useful for us to go through what was a pretty significant change we went through during the pandemic, where we doubled the size of our fulfillment center network in 18 months and built out a last mile transportation network, the size of UPS in 18 months, it was disruptive to get that optimized.
+
+But one of the things that was very useful was, it really caused us to relook at everything we were doing with fulfillment network. And we looked at it really a beginner's eye and we have found so many areas that we believe that we can evolve that I think will both help our cost to serve and even more importantly, deliver faster delivery speeds for customers.
+
+And I mentioned one area which, in particular, which you'll see us focus on over the next year or two is just, we think there are real opportunities in our inbound network and our inbound processes. And then where we locate inventory in association with that, which will accomplish both of those tasks. But for us, I don't believe that we believe that 2018 is the North Star in cost to serve.
+
+I think we believe we can keep evolving it and being better than that. On grocery, we're pleased with the progress we're making there. When we think about our grocery business right now and kind of, I'll call it, 3 big macro segments.
+
+The first is nonperishables where these are things like consumables and canned goods and pet food and health and beauty products and pharmaceutical. And we -- it's a big business and it's continuing to grow at a very healthy clip, and we're really pleased with that business. And it's really the way the most mass merchandisers got into the grocery business a few decades ago.
+
+That continues to grow at a very healthy clip. We have a physical presence along with online, but Whole Foods market, which is really the pioneer and the leader in organic grocery and that's continuing to grow at a very good clip. We also made a number of changes in the business last year on the profitability side, where we really like the profitability trajectory we see there.
+
+And so again, you'll see that keep growing and expanding and feel very good about that as well. If you want to serve as many grocery needs as we do, you have to have a mass physical presence. And that's what we've been trying to do with Fresh over several years.
+
+We have tested -- we've been testing a V2 of our Fresh format in a few locations near Chicago, in a few locations in Southern California. It's just a few months in, but the results thus far are very promising and on almost every dimension. And so we need to see it for a little bit longer time, but the results appear like we have something that's resonating.
+
+And if we continue to see that, then the issue becomes how fast and what's the best way to expand.
+
+We have also been spending increasing amounts of time and efforts here trying to make it easier for customers to be able to shop between the nonperishables and then our selection of Whole Foods as well as Fresh, I think you can expect to see that over time, both in the user experience on the app and on the website as well as how we're able to better leverage between the different business segments and their logistics capabilities, being able to get better leverage there, better economics and then allowing people to order in one conservative place to be able to pick up in multiple -- pick up for multiple types of grocery products in one place.
+
+Just seeing us already do more of that, and I think you can expect that in the future. In the healthcare space, I -- if you think about what we do on the retail side, adding a pharmacy capability is a pretty natural extension. It's something that customers had asked us for many years, and it's got more complexity to it than the rest of our retail business.
+
+We have to think carefully about whether we wanted to pursue it, but customers so badly wanted it and the experience we thought could be better and we could be a meaningful part of changing that, that we pursued it. And I really like the momentum that we're seeing in our Amazon Pharmacy business. But even more important with how fast it's growing, if you've used it and you've paid attention to the customer experience over the last 12 to 15 months, it's just substantially improved from where it already was pretty good.
+
+People really love the experience. And I think that when -- the healthcare experience, particularly in the U. S. is a pretty frustrating one and not a very good one.
+
+And I think that when we tell our grandkids that the way we used to have to go get primary care was to make an appointment 3 weeks in advance and then drive 20 minutes to the doctor, park, wait in the reception for 15 minutes, get put into an exam room for 15 minutes. Doctor comes in, talks to you for 5 to 10 minutes and then you got to drive 20 minutes to the pharmacy.
+
+People are just not -- our grandkids will not believe that was the experience and it's not going to be, and you already see that changing. And its part of what attracted us in such a significant way to on medical. It's just their application, their app is so easy to use.
+
+You have all your healthcare data in one spot. You can do chats with medical practitioners. You can do video calls, if you need to see someone, there's physical locations and lots of metropolis cities where you can get in the same day, if you need to see a specialist, they're probably into specialists and all the cities in which we operate, where you can get in a day or two later, like just it's a very different experience.
+
+Now if you actually need medication, you can get that sent to you in a day or two, either through Amazon pharmacy or other pharmacies that we work with. And that experience is so much better than what we've been accustomed to seeing. And so I think it's -- again, it's still early days.
+
+We're excited, we launched for Prime members the ability to get one medical subscription for 9 a month or 99 a year, which is 50 off, the typical price and that saw a very good take-up. It's still early days, but we think we have an opportunity to be a meaningful part of changing that experience.
+
+And if we are helpful in changing what that primary care experience is and what it looks like to get pharmaceutical items, there's a lot of other things that we might be able to help customers with over time that whether it's wellness or whether it's diet, there's a bunch of areas that I think we can help over time. Colin, I would say a few things on -- first on generative AI.
+
+It's -- when we talk to customers, particularly at enterprises as they're thinking about generative AI, many are still thinking through at which layers of those 3 layers of the stack, I laid out that they want to operate in. And we predict that most companies will operate in at least 2 of them. But I also think even though it may not be the case early on, I think many of the technically capable companies will operate at all 3.
+
+They will build their own models. They will leverage existing models from us, and then they're going to build the apps.
+
+And I know one of the other interesting things that we see early on right now in generative AI is that -- it's a very iterative process and real work to go from posing a question into a chat bot and getting an answer to turning that into a production quality application at the quality you need for your customer experience and your reputation and then also getting that application to work at the latency and cost characteristics that you need. And so what we see is that customers want choice.
+
+They don't want just 1 model to rule the world. They want different models for different applications. And they want to experiment with all different sized models because they yield different cost structures and different latency characteristics.
+
+And so Bedrock is really resonating with customers. They just -- they know they want to change all these variables and try and experiment and they have something that manages all those different transitions and changes so they can figure out what works best for them, especially in the first couple of years where they're learning how to build successful generative applications is incredibly important for them. It's part of why we see Bedrock resonating so much.
+
+In the same way, what's attractive to enterprises when they think about coding companions like Q, is just if you can get 30, 40 better productivity for your developers, which in many cases, for companies is their most scarce resource, it's a game changer. And they won't roll out every bit of code that comes from a coding companion. But if it can assist them to get 80 plus the way there quickly, that's a big deal.
+
+And one of the things that's unique about Q is it's not just a coding companion, yes, it's an expert on AWS. It will help you -- it helps you write the code, but it also helps you debug the code and it helps you test the code, helps you do transformations and it helps you figure out how a multistep implement features. There's a lot of -- helps you troubleshoot.
+
+If there's something in your application that's you write, you can find it and help you fix it. And so -- and then it also lets you look at all your data repositories, whether it's Internet or Wickes or the 40-plus data connectors like Salesforce, Alassian, and Zendesk and Slack. And let you have an intelligent conversation to get answers and take action.
+
+It's a pretty differentiated capability there. And when enterprises are looking at how they might best make their developers more productive, they're looking at what's the array of capabilities in these different coding companion options they have. And so we're spending a lot of time -- our enterprises are quite excited about it.
+
+It created a meaningful stir at reinvent. And what you see typically is that these companies experiment with different options they have and they make decisions for their employee base, and we're seeing very good momentum there. The question about how we're thinking about Gen AI in our consumer businesses.
+
+We're building dozens of generative AI applications across the company. It's every business that we have has multiple generative AI applications that we are building. And they're all in different stages, many of which have launched and others of which are in development.
+
+If you just look at our -- some of our consumer businesses, on the retail side, we built a generative AI application that allowed customers to look at summary of customer review, so that they didn't have to read hundreds and sometimes thousands of reviews to get a sense for what people like or dislike about a product. We launched a generative AI application that allows customers to quickly be able to predict what kind of fit they'd have for different apparel items.
+
+We built a generative AI application that in our fulfillment centers, that forecasts how much inventory we need in each particular fulfillment center. And so the start of the rollout of Rufus today is really just another step, but we think one that's pretty meaningful in being a generative AI powered shopping assistant and it's trained on our very expansive product catalog as well as our community QA and customer reviews and the broader web. But it lets customers discover items in a very different way than they have been able to on e-commerce websites.
+
+If you want buying advice, like what should I look for in a pair of headphones or if you are doing purpose buying, like what should I buy for cold weather golf or comparisons, what's difference in lip-gloss or lip oil or you want recommendations of the best Valentine's Day gifts or you're on a detailed page with bridge product info, where you don't want to go through the whole page, you want to ask is this pickle ball rack that's good for beginners. Ll those questions you can pull in and get really good answers.
+
+And then it's seamlessly integrated in the Amazon experience that customers are used to and love to be able to take action. I think that that's just the next iteration. I think it's going to meaningfully change what discovery looks like for our shopping experience and for our customers.
+
+And I could kind of step through every one of those consumer businesses. Our advertising business is building capabilities where people can submit a picture and ad copy is written and the other way around. And you kind of think about Alexa, where we're building a very large -- expansive large language model is going to make Alexa even more productive and helpful for customer.
+
+Every one of our consumer businesses has a significant number of generative AI applications that they either have built and delivered or they're in the process of building. CEO Andrew Jassy- AMZN CEO Q4 2023 Earnings Call QA Responses Ill add a few things to what Brian said.

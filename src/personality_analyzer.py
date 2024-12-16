@@ -30,9 +30,27 @@ class PersonalityAnalyzer:
 
     def analyze_text_chunks(self, text: str, chunk_size: int = 512) -> Dict[str, float]:
         """Analyze a long text by breaking it into chunks and averaging results."""
-        words = text.split()
-        chunks = [' '.join(words[i:i + chunk_size]) 
-                 for i in range(0, len(words), chunk_size)]
+        # Split on paragraphs to maintain context
+        paragraphs = text.split('\n\n')
+        current_chunk = []
+        chunks = []
+        current_length = 0
+        
+        for para in paragraphs:
+            para_words = para.split()
+            para_len = len(para_words)
+            
+            if current_length + para_len <= chunk_size:
+                current_chunk.append(para)
+                current_length += para_len
+            else:
+                if current_chunk:
+                    chunks.append('\n\n'.join(current_chunk))
+                current_chunk = [para]
+                current_length = para_len
+        
+        if current_chunk:
+            chunks.append('\n\n'.join(current_chunk))
         
         results = []
         for chunk in chunks:
@@ -48,17 +66,22 @@ class PersonalityAnalyzer:
     def analyze_file(self, file_path: str) -> Dict[str, any]:
         """Analyze a single file and return results with metadata."""
         try:
-            with open(file_path, 'r') as file:
-                text = file.read()
+            with open(file_path, 'r', encoding='utf-8') as f:
+                content = f.read()
             
-            results = self.analyze_text_chunks(text)
+            # Extract CEO name and company from standardized format
+            first_line = content.split('\n')[0]
+            name = first_line.split('-')[0].strip()
+            
+            # Analyze the content
+            results = self.analyze_text_chunks(content)
             
             # Add metadata
             metadata = {
-                'file_name': os.path.basename(file_path),
-                'analysis_date': datetime.now().isoformat(),
                 'file_path': file_path,
-                'results': results
+                'name': name,
+                'timestamp': datetime.now().isoformat(),
+                'analysis_results': results
             }
             
             return metadata
@@ -67,61 +90,58 @@ class PersonalityAnalyzer:
             logging.error(f"Error analyzing file {file_path}: {str(e)}")
             return None
 
-    def analyze_directory(self, directory_path: str) -> List[Dict[str, any]]:
-        """Analyze all text files in a directory."""
+    def analyze_directory(self, directory_path: str, output_file: str = None) -> List[Dict]:
+        """Analyze all text files in a directory and optionally save results."""
         results = []
-        for file_name in os.listdir(directory_path):
-            if file_name.endswith('.txt'):
-                file_path = os.path.join(directory_path, file_name)
+        
+        for filename in os.listdir(directory_path):
+            if filename.endswith('.txt'):
+                file_path = os.path.join(directory_path, filename)
                 result = self.analyze_file(file_path)
                 if result:
                     results.append(result)
-        return results
+        
+        # Convert results to DataFrame for easier analysis
+        df = pd.DataFrame([
+            {
+                'Name': r['name'],
+                'File': os.path.basename(r['file_path']),
+                'Timestamp': r['timestamp'],
+                **r['analysis_results']
+            }
+            for r in results
+        ])
+        
+        # Save results if output file specified
+        if output_file:
+            if output_file.endswith('.csv'):
+                df.to_csv(output_file, index=False)
+            elif output_file.endswith('.json'):
+                with open(output_file, 'w') as f:
+                    json.dump(results, f, indent=2)
+        
+        return df
 
-def save_results(results: List[Dict[str, any]], output_file: str):
-    """Save analysis results to a JSON file."""
-    with open(output_file, 'w') as f:
-        json.dump(results, f, indent=2)
-
-def print_results(results: List[Dict[str, any]], focus_trait: str = 'Neuroticism'):
-    """Print analysis results with focus on a specific trait."""
-    print(f"\nPersonality Analysis Results (Focus on {focus_trait}):")
-    print("-" * 50)
-    
-    # Sort results by the focus trait
-    sorted_results = sorted(results, 
-                          key=lambda x: x['results'][focus_trait], 
-                          reverse=True)
-    
-    for result in sorted_results:
-        print(f"\nFile: {result['file_name']}")
-        print(f"{focus_trait} Score: {result['results'][focus_trait]:.3f}")
-        print("\nAll Traits:")
-        for trait, score in result['results'].items():
-            print(f"{trait}: {score:.3f}")
-
-def main():
+if __name__ == "__main__":
     # Set up logging
     logging.basicConfig(level=logging.INFO)
     
     # Initialize analyzer
     analyzer = PersonalityAnalyzer()
     
-    # Create output directories if they don't exist
-    os.makedirs('data/outputs/analysis', exist_ok=True)
+    # Process all CEO speeches
+    ceo_directory = "data/speeches/ceos"
+    output_file = "results/personality_analysis.csv"
     
-    # Analyze speeches in the CEOs directory
-    try:
-        results = analyzer.analyze_directory('data/speeches/ceos')
-        
-        # Save results
-        save_results(results, 'data/outputs/analysis/analysis_results.json')
-        
-        # Print results
-        print_results(results, focus_trait='Neuroticism')
-            
-    except Exception as e:
-        logging.error(f"Error in main execution: {str(e)}")
-
-if __name__ == "__main__":
-    main() 
+    # Create results directory if it doesn't exist
+    os.makedirs("results", exist_ok=True)
+    
+    # Run analysis
+    logging.info("Starting personality analysis of CEO speeches...")
+    results_df = analyzer.analyze_directory(ceo_directory, output_file)
+    logging.info(f"Analysis complete. Results saved to {output_file}")
+    
+    # Display summary statistics
+    print("\nPersonality Analysis Summary:")
+    print("============================")
+    print(results_df.describe()) 

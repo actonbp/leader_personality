@@ -1,43 +1,105 @@
-# Python virtual environment
-venv/
-env/
-ENV/
-
-# Python compiled files
+# Python
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
-
-# Distribution / packaging
-dist/
+.Python
 build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
 *.egg-info/
+.installed.cfg
+*.egg
 
-# IDE specific files
+# Virtual Environment
+venv/
+env/
+ENV/
+.env
+.venv
+env.bak/
+venv.bak/
+
+# IDE
 .idea/
 .vscode/
 *.swp
 *.swo
-.DS_Store
+*~
+
+# Project specific
+data/cleaned/
+data/interim/
+results/*.html
+results/*.pdf
+results/*.tex
+results/*.log
+results/personality_analysis.csv
+!results/analysis_report.md
+!results/ceo_analysis.qmd
 
 # Jupyter Notebook
 .ipynb_checkpoints
+*.ipynb
 
-# Environment variables
-.env
-.env.local
-
-# Project specific
-data/outputs/  # Generated analysis results and visualizations
-*.log
-*.json
-
-# Operating System
+# System files
 .DS_Store
 .DS_Store?
 ._*
 .Spotlight-V100
 .Trashes
 ehthumbs.db
-Thumbs.db 
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Environment variables and secrets
+.env
+.env.local
+.env.*.local
+*.key
+credentials.json
+
+# Model files and large data
+*.pkl
+*.h5
+*.model
+*.bin
+*.pt
+*.pth
+
+# Temporary files
+*.bak
+*.tmp
+*.temp
+
+# Documentation build
+docs/_build/
+site/
+
+# Test coverage
+.coverage
+htmlcov/
+.tox/
+.nox/
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/

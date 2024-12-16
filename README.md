@@ -1,128 +1,136 @@
-# Speech Personality Analyzer 🎯
+# CEO Personality Analysis 🎯
 
-A user-friendly tool to analyze personality traits in speeches from leaders (CEOs, coaches, politicians). The tool focuses on the Big Five personality traits, with special attention to neuroticism.
+A research project analyzing personality traits in CEO speeches using BERT-based models, with a particular focus on neuroticism and emotional stability in leadership communication.
 
-## What Does This Tool Do? 🤔
+## Project Overview 🔍
 
-This tool helps you:
-- Analyze speeches to identify personality traits
-- Create beautiful visualizations of the results
-- Compare different leaders' personality profiles
-- Track changes in personality traits over time
+This project analyzes personality traits of Fortune 500 CEOs through their public communications, using:
+- BERT-based personality detection models
+- Natural Language Processing techniques
+- Statistical analysis and visualization
+- Focus on Big Five personality traits, especially neuroticism
 
-## Quick Start Guide 🚀
+## Key Features 🌟
 
-### 1. First-Time Setup
+- Automated speech processing pipeline
+- Personality trait analysis using BERT
+- Interactive visualizations
+- Statistical analysis of trait distributions
+- Comparative analysis across CEOs
+- Focus on emotional stability patterns
 
-```bash
-# Clone this repository
-git clone https://github.com/yourusername/leader_personality.git
-cd leader_personality
-
-# Create a virtual environment (only needed once)
-python -m venv venv
-
-# Activate the virtual environment
-# On macOS/Linux:
-source venv/bin/activate
-# On Windows:
-# .\venv\Scripts\activate
-
-# Install required packages
-pip install -r requirements.txt
-```
-
-### 2. Adding Speeches to Analyze 📝
-
-1. Place your speech text files in the appropriate folder:
-   - CEO speeches go in: `data/speeches/ceos/`
-   - Coach speeches go in: `data/speeches/coaches/`
-   - Political speeches go in: `data/speeches/politicians/`
-
-2. Text files should be plain text (.txt) format
-   - Remove any special formatting
-   - One speech per file
-   - Use clear filenames (e.g., `jane_fraser_investor_day_2024.txt`)
-
-### 3. Running the Analysis 📊
-
-```bash
-# Make sure your virtual environment is activated
-source venv/bin/activate  # (or .\venv\Scripts\activate on Windows)
-
-# Run the personality analysis
-python src/personality_analyzer.py
-
-# Create visualizations
-python src/visualization.py
-```
-
-### 4. Finding Your Results 📈
-
-After running the scripts, you'll find:
-- Analysis results: `data/outputs/analysis/analysis_results.json`
-- Visualizations: `data/outputs/visualizations/`
-  - Individual trait comparisons (e.g., `neuroticism_comparison.png`)
-  - Personality radar charts for each leader
-  - Overall trait distributions
-
-## Repository Structure 📁
+## Project Structure 📁
 
 ```
 leader_personality/
 ├── data/
-│   ├── speeches/           # Put your speech files here
-│   │   ├── ceos/          # CEO speeches
-│   │   ├── coaches/       # Coach speeches
-│   │   └── politicians/   # Political speeches
-│   └── outputs/           # Results are saved here
-│       ├── analysis/      # JSON analysis results
-│       └── visualizations/# Generated plots and charts
+│   ├── speeches/           # Raw speech transcripts
+│   │   └── ceos/          # CEO-specific speeches
+│   └── cleaned/           # Processed speech files
 ├── src/
-│   ├── personality_analyzer.py  # Main analysis script
-│   └── visualization.py   # Visualization script
-├── venv/                  # Virtual environment (created during setup)
-├── requirements.txt       # Required Python packages
-└── README.md             # This file
+│   ├── personality_analyzer.py  # Core analysis module
+│   ├── visualization.py         # Data visualization
+│   └── standardize_files.py     # Text preprocessing
+├── results/
+│   ├── analysis_report.md       # Detailed findings
+│   ├── ceo_analysis.qmd        # Quarto analysis document
+│   └── personality_analysis.csv # Raw analysis data
+├── docs/
+│   └── data_preprocessing_guidelines.md
+├── requirements.txt
+└── README.md
 ```
 
-## Visualization Examples 🎨
+## Installation 🚀
 
-The tool creates several types of visualizations:
-1. Bar charts comparing specific traits across leaders
-2. Radar charts showing all traits for individual leaders
-3. Distribution plots showing overall patterns
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/leader_personality.git
+cd leader_personality
+```
 
-All visualizations are saved as PNG files in `data/outputs/visualizations/`
+2. Create and activate virtual environment:
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: .\venv\Scripts\activate
+```
 
-## Troubleshooting 🔧
+3. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
 
-Common issues and solutions:
+## Usage 📊
 
-1. **"Command not found: python"**
-   - Make sure Python is installed on your system
-   - Try using `python3` instead of `python`
+1. **Prepare Speech Data**:
+   - Place CEO speech transcripts in `data/speeches/ceos/`
+   - Run standardization:
+   ```bash
+   python src/standardize_files.py
+   ```
 
-2. **"No such file or directory: venv"**
-   - Make sure you're in the correct directory
-   - Try creating the virtual environment again
+2. **Run Analysis**:
+   ```bash
+   python src/personality_analyzer.py
+   ```
 
-3. **Import errors after installation**
-   - Make sure your virtual environment is activated
-   - Try reinstalling requirements: `pip install -r requirements.txt`
+3. **Generate Visualizations**:
+   ```bash
+   python src/visualization.py
+   ```
 
-## Need Help? 🆘
+4. **View Results**:
+   - Open `results/ceo_analysis.html` for interactive visualizations
+   - Check `results/analysis_report.md` for detailed findings
 
-If you run into any issues:
-1. Check the Troubleshooting section above
-2. Make sure all files are in the correct directories
-3. Ensure your virtual environment is activated
-4. Check that your speech files are plain text (.txt)
+## Key Findings 📈
 
-## Future Features 🔮
+- CEOs show remarkably consistent neuroticism scores (range: 0.476-0.508)
+- Professional communication patterns suggest strong emotional control
+- Subtle variations in handling uncertainty and challenges
+- Need for more sophisticated analysis methods identified
 
-- Support for more personality models
-- Interactive visualizations
-- Batch processing of multiple speeches
-- Time-series analysis of personality changes
-- Industry-specific benchmarking
+## Future Directions 🔮
+
+1. **Ensemble Model Approach**
+   - Multiple BERT architectures
+   - Traditional NLP techniques
+   - Domain-specific models
+
+2. **Data Expansion**
+   - More speeches per CEO
+   - Diverse communication contexts
+   - Historical data analysis
+
+3. **Enhanced Analysis**
+   - Multimodal analysis (text + audio)
+   - Context-aware sentiment analysis
+   - Cross-validation with expert assessments
+
+## Contributing 🤝
+
+Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
+
+## Dependencies 📦
+
+- Python 3.8+
+- transformers==4.35.2
+- torch==2.2.1
+- pandas==2.1.3
+- seaborn==0.13.0
+- matplotlib==3.8.2
+- Quarto (for report generation)
+
+## License 📄
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Author ✍️
+
+Bryan Acton
+
+## Acknowledgments 🙏
+
+- BERT personality model developers
+- Fortune 500 CEO communications teams
+- Open-source NLP community

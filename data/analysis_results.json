@@ -1,0 +1,14 @@
+[
+  {
+    "file_name": "jane_fraser_investor_day_2024.txt",
+    "analysis_date": "2024-12-15T14:38:54.594098",
+    "file_path": "data/speeches/ceos/jane_fraser_investor_day_2024.txt",
+    "results": {
+      "Extroversion": 0.5414441823959351,
+      "Neuroticism": 0.5347797870635986,
+      "Agreeableness": 0.4695108234882355,
+      "Conscientiousness": 0.36765405535697937,
+      "Openness": 0.5601473450660706
+    }
+  }
+]

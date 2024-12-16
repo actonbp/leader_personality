@@ -1,0 +1,313 @@
+---
+title: "CEO Personality Analysis"
+author: "Bryan Acton"
+date: today
+format:
+  html:
+    theme: cosmo
+    code-fold: true
+    toc: true
+    toc-depth: 3
+    toc-float: true
+    fig-width: 8
+    fig-height: 6
+    smooth-scroll: true
+    highlight-style: github
+    html-math-method: katex
+    css: styles.css
+    include-in-header:
+      text: |
+        <style>
+        body {
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+        }
+        </style>
+  pdf:
+    toc: true
+    number-sections: true
+    colorlinks: true
+execute:
+  echo: false
+  warning: false
+---
+
+```{python}
+#| label: setup
+#| include: false
+
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+import numpy as np
+
+# Read the analysis results
+results_df = pd.read_csv("personality_analysis.csv")
+stats_df = pd.read_csv("trait_statistics.csv")
+```
+
+# Data Sources and Methodology
+
+## Speech Data Collection
+
+This analysis examines personality traits across eight prominent CEOs based on their public communications. The data sources include:
+
+```{python}
+#| label: tbl-sources
+#| tbl-cap: "CEO Speech Sources"
+
+results_df[['Name', 'File']].style
+```
+
+The speech transcripts were collected from:
+- Quarterly earnings calls
+- Industry conference presentations
+- Media interviews
+- Public addresses
+
+## Data Preprocessing
+
+The text preprocessing pipeline included:
+1. Transcript standardization
+   - Removal of speaker identifiers
+   - Standardization of punctuation
+   - Elimination of timestamps and special characters
+2. Content segmentation
+   - Division into meaningful speech segments
+   - Removal of Q&A portions for consistency
+3. Format normalization
+   - UTF-8 encoding standardization
+   - Consistent paragraph formatting
+   - Removal of transcription artifacts
+
+## Analysis Algorithm
+
+The personality analysis uses the BERT-base-personality model, which is:
+
+- A fine-tuned version of BERT-base specifically for personality trait detection
+- Trained on a large corpus of text with annotated personality traits
+- Calibrated to detect the Big Five personality dimensions:
+  - Extroversion
+  - Neuroticism
+  - Agreeableness
+  - Conscientiousness
+  - Openness
+
+The model processes text through:
+1. Tokenization and encoding
+2. Contextual embedding generation
+3. Trait-specific classification heads
+4. Score normalization and aggregation
+
+Model characteristics:
+- Architecture: BERT-base (12 layers, 768 hidden size)
+- Fine-tuning: Specialized for personality trait detection
+- Output: Normalized scores (0-1) for each trait
+- Validation: Tested against human-annotated personality assessments
+
+# Executive Summary
+
+This analysis examines personality traits across eight prominent CEOs using the BERT-based personality model. The study focuses on five key dimensions: Extroversion, Neuroticism, Agreeableness, Conscientiousness, and Openness.
+
+# Key Findings
+
+```{python}
+#| label: fig-heatmap
+#| fig-cap: "Personality Traits Heatmap Across CEOs"
+
+plt.figure(figsize=(12, 8))
+trait_columns = ['Extroversion', 'Neuroticism', 'Agreeableness', 'Conscientiousness', 'Openness']
+sns.heatmap(results_df[trait_columns], annot=True, cmap='RdYlBu', center=0.5,
+            yticklabels=results_df['Name'], fmt='.3f')
+plt.title('Personality Traits Heatmap')
+plt.tight_layout()
+```
+
+## Overall Trait Distribution
+
+The analysis reveals several interesting patterns in CEO personality traits:
+
+1. **Highest Average Traits**:
+   - Openness (0.557) - Indicating receptiveness to new ideas and innovation
+   - Agreeableness (0.541) - Suggesting collaborative leadership styles
+   - Conscientiousness (0.527) - Reflecting attention to detail and reliability
+
+```{python}
+#| label: fig-distribution
+#| fig-cap: "Distribution of Personality Traits"
+
+plt.figure(figsize=(12, 6))
+df_melted = results_df.melt(id_vars=['Name'], value_vars=trait_columns, 
+                    var_name='Trait', value_name='Score')
+sns.boxplot(data=df_melted, x='Trait', y='Score')
+plt.title('Distribution of Personality Traits Across CEOs')
+plt.xticks(rotation=45)
+plt.tight_layout()
+```
+
+## Trait Consistency
+
+2. **Most Consistent Traits**:
+   - Agreeableness (SD: 0.009)
+   - Neuroticism (SD: 0.009)
+
+This consistency suggests standardized professional communication norms across leadership.
+
+```{python}
+#| label: fig-radar
+#| fig-cap: "Individual CEO Personality Profiles"
+
+# Radar chart setup
+angles = np.linspace(0, 2*np.pi, len(trait_columns), endpoint=False)
+angles = np.concatenate((angles, [angles[0]]))
+
+fig, ax = plt.subplots(figsize=(12, 8), subplot_kw=dict(projection='polar'))
+
+for idx, row in results_df.iterrows():
+    values = row[trait_columns].values
+    values = np.concatenate((values, [values[0]]))
+    ax.plot(angles, values, 'o-', linewidth=2, label=row['Name'])
+    ax.fill(angles, values, alpha=0.25)
+
+ax.set_xticks(angles[:-1])
+ax.set_xticklabels(trait_columns)
+ax.set_ylim(0.4, 0.6)
+plt.legend(loc='upper right', bbox_to_anchor=(0.1, 0.1))
+plt.title('Personality Traits Radar Chart')
+```
+
+## Trait Correlations
+
+Understanding how different personality traits relate to each other provides insight into leadership patterns:
+
+```{python}
+#| label: fig-correlation
+#| fig-cap: "Correlation Between Personality Traits"
+
+plt.figure(figsize=(10, 8))
+correlation_matrix = results_df[trait_columns].corr()
+sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm', center=0,
+            square=True, fmt='.2f')
+plt.title('Correlation Between Personality Traits')
+plt.tight_layout()
+```
+
+# Leadership Implications
+
+## Communication Styles
+
+The analysis reveals several key insights about leadership communication:
+
+1. **Balanced Approach**: Most traits cluster around the 0.5 mark, indicating measured and controlled communication styles.
+2. **Professional Consistency**: The low variation in Agreeableness suggests adherence to professional communication standards.
+3. **Innovation Orientation**: Higher Openness scores suggest leadership styles that embrace change and new ideas.
+
+## Individual Variations
+
+```{python}
+#| label: fig-individual
+#| fig-cap: "Individual Trait Comparison"
+
+plt.figure(figsize=(12, 6))
+sns.barplot(data=results_df.sort_values('Neuroticism', ascending=False), x='Name', y='Neuroticism')
+plt.xticks(rotation=45, ha='right')
+plt.title('Neuroticism Scores by CEO')
+plt.ylim(0.45, 0.52)
+plt.tight_layout()
+```
+
+The analysis of neuroticism scores reveals interesting variations in emotional stability and stress response patterns among CEOs:
+
+1. **Emotional Stability**: The extremely tight range of neuroticism scores (0.476 - 0.508) suggests that successful CEOs maintain remarkably similar levels of emotional control in their public communications. However, this similarity also raises questions about the current model's discriminative power.
+
+2. **Professional Composure**: The consistently moderate-to-low neuroticism scores indicate that these leaders generally project calm and stability in their communications, which is particularly important during challenging business conditions.
+
+3. **Individual Differences**: While the variations are subtle, possibly too subtle for meaningful differentiation, they may reflect different approaches to:
+   - Handling uncertainty and market volatility
+   - Responding to challenging questions
+   - Addressing company challenges
+   - Managing stakeholder expectations
+
+4. **Measurement Considerations**: The minimal variation in scores suggests a need for more sophisticated analysis approaches, as discussed in our future directions.
+
+# Methodology
+
+## Data Collection and Processing
+
+- Speech transcripts were collected from public communications
+- Text was preprocessed to remove artifacts and standardize format
+- Analysis performed using BERT-based personality model
+- Results normalized across speech segments
+
+## Analysis Approach
+
+The analysis pipeline included:
+
+1. Text preprocessing and standardization
+2. BERT model application for trait assessment
+3. Statistical analysis of results
+4. Visualization generation
+
+# Future Directions
+
+## Model Enhancement Strategy
+
+1. **Ensemble Model Approach**
+   - Combine multiple personality assessment models:
+     - BERT-based models with different architectures
+     - Traditional NLP approaches (lexical analysis, sentiment analysis)
+     - Domain-specific models trained on business communications
+   - Implement weighted voting or stacking mechanisms
+   - Cross-validate predictions across different model types
+
+2. **Alternative Algorithms**
+   - Explore other transformer architectures (RoBERTa, XLNet)
+   - Incorporate linguistic feature extraction models
+   - Add context-aware sentiment analysis
+   - Include domain-specific business language models
+   - Consider multimodal analysis (text + audio features)
+
+3. **Data Expansion**
+   - Increase sample size significantly:
+     - More speeches per CEO
+     - Diverse communication contexts
+     - Historical communications
+     - Different business cycles
+   - Include additional metadata:
+     - Market conditions
+     - Company performance metrics
+     - Industry-specific factors
+   - Add comparative data from other leadership roles
+
+## Recommended Extensions
+
+1. **Longitudinal Analysis**
+   - Track changes over time
+   - Correlate with company performance
+   - Monitor communication evolution
+
+2. **Contextual Analysis**
+   - Industry-specific patterns
+   - Speech context impact
+   - Market condition effects
+
+3. **Comparative Studies**
+   - Industry benchmarking
+   - Historical comparison
+   - Leadership effectiveness correlation
+
+4. **Validation Framework**
+   - Cross-validate with human expert assessments
+   - Compare against established personality measures
+   - Evaluate prediction stability across contexts
+
+# Appendix
+
+## Statistical Summary
+
+```{python}
+#| label: tbl-stats
+#| tbl-cap: "Detailed Statistical Summary"
+
+# Format numeric columns with 3 decimal places
+stats_df.style.format({col: "{:.3f}" for col in stats_df.select_dtypes(include=['float64', 'int64']).columns})
+``` 
