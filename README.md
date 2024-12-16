@@ -83,13 +83,6 @@ pip install -r requirements.txt
    - Open `results/ceo_analysis.html` for interactive visualizations
    - Check `results/analysis_report.md` for detailed findings
 
-## Key Findings 📈
-
-- CEOs show remarkably consistent neuroticism scores (range: 0.476-0.508)
-- Professional communication patterns suggest strong emotional control
-- Subtle variations in handling uncertainty and challenges
-- Need for more sophisticated analysis methods identified
-
 ## Future Directions 🔮
 
 1. **Ensemble Model Approach**
