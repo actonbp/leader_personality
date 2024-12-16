@@ -18,14 +18,30 @@ format:
     include-in-header:
       text: |
         <style>
+        @media print {
+          body {
+            font-size: 11pt;
+            line-height: 1.5;
+          }
+          h1, h2, h3 {
+            break-after: avoid;
+          }
+          .figure {
+            break-inside: avoid;
+          }
+          #TOC {
+            break-after: always;
+          }
+          pre {
+            white-space: pre-wrap;
+          }
+        }
         body {
           font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+          max-width: 1000px;
+          margin: auto;
         }
         </style>
-  pdf:
-    toc: true
-    number-sections: true
-    colorlinks: true
 execute:
   echo: false
   warning: false
@@ -43,6 +59,27 @@ import numpy as np
 # Read the analysis results
 results_df = pd.read_csv("personality_analysis.csv")
 stats_df = pd.read_csv("trait_statistics.csv")
+
+# Set style for better print output
+plt.style.use('seaborn-v0_8')
+sns.set_context("paper", font_scale=1.2)
+plt.rcParams.update({
+    'figure.dpi': 300,
+    'savefig.dpi': 300,
+    'font.size': 10,
+    'font.family': 'serif',
+    'figure.figsize': [8, 6],
+    'figure.autolayout': True,
+    'figure.facecolor': 'white',
+    'savefig.facecolor': 'white',
+    'savefig.bbox': 'tight',
+    'savefig.pad_inches': 0.1
+})
+
+def set_figure_size(width=8, height=6):
+    plt.clf()
+    fig = plt.figure(figsize=(width, height))
+    return fig
 ```
 
 # Data Sources and Methodology
@@ -114,12 +151,12 @@ This analysis examines personality traits across eight prominent CEOs using the 
 #| label: fig-heatmap
 #| fig-cap: "Personality Traits Heatmap Across CEOs"
 
-plt.figure(figsize=(12, 8))
+fig = set_figure_size(12, 8)
 trait_columns = ['Extroversion', 'Neuroticism', 'Agreeableness', 'Conscientiousness', 'Openness']
-sns.heatmap(results_df[trait_columns], annot=True, cmap='RdYlBu', center=0.5,
-            yticklabels=results_df['Name'], fmt='.3f')
+ax = sns.heatmap(results_df[trait_columns], annot=True, cmap='RdYlBu', center=0.5,
+                 yticklabels=results_df['Name'], fmt='.3f')
 plt.title('Personality Traits Heatmap')
-plt.tight_layout()
+fig.tight_layout(pad=1.5)
 ```
 
 ## Overall Trait Distribution
@@ -207,12 +244,13 @@ The analysis reveals several key insights about leadership communication:
 #| label: fig-individual
 #| fig-cap: "Individual Trait Comparison"
 
-plt.figure(figsize=(12, 6))
-sns.barplot(data=results_df.sort_values('Neuroticism', ascending=False), x='Name', y='Neuroticism')
+fig = set_figure_size(12, 6)
+ax = sns.barplot(data=results_df.sort_values('Neuroticism', ascending=False), 
+                 x='Name', y='Neuroticism')
 plt.xticks(rotation=45, ha='right')
 plt.title('Neuroticism Scores by CEO')
 plt.ylim(0.45, 0.52)
-plt.tight_layout()
+fig.tight_layout(pad=1.5)
 ```
 
 The analysis of neuroticism scores reveals interesting variations in emotional stability and stress response patterns among CEOs:
