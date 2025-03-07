@@ -1,0 +1,9 @@
+file_path,name,timestamp,Extroversion,Neuroticism,Agreeableness,Conscientiousness,Openness
+/Users/bacton/GitHub/leader_personality/data/speeches/ceos/carol_tome_ups.txt,Carol Tome - CEO,2025-03-07T12:10:20.869372,0.47276972979307175,0.4763345643877983,0.5480539053678513,0.5702782422304153,0.5152921006083488
+/Users/bacton/GitHub/leader_personality/data/speeches/ceos/doug_mcmillon_walmart.txt,Doug McMillon - CEO,2025-03-07T12:10:22.287636,0.48281328082084657,0.5011797547340393,0.5437134742736817,0.5283931910991668,0.5470268249511718
+/Users/bacton/GitHub/leader_personality/data/speeches/ceos/jane_fraser_citigroup.txt,Jane Fraser - CEO,2025-03-07T12:10:24.452685,0.48589135919298443,0.4973250372069223,0.5439402631350926,0.5296251688684736,0.5401956013270787
+/Users/bacton/GitHub/leader_personality/data/speeches/ceos/tricia_griffith_progressive.txt,Tricia Griffith - CEO,2025-03-07T12:10:26.512424,0.4789338835648128,0.4893447032996586,0.5498268263680595,0.5840325270380292,0.5243476501532963
+/Users/bacton/GitHub/leader_personality/data/speeches/ceos/karen_lynch_cvs.txt,Karen Lynch - CEO,2025-03-07T12:10:26.841522,0.5435575246810913,0.49233391880989075,0.532525897026062,0.49441635608673096,0.6156198382377625
+/Users/bacton/GitHub/leader_personality/data/speeches/ceos/gail_boudreaux_elevance.txt,Gail Boudreaux - CEO,2025-03-07T12:10:27.963524,0.5372898429632187,0.5075187087059021,0.5246884226799011,0.46926815807819366,0.5951076745986938
+/Users/bacton/GitHub/leader_personality/data/speeches/ceos/andrew_jassy_amazon.txt,Andrew Jassy - CEO,2025-03-07T12:10:30.123955,0.521045317252477,0.4985601256291072,0.5426380932331085,0.5104841589927673,0.5731947620709738
+/Users/bacton/GitHub/leader_personality/data/speeches/ceos/mary_barra_gm.txt,Mary Barra - CEO,2025-03-07T12:10:31.319441,0.4999948516488075,0.4981800243258476,0.5460277944803238,0.5286920145153999,0.542893260717392

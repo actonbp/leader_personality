@@ -10,6 +10,14 @@ This project analyzes personality traits of Fortune 500 CEOs through their publi
 - Statistical analysis and visualization
 - Focus on Big Five personality traits, especially neuroticism
 
+## Development Tools 🛠️
+
+This project was developed with the assistance of:
+- Cursor IDE and its integrated AI capabilities
+- Large Language Models (LLMs) for code generation and optimization
+- GitHub Copilot for code suggestions
+These tools helped streamline development while maintaining code quality and best practices.
+
 ## Key Features 🌟
 
 - Automated speech processing pipeline
@@ -106,12 +114,13 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## Dependencies 📦
 
-- Python 3.8+
-- transformers==4.35.2
-- torch==2.2.1
-- pandas==2.1.3
-- seaborn==0.13.0
-- matplotlib==3.8.2
+- Python 3.12+
+- transformers>=4.35.2
+- torch>=2.0.0
+- pandas>=2.1.3
+- numpy>=1.26.2
+- seaborn>=0.13.0
+- matplotlib>=3.8.2
 - Quarto (for report generation)
 
 ## License 📄
@@ -127,3 +136,4 @@ Bryan Acton
 - BERT personality model developers
 - Fortune 500 CEO communications teams
 - Open-source NLP community
+- Cursor IDE and AI tools that assisted in development
