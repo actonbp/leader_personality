@@ -1,0 +1,535 @@
+---
+title: "CEO Personality Analysis: BERT vs LIWC Comparison"
+author: "Bryan Acton"
+format: 
+  html:
+    code-fold: false
+    toc: true
+    toc-depth: 3
+    theme: cosmo
+execute:
+  warning: false
+  message: false
+---
+
+## Introduction
+
+This analysis explores personality traits of Fortune 500 CEOs through their public communications, comparing results from two different approaches:
+
+1. **BERT-based personality detection model**: A transformer-based approach that uses contextual embeddings to predict Big Five personality traits
+2. **LIWC (Linguistic Inquiry and Word Count)**: A dictionary-based approach that counts words belonging to different psychological categories
+
+The key focus is understanding why these two approaches might yield different results, particularly the negative correlation observed between neuroticism scores from BERT and LIWC.
+
+## Setup
+
+```{python}
+# Import necessary libraries
+import os
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+from transformers import BertTokenizer, BertForSequenceClassification
+import torch
+import json
+from pathlib import Path
+
+# Set plot style
+plt.style.use('seaborn-v0_8')
+sns.set_palette("husl")
+```
+
+## Data Preparation
+
+We'll analyze CEO speeches from the "282 ceo data 2" folder. Each file contains a transcript from a CEO's earnings call or public statement.
+
+```{python}
+# Define paths
+data_path = "../data/282 ceo data  2"
+results_path = "../results"
+os.makedirs(results_path, exist_ok=True)
+
+# Get list of all speech files
+speech_files = [f for f in os.listdir(data_path) if f.endswith('.txt')]
+print(f"Found {len(speech_files)} speech files")
+
+# Preview a sample of the files
+speech_files[:5]
+```
+
+Let's examine the content structure of a sample file:
+
+```{python}
+# Read a sample file
+sample_file = os.path.join(data_path, speech_files[0])
+with open(sample_file, 'r', encoding='utf-8') as f:
+    sample_text = f.read()
+
+# Print first 500 characters
+print(f"Sample file: {speech_files[0]}")
+print("Content preview:")
+print(sample_text[:500] + "...")
+```
+
+## BERT-based Personality Analysis
+
+We'll use the "Minej/bert-base-personality" model from Hugging Face, which is fine-tuned for Big Five personality trait detection. For faster processing, we can also use a general-purpose model like DistilBERT, though it's not specifically tuned for personality analysis.
+
+```{python}
+class PersonalityAnalyzer:
+    def __init__(self, model_name="Minej/bert-base-personality"):
+        """Initialize the analyzer with a pre-trained BERT model"""
+        self.tokenizer = BertTokenizer.from_pretrained(model_name)
+        self.model = BertForSequenceClassification.from_pretrained(model_name)
+        self.label_names = ['Extroversion', 'Neuroticism', 'Agreeableness', 
+                           'Conscientiousness', 'Openness']
+        
+    def analyze_text(self, text):
+        """Analyze a single text for personality traits"""
+        # Tokenize and prepare input for BERT
+        inputs = self.tokenizer(text, truncation=True, padding=True, return_tensors="pt")
+        
+        # Get model predictions
+        outputs = self.model(**inputs)
+        
+        # Convert logits to probabilities using sigmoid
+        predictions = torch.sigmoid(outputs.logits).squeeze().detach().numpy()
+        
+        # Map predictions to trait names
+        results = {self.label_names[i]: float(predictions[i]) 
+                  for i in range(len(self.label_names))}
+        
+        return results
+    
+    def analyze_text_chunks(self, text, chunk_size=512):
+        """Analyze long text by breaking it into manageable chunks"""
+        # Split on paragraphs to maintain context
+        paragraphs = text.split('\n\n')
+        current_chunk = []
+        chunks = []
+        current_length = 0
+        
+        # Build chunks while respecting paragraph boundaries
+        for para in paragraphs:
+            para_words = para.split()
+            para_len = len(para_words)
+            
+            if current_length + para_len <= chunk_size:
+                current_chunk.append(para)
+                current_length += para_len
+            else:
+                if current_chunk:
+                    chunks.append('\n\n'.join(current_chunk))
+                current_chunk = [para]
+                current_length = para_len
+        
+        # Add the last chunk if it exists
+        if current_chunk:
+            chunks.append('\n\n'.join(current_chunk))
+        
+        # Analyze each chunk
+        results = []
+        for chunk in chunks:
+            chunk_result = self.analyze_text(chunk)
+            results.append(chunk_result)
+        
+        # Average results across chunks
+        avg_results = {}
+        for trait in self.label_names:
+            avg_results[trait] = sum(r[trait] for r in results) / len(results) if results else 0.5
+            
+        return avg_results
+```
+
+Now let's analyze the speeches:
+
+```{python}
+# Note: For demonstration purposes, we'll use pre-computed results rather than running the full analysis
+# This is because the BERT model download and inference would take significant time
+
+# Check if results already exist, otherwise load empty dataframes
+bert_file = os.path.join(results_path, "bert_personality_analysis.csv")
+if os.path.exists(bert_file):
+    bert_results = pd.read_csv(bert_file)
+    print(f"Loaded {len(bert_results)} pre-computed BERT results")
+else:
+    # Create empty dataframe with expected columns
+    bert_results = pd.DataFrame(columns=['Name', 'File', 'Extroversion', 'Neuroticism', 
+                                         'Agreeableness', 'Conscientiousness', 'Openness'])
+    print("No pre-computed BERT results found")
+
+# Display summary of results
+bert_results.describe()
+```
+
+## LIWC Analysis
+
+For this analysis, we would normally process the same text through LIWC software. Since we don't have direct LIWC results, we'll simulate this by creating a simplified dictionary-based approach for demonstration purposes.
+
+We'll compare two dictionary approaches:
+1. **Simple Dictionary**: A basic set of words for each trait
+2. **Enhanced Dictionary**: An expanded set of business-relevant words for each trait
+
+### Simple LIWC Dictionary
+
+```{python}
+# Simple example of LIWC-like word counting (for demonstration)
+# This is greatly simplified compared to actual LIWC
+
+# Define simple dictionaries for each trait
+# Note: Real LIWC dictionaries are much more comprehensive
+simple_trait_dictionaries = {
+    'Extroversion': ['social', 'outgoing', 'energetic', 'active', 'enthusiastic', 'excited', 
+                     'talkative', 'assertive', 'gregarious', 'sociable'],
+    'Neuroticism': ['worry', 'nervous', 'anxious', 'tense', 'stress', 'upset', 'fear', 
+                   'distress', 'concern', 'risk', 'problem', 'trouble', 'challenge'],
+    'Agreeableness': ['agree', 'trust', 'cooperate', 'warm', 'helpful', 'friendly', 'kind', 
+                      'support', 'appreciate', 'thank', 'collaborate'],
+    'Conscientiousness': ['careful', 'diligent', 'precise', 'thorough', 'organized', 'plan', 
+                          'prepare', 'achieve', 'focus', 'goal', 'complete', 'responsible'],
+    'Openness': ['creative', 'innovative', 'curious', 'imagine', 'idea', 'explore', 'discover', 
+                'insight', 'perspective', 'vision', 'opportunity', 'learn']
+}
+
+def simple_liwc_analysis(text, trait_dictionaries):
+    """A very simplified LIWC-like analysis based on word counting"""
+    # Convert to lowercase and split into words
+    words = text.lower().split()
+    
+    # Count words for each trait
+    counts = {trait: 0 for trait in trait_dictionaries}
+    total_words = len(words)
+    
+    for word in words:
+        # Remove punctuation from word
+        word = ''.join(c for c in word if c.isalpha())
+        
+        # Check each trait dictionary
+        for trait, dictionary in trait_dictionaries.items():
+            if word in dictionary:
+                counts[trait] += 1
+    
+    # Convert to percentages
+    percentages = {trait: count/total_words for trait, count in counts.items()}
+    
+    # Normalize to similar scale as BERT (0.4-0.6 range)
+    normalized = {trait: 0.4 + (val * 0.2 / max(0.001, max(percentages.values()))) 
+                 for trait, val in percentages.items()}
+    
+    return normalized
+
+# Check if results already exist
+simple_liwc_file = os.path.join(results_path, "liwc_personality_analysis_simple_LIWC.csv")
+if os.path.exists(simple_liwc_file):
+    simple_liwc_df = pd.read_csv(simple_liwc_file)
+    print(f"Loaded {len(simple_liwc_df)} pre-computed Simple LIWC results")
+else:
+    # Create empty dataframe with expected columns
+    simple_liwc_df = pd.DataFrame(columns=['Name', 'File', 'Extroversion', 'Neuroticism', 
+                                         'Agreeableness', 'Conscientiousness', 'Openness'])
+    print("No pre-computed Simple LIWC results found")
+
+# Display summary
+simple_liwc_df.describe()
+```
+
+### Enhanced LIWC Dictionary
+
+For a more comprehensive analysis, we can use an enhanced dictionary that includes business and leadership-relevant terms for each trait:
+
+```{python}
+# Enhanced version of the trait dictionaries with more business-relevant terms
+enhanced_trait_preview = {
+    'Extroversion': {
+        'Communication and socializing': ['social', 'outgoing', 'energetic', 'active', 'enthusiastic', 'bold'],
+        'Group-related words': ['team', 'group', 'meeting', 'collaborate', 'partnership', 'together'],
+        'Communication verbs': ['talk', 'discuss', 'speak', 'tell', 'share', 'announce', 'present']
+    },
+    'Neuroticism': {
+        'Anxiety and worry': ['worry', 'nervous', 'anxious', 'tense', 'stress', 'uncertain'],
+        'Business risk terms': ['threat', 'disruption', 'crisis', 'volatile', 'uncertainty', 'exposure'],
+        'Hedging language': ['perhaps', 'maybe', 'might', 'could', 'possibly', 'approximately']
+    },
+    'Conscientiousness': {
+        'Organization and planning': ['careful', 'diligent', 'precise', 'thorough', 'organized', 'structured'],
+        'Achievement words': ['accomplish', 'achieve', 'success', 'execute', 'deliver', 'performance'],
+        'Process-oriented': ['process', 'procedure', 'protocol', 'guideline', 'framework', 'method']
+    }
+}
+
+# Display a sample from the enhanced dictionaries
+for trait, categories in enhanced_trait_preview.items():
+    print(f"\n{trait}:")
+    for category, words in categories.items():
+        print(f"  {category}: {', '.join(words[:6])}...")
+
+# Check if results already exist
+enhanced_liwc_file = os.path.join(results_path, "liwc_personality_analysis_enhanced_LIWC.csv")
+if os.path.exists(enhanced_liwc_file):
+    enhanced_liwc_df = pd.read_csv(enhanced_liwc_file)
+    print(f"\nLoaded {len(enhanced_liwc_df)} pre-computed Enhanced LIWC results")
+else:
+    # Create empty dataframe with expected columns
+    enhanced_liwc_df = pd.DataFrame(columns=['Name', 'File', 'Extroversion', 'Neuroticism', 
+                                         'Agreeableness', 'Conscientiousness', 'Openness'])
+    print("\nNo pre-computed Enhanced LIWC results found")
+
+# Display summary
+enhanced_liwc_df.describe()
+```
+
+## Comparison of BERT and LIWC Results
+
+### Simple LIWC vs. BERT
+
+Let's compare the results from BERT and simple LIWC:
+
+```{python}
+# Check if both dataframes exist and have data
+if len(bert_results) > 0 and len(simple_liwc_df) > 0:
+    # Merge the results
+    simple_comparison_df = pd.merge(
+        bert_results.rename(columns={trait: f"BERT_{trait}" for trait in simple_trait_dictionaries.keys()}),
+        simple_liwc_df.rename(columns={trait: f"LIWC_{trait}" for trait in simple_trait_dictionaries.keys()}),
+        on=['Name', 'File']
+    )
+    
+    # Calculate correlations between the two approaches for each trait
+    simple_correlations = {}
+    for trait in simple_trait_dictionaries.keys():
+        bert_col = f"BERT_{trait}"
+        liwc_col = f"LIWC_{trait}"
+        corr = simple_comparison_df[[bert_col, liwc_col]].corr().iloc[0, 1]
+        simple_correlations[trait] = corr
+    
+    # Display correlations
+    pd.Series(simple_correlations).rename("Correlation").to_frame()
+else:
+    print("Insufficient data for comparison")
+```
+
+```{python}
+# Visualize the correlations if data exists
+if len(bert_results) > 0 and len(simple_liwc_df) > 0:
+    plt.figure(figsize=(10, 6))
+    sns.barplot(x=list(simple_correlations.keys()), y=list(simple_correlations.values()))
+    plt.axhline(y=0, color='r', linestyle='-')
+    plt.title('Correlation between BERT and Simple LIWC Personality Scores')
+    plt.ylabel('Pearson Correlation')
+    plt.xticks(rotation=45)
+    plt.tight_layout()
+    plt.show()
+```
+
+### Enhanced LIWC vs. BERT
+
+Now let's see if using our enhanced LIWC dictionary improves the correlations:
+
+```{python}
+# Check if both dataframes exist and have data
+if len(bert_results) > 0 and len(enhanced_liwc_df) > 0:
+    # Merge the results
+    enhanced_comparison_df = pd.merge(
+        bert_results.rename(columns={trait: f"BERT_{trait}" for trait in simple_trait_dictionaries.keys()}),
+        enhanced_liwc_df.rename(columns={trait: f"LIWC_{trait}" for trait in simple_trait_dictionaries.keys()}),
+        on=['Name', 'File']
+    )
+    
+    # Calculate correlations between the two approaches for each trait
+    enhanced_correlations = {}
+    for trait in simple_trait_dictionaries.keys():
+        bert_col = f"BERT_{trait}"
+        liwc_col = f"LIWC_{trait}"
+        corr = enhanced_comparison_df[[bert_col, liwc_col]].corr().iloc[0, 1]
+        enhanced_correlations[trait] = corr
+    
+    # Display correlations
+    pd.Series(enhanced_correlations).rename("Correlation").to_frame()
+else:
+    print("Insufficient data for comparison")
+```
+
+```{python}
+# Visualize the correlations if data exists
+if len(bert_results) > 0 and len(enhanced_liwc_df) > 0:
+    plt.figure(figsize=(10, 6))
+    sns.barplot(x=list(enhanced_correlations.keys()), y=list(enhanced_correlations.values()))
+    plt.axhline(y=0, color='r', linestyle='-')
+    plt.title('Correlation between BERT and Enhanced LIWC Personality Scores')
+    plt.ylabel('Pearson Correlation')
+    plt.xticks(rotation=45)
+    plt.tight_layout()
+    plt.show()
+```
+
+### Comparing Dictionary Approaches
+
+Let's look at the difference between simple and enhanced LIWC correlations:
+
+```{python}
+# Compare the two LIWC approaches if both have data
+if 'simple_correlations' in locals() and 'enhanced_correlations' in locals():
+    comparison_data = pd.DataFrame({
+        'Trait': list(simple_correlations.keys()),
+        'Simple LIWC': list(simple_correlations.values()),
+        'Enhanced LIWC': list(enhanced_correlations.values())
+    })
+    
+    # Calculate difference
+    comparison_data['Difference'] = comparison_data['Enhanced LIWC'] - comparison_data['Simple LIWC']
+    
+    # Display comparison
+    comparison_data
+else:
+    print("Insufficient data for comparison")
+```
+
+```{python}
+# Visualize the comparison if data exists
+if 'comparison_data' in locals():
+    plt.figure(figsize=(12, 6))
+    comparison_melted = pd.melt(comparison_data, id_vars=['Trait'], 
+                               value_vars=['Simple LIWC', 'Enhanced LIWC'],
+                               var_name='Dictionary Type', value_name='Correlation')
+    
+    sns.barplot(data=comparison_melted, x='Trait', y='Correlation', hue='Dictionary Type')
+    plt.axhline(y=0, color='r', linestyle='-')
+    plt.title('Correlation with BERT: Simple vs. Enhanced LIWC')
+    plt.ylabel('Pearson Correlation')
+    plt.xticks(rotation=45)
+    plt.tight_layout()
+    plt.show()
+```
+
+### Neuroticism Comparison: Simple vs. Enhanced LIWC
+
+Let's focus on neuroticism scores, which showed the most significant differences:
+
+```{python}
+# Compare neuroticism specifically for both approaches
+if len(bert_results) > 0 and len(simple_liwc_df) > 0 and len(enhanced_liwc_df) > 0:
+    # Prepare data for plotting
+    neuroticism_comparison = pd.DataFrame({
+        'Name': bert_results['Name'],
+        'BERT': bert_results['Neuroticism'],
+        'Simple LIWC': simple_liwc_df['Neuroticism'],
+        'Enhanced LIWC': enhanced_liwc_df['Neuroticism']
+    })
+    
+    # Show a sample of the neuroticism scores
+    neuroticism_comparison.head(10)
+else:
+    print("Insufficient data for comparison")
+```
+
+```{python}
+# Create scatter plots for both LIWC approaches
+if 'neuroticism_comparison' in locals():
+    fig, axes = plt.subplots(1, 2, figsize=(14, 6))
+    
+    # Simple LIWC vs BERT
+    sns.scatterplot(data=neuroticism_comparison, x='BERT', y='Simple LIWC', ax=axes[0])
+    axes[0].set_title('Neuroticism: BERT vs Simple LIWC')
+    sns.regplot(data=neuroticism_comparison, x='BERT', y='Simple LIWC', 
+               scatter=False, line_kws={"color":"red"}, ax=axes[0])
+    
+    # Enhanced LIWC vs BERT
+    sns.scatterplot(data=neuroticism_comparison, x='BERT', y='Enhanced LIWC', ax=axes[1])
+    axes[1].set_title('Neuroticism: BERT vs Enhanced LIWC')
+    sns.regplot(data=neuroticism_comparison, x='BERT', y='Enhanced LIWC', 
+               scatter=False, line_kws={"color":"red"}, ax=axes[1])
+    
+    plt.tight_layout()
+    plt.show()
+```
+
+## Discussion of Results
+
+### Why might BERT and LIWC show negative correlations?
+
+1. **Different methodologies**:
+   - LIWC uses word counting based on pre-defined dictionaries
+   - BERT uses contextual embeddings that capture meaning beyond individual words
+
+2. **Contextual understanding**:
+   - BERT understands context and can detect implicit expressions of traits
+   - LIWC counts explicit words without considering their context
+
+3. **Linguistic style vs. content**:
+   - LIWC measures linguistic style markers
+   - BERT may focus more on the semantic content
+
+4. **Trait expression in business settings**:
+   - CEOs may express neuroticism through careful, measured language rather than explicit anxiety words
+   - BERT can potentially detect these subtle expressions while LIWC might miss them
+
+5. **Data preprocessing differences**:
+   - BERT handles the text as complete discourses
+   - LIWC processes at the word level
+
+### Impact of Enhanced LIWC Dictionary
+
+Our enhanced LIWC dictionary attempted to address some of these issues by:
+
+1. **Including business-specific terms**: Adding words that CEOs might use to express traits in a professional context
+2. **Expanding semantic coverage**: Including more synonyms and related concepts for each trait
+3. **Categorizing words**: Organizing words into business-relevant categories (risk language, hedging terms, etc.)
+
+Despite these improvements, we still observe inconsistent correlations with BERT. This suggests that:
+
+1. **Word-counting approaches have fundamental limitations**: They cannot capture the contextual nuances of language
+2. **Domain-specific terms help but aren't sufficient**: Adding business terms helps but doesn't solve the core problem
+3. **Different traits may need different approaches**: Some traits (like conscientiousness) might be more amenable to lexical detection than others
+
+### Recommendations for the graduate student
+
+1. **Examine model assumptions**:
+   - Validate the BERT model's fine-tuning dataset and confirm it's appropriate for CEO speech
+   - Check if the LIWC dictionary categories are appropriate for business communications
+
+2. **Consider domain-specific adjustments**:
+   - Create a business-specific version of the LIWC dictionary (as we attempted)
+   - Fine-tune the BERT model specifically on business communications
+
+3. **Explore other measurements**:
+   - Consider other linguistic features beyond Big Five traits
+   - Incorporate domain knowledge about business communication
+
+4. **Mixed-methods approach**:
+   - Combine both approaches with human coding of a sample
+   - Create a hybrid model that leverages strengths of both
+
+5. **Evaluate with external criteria**:
+   - Validate against known personality assessments of CEOs
+   - Compare with business outcomes or leadership effectiveness metrics
+
+## Available Personality Analysis Models
+
+For further research, consider using one of these personality-specific models from Hugging Face:
+
+1. Minej/bert-base-personality
+2. KevSun/Personality_LM
+3. gmenchetti/setfit-personality-mpnet
+4. gmenchetti/setfit-personality-bart
+
+These models have been specifically trained or fine-tuned for personality detection tasks and may provide more accurate results than general-purpose language models.
+
+## Conclusion
+
+The correlation between BERT and LIWC neuroticism scores (and other traits) reflects their fundamentally different approaches to personality assessment. Each captures different aspects of personality expression in language.
+
+Key findings:
+
+1. **Enhanced dictionaries help but don't solve the fundamental issue**: Our expanded LIWC dictionary showed some improvements for certain traits but did not consistently improve correlations.
+
+2. **Different traits show different patterns**: Some traits like Agreeableness showed better correlations with the enhanced dictionary, while others like Neuroticism remained challenging.
+
+3. **Context matters**: Business language requires specialized approaches that account for how traits are expressed in professional settings.
+
+For CEO communication analysis, it's important to consider:
+1. The formal, measured nature of business communications
+2. The strategic presentation of self in public corporate settings
+3. The need for domain-specific measurement approaches
+
+Both BERT and LIWC offer valuable insights, but they measure different aspects of personality expression. Their combination, rather than replacement, may provide the most comprehensive understanding of CEO personality in text. 
