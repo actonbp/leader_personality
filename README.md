@@ -1,139 +1,94 @@
-# CEO Personality Analysis 🎯
+# CEO Leadership & Personality Analysis
 
-A research project analyzing personality traits in CEO speeches using BERT-based models, with a particular focus on neuroticism and emotional stability in leadership communication.
+A collaborative research project by Bryan Acton and Nan Liang at Binghamton University, investigating personality traits in CEO communications using NLP and embedding models.
 
-## Project Overview 🔍
+## Project Overview
 
-This project analyzes personality traits of Fortune 500 CEOs through their public communications, using:
-- BERT-based personality detection models
-- Natural Language Processing techniques
-- Statistical analysis and visualization
-- Focus on Big Five personality traits, especially neuroticism
+This project analyzes the linguistic patterns and personality traits of Fortune 500 CEOs through their public communications. We use both traditional linguistic analysis (LIWC) and modern embedding-based approaches to understand leadership communication patterns.
 
-## Development Tools 🛠️
+### Key Research Questions
 
-This project was developed with the assistance of:
-- Cursor IDE and its integrated AI capabilities
-- Large Language Models (LLMs) for code generation and optimization
-- GitHub Copilot for code suggestions
-These tools helped streamline development while maintaining code quality and best practices.
+1. How do different NLP methods (LIWC vs. embedding models) capture personality traits in formal business communications?
+2. What linguistic patterns are common across CEO speeches?
+3. How do these patterns correlate with the Big Five personality traits?
+4. Can we develop better methods for personality assessment from text?
 
-## Key Features 🌟
+## Data Sources
 
-- Automated speech processing pipeline
-- Personality trait analysis using BERT
-- Interactive visualizations
-- Statistical analysis of trait distributions
-- Comparative analysis across CEOs
-- Focus on emotional stability patterns
+- **282 CEO Speeches**: Transcripts from S&P 500 CEOs, primarily from earnings calls
+- **844 Earnings Calls**: Expanded dataset of quarterly earnings call transcripts
 
-## Project Structure 📁
+## Technical Approach
+
+The project employs multiple analytical methods:
+
+1. **BERT-based Personality Analysis**: Using pre-trained personality detection models
+2. **LIWC Analysis**: Traditional word-counting approach with psychology-informed dictionaries
+3. **Linguistic Feature Analysis**: Statistical analysis of vocabulary, sentence structure, etc.
+4. **Embedding-based Analysis**: Exploring vector representations of CEO language
+
+## Core Components
+
+- **Data Preprocessing**: Extracting and cleaning CEO speech segments
+- **Descriptive Analysis**: Statistical measures of CEO communication patterns
+- **Personality Assessment**: Applying multiple methods for trait detection
+- **Comparison Framework**: Evaluating concordance between different approaches
+- **Visualization**: Making complex relationships interpretable
+
+## Getting Started
+
+1. **Environment Setup**:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate
+   pip install -r requirements.txt
+   ```
+
+2. **Basic Speech Analysis**:
+   ```bash
+   python src/speech_descriptives.py --data_dir "data/282 ceo data  2" --output_dir "results/speech_analysis"
+   ```
+
+3. **Personality Analysis**:
+   ```bash
+   ./run_analysis.sh --personality --weighted
+   ```
+
+4. **Generate Reports**:
+   ```bash
+   quarto render results/speech_analysis/speech_analysis.qmd
+   ```
+
+## Project Structure
 
 ```
 leader_personality/
-├── data/
-│   ├── speeches/           # Raw speech transcripts
-│   │   └── ceos/          # CEO-specific speeches
-│   └── cleaned/           # Processed speech files
-├── src/
-│   ├── personality_analyzer.py  # Core analysis module
-│   ├── visualization.py         # Data visualization
-│   └── standardize_files.py     # Text preprocessing
-├── results/
-│   ├── analysis_report.md       # Detailed findings
-│   ├── ceo_analysis.qmd        # Quarto analysis document
-│   └── personality_analysis.csv # Raw analysis data
-├── docs/
-│   └── data_preprocessing_guidelines.md
-├── requirements.txt
-└── README.md
+├── data/                      # Raw and preprocessed data
+│   ├── 282 ceo data  2/       # Primary CEO speech dataset 
+│   ├── 844earnings call/      # Extended earnings call dataset
+│   ├── preprocessed_ceo_speeches/  # Cleaned speech files
+│   └── speeches/              # Additional curated speeches
+├── src/                       # Source code
+│   ├── speech_descriptives.py # NEW: Linguistic analysis
+│   ├── personality_analyzer.py # BERT-based personality detection
+│   ├── enhanced_personality_analyzer.py # Weighted confidence model
+│   ├── preprocess_ceo_transcripts.py # Text cleaning pipeline
+│   └── visualization.py       # Visualization utilities
+├── results/                   # Analysis outputs
+│   ├── speech_analysis/       # NEW: Linguistic feature analysis
+│   ├── ceo_analysis.qmd       # Quarto report for personality analysis
+│   └── personality_analysis.csv # Raw personality scores
+└── docs/                      # Documentation
 ```
 
-## Installation 🚀
+## Next Steps
 
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/leader_personality.git
-cd leader_personality
-```
+1. **Descriptive Analysis**: Generate comprehensive linguistic statistics on the full dataset
+2. **Embedding Exploration**: Visualize CEO speech embeddings to identify patterns
+3. **Method Comparison**: Further investigate the divergence between LIWC and BERT approaches
+4. **Domain Adaptation**: Explore fine-tuning language models on business communications
 
-2. Create and activate virtual environment:
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: .\venv\Scripts\activate
-```
+## Contributors
 
-3. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-## Usage 📊
-
-1. **Prepare Speech Data**:
-   - Place CEO speech transcripts in `data/speeches/ceos/`
-   - Run standardization:
-   ```bash
-   python src/standardize_files.py
-   ```
-
-2. **Run Analysis**:
-   ```bash
-   python src/personality_analyzer.py
-   ```
-
-3. **Generate Visualizations**:
-   ```bash
-   python src/visualization.py
-   ```
-
-4. **View Results**:
-   - Open `results/ceo_analysis.html` for interactive visualizations
-   - Check `results/analysis_report.md` for detailed findings
-
-## Future Directions 🔮
-
-1. **Ensemble Model Approach**
-   - Multiple BERT architectures
-   - Traditional NLP techniques
-   - Domain-specific models
-
-2. **Data Expansion**
-   - More speeches per CEO
-   - Diverse communication contexts
-   - Historical data analysis
-
-3. **Enhanced Analysis**
-   - Multimodal analysis (text + audio)
-   - Context-aware sentiment analysis
-   - Cross-validation with expert assessments
-
-## Contributing 🤝
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
-## Dependencies 📦
-
-- Python 3.12+
-- transformers>=4.35.2
-- torch>=2.0.0
-- pandas>=2.1.3
-- numpy>=1.26.2
-- seaborn>=0.13.0
-- matplotlib>=3.8.2
-- Quarto (for report generation)
-
-## License 📄
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Author ✍️
-
-Bryan Acton
-
-## Acknowledgments 🙏
-
-- BERT personality model developers
-- Fortune 500 CEO communications teams
-- Open-source NLP community
-- Cursor IDE and AI tools that assisted in development
+- **Bryan Acton** - Binghamton University
+- **Nan Liang** - Binghamton University
