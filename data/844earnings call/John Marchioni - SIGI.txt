@@ -1,0 +1,80 @@
+John Marchioni
+Selective Insurance Group, Inc. (SIGI) Q4 2023 Earnings Call Transcript
+
+Yes, Mike, appreciate the question. This is John. So, as you highlighted, severity is really the driver of what we’ve been seeing frequencies, and we’re talking GL in particular, frequency trends have continued to be, call them favorable, but there’s no question there has been an extension of reporting patterns. But we’ve seen that for a couple of years now. And I would say that’s incorporated into how we evaluate the more recent accident years in terms of expected claim counts versus actual claim counts. But I think that started in the kind of latter part of the pandemic and has persisted. And I would say that’s factored into how we evaluate the more recent accident years.
+
+Yes, I appreciate the follow up point. Just a couple of additional points there. First of all, with regard to 2020, the comment relative to GL is accurate, and that was included in our updated view and the $55 million that we booked that was included in those accident years. But I do want to kind of reinforce the other point, which is that accident year in total has emerged favorably across all lines and even within casualty has emerged favorably. But we’ve got movements in between individual lines, and that’s what you saw us report with regard to the GL emergence.
+
+With regard to the more recent accident years, in addition to the point we just talked about, with regard to recognizing that slight extension in reporting patterns, I think the other important point to consider is if you look back at our disclosures and our guidance, we’ve been moving expected loss trends higher on a pretty consistent basis. So if you look back to 2020, 2021, our forward trend assumption for casualty was around 4%. And then in 2022 we moved that up to 5.5%. In 2023, it was 6%, and now we’re at 8% and actually, on an ex worker’s comp basis is a little bit higher than that.
+
+And those are fully embedded in our loss ratios that were in our guidance and were in our booking. And I think that’s probably one of the more important pieces to understand in terms of how companies are reacting to this. The other thing I’ll say is, and this has been the case not just for the 2024 trend, but for the last the most recent accident years as well is despite what was a consistent pattern of better than expected frequencies, we have not assumed that in our forward loss trends either for 2024 or for the last three accident years, that was really a severity move and assumed claim counts or frequencies to remain relatively stable. And I think that’s also the right way for us to be thinking about it and approaching it.
+
+We made a very minor adjustment in commercial auto, but if you look back over the last several quarters, I would say that commercial auto has been pretty stable. I think what happened in commercial auto is the severity impacts hit a little bit quicker and probably more so in 2021, and that then got incorporated at the forward expectations and a lot stronger pricing. And I think not just for us, but for the industry, commercial auto pricing has been a lot firmer for a lot longer than we’ve seen in GL.
+
+So, I would say you’ve seen some moderation in the commercial auto loss trends in recent quarters. And I think that in the context of continued strong rate, which for us was 10% in the quarter and just a hair under 10% on a full year basis, I think sets up well. Again, there’s uncertainty just because of the environment we’re in, but I think when you look at those factors in commercial auto, I think we do have a better outlook on that line.
+
+Yes. Appreciate the question. It's really a combination of our updated modeling and our more recent experience. So if you were to look at, so the 5 points that we have in our guidance for 2024 is kind of right in between the five and ten-year averages. So if you were to just look at the ten-year average, it's about 4.7%, and if you look at the five-year average it's about 5.4%. So we think just based purely on our more recent experience plus modeling update, that's a pretty solid assumption for us. And now there's always going to be a little bit of business mix in there and the growth by segment will influence that, but that's really how we landed at a 5 point assumption.
+
+Yes. So my sense is pricing remains constructive in our business. And again, I think with different companies, you have to cut through their portfolio. And to the extent they're more weighted towards professional liability or cyber or D&O, you might see a different pattern. But for us, when you focus on core general liability, workers compensation, property, automobile and business owners, I would suggest that based on what we're seeing, and I think everybody else is seeing from these social inflationary factors, the pricing environment that we've seen in the last couple of quarters will persist, and there's even potential for a little bit of acceleration, at least on a line-by-line basis.
+
+And I think that's where you really have to take this in pieces. I think GL is the line that I would expect to firm a little bit more. And I know when you talk liability; it does include GL-plus, professional liability and D&O and cyber. I'm talking just standard general liability. I think that's where some more of the pressure has been, and that hasn't been as strong from a pricing perspective as auto and commercial property have been for the last couple of years. So while you might see auto come down a little bit, I think it'll still be strong, and I think you might see some movement higher in GL. But we feel good. We look at our retentions pretty closely and measure them a number of different ways to understand the market reaction to our pricing. And our retentions continue to run really strong on standard commercial lines, and I think that bodes well.
+
+Not at all. So it's actually the same eyes, and I want to reinforce that point. So, obviously, Mark left at the end of Q3, but the rest of us who are always involved alongside of Mark, are the same group and have the same philosophy and the same approach to evaluating our results and evaluating our reserves. And that includes myself, it includes our Chief Actuary who's been here for a long time and continues to be here, and it includes Tony, who as the Chief Accounting Officer who he's been with the company 24-plus years, but the last seven, as the Chief Accounting Officer before becoming interim CFO, was also deeply involved in all decisions, not just related to reserves, but all accounting matters. So it's a very consistent leadership group and a very consistent philosophy. But appreciate the question, because I think it's a great opportunity to kind of reinforce that point.
+
+Good morning, Paul.
+
+Yes, Paul. Great question. So I think a lot of this is really indicative of the hard work that was done over the last two years to really build the embedded book yield. So since the beginning of the interest rate cycle, from year-end 2021, we've picked up 173 basis points of embedded book yield. And that allows us to really have a solid view of our ability to continue to pick up net investment income on a go forward basis and have that strong contribution to operating ROE.
+
+The overall profile of the portfolio remains relatively consistent, but when you have the opportunity to put money to work at an investment grade fixed income at 5.5% or 6% on a pretax basis, it allows you to really lock in those yields for an extended period of time, and that's really allowed us to boost that return. And with an invested asset leverage a little over 3 times, we don't have to take on a lot of additional risk to produce that kind of upside from an ROE perspective, so nothing significant in terms of shifting the strategy.
+
+In fact, I would say the overall bias would remain up in quality. When you think about those investment grade fixed income returns that we're getting, it really raises the bar on investing in risk assets. And we've been sitting at the lower end of our kind of target range from a risk asset perspective at just over 10%.
+
+Duration was right around four years. I think we finished at four years.
+
+Thank you.
+
+Good morning, Grace.
+
+I think the biggest difference from what you had seen in previous quarters is, as we do every year in Q4 as we update our tail factor study. And the tail factor study is really designed to understand the movement to ultimate for your accident years that are outside of your typical reserving triangle. So I think 20 years and older, and we update that based on our own experience, blended within this industry experience and data and that was a big driver of the overall movement in comp in the quarter.
+
+Yes. So we pride ourselves in providing very detailed guidance, but we do stop short of guiding at the individual segment level. I think, as you've pointed out, overall, the guidance is a 95.5% and on an underlying basis, when you take out that 5 point cat assumption, it's relatively stable year-over-year.
+
+I think the pieces you're pointing to are reasonable approaches, which is when you think about the run rate performance of E&S and the rate we've been achieving in that line and continue to earn in that line, we expect strong margins to continue. And I think from a commercial line standpoint, which we're currently running right around that target, just a little over 95% strong rate, which is running [indiscernible] in the quarter, with 7% for the full year in line with where we had loss trends going into the year.
+
+So stability in commercial lines based on those major factors, I think would also be a good assumption. And then, as we’ve talked about and reinforced, we expect to have rate level written in personal lines over the course of this year, 2024, in that 20% to 25% range. Now, again, we don’t break down our loss trend assumptions by segment, but we’ve got a pretty healthy loss trend assumption in personal lines along with that rate level. This is not going to achieve our target margin in 2024, but we expect, as we continue to earn that rate increase over 2024 and into 2025 on both a written and an earned basis, and continue to transition that book and continue to refine our pricing models, that we will put ourselves on a good glide path to that target.
+
+Thank you, Grace.
+
+Yes, I would say there’s nothing unique from a segment or class of business perspective. Now, remember, we are heavier in construction, we always have been. But there’s nothing that I would point to because the portfolio hasn’t shifted. And I think that’s also important to understand. We haven’t had a big shift in our portfolio in terms of limits profile, or industry classification that we have in that book of business, but it is more heavily weighted towards construction.
+
+But that’s been the case throughout the last few decades. So there’s nothing that shifted there. But I would say what we’ve seen on the severity side is pretty broad based. And again, I think as you would expect from a social inflationary perspective, that trend doesn’t differentiate between construction and other products type exposures.
+
+Yes, I don’t think it’ll be this year. And I say that because we have a pretty good line of sight, as does everybody else, into what the filed loss costs were for the majority of states for almost the entirety of 2024. Those loss cost filings are still negative on a blended basis. They’re probably in the call it mid single-digit negative range across the entirety of our footprint.
+
+Now, our actual rate change has been well below that, running around 2% negative 1.5% on a full year basis. I do think as we look into 2025 and maybe even the latter half of this year, you might see those temper back to flat. But I do think there’s going to be a lag in the recognition of any movement from a loss experience perspective by the time the bureaus start to react to that.
+
+But just another word on medical inflation. When you look at the component parts of the CPI inside of medical that impact workers’ comp the most, its hospital services, which actually have moved a fair amount from a CPI perspective, and then physician services, which is those two together are about 90% of the lost dollar. And then add in pharmaceuticals, which is the remaining roughly 10%.
+
+On a blended basis, it’s still running in the 3.5% to high 3% range and wages are still around 4%. So you still have a slight favorable gap there. I think the bigger question is at what point does the improved frequency that’s been happening year-after-year start to subside and level out? And I think that’s more of the open question.
+
+As you know, and you’ve seen in our performance, our growth in workers’ comp has been quite low, because we’ve been hesitant to get overly aggressive on pricing. And the market continues to be very actively competitive in that space, and that’s really hurt our ability to grow. Margins are good, but we do think over time you’re going to see some pressure on those margins.
+
+Yes. So just in response to the first question, I think generally speaking, the majority of reinsurers have established a threshold of one in 10 year attachment points. Generally speaking, they wanted to get out of the earnings volatility business and they generally didn’t want to play below one in 10. Our current attachment point is right around one in seven, so it’s still a little bit lower than where the majority of reinsurers like to play.
+
+But as we do every year for us, we’re evaluating expected seeded premium by layer versus expected seeded losses by layer. And that had been a good economic trade for us for a long time. And based on how pricing had moved, we decided to increase that retention last year. Now, we also only placed about half of the first layer last year, so it was $60 million attachment, but we were taking half of the first 40x of 60. So really for all practical purposes it went from an $80 million retention to $100 million retention. And that’s really what drove it from our perspective was market capacity had started to get a little bit tighter at that attachment point and then the pricing from our perspective wasn’t as favorable.
+
+But all in, and I think this is Tony reinforced this point in his prepared comments, is we were able to eliminate all co-participations throughout the program. And in addition to increasing the limit and adding in that cat bond, our one in 250 impact to equity, one in 250 event impact to equity is now down to 4%. And we feel good about that.
+
+The only thing I would say about pricing on the renewal is when you look across layers and even overall, I would say it was very much in line with where sort of industry prognostication was post one-one from an overall market perspective. So, I think we felt good about where it landed from a pricing standpoint.
+
+Yes. In personal auto, we had roughly speaking, a $9 million update to the current accident year, and then on a full year basis, that was about $16 million, $17 million.
+
+No, we don’t really attribute this to the shift in the book of business as much as just quick recognition of some elevated frequency and severity in the current year that we wanted to react to as quickly as possible.
+
+At losses for commercial lines?
+
+Yes, personal. The home was 8.1 of the 9.1 in personal lines. For the commercial lines, we had $13.8 million in commercial property, we had $0.9 million in commercial auto, and we had $1.5 million in business owners, for a total of $16.1 million or two points on commercial lines.
+
+Thank you.
+
+Great. Well, thank you all for joining us this morning. We appreciate your time and your questions. And as always, feel free to reach out to Brad with any follow up. Thank you.

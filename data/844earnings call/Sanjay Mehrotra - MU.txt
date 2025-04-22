@@ -1,0 +1,46 @@
+Sanjay Mehrotra
+Micron Technology, Inc. (MU) Q4 2023 Earnings Call Transcript
+
+So with respect to NAND, yes, I mean compared to what we have said before, we saw strong demand, particularly on the consumer, including some parts of the channel and the consumer part included likes of smartphones, PCs, et cetera, and again, as I pointed out, the channel as well. And keep in mind, with the pricing that has existed for NAND, elasticity has certainly kicked in. The content is continuing to increase in the devices.
+
+Today, flagship smartphones have minimum of 8 gigabyte DRAM and 128 gigabyte of NAND. So that's the overall trend and same thing in PCs that the elasticity is driving, increasing average capacities. And overall certainly strategic vibe have influenced some of the NAND demand for the year as well.
+
+And keep in mind that next year in 2024, we see that the demand growth will be pretty much close to the long-term CAGR for NAND. And the strat buyers - the strategic buyers that I mentioned, of course, they help improve the inventory position for NAND as well.
+
+So overall, of course, supply cuts have been made in NAND as well. And as we look ahead, we do see that the demand and supply fundamentals will continue to improve on the NAND side as well.
+
+And the inflection in pricing as well has occurred and, you know, particularly in the second half of our fiscal year we would see that continued improvement in the pricing as well.
+
+So as we have mentioned before, the CAC headwinds are primarily in the data center and networking markets for us in China. And the impact, the negative impact of revenue as a result of CAC decision is already baked in in our CQ4 results, and is also included in our FQ1 guidance here.
+
+And keep in minds that the CAC decision, I mean, continues to remain a risk for our business and the impact in our China demand is meaningful. However, Micron has made strong progress with respect to mitigating the effects as well with our global customers who are not impacted by the CAC decision. And we are mitigating that and effect of the mitigation also is reflected in our FQ4 results, as well as in FQ1 guidance.
+
+So the - FQ4 results and FQ1 guidance reflect the net effect of the loss of revenue in China as well as the success with some of the mitigation, and of course, we are working on mitigating the China revenue loss with increases in demand for us across our multiple end-markets, across all our global end-markets.
+
+And remember that our goal remains to maintain our global share. While there may be some ebbs and flows in the near term, But you know our goal absolutely remains to maintain our global market share here in terms of bits.
+
+We are very excited with our HBM product. It is an industry-leading product with respect to performance, power, capacity, capability. And as we have mentioned, this product is in the qualification stages with our customers here and we expect revenue to begin in early 2024. And yes, we are very much still on track for meaningful revenue, several hundred million dollars in our fiscal year '24.
+
+So pleased with the progress, continuing to make good progress. It is an exciting opportunity for the memory industry and Micron will be well-positioned to capture the generative AI opportunities that require the kind of attributes that our HBM3E memory brings to the market. And, of course, as we proceed through the fiscal year, we expect to be gaining share in this important part of the high - in this important high growth part of the memory market.
+
+So certainly, the typical seasonality will be in place. But just keep in mind that FQ4, we had a very strong sequential bit growth in the NAND business. And - I mean coming off that big sequential growth, we are just guiding to you know normalized level of overall shipments as part of FQ1 and overall, you know - and again, the content continues to increase across the end-market applications. And that will continue to drive increased demand growth for us as well.
+
+Well, typical seasonality trends that exist in the consumer market would be there. But keep in mind that you know it all depends on the mix of the business as well for us. In terms of NAND, you know, in - it - maybe I have already guided to the trends.
+
+But overall when we look at the full-year basis, we would look at you know that calendar year '24, NAND will be growing in line with the long-term CAGR or near the long-term CAGR and DRAM will be growing in terms of demand much ahead of the long-term CAGR as well and all of that will of course take into account the typical seasonality that occurs in the industry.
+
+Well, good question and I think I would like to take the opportunity to provide some context here and overall background. As you know that in 2023, the industry has experienced extreme over supply and you know extreme negative effect on the profitability as well. And you see now that CapEx cuts and underutilization in the fab have been implemented across the industry given the CapEx constraints that we have, as well as given the poor profitability and certainly Micron has done that, but this is happening across the industry as well.
+
+And at the same time, the demand for the new products is increasing that requires, you know, as you were pointing out, leading edge technology as well. And in order to maintain our supply discipline and to meet the demand for these new products such as HBM, such as DDR5, we are shifting some of our equipment from older nodes into the newer technologies to ramp up those newer technologies into production.
+
+In the past, we would have done this with more CapEx. But we are being extremely mindful of CapEx spend, extremely disciplined about supply. So as a result, when we move the equipment from older nodes to support the ramp-up of leading-edge nodes, it results in a net reduction in overall - in a net reduction and the structural reduction in the wafer capacity as well. And that overall bodes well for the industry demand-supply fundamentals.
+
+So keep in mind that as we go through the year, we - and you know, as we shift more of the equipment toward ramp up of leading edge nodes, this will result in overall wafer capacity reduction and lowering underutilization as well. Of course, the legacy nodes will continue to have underutilization through the course of the year. And these are all helpful factors in terms of the demand-supply balance in the industry.
+
+And you know, some of the phenomena that we have described regarding structural wafer capacity reduction, this is not unique to Micron. We believe this is happening with other suppliers as well as they grapple with the same supply profitability and CapEx considerations as we are adjusting.
+
+So the reduction in wafer capacity is actually the headwind and supply growth. And this you know that increasing wafer capacity has a high bar for auto - for CapEx investments, it has a high bar in terms of ROI, and of course, it would require longer lead-time as well given the new equipment that would be required. So reduction - structural reduction in wafer capacity is overall good coupled where the underutilization in the legacy nodes.
+
+And as we pointed out, the new products in the leading-edge nodes also do require more wafer capacity for the same gigabits of production given the nature of like HBM that - where the die-size is twice as big. So, these new products also actually have a favorable impact on the industry supply growth capability.
+
+And these trends of supply growth with respect to structural wafer capacity-reduction and the new products that end up requiring more new wafer capacity are extremely important factors in terms of really understanding the improving, strengthening demand-supply fundamentals as we look at our fiscal year '24 and calendar year 2024.

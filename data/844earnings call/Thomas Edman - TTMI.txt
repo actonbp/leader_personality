@@ -1,0 +1,74 @@
+Thomas Edman
+TTM Technologies, Inc. (TTMI) Q4 2023 Earnings Call Transcript
+
+Yes. Thanks, Jim. So overall, on Automotive, this is one of the markets that I think is relatively soft. We are seeing year-on-year declines in all three major regions, particularly in Asia. And just as a reminder, we tend to - in China, our volume tends to go to joint ventures that are joint ventures of Tier 1s, Western world Tier 1s, if you will, in China. So I think they are feeling the impact there on - of EVs.
+
+If you look into the Americas and Europe, less so. I think we're still seeing better demand climate there, though it is still down year-on-year. So certainly a combination of ongoing demand softness and ongoing inventory controls as customers adjust their forecast. So hopefully, that gives you an answer there, Jim.
+
+Yes. So we don't talk about specific customers, but let me answer your general question there. The generative AI continues to be - to grow as a portion of the data center computing end market. So you can probably remember that traditionally, we've looked at this end market as being slightly over 50% data center, slightly less than 50% semiconductor.
+
+Today, with the semiconductor softness combined with the strength we're seeing in data center, you're looking at really close to 75% data center demand, 25% semiconductor. And of that data center, we're well over now 50% of that data center being generative AI-driven.
+
+And that's, I think, a function of really strong demand for generative AI as well as perhaps some shift in capital expenditures away from traditional data center to more generative AI. So we're just seeing a combination there, but certainly, terrific strength - ongoing strength in that generative AI portion of the data center computing end market for us.
+
+So I'll have Dan answer the specific working capital question. I just wanted to highlight, if you look at revenues, and starting with Q4, remember that we were closing - we've been closing plants and shifting production, right? And also that we sold our Shanghai BPA assembly facility. So if you look at the combined impact of the closed plants and the BPA facility in the fourth quarter, that was about $25 million, right?
+
+In the first quarter, we're looking at a combined impact of about $27 million. So if you look at our guidance, pick the midpoint, you would see that we're growing about 5% year-on-year if you exclude those factors. So that's really a critical point here. Now we are in the process of ramping the receiving plants. But that takes time as we finish qualifications and begin ramp.
+
+So in the meantime, there's a little bit of trough of revenue there. And then through the course of the year, as we have moved equipment and are ramping at the receiving facilities, we'll be really removing that slight revenue drag. So I just wanted to highlight that on the revenue side. Dan, the working capital?
+
+Thank you.
+
+Yes. Sure. Thank you for the question, Will. The - so I think, first of all, recognizing that, of course, A&D is roughly 46%, 47% of revenue. And so there, if you're looking sequential, we're down slightly. That's mainly just as we - Q4 tends to be a seasonally high quarter for us in that A&D market. So that - let's just say that that - there let's set that one aside. So now we're really talking about the commercial markets. Certainly, with TTM as we look at data center, that continues to be a big driver, that generative AI demand. So that's very helpful.
+
+We do have Chinese New Year, as you know. And so sequentially, we're always going to be down in Commercial Q4 to Q1 as plants - as we shut down plants on Chinese New Year. In that generative AI area, of course, we're trying to operate as much as we can during Chinese New Year. So that accounts for a little bit certainly from a TTM perspective of why that drop might not be as great, Q4 to Q1.
+
+Automotive, I think you're seeing that with others as well is down sequentially, a little bit more than just the Chinese New Year factor. And then if you look at medical industrial instrumentation, we're just seeing medical holding up pretty well in Q1, and portions of instrumentation getting a bit better as well.
+
+So that's - and remember there that our North America footprint has played an important role. So while we're shutting down in China, we are operating in our North America facilities and so able to mitigate again a little bit of that sequential decline.
+
+And then finally, the networking area, we're relatively flattish. Glad to see that. I think for us, that's a function of some of our networking customers now. Still dealing with inventories, and we expect that to continue through the first half but at least they sort of hit bottom and starting to see a little bit better demand there. So again, hard for me to comment on others, Will, but hopefully, that gives you a flavor of what we're seeing.
+
+I think, well, In North America A&D, the integrated electronics business has expanded their margins quite a bit. You know, this is the first full year that we've had Telephonics in our business. We've worked hard on the supply chain there. We've also increased and improved our pricing on those products to get much better margins in the integrated electronics business. And that's obviously a strategic focus to us, as Tom mentioned. And the earlier we can get involved and engaged in engineering and helping our customers, that's more value-added work, right? So that's been strong.
+
+I'd say we had across North America in our PCB business also just very good productivity this year, better productivity than we had last year. So keeping good flow through the factories and getting efficiencies that way. And then on - we probably had - so those are probably the two largest drivers. So it's more operational.
+
+We did have in the AP region, as you mentioned, good improvement from the generative AI product mix, but that - and that more than offset some of the softness in those commercial markets, the other commercial markets. But I'd say net-net, you know, that wasn't the largest driver, but certainly a continued strength going forward.
+
+And then probably - and then the last bit of that was just the drag that we had from the three plants that we closed down that did improve this year in Q1 going to Q1 versus last year, probably about 5 million of improvements just from that.
+
+And just one additional highlight. You remember that Dan's earlier answer to Jim's question regarding Penang. So that - so we are seeing those improvements as we ramp Penang and take on additional headwinds.
+
+Sure. So we're looking at full capacity, which we won't reach until next year. We're looking at somewhere between 180 million and 200 million. That depends on product mix, of course, in the facility. So of that, think about, you know, roughly 15% or so being at least as we plan this coming from a shift out of China into Penang. I would like to highlight that our China facilities are where we do the most advanced technology work.
+
+So the sooner we can get Penang up and running and shift that production, the better it is for us from the standpoint of serving that generative AI demand. So, we certainly are driving to get Penang up as soon as we can, but we have to make sure that - ensure that we have the right kind of quality performance and the right quality systems in place as we go through that ramp.
+
+But that's roughly the order of magnitude, Matt. And again, hitting full capacity, we're going to be continuing that ramp as we go through the course of next year, but hitting that full capacity level by the end of next year.
+
+That's correct. Yes. So remember, the facility as designed, is targeted at 16 to 18 layers. That's - that layer count is what we think of as standard technology. We don't do all that much standard technology now in our China plant. So that's what we're opening up is a supply chain resiliency opportunity for our customers to move that product from other suppliers to our Penang facility.
+
+That's the major goal. Now held to help with startup, that's where that 15% piece comes in. They're allowing us to move some product out of China into Penang. But it's - the bulk of this is a combination of new programs and existing programs that may be that our customers are looking to move out of China into a non-China production facility.
+
+So really, we're looking - since primarily for us, the customer is very supportive, based on long-term agreements. We're in good shape there. We just - as we look at that CapEx requirement, particularly as we look at potential government funding, we need to make sure that our time line is in sync with the potential for government funding. And that - and also that we make sure that we're in sync with customer requirements in terms of ramp schedule. So that's really what we're talking about, Matt.
+
+Thank you.
+
+I really can't, Jim. So you're correct. I did not say that. But yes, in large booking, unfortunately, we just can't disclose the product type or the exact program that we're involved in there.
+
+Yes, sure. And I did want to just to complete the thought on A&D, I just - I did want to highlight, we are down slightly on program backlog. So we're at $1.33 billion to be exact in terms of program backlog. That's down from $1.35 billion at the end of last quarter. So still holding up very well. And we're looking at what should be a pretty strong first half year as we look at program booking opportunities in A&D.
+
+On the MII side, yes. So what I'm seeing, Jim - and remember, we're looking at test and burn-in board requirements. So slightly different cycle than traditional large semiconductor capital equipment requirements. Of course, we service those equipment companies as well, but it's a smaller portion of that instrumentation piece. So we tend to be a little bit front end there as customers start to invest in new generation of capability. They need that test and burn-in board base for their equipment.
+
+So what I can tell you, Jim, is certainly, I think we've hit trough there. And we're again seeing some activity there that are good indicators. And I agree with how you characterized it. I expect that there would be more momentum towards the back half of the year. And certainly, as we look at the larger process equipment requirements, which right now are in that trough, I wouldn't expect to see that until that kind of demand until Q4-ish.
+
+But in the meantime, test and burn-in board requirements, which go into the test and measurement area, tend at least for us to come in a bit earlier than that. So yes, I think, again, trough for sure, is starting to see a bit of activity that are good indicators that the back half should improve.
+
+Actually, commercial air for us is still strong. And if you - if we - roughly up about 7%-ish year-on-year. That's a year-on-year and also up slightly quarter-on-quarter in commercial aerospace. So we - so yes, the growth rate, which was remarkable, right? As commercial aerospace recovered, that growth rate has slowed down, but we did still see growth in the quarter, and still as a percentage of A&D revenue remains about five percentage-ish.
+
+So not a large part, but nice to see the ongoing growth there. And just a reminder for everyone, our largest content here tends to be on the 787 and - so that's where we see the largest content. Of course, we're across platforms, but that's the major content for us.
+
+Thanks, Jim.
+
+Thank you. I'll just close by summarizing some of the points I made earlier. First, we delivered non-GAAP EPS that was above the high end of the guided range, with revenues in line with the guided range. Really excellent operational performance and favorable product mix. Second, we generated a healthy cash flow from operations at 8.3% of revenue. That did allow us to repurchase stock, maintain a solid balance sheet.
+
+And finally, in closing, I would like to thank our employees again for their efforts in this past year, our customers as well. And certainly, you our investors, for your continued support. Thank you very much.

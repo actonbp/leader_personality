@@ -1,0 +1,50 @@
+Michael Brown
+Euronet Worldwide, Inc. (EEFT) Q4 2023 Earnings Call Transcript
+
+So kind of how we look at it is we see 3,000 to 3,500 new opportunities for new sites for ATM, and then we will also continue to call our network. Remember, we didn't until just recently get back to -- you might say, the travel volume that we had in 2019.
+
+So we were a little bit hesitant to just take out tons of ATMs before we knew how many travellers would really be there and if the sites are still good based upon travel changes and so forth. So we took out those ATMs, a bit over 1,000 ATMs in the fourth quarter. We'll probably take out another 1,000, maybe even two -- somewhere between 1,002 this year. But outside of that, we will place 3,000 to 3,500 new ones.
+
+That's exactly what would happen, if it happened, but I do kind of find it hard to believe, they're so frigging large that they would be shut down. So -- but the deal is we have every single wallet in India. And so you just see the volumes move across.
+
+And a little aside from the people that I talked to, a whole lot of people in India have more than one wallet already on their phone. So it wouldn't even be that big a challenge shift.
+
+Well, it's hard to know which one of our segments will grow the fat past us and once you get to steady state. But what is real is that this year, we're going to finally get to the point where we kind of got our full legs underneath this with respect to travel and spend. And so once that's there, I mean you just look at the opportunities we have in EFT, it will be a fast grower. And so the three divisions and the other opportunities with REN and Dandelion are all are all fighting to try to keep up. I mean it's going to be a healthy race to see who grows the fastest, but we're really excited about every one of our endeavour.
+
+Well, you know, I... Yeah, go ahead. So, cyclicality, So stick with we really... when you look at seasonal cyclicality. We're always going to have that because travelers mostly traveling Q2 and Q3. But with respect to kind of the macro changes, now that we're getting travelled back, I don't think we're going to see cyclicality after that.
+
+As Rick said, all three segments have histories of very strong growth -- and that's why we're kind of looking for now that we -- like I said, we got the travel stuff strengthened out. We're really excited that where we are. Remember, in 2019, 58% of our EBITDA was in the EFT segment. It was all ATMs, okay? And now it's all -- we've got diversity as our key -- and now that's just a third of our business, while the other businesses have grown markedly over the last several years. So that's what gives us the optimism.
+
+Yes, probably half or so.
+
+Asia, North Africa and now south of our border. And I'd like to remind you those ATMs that we're putting outside of Europe are probably twice as profitable as the ones in Europe. And the reason is, is because there's card access or acceptance all over Europe for most all of your spend. You just need a little bit of cash to get buy in Europe. You don't need a lot -- but in these other markets, they're primarily cash-based markets. So good luck having lunch with a card. You've got to go -- you've got to use cash. And so that's why those ATMs are so much busier.
+
+We believe so, yes. And when you look at -- well, I don't know if you call it agent growth, we'll just say point growth because we have agents on the send side and then we have others -- and then we have payout correspondence on the other side. And including with those -- in addition to the correspondence, which were typically like banks or big retailers in some of these markets, we now have bank accounts directly, where people don't have to walk in, that just drops into their bank account directly, and we've got 4 billion of those. But the new distribution channel are wallet. Because in the developing world, everybody's got a wallet now. And so we can drop money directly into 2 billion wallet. And that is an advantage that we have that nobody has.
+
+I think we're going to get growth out of both of them. I don't know which one is going to grow the funding. Well, right now, the digital is growing faster and they'll probably continue to do so. And I think one of the reasons that we're having a really good success with our digital growth strategy is because of our digital payout. We told you those numbers of how well we're paying out into bank accounts and wallets.
+
+No, no, no. It's -- we've already got the beginning of the hyperbolic curve because when you think about it, we've got a new -- we had a new technology that we released three years ago. Nobody on the planet had it. And so we had to get those early adopters in there. And we got the early adopters who are all in Asia because the Asian banks were more progressive and they were also threatened by the wallets at the time, okay? They wanted to stay relevant to their customers. So they were the early adopters.
+
+We then became -- once you get a couple of those, then the next ones come and the next ones come. And the fact of the matter is their legacy platforms can't support the kind of solutions that customers are acting. In other words, their legacy platforms don't talk wallet. And so once we established ourselves in Asia, then we took that same product, and we went to South America, and we've been going now to North America as well. And finally, things are happening.
+
+I mean you just last July, as you know, FedNow was launched. It was an RTP network in the United States. It's running roughly 10 years behind India. But finally, we're getting our act together. So more and more people are going to be wanting to do account-based real-time payments. And this idea of just card-based payments is going to be very fast day and 10 years from now.
+
+Okay. So we've got several things that are happening. So within EFT, so the components are, of course, ATM and that would be mostly our independent ATM deployment. Second would be the outsourcing deals that we have, and that's all in that ATM piece. And then the other part of EFT is going to be REN and acquiring. Acquiring got roughly 25% margins, when we install REN, that's probably got 60% to 80% margins depending on when how that works.
+
+And then the ATMs themselves are probably -- they have been as high as a 30% margin, a 33% margin there, a little bit lower now because we don't have quite the productivity that we had in 2019 before the travel crisis, but that's coming back. So when you blend it all together, I think we could approach 30%, but depending on how fast our business grows and acquiring, a 25% it might hold it down a little bit. Rick just looked at all his numbers, so he'll give you -- he'll give you three significant digits on that answer.
+
+So remember, as we grow, we have about a 35% incremental EBITDA margin on that next transaction. So obviously, as you have more volume, it's going to average you up. And we're just doing, as we mentioned, too, on the digital side, we're being -- we've got kind of a new approach to our digital marketing that's making it more effective. So kind of everything added together, I would say.
+
+Okay. So with respect to money transfer, I mean, you got to understand, there are probably 10,000 money transfer companies in the world, okay? And you know the names of a handful, okay? So as an industry, this is a bare knuckle street bite every single day, maybe a nice side. okay? So competition really hasn't changed. There are some of our competitors are saying they're going to be more aggressive here or there. We've seen little instances of that in one market or another for shorter periods of time.
+
+We don't see, in general, it's much more competitive than it ever was. We do see, as I mentioned in previous calls, that just the inflationary pressures that we've seen in the United States and we see abroad have actually brought down the average amount sent per transaction. And remember, we make an FX spread on this. And so if maybe our average FX spread is 0.6%. And instead of -- and on average, our spend amount is down, call it, $20. That cost us $0.12 a transaction, which is pure margin. .
+
+So that's where we've seen the pressure, not necessarily because of competitiveness, but just because the reality is these immigrates who have got mostly blue-collar jobs working hard, gas on their truck costs more than it did a year ago. Groceries cost more. They just spent a little bit less back to their mom, but they still send it every month. So that's kind of what we've seen.
+
+We've got one more question, operator, and then we're going to be at the top of the hour. So we're already there, but...
+
+I think it's just the general economics there. And -- which is probably most of it.
+
+Well, it's just what we said before, over last year, there were four countries that either improved interchange or allowed surcharge that were not allowed in the prior year. There are a number of countries discussing both of these issues right now. So if any of them -- we never know when they're going to come to a head. But when they do, you get the automatic step function in profit when they do. So that's what we're looking at.
+
+Point is, it isn't just us who wishes these numbers to go up. We're actually in conjunction with the banks as far as our thought process. But with that, I think we're going to end our call today, I want to thank everybody for your time on the call, and I look forward to talking to you next quarter. Thank you.

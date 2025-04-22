@@ -1,0 +1,68 @@
+Chuck Prow
+V2X, Inc. (VVX) Q4 2023 Earnings Call Transcript
+
+Yes, we can now. Tobey, how are you?
+
+Sure. We -- in general, as the name would say, the majority of our FMS pipeline is in CENTCOM and INDOPACOM, and to a much lesser degree, I would say Eastern Europe. The most recent activity that we announced, and I'm sorry I can't give all the specifics yet, was actually a new requirement, something that was not being done before by another provider. It is aerospace O&M.
+
+And I will tell you that it is the combination of rotary wing maintenance as well as facility maintenance. The remainder of the pipeline is really balanced between aerospace O&M as well as logistics/operations management. And it's a good question. I would just -- judging from memory here, I would say we're probably about half takeaway and half net new requirement in that FMS pipeline.
+
+Yeah. I would say, and Shawn please feel free to chime in here, so this will be the final year of the wind down for both the KC-10 and the T-1A. It's relatively balanced throughout the year. As we've indicated, we'll see sequential growth to make up for that wind down. So, I would say, a bit earlier waited in the year, but extending through the full year.
+
+Shawn, anything to add?
+
+I would say, if peace were to break out, that's -- I guess we can all pray for that, I suppose. But, by and large, the missions that we're maintaining will, I would largely, if not entirely, continue. You always have risk like we saw in Afghanistan a couple of years ago, if we were to pull out of a country. We have no indications of that. We often talk about on these calls. And when we talk to you and other analysts and investors about op tempo.
+
+Today, we do have tailwinds with regards to both revenue and profit generation just because of the rate and pace of activities in both CENTCOM, or Eastern Europe and as you saw in the reported results in INDOPACOM, a lot of activity in INDOPACOM. As we mentioned in the prepared remarks, Tobey, we actually had higher revenue in the second-half of the year in INDOPACOM, although the first-half of the year is where the exercise actually occurred.
+
+So, kind of a long winded answer to your question. But as the military infrastructure continues to age, as the airframes and ground vehicles continue to age, that actually creates more requirements for V2X.
+
+What GMR-1000 represents is a new suite of capabilities that are really taking hold post the merger. We believed that the untethering of the Indianapolis facility when it was acquired by Vertex, and ultimately now part of V2X, would create opportunities because of the organizational conflict of interest of being owned by a prime contractor going away. We're in fact seeing that. And this whole suite of engineered solutions, GMR-1000 being one, is our really great engineers and capabilities in Indianapolis working with both new and existing platforms, in this case a router, and hardening those capabilities in such a way that they can be used for new and innovative military missions.
+
+So, as we've mentioned in the prepared remarks, this is actually a sole-source bid. We don't know whether or not we've won yet, but the traction of the GMR-1000 and other engineered solutions is actually progressing very, very nicely.
+
+Thank you.
+
+Thank you. How are you?
+
+No. I think, you're right. We -- as always, in continuing resolution, the rate and pace of awards slow. Again, the ops tempo that we're seeing, and you see that in our revenue and our on-contract growth continues strong. So, I think, as we move through this year, we will see awards again. It will be a little slower than we would like, but we're very confident in our guidance.
+
+No. As you said it perfectly, last year we did benefit from kind of extraordinary activity that happened in the beginning of the year. As you know, you followed us for a while. The first half, second half dynamic has been very consistent, going all the way back to Vectrus days. And, again, we feel very comfortable with the guide and we feel very comfortable with the ramp throughout the year.
+
+Thank you. Appreciate it.
+
+Yes. No. That's -- thank you for asking the question, because we're really thrilled with how we've been able to kind of curate or cultivate our pipeline over the last couple of years. Of that $9 billion, I would say there's a good mix, maybe you call it a proportional mix between our core businesses of logistics based management and aerospace O&M, and then the newer converged technology and engineered solution pipeline.
+
+We really have a really nice emerging pipeline in our intelligence community business as well. So, again, the new capabilities that we have introduced over the last several years are now importantly represented in that pipeline that we discussed, and we're actually thrilled with that progress.
+
+Yes. It's -- we can't talk -- we cannot talk about it. It is finished. It's a wonderful story. It's something -- it's a requirement that went from inception to fielding in under a year, and it's highly technical. Again, falling back to the engineered solutions that we discussed here during the call and in the prior questions, you can simplify it this way or generalize it this way, is we are taking existing platforms, some of them older, some of them more recent, and we are engineering ways for those older platforms to either work together and/or to extend their capabilities.
+
+It's a really important part of our business, because we can now approach both the military intelligence communities as well as prime contractors with new and different ways of, again, extending lifecycles and/or improving capabilities of -- in many cases, platforms that have been out there for a long, long time.
+
+Trevor Walsh
+
+Terrific. Thank you for the perspective. Maybe one more from me. For Shawn, it looked like, based on the guide, that you've got a little bit of an uptick in the CapEx outlook for the year going from about $25 million to $30 million. It looked like from what I could tell in our model. Just curious where the added investment is going or kind of what you see, kind of where the -- where that spend will be progressing throughout the year?
+
+Yes, you said -- Stephen, hello, how are you doing? Did you say -- you cut out, but you say Middle East exposure?
+
+So, we have factored in a more muted award scenario for this year, as Shawn indicated in his prepared remarks in the prior question. Having said that, we will see some awards. Our teams continue to do an excellent job with on-contract growth, which is typically provided from the existing budgets. And then the reality is that the op tempo remains high. So, I think, balancing both new awards on-contract growth and the realistic -- and the realities, I should say, of the current op tempo gives us confidence in the guides that we've issued here today.
+
+I think, you mentioned INDOPACOM, too. There are not exercises, named exercises scheduled at this point in time, because, as we've indicated in the past, those are done on odd years. Having said that, we continue to see several demand signals and a high degree of op tempo in the region, and we continue to provide ways to modernize bases that we're currently operating on, such as Kwajalein in the Marshall Islands.
+
+Thank you.
+
+How are you?
+
+As we talked last quarter, the F-5 Adversary award was an important award. It happens to be fixed price as well. It's still under protest. We will, at the resolution of that protest, assume that we'll get -- be able to start that program here in this year, probably closer to the second half of the year, I would assume. Really, the only two platforms we have in retirement now we've talked about are the KC-10 and the T-1A. Both of those are -- been very predictably winding down. And other than those two, we have no other -- at this point in time, we have no other known retirements in our portfolio of contracts.
+
+Do you have -- was there anything else to your question? Is there anything else that you wanted to add on that one?
+
+Sure. As Shawn indicated, I mean, we'll ramp through the year. The margins on the retiring programs are higher, because they're at the end of life cycle. And with such a large percentage of our backlog in the early stages, we're seeing the predictable ramp in the profit margins post sale and into the base years. And, frankly, we're thrilled at the rate and pace that that's occurring. It's just -- again, that's such a large quantity of new wins over the last three years, which we're thrilled about, frankly.
+
+Both Naval Test Wing Pacific and Atlantic are performing exceptionally. I couldn't be more thrilled. I couldn't be more pleased with the team. We're hearing this directly from our clients. We're not talking to ourselves on this as I'm sure, you know, because you follow the industry very closely. The development of pilots to be fully capable is a significant, significant measurement for both our Navy and Air Force clients. They can train pilots quickly enough to meet their needs. And, again, we're pleased and privileged to play an important role in, again, picking up the pace -- the rate and pace by which pilots can be trained.
+
+I think a -- way to look at that is the performance that we posted in the second-half of the year. The fact that we booked more revenue in the second-half of the year than the first-half, even though the exercise was in the first-half of the year, that is directly attributable to the PDI, the Pacific Deterrence Initiative. Again, the op tempo is high. The budget is a reality, because these are -- in many cases, new requirements. But again kind of working through the muted new award environment, but the ability to grow on contract is a good balance and again a bit a long way of answering your question, but we remain very bullish on growth in the breakout region.
+
+Thanks.
+
+Thank you very much and thank you all for your questions. We've just completed what we think to be a very, very solid year and we look forward to talking to you again at the end of the first quarter. And we may see you at all the conferences here in the not too distant future. Talk to you soon. Bye.

@@ -1,0 +1,58 @@
+Ashish Chand
+Belden Inc. (BDC) Q4 2023 Earnings Call Transcript
+
+Sure. Well, first of all, thank you, Will, for your kind words. So we saw Q4 as a stable period, right? So we saw orders sequentially growing slightly across the businesses. We think Q1 will follow a similar pattern, essentially. And with the sequential adjustment, typically, we go about 7%, 8% down from Q4 to Q1, just with normal seasonality. So it's not -- nothing different in terms of that extended period of stability.
+
+Now if you remember, we previously guided that the first half of '24 is the period when we would see this destocking phenomenon at its peak and then, in the back half, we would see normalization. So no, we -- I don't actually think it's different from what we previously expected. And this -- I don't think we can say that the destocking period is behind us, but I think we can say that we are going through the stable process of destocking as expected and based on all the other indicators we have at the macro level, including PMIs now, we are heading in the right direction.
+
+Yeah. No. So I think -- in fact, I think you've actually visited one of our CICs, so you've seen it for yourselves. We had announced initially that we will build five big CICs across the world. We just finished that process. We are planning to roll out something -- some smaller format versions called mini CICs in more locations that will get connected to these big five hubs.
+
+Now what we've noticed is, as -- and we've seen this with our first CIC in Stuttgart, right? The first 12 months or so, it's a lot about customers getting familiar with our technology, and then it moves to the second phase where people invest in time and validation testing and large solution design. And then, it gets really interesting and we see a massive elevation in success or in win rates with customers once they get to that stage.
+
+For most of our channel partners, including those that do value add for our customers, they did not have those kinds of investments. They didn't have that infrastructure where they could demonstrate to a customer a complex solution. So the CIC has actually become a really positive element in that partnership because now they can bring their customers over and they can show how all those different products work together, which previously, they would have to just talk about.
+
+So yeah, I think the CICs have turned out to be a great investment. We just talked about earlier on the call about an example where a customer came in for a regular technology update visit, and then we ended up with a big contract. So -- and then, this customer was actually brought in by a partner and so that dynamic is very positive.
+
+Thank you.
+
+Yeah. That's right, Chris.
+
+Yeah. So the $8 EPS in 2025 is still our target, and it's driven by our belief in the longer-term fundamentals in the business. It's also supported by the investments we've continued to make through the cycle. We just talked about the CICs in the prior question. And it's not just the CICs, it's the overall product, R&D solution selling capabilities. Chris, we feel at this point that we were actually slightly ahead when we had articulated the target.
+
+Previously, in '22, we had said EPS would grow at about 12%. We had multiple levels to get there, including organic growth, of course, but bolt-on M&A, share buybacks, et cetera. And then we were ahead in the first half of '23 of that 12% CAGR. And with our current guidance, we need to kind of be in that 8% CAGR in '24 and '25, we still have two years to go.
+
+And we feel that the investments we've made will pay off handsomely once we get to the other side of this cycle of this destocking phenomenon. So it may not be linear, so I can't articulate a simple linear formula here. But just based on the fundamentals in the market, our investments and the fact that we were slightly ahead previously, we still believe we'll get there.
+
+Yeah. So that business has continued to do well for us for two reasons. First, as you remember probably from previous discussions, we were not overly focused on the hyperscale market. We were focused more on helping customers in specialized areas like health care, hospitality, finance, federal, those kinds of markets to build out data centers. And they see that as part of the overall solutions approach that we bring to that market.
+
+Obviously, with the advent of more machine learning and AI, the need for data has multiplied even in those markets. So we continue to see data centers as fairly attractive. And it’s obviously had some ups and downs more recently, just given the inventory dynamics. But at a base level, if you look at our pipeline, we have more and more customers coming to us right now, asking us to design solutions that include data centers.
+
+Thanks, Chris.
+
+Hey, Reuben.
+
+So Reuben, if you remember, we talked more about the kind of macro view at that point that Broadband demand was robust. It had support from federal spending. And in general, the large MSOs we partner with, they had no noticeable change in their posture towards capital expenditure and adding subscribers, right? That hasn't changed. We -- if anything, we're encouraged with the reports we've seen now, we've had a chance to kind of delve deeper into the customer plans.
+
+The one thing I will say is that these are complex supply chains that depend on a number of products coming together, of which we supply a portion and sometimes because of the complex procurement process, even though the end demand is fine, you may see some timing. So at this point, we don't see anything different to what we had previously guided in terms of strength in the Broadband end markets.
+
+We've seen a little bit of timing in Broadband, but nothing that takes us away from expectations. It's within a few percentage points here and there. So to give a simple answer to your question, we still expect Broadband end demand to come back first and we feel that given some minor changes in timing, et cetera, we'll see our Broadband business follow that.
+
+Thank you.
+
+Yeah. So obviously, discrete has been less robust in the second half of '23. And that is driven by -- largely by the destocking phenomenon and maybe to some extent by the interest rate environment where people slowed down some of their projects. We even noted, as we've mentioned previously that some of the reshoring projects in discrete slowed down because there was a shortage of labor. They didn't have enough people to either build or operate this plant.
+
+So in Q3, we saw that come down. If you remember, orders were down almost -- just over 20% actually sequentially and POS was down at that point, about 8%. Now in Q4, we saw that whole thing stabilize. Orders were up about 7% sequentially. POS was flattish. And we've seen other indicators -- leading indicators, including PMI that show that it's heading in the right direction. So discrete is still an area where we expect some weakness and then it will come back once this inventory cycle is -- we get to the other side.
+
+But meanwhile, we did see significant growth in process markets and in mass transit. In mass transit, especially because of our high focus on providing this full mission-critical solution, we have a number of engagements. These tend to be more long term. They don't get impacted, Rob, so much by inventory changes, et cetera. And we have a fairly robust pipeline there. But yes, so to answer your question, it was more discrete, more linked to the inventory phenomenon and I think it's stable now.
+
+Yeah. So there are a few things happening. So first of all, on the CICs. So typically, when we engage with customers in the long term for a data or a network solution, our success would be about one-third of the customers would convert eventually, which is fairly healthy. We've seen that once we get a customer to invest in a validation test at a CIC, that rate might actually go up 2 times to 3 times, right? So it's fairly significant, the change that we see in that customer engagement. And we've seen more and more instances now where customers come to us, typically, with a complex kind of idea in their heads and then we walk them back a little bit, talk about the KPIs they want to address.
+
+So for example, we've previously mentioned, we worked with this utility company in Spain, and their KPI was the average time it took to find a fault in their network. And they were experiencing 140 minutes on average. And we were able to take that down to about 35 minutes and they saved obviously, a lot of money through better revenues and saving on fines. So it's interesting. Each customer typically comes initially with a semi network design. We walk them back to KPIs. We design a better workflow and data flow and then we get there.
+
+Now part of this, obviously, is how we bring different sources and destinations of data together and Belden Horizon has turned out to be really phenomenal experience for most of our customers because it's very neutral. It doesn't -- it's not application software. It's not designed to do anything with the data other than cleanse it, sort it and connect it to different -- connect different sources to different destinations.
+
+One interesting thing that's happening, by the way, with Horizon is we are now testing more and more offering data as a service, although we are not -- we haven't yet commercialized that. And we've had requests now to incorporate more machine learning and AI into Horizon which we have been doing.
+
+And the example I'd like to quote is, imagine a factory which has cobots and a worker may be walking into the arc of a robotic arm and with machine learning on our edge devices and some form of an LLM in Horizon, we can actually stop that robotic arm without anything going to the cloud because otherwise, there's too much latency and somebody might get injured, right?
+
+So those kinds of applications, they're not always the ones that get a lot of attention in the media as AI applications but they save lives and they save time and they increase productivity. And that's where we are going with that whole software layer, which has turned out to be an exciting journey even for us in terms of learning. So again, lots of interesting things happening, but I think you are thinking about it the right way. Customer KPI is getting impacted and the software really making a big difference in that.

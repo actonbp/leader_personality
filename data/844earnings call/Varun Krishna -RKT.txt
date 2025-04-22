@@ -1,0 +1,46 @@
+Varun Krishna
+Rocket Companies, Inc. (RKT) Q4 2023 Earnings Call Transcript
+
+Okay. Can you guys hear me okay?
+
+Okay. Sorry about that, Kevin. Let me just repeat. Thank you for your question. We ended 2023 strong. We're entering '24 with momentum, and that's reflected in both our results and our guide. And we look at many factors when we think about the outlook for the year. We look at the forecast. We look at the CPI, we look at the 10-year treasury, we look at the Fed forward curve.
+
+We look at our own data and most of the industry, we predict a 33% larger market, $2 trillion versus $1.5 trillion. We expect rates to drop in the second half of the year. And these are all tailwinds for Rocket. And so we're investing in growth, and we're playing to win. At the same time, when you think about the market share itself, the second part of your question, there are still multiple tailwinds as well. You have a lot of market consolidation with M&As and exits and bankruptcies. You have banks that are seeing market share and leaning back. You have Basel III, which is on the horizon. You also have industry capacity coming out.
+
+So when you put all these things together, I mean, we do expect to accelerate growth. It's a bit of a survival of the fittest dynamic with winners taking most. We grew share double digits in both purchase and refi, and we feel very good about our position in terms of our assets and our endurance. So we're confident on building on those gains.
+
+Yeah, absolutely. Look, I'd start by just saying that we believe that AI is going to be absolutely transformative to this industry and to fintech and tech in general. And we've made quite a bit of progress, but we're just still scratching the surface. And we're in the earliest of innings, but our progress is only going to accelerate with generative AI. It's a major area of investment across the board.
+
+The biggest thing that I would say is AI is something that you have to have a right to win and the right to win means you have to have the assets, you have to have capabilities, you have to have data. You have to have these ingredients to create the right recipe. So because of those ingredients that we have at scale, it's why we expect to be a benefactor.
+
+And I shared a couple of examples earlier on this call, three in particular, but you're going to expect -- you can expect to see us continue to show you more and more and more examples of how we're going to be differentiated, whether it's the 50 million call logs that we process every year, the thousands of attributes that we have on clients, how we use chat, how we use transcription, the 3.1 million clients that we engage with in servicing, document automation, appraisal review, hiring.
+
+So kind of across the board, we think we have a durable advantage because we have many of the ingredients that it takes to build one of the AI companies of the future. And so those are just some examples, and you can expect to see many more as we continue to make progress on this journey but it is a major strategic imperative, and we're investing across the board.
+
+Yeah. Thank you for sharing. I mean look, I think fundamentally, the simple answer is we expect this to be a transformative implication across the board, whether it's helping us be more efficient and productive, driving top line growth as well as bottom line growth. But it's a very natural technology to fit with every aspect of the home ownership journey, everything from home search to lead generation to underwriting, to servicing, appraisals. And so the great thing about this is we feel like the sky is the limit. And so we have made it a strategic imperative to apply this at the top level at every aspect of the company.
+
+And so you can expect to see those gains be transformatively impacting every aspect of how we do business.
+
+Yeah. I'll start and maybe ask Brian to chime in as well. I think the biggest thing I would share is that our primary focus is growth. And the reason for that is you have a $5 trillion home buying TAM. You have an incredibly fragmented market. You have no player with more than double-digit market share, and that's a great place for us to be disruptive and drive growth, especially with AI. So we're always looking for efficiency.
+
+We think we're in a good place. We're actually well capitalized, as Brian shared, but we're trying to invest our dollars in innovation, and we're trying to figure out ways that we can actually attrite significantly more with the ingredients that we have. So part of that is where you see our increase in focus and prioritization. But we have a lot of share to take, and we want to invest our resources to win. And let me ask Brian if there's anything he would add.
+
+Yeah. Thank you for the question, Kyle. I want to -- I'll just start with Rocket Money. And Rocket Money, obviously, is a part of our Personal Finance division, and the team has done a fantastic job. I believe they've grown almost twice the volume since the acquisition. This is an area on a personal note that I'm very passionate about, given my background. The business has over 5 million members. They've saved our clients over $1 billion in savings. And quite frankly, it's the best personal finance app there is.
+
+We've seen impressive top line growth. I believe in December, they were the number one app in the App Store in the finance category, and they're on track, as Brian said, for the best quarter ever.
+
+And as we think about AI, the thing I would say before handing it over to Brian is this is really about supercharging everything we do around homeownership. It's about making sure that our team members can be orders of magnitude, more productive which is what we need when we're trying to go after a massive market and go after share. And so this is really about allowing us to do more with the same and to allow us to basically take share and grow in a market that's incredibly fragmented and there are multiple places in which we're investing in AI across the board at every level of the organization.
+
+And so a huge strategic imperative for us. And I'll ask Brian to comment on some of the more specifics.
+
+Yeah. Thank you for the question, Ryan. I'll start by just saying that it's critical. And one of the reasons we have this amazing aspect of our company structure and organization is that home search is the first part of the journey. And it's no secret that hundreds of millions of consumers use home search apps multiple times daily because it's the starting point of the journey. And so that part of the experience is critical to drive a disruptive experience in purchase, which is why this is such an important part of our strategy.
+
+And I'm very proud of the Rocket Homes team because they continue to innovate past the bleeding edge. Two examples I will give you is the recent release that they launched with CarPlay, which allows you to have a local driving experience as you're driving around looking for homes. It's a very natural experience that is cultivated around home search. It's a way to build intent. It's the way to use location services, AI and data to really create a personalized experience that meets clients where they are.
+
+The second thing I would share is the team isn't stopping there. We just talked about a beta that we released with the new Apple Vision Pro that changes the game when it comes to things like spatial computing and being able to tour homes, publish listings and really using the next generation of virtual and augmented reality. And so home search is a big, big part of our strategy because it's kind of the beginning point of the journey of the purchase experience and if we can build intent with clients and we can build readiness with a combination of assets like Rocket Homes, Rocket Money, leveraging technology, we can bring them into the home purchase journey in a way that's more personalized, that's more streamlined and ultimately drives speed, certainty and value.
+
+So it's a big part of our strategy. It's a big part of the top of the funnel and the team has done a good job, and we're continuing to invest.
+
+Yeah. I mean I would start by just saying that the best is yet to come. We've hired a pretty kickass new CMO, and we have big, big plans for our brand. The great thing about Rocket is it already is a household brand but we're scratching the surface on what's possible. And so we're continuing to invest. I think we have big plans for the near future and buckle up and stay tuned is what I would say.
+
+Well, thank you, everyone, for joining our call, and we look forward to seeing you next quarter and just a special invite to come to our Investor Day. Stay tuned for details.

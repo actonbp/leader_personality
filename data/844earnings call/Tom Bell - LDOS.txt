@@ -1,0 +1,108 @@
+Tom Bell
+Leidos Holdings, Inc. (LDOS) Q4 2023 Earnings Call Transcript
+
+Thanks, Jason. Tom here. I'll go first and then ask Chris to chime in. Macro picture, as Chris articulated, our ‘24 guidance is somewhat conservative given the funding uncertainties on Capitol Hill. So we're not leaning forward assuming that there's growth in the Defense budget this year. It all depends what Congress decides to do in the coming weeks and months.
+
+But longer term, sadly, the world is not becoming a safer place, and we don't see that customers are going to be spending less on National Security and Defense. So generally speaking, we see a 3% to 4% increase in Defense budgets over time. But we're going to model all of that as we go through this year of deep strategic analysis in ’24, to make sure that our assumptions going from ‘25 through ‘28 are in keeping with what the budget assumption is from the Pentagon and other Intel agencies in the U.S.
+
+Chris, anything you'd like to add?
+
+Thank you.
+
+Good
+
+Thanks, Ken. I'll start and then hand it over to Chris. We are so proud of Liz and the Health team for their performance, their sustained performance that you call out over time. And, it is important to recognize that that's a unique mix of unique customer understanding that we feel we have and then unparalleled service to our veterans and others that we serve through the deployment of technology and artificial intelligence in the solutions that allow us to have more throughput for our customers, so that our customers can be served faster.
+
+Obviously, 13% revenue growth for the year is based on excellent program execution and profitability and passing the $3 billion threshold for that business is huge, if you don't mind me saying. So we're very proud of Liz and the team, macro, and we see that continuing in ‘24. Chris?
+
+Thanks Ken.
+
+And just for clarity, the third part of that business is our LinC, our Leidos Innovation Center. And so while that has historically been home roomed under our Dynetics subsidiary, we've pulled that up to the CTO level, so that the innovation and entrepreneurial spirit that it deploys, can be deployed for all the sectors and all the segments of Leidos. So that's the third part of that component Sheila, just for clarity.
+
+Yeah, how high is high? We don't know, Sheila. And that's part of the enjoyment of 2024 and the challenge that we're giving each of the sector presidents to come forward with their sector best-in-class growth and profitability plan. Obviously, we're guiding to mid to high teens in 2024. Obviously, that is already at a pretty world class level. Excuse me, high tens.
+
+Yeah, high 10s, not teens. That would be...
+
+That would be someday. But mid to high 10s. But you know, in the fourth quarter, we hit 11.4. So is cresting over 11 out of the range of possibilities some year in the future? I don't know. We'll see. But we're very focused on restoring bottom line growth as we increase top line growth. And as a result of both of them, it'll be a very accretive business from a cash standpoint.
+
+Hey, good morning.
+
+So she – I'm sorry Mariana, I think you're asking about hypersonics and customer demand for hypersonics and then international. The hypersonics is a good news story. And as Chris alluded to in his comments, we saw a pull in to ‘23 of work we thought was going to be in the first half of 2024 of our customer demand signal for hypersonics.
+
+We're in deep dialogue with the customers about how we continue to accelerate that business, because that is a capability that the United States needs to deploy robustly. So again, it's kind of like I answered Sheila, I don't know how high is high, but there is very, very strong demand for the United States to field hypersonic capabilities that are in the world class range and obviously we are in a very good position to be a key component of those hypersonic systems going forward. So, I think you're going to continue to see pull through there and focus.
+
+I think on the international side one of the most exciting things we have going for us is the strong footprint we have organically and already, obviously in the United States, but also in the UK and Australia. And there is great customer interest in what Leidos can do around AUKUS, not in Pillar 1. I mean, I have no interest in building nuclear submarines, but I really am interested in helping those customers in what they call Pillar 1 and Pillar 3, which are in the Intel data and digital systems worlds.
+
+So very much in our wheeled house for what we do here in the United States and in the UK and Australia, and very much a growth engine for us should be how we leverage AUKUS going forward.
+
+Chris, anything you'd like to add?
+
+Yeah Mariana, let me start and then I'll hand it over to Chris also. Obviously CHS-6, a major franchise win for Leidos in the fourth quarter of last year, one we're very proud of the team for. And it's a model that we expect to deploy going forward where we bring customers a value proposition that is compelling to them, both in the delivery we can give them and the speed with which we can spool up to solve their problems.
+
+But, one of the things that is not understood about CHS-6 is it's actually a very broad mandate for the customer and it's not just IT, it's the whole C-5 ISR domain. And so not only is it broad in what the customer can procure through CHS-6, but it's also a great example of how we can use the breadth and scale of Leidos to solve problems for customers. So not only is that home-roomed in one sector, but the Dynetics business is going to be a key part of helping it deliver for our customers.
+
+So we're very happy about that and the basic catalog is being built out and the orders are starting to come in, but Chris will give you some more details on that.
+
+Hey, Josh.
+
+Well, I would just add Josh, there's two macro headwinds that informed the conservative end of our range. One was the over performance in 2023 that makes year-on-year comparators difficult, and in this case challenging. We are very proud of our performance in ‘23, but that creates a headwind for ‘24 year-on-year revenue growth, against also the backdrop of the budget situation that is not yet crystal clear here in Washington, DC.
+
+And so while the 2% provisions against the worst case scenario in that, we will be working with the team to meet or exceed the high end of that range as we prosecute the year. So you can be sure we won't be satisfied if we just hit the bottom end of that range.
+
+Good morning.
+
+The Gremlins program was a fantastic demonstration of our prowess in aerospace. For those that don't know it, it was a remotely piloted vehicle that was also recaptured and then brought on board another manned aircraft. So a fantastic capability.
+
+But at this point, no. No, there's no discussions going on with the customers around that program going forward, although it has spawned other unmanned capabilities that we are talking to customers about, that help inform possible growth aspects for our Defense Systems business.
+
+There is certainly a possibility, yes.
+
+Thanks. Thanks, Louis. Yes, so the beauty of Pillar 2 of AUKUS is not only our presence in the U.S., the UK and Australia. But the fact that the work that is being done in those countries right now in the area that you referenced, is to a large degree already a place that we're playing in.
+
+So the beauty of AUKUS is an incentive for the nations to collaborate. We are very excited about the opportunities that gives us to lower the thresholds of sharing data. And obviously there's also big parts of the AUKUS legislation that lower those trade barriers, lower the ITAR restrictions and allow greater data sharing.
+
+So we see it as an open door for us to promulgate Leidos capabilities that hereto for Louis, kind of to your question, have been so piped in one country or the other across all those countries, and allow these great allies to punch above their weight collectively.
+
+Thanks, Louis.
+
+Thank you.
+
+And Peter, I'm going to answer you’re – the punch line first and then give you some color. No, M&A is not a priority in 2024. It continues to be in the playbook, but subordinated to other deployments of cash.
+
+As Chris articulated in his prepared comments, we've already provisioned to repurchase $500 million worth of Leidos shares this year. I'm happy to share with you that that is not all the bullets in our ammunition. We have other ability to deploy cash for great ideas that start to come out of the strategy process that I spoke to. And we're very excited about bringing forward those ideas and deploying cash responsibly, organically in great capabilities and great technologies that will enable us to have differentiated solutions going forward.
+
+Ultimately the five sector strategies that the Presidents are building will not ignore M&A, but the primary focus first and foremost will be what are the gaps, what are the needs we see our customers needing and how do we position Leidos best for those over time.
+
+Obviously if we can build it, we have the funds and the capability to provision for that. But if it's better, faster, cheaper and more expeditious for us to buy that, then M&A can come back into the playbook. But those will be a very thoughtful process through this year of strategy, where we carefully think through the playbook for what inorganic plays make sense for the North Star strategy we're creating. I hope that helps Peter.
+
+Hey Noah.
+
+Yeah, I would echo that Noah. And just give a quick shout out to Vicki who has taken on the responsibilities for this sector with great vim and vigor, and the person leading SES, Michael Van Gelder, just a rock star for us at Leidos. And they are taking this reset business and really they are excited about the opportunities that the market is presenting to us to grow, both in the traditional places and non-traditional places. So they and we remain bullish on the long term outlook for this business and we're excited to be in this aspect of the market.
+
+Yeah, I mean Noah, it's a little nuance there, and you know again without too many specifics, just keep in mind, in Q3 we did have a request for like a little adjustment. That contributed some uplift in profitability and Q4 we benefited from nice incentive performance.
+
+I think our commentary in the past and it still holds true is, the customer is expecting industry to continue to step up volumes to meet the increased demand and therefore the threshold on throughput continues to rise to achieve full incentive. So early in the year our expectation is we'll have some work to do to be ready to be able to prosecute that level of demand to earn full incentives. So therefore it's probably safer to assume that pattern will improve as the year progresses forward.
+
+The main point is, investing to make sure are the veterans get treated and seen and get the care and the benefits they are entitled to and we are looking forward to continue to make those investments to prosecute that work as timely as possible.
+
+Thank you.
+
+Hey, Bert. Good morning.
+
+And I – if you don't mind, Bert, I'm going to piggyback on that to give some comments about our people. We ended the year with 47,000 employees, up about 3% year-on-year. But the most exciting thing about our whole HR system in 2023 was attrition at very good levels for our industry, low levels for our industry.
+
+And one of the reasons we do that is not only do we have a competitive structure in our compensation plan, but we also are investing in our talented employees with technical upskilling, which is being taken up by thousands of our employees who remain curious about things like AI and Cyber and Autonomy. And the technical upskilling we have allows us to hold on to those employees and upskill them in place, because as you'll appreciate, it's one thing to pay for talent. It's a whole different ball of wax to have to constantly bring on new talent.
+
+So we're very excited about the attrition rates being low, the uptake in our technical upskilling being very high, and therefore that being a lever that we're using to manage our personnel costs.
+
+Yeah, the short answer to that is, yes, we do think there are opportunities for us to grow this business, and that is the very task that Liz and her team are undertaking. It's one thing to say yes, there are opportunities. It's another thing to think how do we prudently and purposefully execute a plan to grow that business in the lowest risk possible. That's very much what Liz and her team are focused on right now and part of the process that we'll be reviewing through the year.
+
+Sure. There's actually two parts of that equation, Matthew. One of the things that we're focused very much on with our link being elevated to our CTO office is CRAD [ph]. So making sure that we get customer focused IRAD, which has a two prong benefit. (A), it is doing the things that the customers need done. So that points you in the direction of what is the scratch they want to itch, but also its funded work that we can co-invest in.
+
+So we're very focused on targeting CRAD in the areas of technology that are going to differentiate us going forward, and we're very much focused on matching our investment, our IRAD in those focused areas also.
+
+Macro picture, obviously Software, Cyber, AI, Maritime Autonomy are four of the top things we're investing in. But again, as part of the strategy process, we're asking each sector to identify the Golden Bolts that will truly differentiate them over the coming three to five years, so as to give them solutions to the customer problems that are emerging over that same period of time.
+
+So we have an articulated playbook of focused IRAD. We have an articulated playbook of CRAD that we're going after, but we're also creating organically a poll from the businesses of what would you have me invest in that will differentiate my solutions and my capabilities to solve my customers problems.
+
+Thank you.

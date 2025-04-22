@@ -1,0 +1,54 @@
+Aman Bhutani
+GoDaddy, Inc. (GDDY) Q4 2023 Earnings Call Transcript
+
+We can.
+
+Thanks Naved. Why don't I kick that off with a quick comment on the macro and I'll turn it to Mark for sort of the range and the valuation allowance. On the big picture, our customers continue to be the micro businesses and they're resilient crew and definitely we see strong demand continuing to come in through the front door. Of course, we continue to optimize our spend, marketing spend and be very, very judicious about finding new customers and bringing them to the site. But gross ads continue to be strong. And generally, I would say, our customers feel a little bit better about their prospects.
+
+Mark, I'll turn it to you.
+
+Thanks Zach. On Airo, we're super excited about the Airo launch. It's not often new launch, a completely new experience and customers, who are used to a certain experience adopt it and it actually does better in the first test. So super encouraging results. We are actually rolling out Airo very, very quickly to more and more cohort of customers that starts with new customers. For example, when we first started in November, we were doing it for customers that bought a domain. Very quickly after that, we enabled it for customers that bought a domain and a website. And so, more and more Airo capabilities are showing up to more customers. We launched it in international too. Of course, the full swing is getting it to all of our new customers across the globe and then starting to penetrate the base as well, which where a ton of opportunity lies for us to be able to go to our basic customers and offer them these capabilities.
+
+So, I would say every week more customers are seeing Airo. We're actually moving as quickly as we can. I'm super happy with the team's progress. And in terms of the guidance, I'll turn it to Mark.
+
+Hey, Vikram.
+
+And then maybe, Vik, just looking at it from a different lens, you asked about A&C. If you look at it as the components of the products that we sell in A&C, every part of A&C, or every significant part of A&C, is growing booking double-digits right now. Right? So that's really propelling that business and getting to that 16% bookings growth we talked about.
+
+Thank you.
+
+Yes, thanks, Matt. We are still in very, very early stages of penetrating our customer base. We feel very comfortable that we have access to a lot of commerce intent customers within the base already. We do expect it to continue to be the largest driver of our growth in payments in 2024 as well. So, we expect very healthy growth.
+
+As I said in my prepared comments, we are going to expand what we're selling to these customers. We're going to go after more of the omni commerce solution. We're ready. We've got some great products, some great offerings. You'll see much of it in March as well. So, we're going to go broader with our offering to these customers, but the core payments functionality, we feel really good that will keep growing well.
+
+Yeah. Just to make sure, what we talked about is 16% is bookings, right? Revenue is always going to lag a little bit, like Mark said, and you'll see it show up, of course.
+
+Yeah. On the international markets, our typical rollout plan is always English, large English markets first. So those are the markets we're testing now. But our absolute view is that Airo is a capability that should go across to all our markets. And there's a long tail of great tickets for us to approach there. So super excited about that.
+
+In terms of product attach and other monetization means, of course, product attach is the first level we're looking for. But as we'll share a little bit at our Investor Day, we're also looking for new monetization methods. And I'll just give you an example. One of the things that we want to test is a premium offering for logo building. Where -- as you see in Airo, you buy a domain and Airo builds you a logo and it builds you or gives you the ability to be able to edit that logo. But there are more services that we can offer around it. And we're going to test a new paywall for it and a new monetization method that GoDaddy has never done before. So that's one example of one of the types of things our teams are testing.
+
+And then I think in terms of the second part, I'll turn it to Mark.
+
+Yes, Ygal. A lot of what we talk about is GMV is often through our partnerships that we have. They tend to sell in the big categories, in the big verticals that you know about. Nothing significant to call out there, right? It follows to some extent the macro and sort of how customers are doing. Our focus very much is to provide them with a very competitive product so that they've got a system that works really well for them and it shows up in the results.
+
+Thank you.
+
+Yeah. When we think about optimization and guiding to it, everything we have line of sight to is in the guidance already. But the fact is we're constantly evaluating new opportunities. Our teams have a very disciplined approach to looking at those opportunities and they bring forward proof points and what they need to do to be able to achieve those targets. And every quarter we're evaluating them and moving forward with new ideas. And if anything were to evolve, we would absolutely tell you more. We have a great track record of doing that over the last couple of years. And our goal is to just continue that momentum, continue that discipline. And it just compounds and that's a great thing.
+
+I think it's hard to project sort of multiple scenarios there, Elizabeth. It also kind of depends on the product mix in terms of which products exceed targets, but generally we're looking to, on a regular basis, balance growth and profitability. Again, our teams have a pretty disciplined process of bringing proof points in on where we invest and how we double down. On investments, something changes, our goal is to be very transparent with you guys on the call as well, so you'll be able to be on that journey with us.
+
+Yeah. Let me start with Airo, John. We don't have sort of a number to disclose today, but we are looking forward to talking about this at our Investor Day. It's one of the things we are going to share with you. But just to give you order of magnitude, in the first six, eight weeks, hundreds of thousands of customers had already seen the Airo experience. So, this was not a small rollout by any stretch of the imagination. And that's just new customers, purchasing customers that I'm talking about. And you talked about sort of where we expect to get by the end of the year. Our timelines for Airo are much more aggressive than that. We expect a very large percentage of our new customers to be seeing Airo within the next few months. And by the end of the year, looking much more at how our existing customers are starting to engage with Airo and how can we make a real difference there.
+
+And I'll turn it to Mark for the headwind, 100 bps.
+
+Yeah. What you saw us launch in November was Airo capabilities, mostly on our identity and presence products. And if you look at the entrepreneur's wheel, right, we lay out identity, presence and commerce and the customer needs that surround them. What we're going to show you at Investor Day is a sneak peek into all of the commerce capability layered with Airo, which includes not just payments capability, but core commerce functionality like inventory management and catalogs and how Airo will work on hardware, for example, versus on the web where today when we talk about identity and presence, you're seeing Airo capabilities mostly on the web. But how does that translate to a piece of hardware that a customer is holding and taking a transaction on?
+
+Hey, Ella.
+
+Yeah. And maybe to add some of the data we have shared, our website products, so Websites + Marketing, Managed WordPress are our highest margin products and they're growing double-digits. So obviously that's driving goodness in the A&C segment.
+
+The customer profile for GoDaddy Payments very much sort of squarely within the overall GoDaddy customer. We started with the micro seller, people selling $50,000, $100,000 a year, and we built up the million dollars, a customer who sells million dollars a year are now over a million dollars. That's the target market. That's what the product is targeted towards. So, we're very happy with the products we're growing. We're adding more capabilities in 2024. We're just going to keep broadening the omni commerce solution and tuning our go-to market. And that's what we're most excited about is just selling that broader view to our customers, like Mark said, getting to that really that third product that locks in retention for the long-term.
+
+Thank you.
+
+Thank you, Christie. And thank you all for joining us. We're looking forward to seeing you at our Investor Day. We're excited about it. We have a lot of cool stuff to show and hopefully you're able to make it. Thank you.

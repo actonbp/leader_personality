@@ -1,0 +1,56 @@
+Mark Dankberg
+Viasat, Inc. (VSAT) Q4 2023 Earnings Call Transcript
+
+Hi, Ric.
+
+So on the - one of our top priorities are. One is we are, as we've said, really intending to grow in the global mobile markets, which are -- we're really in open sort of a broadband basis, there are markets in which we both participate. And those are government, commercial in-flight, business jets and maritime markets are the main ones.
+
+What we really are aiming to do is to get the best of both companies. And it's going to take -- I think that's -- one of our main priorities is if you look at the kind of go-to-market differences between the companies, Viasat has tended to be primarily direct sales. That requires more technical support, delivers lower margins, gives us a little more control of the customer experience.
+
+On the other hand, Inmarsat's margins are very, very good. They tend to be primarily wholesale. They have an existing global network. And there are attributes of each company's business models and service delivery techniques that we think we want to combine. And so that's one of our most important points.
+
+Just to be clear, we have -- we place great value on the distribution relationships that Inmarsat has. We expect to continue -- we may be able to augment some of the ways in which we deliver services to our distribution partners. But in other cases, by connectivity, we provide a greater range of services than some of their distribution partners do. So that issue kind of capture the best of both is high on our list.
+
+Another one that we really want to emphasize is integrating the two networks, one of the real attractions of the combination that Viasat and Inmarsat is that we both operate cases and networks. And so that -- there's some really important synergy opportunities by being able to make over time, the platforms that we support work across each of the networks.
+
+So that -- obviously, with the Inmarsat network, we'll be instantly global even before we get the next two ViaSat-3 satellites. But with the ViaSat-3 satellites, our depth and coverage will be much, much greater, and I think that will allow us to extend some of the services that we've done so successfully in the U.S. to work on a global basis.
+
+So those are -- I'd say those are probably the top two priorities. And then the next one is to really apply some of the technologies that we've been developing here at Viasat into the L-band markets. Because ultimately, what we see is a lot of opportunity in the L-band market if we can do some of the same things that we've done in the Ka-band markets using some of those same technologies, which are to increase the speed, increase the amount of bandwidth that we can offer and drive down air time prices. We're really excited about the opportunities there. So I'd say those are kind of our top three priorities.
+
+So the opportunity, I think, for direct device is really going to be driven by the -- when we talk about direct-to-device, a lot of times what people are referring to our devices that are primarily intended to operate on terrestrial networks, but that can also work directly on satellite networks. And so the big opportunities are, especially there for those frequencies that are easy to integrate into those terrestrial devices. And that includes both L and S-band. What -- and there are different approaches to it.
+
+One of the things that we think is a big advantage of being able to do that with a dedicated device MSS spectrum is that, that spectrum will appear with the terrestrial frequencies and those through devices to operate on. And we think that, that will allow us to address geographic locations, many geographic locations that are within the territory areas of these terrestrial networks but just get poor service for a variety of reasons, poor placements of cell towers, shadowing, all those kinds of things. That's to be one of the biggest tractions of using licensed MSS spectrum.
+
+One of the things that's going to be a challenge in the rate of growth is that these are new capabilities for those devices. So the market can scale any faster than the market for serving those devices can't scale faster than those devices get to market.
+
+But on the other hand, one of the really attractive things about us and Inmarsat than both having existing L-band MSS businesses is that we can evolve that without having a big ramp-up period. That's one of our objectives is we think that the same techniques that will make our services available and attractive to the terrestrial devices will also expand the market for the existing can devices. We can just provide much better services. That's what our objective is. And we see that as a -- it's not going to be an interesting thing, but we think it's a really attractive growth market for us.
+
+Thanks Ric.
+
+Okay. So one, our implied business has been really, really good. I think we've got a backlog of over 1,300 claims. So even though we've been installing at a high rate, we've been winning at an even higher rate, it's great. I think that the -- and I think the reason we've been successful are the things that we've been highlighting to the airlines, which is kind of the simplest way to put it is like three, four years ago, if you want -- if you wanted an impressing airline with your capabilities on in-flight connectivity you find an airplane around and show them a speed of 100 megabits or 200 megabits and then [indiscernible] that's good.
+
+I think what the airlines have really come to appreciate is what's really hard is serving the peak demands at the busiest airports, especially those airports that have not only airline traffic but are on port cities with maritime traffic. There are other traffic as well. It's that geographic concentration of demand that I think is really going to be the most challenging issue.
+
+And from our perspective, what we're hearing from the airlines is they want a good solution that offers their passengers not only the connectivity, but the connectivity is pretty closely intertwined with their entertainment options both live and stored entertainment.
+
+And yes, of course, they're open to LEO, GEO whatever will allow them to deliver the services that their passengers want affordably. I think that's what they're going to be open to. So we're going to make sure that we're competitive there. That's what's driving us. And I think this Inmarsat transaction is going to really help us do that.
+
+Sure. Yes. I think -- and if it's -- if you define the addressable market for satellite broadband broadly, to be those homes where we can -- we lead the satellite industry can deliver a service that is, I'd say, best than what they can get from a terrestrial option. That's how you define it. So don't think of it as generally the hurdle for doing that has continued to rise. But if you can deliver 25, 50, 100 megabits per second, and you can deliver sufficient bandwidth to allow people to meet their streaming needs, that's going to be competitive. And probably what today is roughly 10 million to 15 million homes. What we're anticipating is that say by five years to the end of the decade, that may go down to 5 million to 7 million homes with the infrastructure build-out that's currently contemplated is comes to fruition.
+
+So that's kind of both where we are and where we think the market is heading. And then we think that, that our objectives are really to capture a reasonable, I'd say, a reasonably modest portion of that growth for broadband. Yes, that market, I think, reasonably conservative moderate version share of that market.
+
+Thanks, Simon.
+
+Okay. One thing is, there's no restriction on devices that can be used with geosynchronous networks, right? So if the geosynchronous networks are capable of closing those links with the service level, the availability and the price points that customers want, then they're going to be completely fine. And there's already work underway both in the U.S. and globally to both demonstrate that and to bring those services to market.
+
+But it is a little bit of a complicated regulatory environment. What we think, and we think this is and we've kind of said this for both broad markets as well as narrow direct-to-device markets is that we think that the solution is going to end up being a combination of geosynchronous and non-geosynchronous satellites.
+
+One of the biggest issues in this direct-to-device market is going to be the geographic concentration of demand because especially in the direct-to-device market, the amount of demand, there will be over oceans or in populated areas, is not nearly as great as it will be in the population centers, especially in an environment where you can use dedicated licensed spectrum and conserve those populated areas that have all those kind of ticking these black spots. So I think it's a dynamic area, but we don't see any reason that it's going to be exclusive to any particular orbit.
+
+Okay. So two things. One is the contracts that we had for Link-16 in space did go with the TDL sale. We still have working relationships around Link-16 with L3 has. But there's also other tactical link programs other than Link-16 in and around L-band that are interesting to terrific radio customers. So we are continuing to work on that. And that's one of the attractions of L-band direct-to-device market is that it does open some really unique defense opportunities that are outside of Link-16 area. So we are still working on those.
+
+It certainly could. That's possible.
+
+Thanks, Mike.
+
+Okay. Well, thanks very much, everybody, for joining us this time. And we'll look forward to speaking with you again next quarter.

@@ -1,0 +1,50 @@
+Blake Moret
+Rockwell Automation, Inc. (ROK) Q4 2023 Earnings Call Transcript
+
+Good morning, Scott.
+
+Sure. So just for context, China's about 6% of our worldwide sales, so big manufacturing economy but relatively low exposure for Rockwell there. And we saw very strong sales in China for the year. But in China, the orders were lower. And that is the source of the cancellations that we did see. While our worldwide cancellations are roughly in line with what we've been seeing, China is the highest component of that. And I would say it's broad based. It's not one particular industry. We still see wins and investments in areas like EV, but the distributors that most of our products go to market through in China still have relatively high inventories and they're working that off.
+
+Sure, Scott. So we launched the entity with at the time Schlumberger a few months before the pandemic, so that was in 2019. And the lower base that resulted from COVID shutdowns and the subsequent supply chain shortages along with a refinement of some of the original mix assumptions caused us to take the impairment. We've changed out the management team at Sensia. And we've seen the last couple of quarters of encouraging improvement. We have great orders, good backlog, and improving profitability. And so we expect over the next few years that Sensia will actually be quite a large contributor to the improved profitability in Lifecycle Services.
+
+Thanks, Scott.
+
+Hi, Andy.
+
+Sure. Thanks, Andy. So first of all, in terms of the orders development, we saw orders ramp up throughout Q4. And then we saw October orders up sequentially from that, and supportive of our view that Q4 was the trough. We expect orders to continue recovering throughout Q1 and building in Q2. So that's the view in terms of the orders development. And that's based on what we're seeing what I just described, as well as direct discussions with our end users and machine builders that have the largest contribution to our business. So we went and did a detailed analysis of their CapEx expectations, their OpEx expectations, what projects that we have the opportunities with. And that coupled with our own personal views and with our distributor feedback are all supportive of this shape of the order recovery curve. In terms of the mega projects, I don't know that that's going to contribute so much to the lumpiness. I think it's going to be a positive, additional amount of business that builds throughout fiscal year '24 and beyond. The majority of the projects that we're tracking, and we're tracking literally hundreds of projects that are incented by some of the recent stimulus, the majority of those projects have not made a decision or have not released the automation equipment. So when you look at those projects, certain equipment, which would probably include switchgear, things like that, would be led earlier in the project cycle with automation to follow after that. So we think that we're still in the early innings with respect to those mega projects. And our tracking processes and our early wins are very encouraging.
+
+Thanks, Andy.
+
+Hi, Jeff.
+
+Sure. Let me make a couple of comments, Jeff. And then Nick may have some to add as well. So we saw orders increasing. If you look at beginning of the quarter of Q4 to the end, we saw orders exit at a higher rate than at the beginning of Q4, and then with a good uptick from that sequentially in October. So that was the ramp we were talking about, and why we believe that Q4 was the trough for orders.
+
+And if I can add to that. So our distributors are seeing a higher level of incoming orders than they in turn are placing on us due to their high inventory levels. So we have, as you would imagine, very good visibility into our distributors' incoming orders from their customers, from their end users and the machine builders. And that order activity is higher than what they're in turn placing on us. So that gives us additional confidence that orders will ramp up as their inventory situation comes down.
+
+Sure. So at the negative end, you would see a slower reduction of inventories at our distributors and a deterioration in the macro. At the upper end of the range, you would see distributors stabilizing their inventory at higher levels than they did before. So getting back to that equilibrium and placing orders that are more reflective of the underlying demand from users and integrators and machine builders. And you would also see at the high end some of the impact from the big projects being spurred by stimulus, specifically in the U.S. I should add as well that on the high end if we talk about total sales, some of the performance in terms of new acquisitions I think there's some opportunity there as well.
+
+Yes. And if I could just add one additional piece. We do expect shipments to ramp sequentially in terms of volume through the year. You get into a little bit of the math of comparables based on having such strong shipments at the tail end of the year that enters into the math of the year-over-year growth as well.
+
+Thanks, Jeff.
+
+Good morning.
+
+Yes. I think that would contemplate push outs that turn into cancellations quite frankly, whereas if a project is pushed by a couple of months, it's not going to have a big impact in the year. But if some of those projects or a larger amount of those projects rolled over into deferrals or cancellations, if people said [indiscernible] just kidding about EV, we don't need to build out the semiconductor industry process, which is 35% of our business, if people aren't looking to increase energy, both hydrocarbon and renewable energy forms in the U.S. If we saw a significant reduction of those projects, I think that would contribute to that minus -- that downside part of the range.
+
+Yes, we're looking at 15% ARR. And we're very proud of that ARR number, because it's broad based. It's not just the newer acquisitions like Plex and Fiix, but it's our traditional offerings as well, some of the on-prem software. And as we go through the year, based on overall Rockwell, we do expect ARR to increase to above 9% of our total sales in the year. It's a combination, both of the software as well as the high value recurring services. We made some organizational changes to supercharge that area. And that along with some of the new developments and offerings that we have, make us very optimistic about the contribution that ARR is going to have to our overall growth. And obviously, we like the resiliency that it gives our results by not starting each year at zero with respect to software sales.
+
+Thanks, Andrew.
+
+Let me start with the Americas discussion and then Nick can follow up with a little bit on the book to bill. So the Americas actually outpaced the rest of the world with respect to orders. And we expect that to continue in fiscal year '24. We've talked about for a few quarters now based on shipping from backlog, in some case fairly aged backlog, that our distribution of growth by region and by industry segment is more a factor of the backlog than the current underlying demand. And you're correct that we do expect the highest growth region to be the Americas going forward. With respect to the impact of stimulus, we're still in the early innings there. The business that we're winning there is really just ramping up. We saw some good development in the second half of last year. But by far, there's more business to come based on the projects that we're tracking.
+
+Thanks, Julian.
+
+Hi, Nigel.
+
+So that would indicate an exit of the fiscal year at above $3 billion.
+
+Good morning.
+
+Yes, the cancellations were in a similar range to what we've been talking about, which is to say they were not the major contributor to the orders, a decrease. The main contributor by far to the orders decrease is the high inventory levels at the distributors. So cancellations were a relatively small piece of it. At this point, clearing those final golden screw or fourth wheel constrained components to be able to allow distributors to shift, complete bills and material is also a smaller component of the overall contributor to the orders down in Q4.
+
+Yes, Steve. First of all, as Nick said, we expect the Clearpath contribution to be accretive in fiscal year '26. This is an important strategic move for Rockwell, and one that I think will be apparent as we talk about it and demonstrate it next week. The dilution in fiscal year '24 is based on a combination of them ramping their capability. So think of it as somewhat of a startup mode, but also as making sure that we surround it with the right resources to fully integrate it as quickly as possible into Rockwell to be able to provide that value for customers. So that's not only the technical resources, but it's the commercial resources, it's the infrastructure to help them drive cost out of their operations and drive unit cost out of those AMRs. And so it is some additional investment from Rockwell's part to make sure that we integrate this really thoroughly, because this is a major milestone for us.

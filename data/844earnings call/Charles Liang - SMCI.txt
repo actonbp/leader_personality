@@ -1,0 +1,42 @@
+Charles Liang
+Super Micro Computer, Inc. (SMCI) Q4 2023 Earnings Call Transcript
+
+Yes, thank you for your question. Yes, as AI has been our major focus is since a few years ago, and we work with AI chip company kind of very closely. And we could develop lots of our platform, including our MTX. Now coming MTX, as you know, to support a C2and CG1. So our AI solution with rack scale, or cloud scale, customer scale solutions that make our customers deploy even much easier. And full rehab, they also solution for energy cost as they've been for time to online. So I believe our AI product line will continuing to grow in the near future maybe continue to be more than 50% of our revenue.
+
+We continue to get lots of new customer or partner continue to like our solution. And we continue to gain new customer with our rack scale, cloud scale, total solution, including air cooled and liquid cooled, right? So we see a very strong demand and growing very fast order. So $10 billion should be kind of a short term target this year.
+
+Yes, indeed, our engineering team is strong and dedicated. Everyone can design systems, our system simply better than others, not just better in quality, performance, but also earlier time to market. And together with service, software, system management. So it's a total solution and service. So we feel pretty confident that we will continue to gain market share.
+
+Indeed, our pipeline I believe is very strong. And that is momentum, its ability is very clear. So we are very confident especially with another chemical customer too.
+
+Yes, it's a complicated question. We have a very good product many product line for delta mix for restore mix for grace for grace and other solutions including error 40s. So the solution is really strong and supply chain we work with our vendor very closely every day. And so hopefully that situation will be consistently improve, but it's not 100% control of our sale. So although we have a good partnership but it's 100% controlled by our sales. So all though we have a good partnership, which vendor, which customer. So we work together very closely, And the situation will be continue to improve I believe
+
+Yes, and see the other side? I mean, the tech order had been continued growing strongly. Every month I see older growth.
+
+Yes, thank you. Very good question. Again, we continue to gain generative AI innovator, and we have a very good partnership. We partnership with some small OEM. And for sure, they need 10 times 20 time more system. And we just cannot ship at this moment, because of supply chain.
+
+And at the same time, we also continue to engage with large CSP, in large data centers. So we continue to gain more customer from I read who say, all given political. So yes, hard to work out which supply chain, three party regime, our supplier, our customer in our sales. And that's have been our major focus now. Although we continue to improve our total datacenter solution included in DRC, direct liquid cooling and liquid immersive solution. So I mean, we are on the right track, yes expecting supply chain can improve so that we can grow our revenue.
+
+Yes, absolutely. I mean, we continue to prove to our customer and our vendor, say, hey, we have a business solution. So okay with us, that's where we went wherever you went.
+
+Yes, I can. We have a very good product. And we have a very good partner customer. And we, we pushed our vendor. And we know our vendor doing their best to support us at the same time as well. So we just have to continue to work together.
+
+Yes, now AI server storage, IoT telco, we keep involve and a bit blend. Understand that industry has been declining, we are not declining, above Fed. And we try to grow as well. And that's why we are growing in many directions kind of manufacturing, kind of like Taiwan and Malaysia. And we may have another North America campus. So that's all to increase our capacity, so that we can grow traditional data center business as well, instead of omni focus on that, growing AI.
+
+Not exactly impacted, but not exactly. Indeed, as traditional server, traditional datacenter business, and a bit bland from the demand side. So we face into similar experience as well, but not declining to…
+
+Yes, in retail solutions, [Indiscernible] and people really are with NVIDIA more supply. And other solution from Intel, from AMD, because our building block solution, we have a solution ready for show up again. So that's the advantage we have. So we just waiting for their solution to be available in production.
+
+Thanks.
+
+This is very new questions. So we have a very good DLC, direct liquid cooling solution ready to go now. And it's all depends on customer demand. And at the same time, the big emotions solution also getting ready. So we have all three solution and depends on customer's demand. At this moment, for sure [Indiscernible] still a majority, as you know.
+
+Thanks.
+
+We believe their capacity are growing. And that's why we talk to them every day asking for more. So hopefully we can gather more support from them. And hopefully their capacity that grows mostly quickly. So that's all I can say now. Okay.
+
+Yes, basically we have a strong order backorder. And we still have not full capacity. We are waiting for more AI chip. That's our situation.
+
+Yes, basically in NVIDIA we have a more capacity for sure. And we're really happy to wait over there. And besides other than the alternates our residental mix next is a company that is already in our CG-1 solution is pretty much ready as well. So we believe we can ship much more and not less situation. So in next four quarter I believe will continue to grow quarter after quarter.
+
+And even a supply condition, I believe we can surpass $10.5 million for sure easily.

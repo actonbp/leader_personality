@@ -1,0 +1,108 @@
+Niraj Shah
+Wayfair Inc. (W) Q4 2023 Earnings Call Transcript
+
+Thanks, Simeon. This is Niraj. Sure. Let me answer that. So first on market share, obviously, there's a lot of ways to calculate market share. I'd say our main two ways we do that or we have a credit card data set we get, which has close to 100 competitors on it, and that gives us really good granular data at the competitor level and in total.
+
+The second is we talk to our suppliers lately, and they share how we're doing, and they'll share details relative to specific competitors. And while that's less of a quantitative read, that's a pretty dense detailed read. And so we use those two.
+
+But if you zoom out, the easiest one is just to look at our revenue, right? And if you zoom way out, you see our revenue was up just under 0.5% in the quarter year-over-year. I think if you look at competitors, depending on the category you pick, you're going to see numbers negative 10, negative 15. You're going to basically see numbers even maybe higher than that some are going to negative 20, that's where the category was year-over-year. So obviously, that delta is the share that we took because obviously, the revenue is customers voting with their dollars, that's the market share.
+
+So we are - the way to think about it for five quarters now since the fourth quarter of 2022, we've been taking away taking share, and that was basically on the back of availability and price starting to recover post COVID in the December 2022. By the fourth quarter of 2022, we had that recipe back in tax. So we very quickly started picking up the share, the low-hanging fruit of the share. But then even though that got hard after that as we hit all-time highs, we've continued to take share. And so our all-time high -- we keep hitting all-time highs in market share as the quarters go by.
+
+And so what we would expect to happen is that you're going to see the category for a period of time in the near term, be challenged. So the year-over-year numbers for the total category will be not great. And you're going to see us outpacing them significantly, thereby picking up incremental share continuing to hit all-time highs. So I don't know if that helps with the context of what we expect. But that's sort of the way we see it.
+
+And then the only other comment I would make is, obviously, we would expect the category to subsequently recover. It's a cyclical category. And it was interesting, I was reading a note someone put out about the Home Depot called the other day. I hope people do say a well-run company, but obviously, is in the home category as well, and they're talking about how certain segments are challenged right now, what have you.
+
+But not talk about how from a cost and a revenue potential standpoint, they're really poised for huge gains once the category recovers. And what I would point out is like that's also how we feel we are. So in other words, we're taking share while it's really hard to take share as the market is shrinking. It's a challenging time to make sure as competitors don't want to give up share.
+
+But we've taken up $2 billion in cost, close to it. We've gotten ourselves where the unit economics are very strong. We've got customers really responding to what we're doing. You see that in the market share you see in the active customer count, which has picked up and so as the market turns and demand comes back, I think you're going to see quite a nice acceleration in revenue and profits as well.
+
+So while the market is tough, you're going to see us continue to tick away just with the execution we're doing. And then you're only going to see that get a lot better as the market recovers.
+
+Yeah, sure. So I think the way to think about - so actually, one thing I'll just put a plug in for is that we, today, along with obviously the earnings call materials, one of the things we released on the investor website is our annual shareholder letter and as title say, we only do that, obviously, once a year. So it's an opportunity to look out to the future and for us to share our thinking on a bunch of topics.
+
+And I really encourage everyone on the call to just take a few minutes to download that and read it. It's right on the IR website. Because there, we can really share some detailed thinking about what we're focused on, which is not so much the near term focus as the call tends to be.
+
+But one of the things I do mention is how we think about how we're poised for future earnings. And I talk about how the next $1 billion of revenue would flow through in the mid to high teens on EBITDA. And that's basically the concept. We have fixed costs in the business, and we get to leverage those as we grow. So there's - that's hopefully your point on kind of how - what's the incremental potential look like?
+
+Why don't I answer the first part and then I then turn it over to Kate for your second part there. On the productivity, efficiency gains, head count side, I think the way to think about it is, we obviously did reduce head count over the last 18 months. But this last time, what we did is we did it with first and foremost in eye to what we thought a very efficient organizational model would be versus a cost savings target or something like that is the initial going-in goal.
+
+And so we think we've set up what will be a very efficient organization. There is some head count we will add to that, but it's modest in the scheme of the head count we have and what it really does, it lets us really reformulate teams including a lot of the more junior members of those teams, which during the COVID period, we hadn't hired. And so we didn't have as many of those folks on the team as would make sense from a ratio standpoint. And so with the college hires will join, we'll have them there. But that's from like an incremental head count cost standpoint, that's not a big number.
+
+And what we think is that there's a lot of productivity gains to come and that comes from a few different things. One, it comes from with the organizational model we set up, we think it enables folks to move faster and get more done. We're already seeing early signs of that.
+
+Second, we think then a lot of people are in new roles. So then as they get settled in as they're executing, we think there's compounding gains there. And then the last piece is we've spent a lot of the last couple of years on a technology transformation and re-platforming our core technology stack. And as we're nearing the later stages of that, we get a lot of gains from when we build feature function on the new technology. It's much faster to build and much flexible. And those games will come in the future, but we're nearing that point. So we're quite -- we feel quite good about how productivity will continue to compound as we go forward.
+
+Okay. Great. Brian, why don't I - On your first part of your question, where you talk about is the backdrop getting more difficult. I think what you're referring to there is, has the macroeconomic climate gotten tougher. I think that's kind of where you're going with that.
+
+And we would say, yes, we would say that the macroeconomic climate has gotten tougher. I think that is what -- we just read comments from a lot of other retailers that have made public comments. That's what I think you're hearing broadly we've seen that in the credit card data. And I was at the Vegas furniture market, which I referenced earlier in January was particularly tough. Now, there was some bad weather in there that was temporal. So things have gotten a little better since. But the market is softer than you would have thought it would be if it was kind of like sequentially just kind of modestly seasonality adjusted flat.
+
+So I'd say the macro has gotten tougher, but I will also point out the macro, the depth of the macro drawdown now is quite significant. So it's kind of like, again, someone -- I forget who know it was, they referred to like demand bouncing along the bottom. And I'd say that's kind of like generally what we would think it roughly is, but you can't predict the macro.
+
+So that's why we focus more on the internal execution on the recipe. We focus on the internal drivers that we know will let us take share, that will let us outcompete others and do well regardless of what the market size is.
+
+And we -- just in this quarter, to date, so not the fourth quarter, but the first quarter our market share has continued to climb. So we're still hitting all-time highs. We're continuing meaning, we're climbing -- we're hitting new all-time highs.
+
+Thanks, Ann. So a few thoughts on that. So first, you do see demand get increasingly pressured as you move down the income levels. So, obviously, you would expect that, but we see that in our data, and we also see that in the macro data we get from – particularly some of the banks and credit card companies. So I'd say that trend is pretty clean and pretty obvious. And so I think there's nothing surprising to that.
+
+And then in terms of our brands, when you talk about our brand and specialty brands, which play above mass and then the luxury platform Perigold, which plays above that, you're seeing that those hiring ones are doing quite well. And Perigold, I mean the luxury market is much less competitive, but it's growing at very significant rates. And part of that is, it's smaller than Wayfair, but we have small market share everywhere.
+
+It's just -- that's a relatively young brand for us. It's executing very well. And as we mentioned a minute ago, that higher end market is less pressure. So it's a much better plus, but it's growing significant growth rates.
+
+Thanks, Colin. So first on your first part of your question around the customer segmentation, and I think basically, your question is like the growth of Temu and Shein and TikTok shop. And so what role do you see them playing from a competitive standpoint for us.
+
+What I would say is what we've really seen is where they compete is at the very low end of the market, both low end quality wise and ticket size. And so that's where their volume is that's what they're known for kind of with customers for I think that's where you see Amazon obviously lowered their take rate at the low end of certain categories, I think, because it's kind of a holiday competition there with those folks were. And I think some of the other folks who sell kind of smaller odds and then kind of referencing.
+
+We have not seen them really be a competitor. And we -- obviously, we go focus on home. Many people have a home business, the question is what do they really sell in home? What are the subcategories and what tranches of them? Do they really play in and that's where you start seeing the event diagram overlaps end up not being necessarily a very large in certain places, and they are much larger in other places.
+
+So we have not seen these folks to be competitors. Also, some of them are very large advertising spenders and we have not seen them really be a player when we look at the share and who our competitive set is in certain of the lower funnel advertising, things like Google, PLAs and Google Search or some of these things that are highly targeted and high intent. We don't see them being players there.
+
+And as you go upper funnel, things like display or things like television, these are vast markets where no one competitor or two competitors move that market and you're not necessarily competing with named specific competitors that those markets are more broad. So we haven't seen the big competitors.
+
+Now we obviously watch all our competitors and what they're doing and how things are evolving. But we feel very good about what we've built for differentiation in home around the shopability or the delivery and logistics around the set of things that frankly or unless you focus in on these bigger bulkier items and the home goods, in particular, that are from the damage. I don't think you can necessarily tackle those things very easily. So we feel very good about that.
+
+And then to touch on the second part of your question on logistics, and you said, hey, in the shareholder letter talked about logistics for a little bit. And you talked about do these great revenue opportunities to these create cost efficiencies. Well, the answer is they can create both and just one example I'll highlight, which is kind of a service offering that makes a lot of sense for us to provide doesn't make a lot of sense if you don't focus on like our categories very deeply, would be something that's relatively new, but that we've been working on and we'll start to roll out, which is consolidated delivery.
+
+So consolidated delivery, it allows you, whether you're moving houses or you're doing a renovation or you're an interior designer doing a project for a client or one of the items for your bathroom remodel of your contractors show up at a given day or you're helping your son move into an apartment.
+
+And you can basically pick an order of a set of large and small items pick a date in the future that you want them all to be delivered and they can then be delivered at the same time on that date in the future. So from a customer standpoint, you can see how in certain use cases, that's incredibly convenient. It would be very helpful for the customer for that to happen.
+
+And so you can imagine that the customer would be inclined to buy more of those items for that use case or that project from you, because it's going to be easier. They'll all come together at the same time. And so maybe you wouldn't have booked that coffee maker from us, but if it's going to be one of the many items you want delivered at the same time, you might as well just buy it from us instead of buying it somewhere else even though it's more of a commodity item or what have you. So you can see that growing revenue.
+
+But then from a cost efficiency standpoint, as you can imagine, delivering things one at a time is less efficient and delivering a lot of things all at once. And so when you have a logistics network where we have fulfillment centers, we're picking up from suppliers. We have over-the-road transportation, moving goods down the chain towards where they're going to be delivered from. We have the delivery terminals given that we have that infrastructure, you can then with software, which you have to build, which is complicated. But as you have that, you can actually lower your cost of delivery, while improving the customer experience and growing revenue.
+
+So you get these combination effects. I picked one that happens to just the easier one to explain. There's a lot of other benefits and the various things we're doing. So we think the logistics runway is a real one. It's significant, and it still has a lot of room for us to build kind of good customer experiences there.
+
+Great. So what I would say is the curation strategy, which is about really building up the - talk about the house brands and the specialty retail brands, but building up the selection in those with great items that we know customers will be thrilled with once they open the item and get it in their house and set it up and putting that kind of stable approval on it. Obviously, nature is very well priced. The logistics are under optimized. We think we can keep building that up and adding that value to that curation. So we think what we've done so far is just the beginning of that.
+
+Now what I would say is, obviously, we then are very thoughtful about which suppliers we're working with for those items, like where we taking these items from. So we're picking these from items who we know from suppliers that we know are reliable and ones that we can work with it well and who we have tight relationship with.
+
+Obviously, that then we could take many things into account. And obviously, like where items are produced through the tariffs question really is about a source of production. The category I would point to that's had a lot of tariff complexity over the last couple of years of mattress.
+
+And there's been multiple rounds where mattress sort of different countries have been assigned, different kind of penalties associated with tariffs, which really inhibited production in different places. And we've obviously been very cognizant to make sure that we have production that lets us have the quality items we want at the prices that make sense and making sure that we maintain availability that we're not out of stock and chasing it.
+
+So that's the type of thing that we think about as we're building our assortment in mattresses, our assortment is under brands like Nora or Wayfair Sleep. And then obviously, we work with branded folks as well.
+
+So hopefully, that answers your question in terms of how we think about it in the kind of the context of geographic location and supplier selection is part of how we think about it.
+
+Sure. Yes, so yes, I mentioned three things I was excited about. One was the launch of the first Wayfair retail store and which opens in May, just north of Chicago and Wilmette. Another one was the new marketing campaign for Wayfair, which debuted in mid-March. So, that that's a campaign that obviously the most notable place you'll see it on is in television, but it really carried through all the different channels. We're really excited about it. You'll see it very shortly.
+
+But the whole goal is to continue to build brand loyalty for Wayfair until the story to make sure customers really understand the breadth and depth of what we offer and why Wayfair should be the place to go to for all things home. And so we think that this campaign can further that depth of understanding and continue to kind of build a real understanding and ultimately preference for what we offer.
+
+And the third one, which you're asking about is the tender-neutral loyalty program. And the tender-neutral loyalty program, the way to think about it today, what we have for a loyalty program, all the benefits of the loyalty program are associated with having the Wayfair credit card. So, you have to get a Wayfair credit card, either the Mastercard that’s co-branded with Citibank or just the Wayfair-specific store-based credit card. And then there's different rewards benefits that are associated with that.
+
+But we don't have a broad-based loyalty program that works regardless of how you choose to pay. And we think that there's a real opportunity for that, which could also help us not just provide customers with enhanced benefits, but help make us the more top of mind place for all things home. So it creates significant incremental revenue and drive significant profit.
+
+So, we're going to launch that later this year. We've internally of kind of figuring out the framework of what that is, but we need to build the technology to support it and the marketing plans for it and to roll it out. So that's coming.
+
+But the reason I referred to it is we know that customers love us and we think, A, there's an opportunity to deepen their understanding of what we do. That's where the marketing campaign comes in. And we also think there's a lot of things we can do to just cause them to come to us far more often. And that's where the tender-neutral loyalty program plays a big role.
+
+Thank you.
+
+Yeah. So I think the thing about AOV, I think what I was trying to describe is actually the real phenomenon AOV over the last 1.5 years has actually been that all the ocean freight inflation then reversed and have come back out. And as that's come back out, you've seen AOV drop. That's been the primary driver of AOV, but then as you start anniversarying where it drops. So in other words, it started dropping in the fourth quarter 2022 the subsequent drop to the following year is not going to be as high because a lot of the drop had already happened, right?
+
+And so we're just in the latter stages of anniversarying that deflation coming out. So over the next couple of quarters, that -- all that deflation will come out a year ago, and so that AOV will not really be moving for that reason anymore. And what I was trying to say is that AOV can move for many reasons, right? It can move for mix of our brands. It can move for category mix. It can move from a mixture to seasonality.
+
+And those are primarily the things that move AOV. It's just that the phenomenon over the last year where it's come down a lot, is due to the deflation and we're nearing the end of that. And so you should expect AOV to not necessarily drop as much because we're now finishing the anniversarying of that AOV. So that was more just kind of the question I was trying to answer earlier.
+
+Thanks. And so I just want to thank everybody for joining on the call. One more plug, just to encourage you to read our shareholder letter, which is on our Investor Relations website, which we think you'll enjoy. And obviously, we think we're poised for really great things both in the tough macro, while we can take share. And then as things recover, obviously, significant EBITDA gains to come this year regardless of the environment. And we're seeing great customer success. So thank you very much for your interest in Wayfair.

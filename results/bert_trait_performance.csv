@@ -1,0 +1,6 @@
+,accuracy,sample_size,total_samples,avg_correct_confidence,avg_incorrect_confidence
+Agreeableness,0.0,46,46,0.0,0.5820925391238668
+Conscientiousness,0.0,47,47,0.0,0.5826478587820175
+Extroversion,0.0,38,38,0.0,0.580539904142681
+Neuroticism,1.0,63,63,0.5817083583937751,0.0
+Openness,0.025,120,120,0.5755578875541687,0.5857101403749906

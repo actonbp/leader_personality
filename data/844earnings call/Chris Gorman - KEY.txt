@@ -1,0 +1,92 @@
+Chris Gorman
+KeyCorp (KEY) Q4 2023 Earnings Call Transcript
+
+Sure, Scott. Happy to address that. So if you take what we just reported of $136 million specifically on the line you asked about investment banking and debt placement fees, that would annualize at about 5.44. Conversely, if you took sort of the business and removed 2021 and said that's an outlier, the traditional run rate is at least kind of $650 million. So, I think we have been conservative, and that's why we, when we gave guidance, we said non-interest income up 5 plus and then we put the qualifier upside of capital markets activity normalizes. We don't see it really normalizing until the back half of the year. However, it's an interesting phenomenon when the 10-year went above 5% and then came back down. As you can imagine, people started to transact. And so, we're seeing the beginning of it now, but yes, it's a conservative number. The other thing that's in that fee number is, you saw that we had a step down with respect to our derivatives and hedging income. A lot of that is tied to the balance sheet and as we go through 2024 and we get back to growing the balance sheet after going through our exercise on RWAs, you'll see that come back as well.
+
+So I'll start with that and then I'm going to flip it over to Clark. A couple of things to keep in mind. We have a big commercial franchise. And so 40% of our deposits, $145 billion are commercial and of those about two-third are either indexed or index like. Now on the other side of the equation, we've been pretty conservative in assuming that as the first cuts, particularly if they aren't steep cuts, that we'll continue to get drift up on the consumer side. Also, we’ve forecasted just a bit of continued transition from interest-bearing to noninterest-bearing, but we think we've sort of bottomed out there. Clark, what would you add to that?
+
+And frankly, all markets are not the same. We're out there experimenting with a few things as we speak.
+
+There were three specific credits, one of which was real estate.
+
+Sure. So, we are about where we need to be in terms of going through our whole portfolio. As we went through and we're looking and focused on RWAs, really was sort of in three buckets, and we actually went account by account. And I've often said that on a risk-adjusted basis, stand-alone credit properly graded can't return its cost of capital. And so we were extremely prescriptive across the entire firm of going through that.
+
+On top of that, we exited some businesses like vendor finance that, by the way, is a credit-only business. And then on top of that, there were certain areas where we were conservative in terms of our capital treatment, where we could actually reduce RWAs without, in fact, having any impact on NII. That process is really over.
+
+When I say the process is over, we will continue, obviously, to look through our portfolio. But in terms of really seeing the step down in RWAs, as you saw last year, $14 billion, that's behind us. And so as we look forward, Clark talked about sort of the lag from the starting point on loan growth. But as you know, we have the ability to generate loan growth here at Key. We've got a long history of that. We'll be back kind of focused on serving our clients.
+
+Now having said that, I personally have a view, everyone is sort of coalesced around the soft landing. I think inflation is still pretty sticky. I think there's a bunch of drivers out there. We're managing the business for a short recession in 2024. And obviously, that goes into our thinking, because if you think about working capital in the context of a shrinking economy, that shrink some loan demand.
+
+The other thing that we have to grow through, and this is by design, is we're going to have $3 billion of runoff in our consumer business. I hope that helps kind of on the puts and takes. When there's business to be done from a loan perspective, I'm confident that we can get it.
+
+Sure. It's a great question, and it's developing quickly. So principally, they are customers of ours, and let me explain what I mean by that. As you well know, we distribute 80% of the capital we raised. So we are distributing, all the time, a lot of paper to these private debt funds, and it's an important part of our underwrite-to-distribute model.
+
+As we've said many times, for banks, a stand-alone properly graded credit can't return its cost of capital. That is not the situation for the private debt funds. They have the benefit of leverage on leverage. We have to be a relationship bank. We have to be able to provide all of the payments capabilities, all of the capital markets capabilities.
+
+And that's actually an opportunity for us because I think what you'll see is as these private debt funds continue to grow, they'll need to partner with banks and they'll want to partner with banks that have sophisticated capabilities around things like payments and capital markets, but don't necessarily want to hold on a risk-adjusted basis, paper that doesn't return, it doesn't hurdle. So, I look at it, frankly, as an opportunity for us. I think we're well positioned for that.
+
+Well, we don't have a lot of exposure because you'll remember, Gerard, we exited a lot of these what we call gateway cities, probably 5 years ago based on affordability, based on cap rates. But we do have a fair amount of insight in that we have this third-party commercial loan servicing business. And we are the named special servicer on over $200 billion of loans.
+
+And in that area, 44% of what's in active special servicing, which is really what's in workout is office. But the fastest-growing segment over the last quarter was, in fact, multifamily in some of these gateway cities.
+
+So we're not seeing it in our portfolio because it's not an area of focus, but we are picking it up through for the reconnaissance we get through our third-party commercial loan servicing business.
+
+Just one little add-on to that, that I think the group might find interesting that I did when I was talking to the leaders there. Actually, what is in special servicing is down -- we had a record year in 2023, as you can imagine. What is in active special servicing actually ticked down, which I think is just an interesting data point for all of us that kind of follow the market.
+
+Well, fortunately, I wasn’t around for that, but I’m sure Vern will be happy to sign it for you, Gerard.
+
+For sure. Well, let me start with the larger question first, and then we'll talk a bit about the mix of spread income to fee income, which I do think, by the way -- let me just start there. I think that's a great barometer.
+
+As you know, throughout Key, we're 40% fee income, which for a Category 4 bank is at the high end of the spectrum. As we look at businesses like our institutional bank, the split there in some areas is as high as 80% fees, 20% spread. And it varies depending on the business because some businesses are more capital-intensive than others. But that is one of the metrics we look at to see what kind of penetration we're getting.
+
+As it relates to scale, and I think it's a really good and important question. On one hand, there's no question that if you have to carry more capital and capital is more expensive, that would put more of a premium on scale than before. And the same would go for things like cyber.
+
+So on the margin, yes, scale would be probably more important today than it was 12 months ago. Having said that, I do not think scale is the answer for a bank like Key.
+
+And I say that because when you have competitors that are 20x as big as you are, the question really is what is scale? And as you know, what we've decided to do is focus on targeted scale to be really, really relevant to the customers that we try to be relevant to.
+
+We're certainly not trying to compete in the same manner that the largest banks -- they have a nice business model, it works for them, but that's not a business model, Mike, that we're executing at all. Does that answer your question?
+
+Well, on the acquisition front, as you know, we've had a lot of success buying niche businesses and successfully integrating them, which I don't think a lot of large companies -- forget about banking, have had a lot of success doing.
+
+We are still -- because of our targeted scale focus, we are still interested in doing that. We're always building these positive people and actually looking for small organizations.
+
+In terms of looking, Mike, at depositories, that's not something we're spending any time doing. I think when you kind of look at sort of the landscape, one, I think the regulatory/approval process, I think there's a lot of questions around that.
+
+Obviously, the pull to par, any unrealized losses become realized losses in the event of an acquisition. And then secondly, there's just so much uncertainty in the marketplace. I think one would have a lot of questions about what is actually in the book of the company that you're acquiring. So that's not something I'm spending a lot of time on.
+
+Getting back to your question, there's no question that there’s a significant value in the deposits. And for example, that's one of the reasons we're really focused this year on building out our business banking business because that's a business that's very deposit centric. And as you think about going forward, there's a lot of value in there.
+
+I don't have off the top of my head what percentage is the contribution. We’ll circle back to you. I think it’s about the 30% of the value is in the payments and deposits. But we will circle back to you and confirm that.
+
+Clark, I would add card as well.
+
+And from an organic growth perspective, Steve, we obviously weren't doing our typical level of investment last year. But where you'll see us lean in, you'll see us lean into our unique integrated corporate and investment bank, where we've got a lot of success recruiting people.
+
+I mentioned earlier, our 55 billion of AUM. We think that platform is eminently leverageable. We'll be investing in that. I mentioned also payments, and then lastly, I also mentioned business banking. Those are the areas where you'll see us leaning in from an investment perspective.
+
+Sure. Well, you got to look backwards a bit, and first of all, we had outsized losses in real estate during the financial crisis, and we said we'd never do that again, and we literally rip the business down to the studs and rebuilt it, and rebuild it around an underwrite-to-distribute model. So Fannie, Freddie, FHA, the life companies, the CNBS market.
+
+We also said we're only going to finance the best real estate people in the right sectors in the right geographies. And so we've been very, very prescriptive. So we distributed a bunch. 13% of our total loan book is in real estate.
+
+What's happening on the ground is because of the people that we're financing, when we go through the math and because of the rise in interest rates, because they qualify them as a criticized loan, we go to them and we ask them for an interest reserve and they give it to us.
+
+So what is going on, on the ground with us, I'm not sure it's representative of the whole market. But it's been -- it's the work that we did starting 10 years ago that really has put us in the position that we're in now.
+
+Indeed.
+
+Thanks for the question, Ken. Whenever I'm talking to our team, I tell everybody, we're all risk managers. We're all responsible for revenue, and we're all responsible for managing expenses.
+
+We're spending, as I mentioned, about $1.1 billion a quarter. There are always things that we can do better to create the raw material to continue to invest.
+
+And in our business, unfortunately, the real cost is people. And if you look point-to-point, we have 1,369 less people on the team today than we did a year ago. And obviously, that will pull through.
+
+There's also -- you also get a big pickup when you exit businesses like we did in vendor finance, where you can take out front, middle and back office. So we did a lot of the heavy lifting, Ken, last year. I don’t see that level of heavy lifting continuing, but it’s something that we just have to stay after every single day. Thanks for the question.
+
+Well, I think it goes back to inflation, and is inflation really under control? And if it isn't, what actions will the Fed be required to take or not take, given what the forwards are saying in order to get inflation under control?
+
+Right now, our customers are in good shape. As you know, the job market is in good shape. Interesting data point and one of the reasons I think inflation is going to be stickier than people think.
+
+Our noninterest-bearing customers today have 33% more dollars in their account than they did pre-pandemic. So I just feel like -- so I think that's a risk. And so if we get a soft landing, I think there'll be opportunities for loan growth. We, in our planning, we're assuming a short recession in 2024 for all the reasons I just described.
+
+Again, we thank you for participating in our call today. If you have any follow-up questions, you can direct them to our Investor Relations team, 216-689-4221. This concludes our remarks. Have a good day all.

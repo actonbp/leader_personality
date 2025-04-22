@@ -1,0 +1,102 @@
+Tom Polen
+Becton, Dickinson and Company (BDX) Q4 2023 Earnings Call Transcript
+
+Robbie, thanks for the question. First of all, our guide range obviously reflects - we basically try and match the top line. So if you look at the top line, you've got about 1 point on the range in total. I mean you dollarize that, take the dollar of sales take margin drop-through on that. It basically mirrors kind of the number of earnings that you have on either side. So there's symmetry between the sales, the drop through at some margin level that's between, call it, GP and EPS. So it contemplates both upside on sales and reinvesting back in the business or vice versa on the downside, basically the opposite.
+
+So I mean that's the logic for the range. I think it's pretty consistent with - it modifies year-over-year depending on how you actually set those points and what each point is worth I think more importantly, look, our commitments, we can't control currency, first of all. So we always think of things on an FXN basis. If you look at our FY '24 guide this year, I think there's a lot of strong things. The underlying performance of the business is really strong.
+
+Let's start with the top line. So if you remember, last quarter, we talked about delivering 6% organic growth. That was excluding the impact of the COVID-only testing, which we expect to step down by about 25 basis points. That would establish a midpoint range of, call it, 5.75%, which is very strong. It's above our 5.5% plus average. Our 2-year average heading into this year, plus this year at the midpoint would imply a CAGR of just under 7% organic growth.
+
+When you think about from the time that we mentioned kind of the direction we were heading 3 months ago to where we are now, looking at the top line, the macro environment certainly got more complex. I think for us, China was one of the dynamics that we called out, there's about a 75 basis point headwind that we're contemplating in our guide that's actually absorbed in that growth rate. So it actually implies excluding that organic growth of north of 6%.
+
+So really strong to be able to absorb that. I think this shows the resiliency of the BD portfolio, the diversified nature and all the work that we're doing to drive growth in these transformative spaces. We've talked about 6 key areas that as we think of our guide, kicking both, one, they're helping deliver the midpoint there and can create opportunity for upside.
+
+So that's farm systems. That's our MMS portfolio, including pharmacy automation on the back of Parada, our Rowa business, infusion, obviously, with the clearance of Alaris now, our bioscience research, peripheral vascular disease, molecular diagnostics and urinary incontinence.
+
+From an earnings standpoint, again, on an FXN basis, it's extremely consistent with what we shared last quarter. There's a couple of small puts and takes in here, but basically excluding our divestiture of eMeler [ph] we're anchored right at double-digit growth at the midpoint. At the top end, we're actually 11%, excluding the eMeler divestiture. So even with that divestiture, we have double-digit EPS growth in the top end of our earnings range.
+
+Again, there's 2 things that I would say that are different from last time. That includes us again absorbing the China headwind, which actually comes with some pricing dynamics. So really think of stronger underlying earnings to offset and absorb that. Plus, we've been very focused on cash.
+
+So with our strong margin profile, we made an intentional decision to continue to drive inventory levels down, especially in an environment where you have cash earning at high interest, it creates an opportunity and you have inflation flowing through inventory, keeping your inventory levels lower, create strong value creation. That creates a 50 basis point headwind through the year on margin, but that's an intentional choice and we're doing that because we have a strong cost to win program, leverage on our top line growth that we've consistently been driving and we can still drive towards our 25% goal by 2025.
+
+I think that focus on cash, one thing that even despite the FX, remember, FX, we don't control FX, I think a couple of the dynamics to think about, we literally had a 5% FX movement across our 5 major currencies since the last guide. It's unprecedented that they all go the same way. On top of that, we had a dynamic where some of our core, call it, expense-only sourcing locations, think of Mexico, where we have a huge manufacturing organization. We saw a 10% movement in that currency, where the peso actually strengthened against the dollar.
+
+We're not alone in this. Every company has been talking about it in Q4, adjusting their Q4. We're one of the first to report a full fiscal year. Many have signaled that, that will be coming in their results as well. The good news is one of the reasons that we focus on underlying is FX is not a true cash for cash impact. Some of this FX is pure translational. It does not affect our underlying cash.
+
+As a matter of fact, when you think of the cash flow for BD that we're thinking of in 2024 because of that strong FXN earnings growth profile on the back of strong top line growth and the continued cash conversion that we want to improve, we're going to drive double-digit cash flow from a free cash flow standpoint.
+
+So ultimate value creation happens with cash, and it's one of our core focus areas going forward. So I think FY '24, again, it's actually outsized versus our top line commitments that we've made as part of our Investor Day. We continue to drive margin improvement. We continue to deliver double-digit FX and earnings growth, and we actually have outsized cash flow growth - the FX is unfortunate, it's unprecedented. We don't control that. I think we're focused on continuing to drive long-term value. It would actually be value destructive to take outsized actions and try and cover that. So hopefully, that context all helps.
+
+Ravi, this is Tom. Just to add to Chris's excellent summary there, just to call out, we feel great about the performance in FY '23 as well as our outlook for '24. And just to give a little bit more detail on that inventory number.
+
+So in Q3, you saw meaningful improvements in our cash flow, including a $200 million reduction in inventory. In Q4, if you haven't seen yet, it's a $300 million reduction in our inventory in Q4 that we just achieved.
+
+Obviously, that - the inventory reduces within that quarter, the variance is then from producing less inventory from manufacturing, caps and rolls into the first half of next year. And so just to put it in perspective the scale that we've been taking inventory down at.
+
+And obviously, that has a meaningful benefit to cash flow and why we see such strong cash flow, growing nice double digits next year all in, which is really enables our continued strategy on our tuck-in M&A strategy, investing behind growth, right, continuing to drive the flywheel. Thanks again for the question.
+
+Sure. Thanks for the question, Vijay and Chris will take that.
+
+And Vijay, just to add on. Obviously, with Aleris, we've always said, of course, typically from when we start booking installations, then we get contracts into 3 to 6 months from then that we actually start doing the installations, et cetera. And obviously, we started just a little over 90 days ago, engaging with customers.
+
+And so we're really pleased. We're making solid progress with Alaris, very constructive discussions. We started shipping. We've gotten our first contracts in place, but those will just take time to move through and therefore, we see the bigger ramp in the back half of the year. That's natural for that selling cycle.
+
+The other thing is, as Chris mentioned, we've made some assumptions for Q1 on respiratory testing and COVID levels being notably lower than last year. Obviously, that's to be determined. That could be an opportunity there depending on how the respiratory season plays out.
+
+Yes. You're talking specifically about Q1?
+
+Yes. So again, I mean, Q1 has - there's really 2 onetime dynamics in there. You have FX that's 200 basis points and you have the inventory take down, right? So the onetime impact of taking on increased absorption in your cost base, it's 400 basis points, all happening in Q1 that basically goes away. The FX becomes much smaller and more normalized throughout the year. The inventory is predominantly done in Q1. That goes away. You also have the outsized inflation that on average through the year is 100 basis points, but Q1 is more elevated because you have a carryover effect from last year. It's about 175 basis points.
+
+The good news again is we have really strong underlying cost improvements. I mean, at this point, Recode, which is supposed to deliver about $300 million savings as we enter into FY '20, 25. We're achieving about two thirds to 70% of that savings in this year. So we've made significant progress. We've actually fully completed the SKU rationalization program in terms of simplifying our SKU portfolio. We're not stopping there. We're going to actually increase that goal. There's more opportunity to go.
+
+So you have kind of 2 discrete onetime items in Q1, but the underlying and cost improvement are driving. We just need to maintain that throughout the year, and we'll be fine. Similar to what I shared before on Robbie's question was, last year, we had to deliver 200 basis points of margin improvement, a little bit north of that in the back half. We have to do the same thing this year. But last year, there was 200 basis points of outsized inflation. This year, there's half of outsized inflation.
+
+So we actually feel really strong. That's what's afforded us the opportunity to actually look at our inventory harder and maybe take some more aggressive goals, driving that down and driving improved cash. Again, FY '24 year that's going to have double-digit free cash flow growth year-over-year.
+
+And specifically on China, I'd really focus on 2 key areas. One is VOBP and then the topic related to farm systems, which Chris mentioned, which obviously we overcame at a global level, but you see it acute the topic within China, and we ended up reallocating the supply to other customers that were outside of China. So on the farm systems, one is, as Chris mentioned in the prepared remarks, we're just seeing specifically within China, basically a slowdown in exports of pharmaceutical products, specifically anticoagulants from China and so lower demand as those companies are seeing significant drops in their exports.
+
+So that's really one again, that ended up showing up in our - it will show up in our China numbers as a decline, but that same volume that would have gone to them gets reallocated to other customers globally who are - still have that business in their prefilled syringes for anticoagulants. And so we make - we didn't see it at a pharmaceutical systems level. So that's one and was notable within the quarter.
+
+I think the other one is really more VP - and again, primarily focused within the MDS business. We continue to see strong high single-digit, double-digit growth -- strong double-digit growth in Interventional and high in life sciences. So really, they continue at our historically expected growth rates, not only in '23, but through as we look ahead towards '24, that's our outlook there as well. It's really acute within specifically the MDS business and then the continuation, annualization of what we're seeing in China anticoagulants and exports
+
+So when it comes to anticorruption campaign, that's obviously a macro topic. We feel very strong about our compliance system, et cetera, nothing we're worried about. I think we saw some stabilization in the market on that versus maybe when it first came out in customers' reactions, but I wouldn't overly attribute it to that topic as much as the other 2 that I mentioned.
+
+Yes. It's - I'll start and then turn it over to Mike, just maybe start with the margin ramp. It's not a part of the margin ramp. It's not accretive to BDX margin. I think we've shared that in the past the capital itself is not. Obviously, the consumables associated with that tend to be, but not the capital itself.
+
+As we think about the $200 million, and then I'll turn it to Mike to just share some broader context. Again, at this point, we're a little over 90 days in. We're making solid progress we're at or ahead of our expectations there. But again, as we said, it's typically 3, 6 months - it's a 3-plus month process once you get a purchase order to get the installs, but then it's even - it's more like a 6-month plus sales process, which we started 90 days ago, right? And so some we are getting in earlier. We're getting contracts signed. We've already started shipments. But what we'll do is we'll continue to share our progress on that.
+
+We're not changing the 200 number now. And I think that was also -- just keep in mind that was something that we shared to give some color as related to clearance, but for competitive reasons, I wouldn't expect that we'll share a specific revenue number for Aleris going forward, just like we don't for any other product line. But we will make sure that we share color on our progress in terms of where we are relative to that absolute number. So maybe, Mike, other things to add.
+
+Hey, Matt [indiscernible] there are slightly different than other folks in the space decisions that you make or make in terms of managing FX. And as I said, one follow-up.
+
+Yes. Matt, so a couple of things. I mean, I think no different from anyway. There's many ways that we mitigate currency dynamics, right? One, we netting where you have crossed currencies. Two is we actually try and match sourcing location-wise, to look at our manufacturing footprint. With that -- and there's hedging that we do, of course, in particular, to preserve cash is the way we think of it, right, like anything translational has no impact to underlying economic value of the currency in the local market. It always really becomes a strategy of how do you match sources and uses of cash. And so those become some of our principles when we think of FX.
+
+At the end of the day, what we can control is the underlying business, and that's what we presented here was an extremely strong top line growth, again, another year of margin improvement despite FX, by the way, right, 75 basis points of an FX headwind on margin. So we've committed to the at least 50 basis points.
+
+So it's really north of 100 when you think of it that way. And then again, we're being super focused on cash, which is the ultimate thing that creates value. And we expect to have double-digit free cash flow year-over-year. What was the -- was there another part of the question?
+
+And Matt, I think, as Chris said, we just set the inventory piece aside, create awareness in that, but it's really irrelevant at the end of the day in terms of we're delivering right our 6% top line organic growth, and we're delivering double-digit EPS growth organic, and then it's really FX is what gets flowed through, right? We're not going to cut R&D or cut other investments that we're making to drive our strong growth profile, which is a 7% CAGR over the last couple of years. We're not going to cut that to do FX when - particularly when we look at the cash flow, which is what we use to invest behind that growth has 0 impact from FX really that we see. We're continuing to drive actually outsized free cash flow.
+
+Think about in FY '23, we grew free cash flow by $600 million in the year, right? That's strong free cash flow growth, and we expect continued strong growth as we look at '24 and beyond.
+
+So I think in terms of we are extremely excited by our portfolio and what we have today. And I think you're seeing outsized performance across our different segments. I mean, if you look at BD Interventional, the strong growth in surgery with our bioabsorbable materials really taking off, and you can see there's been several quarters of strong growth there.
+
+PI doing well and obviously, PureWick now with the mail product. You heard us in our prepared remarks actually say that's going to be a bigger product than we thought it was going to be. When we originally put out our guide and declared which products were going to be over $50 million, we just increased PureWick mail to be one of those products that's going to be over $50 million, quite clearly. It's on one of the fastest ramps of any product we've ever seen at the company is doing extremely well, and we're adding capacity as fast as we can, really strong adoption by nurses in particular.
+
+In our Life Science business, great growth in Biosciences, I think you're seeing us be a standout within maybe peers in that area. The strength of our fax Discover platform, combined with our dies has done really well. You saw that continue through Q4, and we expect continued strong growth.
+
+We see strong demand for that platform and our combination with the unique dies to allow really another level of multiplex testing as well as whole new insights into the cells that you can now visually see in addition to fluorescence.
+
+Obviously, when it comes to bid Medical that bold investment that we made in capacity right in the middle of COVID, we're seeing pay off with another just very strong performance in farm systems, and we see just the durable trends there, whether or not it's the GLP-1s, other biologics that we're very well positioned from not only a portfolio offering and technology perspective, but from a capacity perspective, because of those bold investments, we're well positioned to continue to capitalize on those.
+
+And of course, in MMS, what we've built now with a $700 million pharmacy robotics business. Really, if you look across med tech, it's hard to name many automation or robotics businesses larger than our franchise that we've now built there in the pharmacy. And that's growing strong double digits. We expect that could continue through '24. And obviously, the return of Alaris has been our number one goal here for a couple of years, and we couldn't be more pleased to achieve that goal at the end of '23, and that gives us another talent and confidence in our long-term plan and our confidence in this year.
+
+So a lot of really good things happening. As we think about M&A, you did ask that question. As Chris also mentioned, we ended '23 at strong leverage, 2.6 times leverage, strong - strong cash flow, increasingly strong cash flow as we go into '24. And so we have a strong, robust M&A pipeline. We're still focused on larger-sized tuck-in M&A, which is still our priority, as we've shared, and we're not changing from that.
+
+We're going to continue to be very disciplined on the targets that we go after as we have been to make sure that they drive accretive growth and profitability for the company, and we see a number of opportunities to do that. And so - and I think you - we're really pleased with how we've executed on the M&A that we've done. We're really pleased with the track record that we've built there.
+
+You can see, as Chris shared, 40 basis points of underlying organic growth driven through the acquisitions that we've done over the last couple of years. And that's a lever we're going to continue to pull in a very systematic way. And I think you're seeing all the other actions that we're taking, including optimizing cash flow fit into that growth algorithm. So thank you for the question.
+
+Thank you, operator, and thanks, everyone, for your time today. I'd like to take a moment and again, thank our global team of BD Associates who are advancing our strategy and who are making meaningful impacts for our customers and the patients we mutually serve.
+
+Our BD 2025 strategy is demonstrating strong momentum. We're exceeding our commitments and have outlined a strong outlook for fiscal 2024. We look forward to connecting with everyone again on our next call, and thank you very much, and have a great rest of the day.

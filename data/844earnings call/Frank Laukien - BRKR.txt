@@ -1,0 +1,78 @@
+Frank Laukien
+Bruker Corporation (BRKR) Q4 2023 Earnings Call Transcript
+
+Yes. Thank you, Patrick. Indeed, we're optimistic that we can pull that forward by a year on the revenue and on the non-GAAP EPS side, which is wonderful. It's really combined result of stronger -- of strong '23 results and execution. And again, we are pleased to give pretty solid and healthy '24 guidance. Then indeed as some of these headwinds either go away or abate. And as we look at the -- as you've seen, we've delivered under the hood, so to speak, pretty healthy organic or moderate organic gross margin improvement and good over 100 bps operating -- organic operating margin improvement, and these are all the trends that are continuing while some of the temporary currency and accepted strategic M&A headwinds go away.
+
+So indeed, we expect without commenting on numbers, but we're expecting a very significant EPS step-up in '25 and also in '26.
+
+Yes, gladly. So academic government. Revenue growth was great and bookings growth was also pretty good. I mean in Q4, we had a bit of an air pocket in bookings, nothing dramatic in Q3 after a very strong Q1 and Q2 bookings in China, in particular. In Q4, it wasn't super strong, but it was solid.
+
+And from what I can see better than what other peers, larger peers may have reported in Q4. So our Q4 book-to-bill for BSI was not far from 1.0. So pretty solid and even China was okay, not so academic government not only backlog but bookings all the way to revenue growth over the various geographies looks solid. It's one of the very defensible areas at a time when for others at least, biopharma went down, COVID, of course, went down. So it's been one of the strong areas along with diagnostics and many other areas. Actually, just about all of our businesses are doing really quite well in most of our markets.
+
+You're welcome, Patrick.
+
+Just about the organic expense of 50 bps.
+
+No, it's not off the table, but I'll take that, Josh. It's just that we don't think we can pull forward. That looks more likely to be a '26 non-GAAP operating margin target. But it's not at all of the table. We think we can reach that in '26 without pull forward with plenty of room to advance the operating profit margin and further into the mid-20s in subsequent years.
+
+Yes. I think in -- for '24, we're again looking at 3 to 4 gigahertz class systems. And so again, three to four basically same as in '23 and in '22. And I'm sorry, what was the second part of your question?
+
+Yes. No, that's doing great. I mean, most of the growth -- in Q4, the ultra-high field was very strong because if you recall in '23, a number of them got delayed or had needed some rework. So of the four systems in '23, three of them came in, in the last quarter, and we expect to spread that more evenly in '24. And so the bookings and revenue growth in BioSpin has really been excellent, and most of that was driven not by the ultra-high field, but by the health of applied markets, clinical research applications in biopharma as well as the core academic structural -- functional structural biology and other applications and preclinical imaging.
+
+So BioSpin is doing great. It's not just an ultra-high field story. ultra-high field story is sort of like the Formula 1, and it's one that can enumerate the system. So it's very interesting, but most of the businesses, it's not the ultra-high field business.
+
+Thank you, Josh.
+
+Yes. So very clearly, ELITech, or Chemspeed to announce potential acquisitions that have not closed are neither included in our '24 guidance nor in our '25 pull forward of our revenue. And our medium-term revenue and non-GAAP EPS targets that we previously had established for '26. So ELITech and Chemspeed are not in those numbers. And the pull forward, therefore is primarily driven by very good organic growth and margin developments and expected very good EPS growth also in -- then in '25, '26 which is primarily an organic development. On the revenue side, of course, aided somewhat by the BCA or PhenomeX acquisition.
+
+I believe our goal for that is about $60 million in revenue for 2024 so that helps, but it's not the driver. The other acquisitions, while there have been a number of selected acquisitions that simply were feasible with companies where we've often been in touch with them for many years. And now this was the right time to find valuations that seem fair for both sides. Those as you know were to some extent, they have some market tractions, but they were relatively moderate in size. And in some ways, you could regard them as technology acquisitions to complement our portfolio.
+
+Yes. Since the Astra launch by a competitor, that's a competitive product. We've continued to grow our timsTOF business, but there is a competitive product on the market. And our product, our new Ultra and of course, the various other price and performance and capabilities point of the timsTOF platform including the flex version with MALDI Imaging, in glycomics and other imaging applications.
+
+And they really are all performing well, but we acknowledge there is new competition, and that's getting some traction as well. Of course, the traditional Orbitrap franchise is probably see most of that internal competition, but that's not our issue. So we expect continued steady growth in a growing proteomics market. Unfortunately, this is not a zero-sum game, but a growing market as far as we can tell with very healthy fundamental dynamics, and we expect to continue to do well and that in 2024.
+
+No, we're at the middle of the fairway, neither super conservative nor bullish. That's just a mathematical number of what comes out of these acquisitions. Again, other than the PhenomeX acquisitions, now BCA, the other acquisitions that have closed mostly don't have very significant revenue in the aggregate, it adds up a little bit, which is why we get to the 3% but that's a figure -- that's a middle of the fairway figuring out. So I think nothing overly conservative, nor bullish on that one.
+
+And most of these are healthy businesses, of course, the one that we're working through, of course, is the PhenomeX issue.
+
+Yes. I mean, it's something we have internet visibility into that, right? But I mean, academic government funding is always relatively stable. And in Europe, particularly so you might have more ups and downs in Japan and in China, in the U.S., depending on political situation or gridlock or continuing resolutions. In Europe, usually, this is not a political item, both at the country level, the major economies and smaller healthy countries in Europe.
+
+They don't constantly debate about their governmental or academic R&D budgets. Those are just steadily increasing. And the things to at the European level. There's some European overall European budgets much, much more importantly is what does it get allocated to. And the drivers are clearly favoring the post-genomic era, and I think it will be for the next decade or two.
+
+And there, we are just very well -- or increasingly very well positioned and really strongly positioned in proteomics, lipidomics, metabolomics, glycomics, you name it. So too much jargon, but the post-genomic era at a high level is very much the fundamental secular trend that supports our growth in academic government funded budgets that is much higher than the overall growth that you may read at a national level. It's the reallocation of the post-genomic era that I think is the -- that in artificial intelligence. So probably the two very big megatrends for Bruker for the next decade.
+
+No, but a yellow flag. I mean, Germany is bumbling along and strong growth has not been all that strong. And yes, it's not one of the growth engines of Europe in '24, probably either pretty clear.
+
+Good backlog visibility. And I mean, China is perhaps the market for the entire industry where we have the least visibility for 2024. And I would say we're not that different than that. We do note that their academic government and investment tends to be strong. And I think there's a commitment that continues for that. So we think we're well positioned. But while Q4 was a bit of a recovery in China BSI orders compared to Q3, after the very strong first half, we don't have other -- we don't have more visibility to China than other peers.
+
+And we did not exceed that, Biopharma go away in China in Q4.
+
+Yes. For your [indiscernible] which we enjoy reading has come down a little bit to closer to 7.5 months now. And that's still elevated. So we expect that, that will come down over the next two to three years. So some of that is built into our guidance for fiscal year '24. Mostly, it's driven by reasonable and above here, it seems. Order momentum, given the various secular trends that we have mentioned, in particular, but we also expect that without quantifying it, Doug, we also expect that our backlog will come down a bit further. But as I said, it was 7.5x, 7.5 months at the end of '23. So it's come down a little bit.
+
+Very good questions, and the answer is a little of both. First of all, it is just the end of '23 when most of these deals were negotiated, right, some of that closed in January or February, but we've been obviously working on them in the second half of '23. And on some of them, we've literally been in the second or third round some of these companies. We've just known without any process for literally for years. And finally, the stars aligned in an unusual way, right? We're not on a buying spree, it's just in an unusual way, we will finally be able to in various areas, pull together the right valuations and deals with sellers and buyers both thinking it was fair, and it was fine.
+
+So it's very unusual. I don't expect that pace to continue. This is not a different type of Bruker. We do selected strategic acquisitions. Some of them clearly fill gaps or holes in our fees, gaps in our portfolio like Tornado or SII or even Nanophoton. Now I don't mean to degrade those companies in any way. They have beautiful product lines. They have technology. They have market traction, demonstrated and margin traction demonstrated in some markets. But usually, they're not acting globally or at least not fully globally. We can help them with that, and they fill real gaps in our product lines. The pending acquisitions of Chemspeed will take us further into new areas of biopharma, in chemicals and even cosmetics and consumer products, R&D and QC automation.
+
+So those are new areas but adjacent. In a way, we've been in infectious disease biology, but primarily with the MALDI Biotyper with a very small hold in molecular diagnostics. ELITech is a much bigger sample-to-answer molecular diagnostics play. It will not make us a Tier 1 competitor, right? Those are [indiscernible] and others, but it would get a solid Tier 2 competitors.
+
+So it expands our infectious disease franchise, again, not new to us but very nicely complementary to the MALDI Biotyper that's of course, focused on bacteria and not on viral detection versus molecular diagnostics, there's a lot of infectious disease viral detection. So adjacencies or gaps in our product line don't expect this pace and frequency to continue. That's really very, very unusual. But it has to do, of course, with markets in late '23, market valuations in late '23 permitting to come to compromises on valuation that seems reasonable and that support again, long-term high ROIC, while providing fair valuations for these companies that are where the founders or others might be exiting.
+
+You're welcome, Doug.
+
+They're not in our guide nor in the '26 to '25. Pull forward, as I said earlier, Derik, we have not -- we have just said that they're both profitable. And when or if -- when we close them, then we'll give more details with a more detailed press release on each of those. We just don't want to jump the gun.
+
+Well, geopolitical risks for us is code for a Ukrainian-Russian war and Israel-Hamas war and the potential of some more like action around Taiwan happening at some point or these war spreading. So it's not -- it's sort of related to wars and conflicts as opposed to how fast is China growing or not.
+
+So they are with two war spending and they increased risk of a conflict over Taiwan and possible at some point in the next decade. That's why we're highlighting that. It's an unprecedented level of geopolitical risk and everybody is facing that the industry is facing. But we mean that narrowly by conflicts rather than an economy growing or slowing, maybe that helps.
+
+Yes. Remember, you may remember that about two years ago, there were some additional restrictions on selling certain semiconductor, most advanced semiconductor metrology tools in China. And so of course, that was implemented a couple of years ago, if I recall. And that's long baked into our model. But of course, if there was a conflict there on Taiwan, if there were new restrictions, those are some of the geopolitical risk that the industry is facing. And so that's what we mean by that, Derik.
+
+Yes, it's crowded, but some of these assets previously acquired haven't done all that well or some of them have older concepts. So we think we can bring some fresh breath of air into some of that scientific and lab software. And the assets that we have acquired and now -- to some extent, are integrating, right? We provide nice portfolio, vendor agnostic, scientific and lab digitization software solutions that we think has good growth potential with excellent margin potential.
+
+Some of the automation acquisitions like the one we did already Optimal in the U.K. about a year ago, 1.5 years ago and the pending potential Chemspeed acquisitions also have software components and we'll benefit from some of the software assets that we have already in this IDS. So don't know that we need a lot of other things. I think we're getting together or we did get managed to quietly build and pull together the assets that we needed for a serious lab and QC software business. So we're pleased with that. Still early days, but a nice aftermarket growth, if you like, first of all, something we're always trying to strengthen then, of course with good, very good gross margin and operating margin potential and just good revenue growth potential.
+
+And maybe a final comment, Brandon, some of these things only get funded when we -- or we only need to pull from them for funding. If and when we close, for instance, the ELITech acquisition, which is the larger one. So we can time that to some extent that the interest expense only, additional interest expense kicks in if and when we get the additional profitability from these businesses.
+
+Some of them we draw as required, and some of them have delayed drawdown dates anyway.
+
+Good question.

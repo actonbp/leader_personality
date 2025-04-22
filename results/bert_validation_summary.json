@@ -1,0 +1,43 @@
+{
+  "bert_accuracy": 0.21019108280254778,
+  "trait_performance": {
+    "Agreeableness": {
+      "accuracy": 0,
+      "sample_size": 46.0,
+      "total_samples": 46,
+      "avg_correct_confidence": 0,
+      "avg_incorrect_confidence": 0.5820925391238668
+    },
+    "Conscientiousness": {
+      "accuracy": 0,
+      "sample_size": 47.0,
+      "total_samples": 47,
+      "avg_correct_confidence": 0,
+      "avg_incorrect_confidence": 0.5826478587820175
+    },
+    "Extroversion": {
+      "accuracy": 0,
+      "sample_size": 38.0,
+      "total_samples": 38,
+      "avg_correct_confidence": 0,
+      "avg_incorrect_confidence": 0.580539904142681
+    },
+    "Neuroticism": {
+      "accuracy": 1,
+      "sample_size": 63.0,
+      "total_samples": 63,
+      "avg_correct_confidence": 0.5817083583937751,
+      "avg_incorrect_confidence": 0
+    },
+    "Openness": {
+      "accuracy": 0,
+      "sample_size": 120.0,
+      "total_samples": 120,
+      "avg_correct_confidence": 0.5755578875541687,
+      "avg_incorrect_confidence": 0.5857101403749906
+    }
+  },
+  "sample_size": 314,
+  "total_items": 314,
+  "processing_time": 10.496001958847046
+}

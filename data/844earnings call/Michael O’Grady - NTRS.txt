@@ -1,0 +1,52 @@
+Michael O’Grady
+Northern Trust Corporation (NTRS) Q4 2023 Earnings Call Transcript
+
+Yes. But it’s -- I think it’s a very reasonable way to frame looking out further into the year. And you're right, for us to say full year numbers at this point, it's just too early, but it is good to think about how the assets and liabilities are going to react with looming rate cuts. And I think it's helpful to think back on how the impact in NIM occurred with rates rising. Initially it was very different than what happened eventually when betas were much higher. And I think on the way down, we might have a similar situation where the first cuts may be different than the later ones.
+
+And two things jump out in my mind. One is, we have never tried to be a price setter in deposits. Our goal has always been keep the deposits in the house, and we were very aggressive at following what we saw market pricing was. And the second thing is that, as we get these initial cuts, I could -- we could see the market reacting in a way to keep deposit costs, deposit yields for clients higher to hold onto deposits. And so, I think initially it might be tougher than what happens eventually.
+
+Now, all that said, volumes matter a lot, and it's obviously been extremely hard for us to predict where volumes were going to go. And we saw October better than we anticipated, November was better than October, December was better than November. And so, volumes are going to be critical in what happens in the first half of the year. And it's just super hard to predict.
+
+Good morning, Steven.
+
+I would agree with what Jason said there and just as there was a transition on the way up with QE, there's going to be a transition on the way down. Unchartered territory for everyone on QT and how they go about that and when they might stop, more aggressively seeing their portfolio come down. So I think that the timing of that will matter. And then also we saw with client behavior that -- as rates went up, more of the liquidity moved into treasury and that had an impact on it and as we come down, I think over time a lot of the fund that moved into treasuries will start to move into other alternative. And as Jason said, our objective is to work with the client and really try to meet any of those needs and keep the dollars in the house.
+
+We do it in three buckets, and if you just take cash, obviously, 100% of that, the second loans in roughly three quarters are rate sensitive. And you think about the securities portfolio, and I'll give you two numbers to play with. One is, the duration is meaningful at now about [18] (ph), but also just the weighted average maturity of the portfolio, I think, is also helpful, which is a little under four years.
+
+And we quote this balance -- the duration of the balance sheet, that's just us doing a weighted average across those effectively just to give a sense of the impact of the large size of the cash component and the large floating component of the loan book.
+
+Hey, Alex.
+
+Yes, it's on our mind a lot and as we're talking about it and we have brought the duration down. And one of the benefits of that is that, it does make it just a lot more flexible, because the markets have been really dynamic. And so, there will come a time when I -- I anticipate where we would say it's time to step out a little bit, our bias over the last year has obviously been to go shorter, and that's played out. I think rates have -- the way rates have played out, we had a view, and not materially, but it worked in our favor. But from here, I think we do have to think about. And it's not locking in as much as just taking the downside risk off the table of a dramatic reduction in rates. And so, there's some component there that we'd say we can naturally hedge against.
+
+Hey, Brennan.
+
+Hi, Mike.
+
+Yeah, Mike, so I'll address that. We believe that the alternative space, or broadly speaking, just private markets, is a major opportunity for us on the asset servicing side and that largely follows with what's happening in the marketplace from an investor perspective. And so, we expect that market to grow and we think we have the value proposition that is compelling within that. You heard in my comments earlier that we recently won a very large mandate with one of the large private market firms and it was after an exhaustive process that we went through to win that business. Very capabilities oriented, very global as to the capabilities necessary and the footprint necessary to do it.
+
+So again, it's an area of focus for us and one where we think we're going to be able to continue to grow as the market grows and as we're able to take share.
+
+Sure.
+
+Hey, Brian.
+
+Good morning, Jim.
+
+Sure, Jim, it's Mike. I'll start off here. You're absolutely right. We've gone through, I would say, a time period where the organic growth is definitely been strained and lower than our historical levels and there's a number of factors behind that that we've talked about over the proceeding earnings calls. That relate to client activity, that relate to some of the outflows that we had in the asset management business which obviously impact then wealth management and asset servicing and the reason why we're so positive going forward here on organic growth, some of those trends as we talked about have turned around. And so we see good inflows into asset management. So that aspect of it is a lift going forward to our organic growth, but then also the strategies that we have in place to drive profitable organic growth.
+
+Where we've been focused as a company is in a couple areas. There are a few areas. One is, really looking at the portfolio of our growth. So historically, asset servicing has been the majority of the organic growth. And looking forward, we're looking to shift that more towards the more scalable parts of our business. So wealth management and asset management. That doesn't mean that the asset servicing business will not be growing. It's just -- we're very focused within that business to the areas that scale the most. So if you think about the nature of all the things we do for clients on that front, some of those activities are more scalable, more profitable than others. And so we'll lean towards those areas I mentioned. The success we've had with asset owners in the Americas, a lot of that is custody and related services on that front. That's some of the more scalable services that we have.
+
+And it's, again, not to say that we won't be doing the business with the asset managers, so fund services, but some of those areas are more resource intensive. And so, we're going to be really disciplined about the types of business that we take in that require hiring more people, investing more, in particular, technologies around that. And then the last thing I would say just around the organic growth and why we're optimistic on it is, the businesses are working, I would say, much more closely together in how we go to market. So as we would call it here, one Northern Trust is our approach to the marketplace. So it's not separate businesses, but rather to the extent that we're going to approach a client or a prospect to work with them, it's going to include multiple offering from across the businesses, particularly asset management with asset servicing on the front end as part of a bundle that were offering to the clients.
+
+And then certainly with wealth management as well. You heard in some of our earlier comments here the advisory fee component of wealth management has been growing nicely through the year. We think that it can grow at a higher rate, but importantly the more that we can do on the product side with those clients as well. So as we talk about the transitioning with quantitative tightening for example and the move out of short-term treasury to the extent that we can help those clients move into fixed income funds for example. That's a real opportunity for us. So a number of things that we're doing to proactively try to drive that organic growth.
+
+Hi, Rob.
+
+So I agree with Jason said. Just to add to your point, we’re outside of our range on expense to trust fee ratio. So we're trying to drive that into the range. And so, as Jason is indicating, we're leaning towards trying to get into that range sooner rather than later.
+
+Good morning, Mike.
+
+Yes, I'll start and then Jason, you can fill it out. But first of all, I just think you need to take into account that we are compensated sometimes on the asset level sometimes on the transaction levels and transaction volumes were lower during the year, so that drove some of the weakness in the custody fees there. From a pricing perspective I would say nothing in particular as far as the competitive environment that is driving custody pricing to much lower levels if you will, I would say, it's relatively stable on the pricing front there.
+
+You're right to call it, GFO had a lower -- much lower growth rate than it has over the last couple of years. It's been -- the last couple of years have been excellent for that business. And this year was weaker, but we always talk about the fact that is the spikiest business that we have. Very small number of client activity can lead to meaningful change and it's also one of the businesses where what happens underneath from an investment management perspective can have a meaningful impact on how the business is doing. But we've actually invested heavily in that business. They've got a lot of accomplishments in technology and some of the things that they have done with their wealth passport, their overall technology platform, we feel is industry leading. It is industry leading just the way that they are now interacting with clients from that platform perspective, what clients are able to do with multiple accounts and reporting and client asset movement, all coming in -- a lot of -- and it's all cloud enabled, is what we've done recently. And so, this highly -- at the market leading from our view in terms of what we're doing. And we're continuing to invest in that business from a technology perspective. So there's more coming, which makes us feel very optimistic about what that business is going to do over the next couple of years.

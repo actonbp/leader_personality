@@ -1,0 +1,82 @@
+Ryan McInerney
+Visa Inc. (V) Q4 2023 Earnings Call Transcript
+
+Hey Dave, I'll talk about Asia and maybe put it in the context of what we're seeing around the world, and then Chris, you can take the tax rate. Just to answer your question specifically on Asia, as you said, growth ex-China slowed four points from Q3. There's a couple of things going on there. One is we're lapping some strong COVID ramp in Q4 of 2022, but we're also seeing a little softness in a couple of places, notably Australia, what I'd point you to.
+
+If you guys just kind of back up and look at that in kind of the bigger picture, what are we seeing around the world, outside of Asia, it sounds like you've looked at the numbers and you would have seen we're seeing resiliency.
+
+Outside of North America and Asia, if you look at Europe ex-UK, Latin America, CEMEA, most of these regions are growing at around 20% or more. So, we feel good about what's happening there.
+
+On the tax rate, Chris, I'll turn it over to you the long-term tax rate.
+
+Hey, David. Cross-border remittances is a big one. Since you called that out, I'll highlight it. And I mentioned, I think, on this call and some others, the work we're doing with Paysend and Shinhan and things we're doing around the world we've mentioned in previous calls with some of the both kind of traditional and fintech remittance players. 65% year-over-year growth is strong and continue to invest behind that with new partners and try to drive further growth going forward.
+
+We're focused on bill payments. We're focused on earned wage access. We're focused on insurance disbursements. We continue to focus on P2P more broadly in new geographies around the world, both domestic and cross-border.
+
+If you just back up, I've said this, I think, on previous calls. I believe at this point in time, Visa Direct is the largest at-scale money movement network on the planet. We have made investments consistently year-over-year to get to a point where we now have 8.5 billion endpoints, 3 billion cards, 3 billion accounts with some of the news I announced in my prepared remarks, 2.5 billion digital wallets. And we'll continue to invest in expanding the network even further. But now we've got the ability to work with enablers around the world, sell new use cases in and put this network to work. And we're going to continue to do that and look forward to hopefully talking to you about more good results to come.
+
+Yes, thanks. It was -- we did have some really good commercial wins in the quarter. I'd put it in a couple of different buckets. One is we're looking to expand our partnerships, right? So I mentioned Citi and IBM this quarter. I mentioned SAP last quarter. And we're just -- we're having good success building and expanding those partnerships around the world.
+
+Second thing we're focused on is expanding verticals. You've heard us talk about government, travel, fleet and fuel. I talked about agro, I think, last quarter, working and selling into marketplaces, like I mentioned, healthcare. So taking these products, innovating, creating new use cases and delivering them into new verticals.
+
+And then just making the products easier to use. Yesterday, we announced that actually we had a new product to make it easier to accept virtual cards. We call it virtual card acceptance platform. Virtual cards are a preferred acceptance of many suppliers, but they're not as easy to accept as sometimes we'd like them to be. So putting new platforms out to make the core products like virtual cards easier to use.
+
+And then continuing to invest in the partnerships that we've announced over the last couple of years. WEX is a great example of a partner that we announced a couple of years ago that we've invested in and growing in and really getting to see some of the benefits of that around the world.
+
+So, I guess the last thing I would say, Ramsey, is just also taking these products more broadly around the world. In so many different countries outside of the most developed markets that we work in, there's opportunity to get some of the basic products into the hands of small businesses, for example.
+
+In a lot of countries we're doing business, there's still a lot of small businesses that are actually using consumer products instead of the more sophisticated advanced small business products, let alone the large and middle market products that we can get out there. So, more partners, more use cases, more verticals, more countries, we'll continue to invest in that business.
+
+Yes, sure. I mean, we're very focused on processing share for a couple of reasons, but the one I noted in my prepared remarks is a very important one, which is we can deliver more of our value-added services when we're actually processing the transaction.
+
+Obviously, we earn more yield when we process the transaction as well, just on the core processing of it. But the ability to serve our clients more effectively, deliver them our risk capabilities, our issuing capabilities, our loyalty capabilities and those types of things are enhanced when we actually process the transaction.
+
+So, we spend a lot of time on it. I think we've made very good progress over the last many years. I mentioned Colombia in my prepared remarks, and Colombia is a good use case. In a lot of these markets, to really unlock the processing, we have to work with the local processor, which we did in Colombia and then worked with the clients to get them on that processor. They will then test out the transaction, see how they're working and ultimately move those transactions to VisaNet, which we like.
+
+We've been very focused in Latin America. We've made some good strides in several different countries in Latin America, and I think we continue to have opportunity in Latin America. We're making strides in Europe, and we'll continue to focus on processing opportunities in several of the different countries that have local schemes in Europe as well as some places in Asia-Pacific. So, those are some of the opportunities we have, Will. Thanks.
+
+Let me give some context on how we think about just cross-border travel in general, and then, Chris, you can add and/or fill in the blanks on the assumptions that we've made for the year.
+
+Here's how we think about it. In and out of Asia, we still have yet to normalize. So, as Chris alluded to or said in his prepared remarks, we have opportunity to continue to catch up to pre-COVID travel levels in and out of Asia.
+
+There's also the opportunity to still catch up into the United States. But more broadly around the world, I would say we've got to normalize in terms of cross-border travel. But I think what's interesting is we've normalized at a growth rate higher than pre-pandemic levels. People are traveling international at this new normal at a faster rate than they would have been, all else equal, before the pre-COVID level.
+
+So in a couple of quarters, we still have an opportunity to catch up to what would be normalized levels. Around the rest of the corners around the world, I think we've normalized but at higher growth rates than we saw pre-COVID.
+
+Do you want to mention the numbers for the year?
+
+Yeah. As I said, Jamie, in my prepared remarks, we're seeing great strong client demand around the world for CyberSource. Why? I think it's a result of a lot of the investments we've made in the platform over the last several years. We've been very purposeful about investing in our omni-commerce capabilities for CyberSource.
+
+We've been very purposeful in investing in our tokenization capabilities, our risk management and fraud prevention capabilities. And a lot of that has been driven by sitting down with our clients and partners, understanding their road maps, understanding what they needed us to deliver, making those investments and then having success growing with our partners. And in any given market around the world, when clients start adopting the CyberSource platform and others look around at the success they're having with authorization rates or transaction success or others, that leads to new opportunities, and we've had the ability to sell into those. So thanks for the question.
+
+Why don't I talk just contextually about Reg II and then you can answer anything else on Sanjay's question? So two things going on, obviously, with Reg II, let's just talk about them both. One is the change that was made last summer that went into effect with regards to routing in the e-comm space.
+
+As we mentioned in our prepared remarks there, we haven't seen any meaningful impact. Having said that, there's a lot of work happening around the ecosystem and we're out there talking to clients and partners about our products and our value propositions, making sure they understand the benefits of a Visa transaction, especially in the e-commerce space, where often the merchant holds the fraud liability.
+
+So our sales teams are in with merchant clients and acquire clients day in and day out, explaining the value of our product, showing them the value of our products. And going forward, we feel good about our ability to compete.
+
+The second thing that's going on with Reg II that I'm sure people would have seen is the Fed has announced that they're going to, I think it's tomorrow, announce some changes potentially to the debit interchange rate in the US. We don't know what they're going to say. We'll obviously follow it very closely. And when they do publish something, we'll take a look and see if it merits a response on our behalf.
+
+And just as a reminder, interchange is the exchange value between the merchant and the issuer. And I think what's notable about our business model is we've proven that we can be resilient and have a strong business in regulated interchange markets, not regulated interchange markets, in markets that have higher regulated interchange and lower regulated interchange. So, as you alluded to, a lot going on in the US with Reg II, but we're all over it and we feel good about our ability to compete.
+
+Yes, thanks for the question. Just for a reminder for everyone, tokenization is technology that we use that essentially helps protect issuers, merchants and consumers, and to your question, ultimately, drives higher authorizations and lower fraud.
+
+I think I said in my prepared remarks, we crossed 7.5 billion tokens as of the end of September. We're in 198 markets. I think we have 14 billion token transactions in the fourth quarter, which is growing at like 60%. So, this is another example of a platform and a service that we invested in over many years and we're now scaling broadly around the world.
+
+To your question, we are. We're seeing, on average, somewhere between 4% and 5% higher approval rates across our partners. And we also see it with a reduction in fraud -- a 30% reduction in fraud. So, you say, why do we have 7.5 billion tokens that are now out there in the ecosystem? Well, if you're one of our partners, as you said, and you can reduce your fraud rates 30% and drive your auth rates four or five percentage points, that is a great opportunity. That's higher sales, that's lower fraud, that's better customer experience.
+
+And we continue to invest in that platform as well. We see a lot of benefits to our issuers, to our consumers who ultimately use the products. You'll see more from us enhancing the platform in terms of using the Fido biometrics and enabling merchants to be able to authorize and authenticate customers across multiple devices and those types of things. So, yes, higher auth, lower fraud. We love the platform, continue to invest in it.
+
+Hi, Tien-Tsin. Glad there's great energy at Money20/20, and I hope my Visa team members that are there are serving clients, finding sales opportunities growing our business.
+
+Yeah, we see a great pipeline. We really do with clients issuing, fintechs, co-brands, with opportunities to grow credentials. I mentioned some of the new things on my prepared remarks. And we're having good success. I think just some of the wins on the call, whether it's Citi or US Bank, FNBO, Fidelity, Shinhan, China Merchants Bank, Shopify, I mean, list goes on, right? IBM, DBS, Etihad, Saudi. We feel good about the pipeline. We feel good about the way our teams are out there serving clients around the world. We feel good about the wins that we have and feel good about the growth that it's generating.
+
+Thanks for the question. I think the CFPB rule that they put out is good for Americans. I think it's great for clarifying the structure and the regulatory framework here in America. I think it's likely to be a catalyst for growth of open banking in the United States, is it gives clarity to all the various different players in the ecosystem.
+
+If you think about it, like, it's a great opportunity for Americans to be able to put their own data to work in different types of digital tools that will help their own personal financial management, help them manage their financial lives better, get a better view of their finances across multiple different providers.
+
+And then to your point, we've seen different regulatory frameworks in different markets around the world. Our Tink business continues to perform very well in Europe, which obviously was one of the leaders in terms of establishing a regulatory framework for open banking. And we look forward to the opportunity to bring Tink outside of Europe. So when we look at the proposed rules here in the US, we welcome that because we want to understand what the regulatory expectations are so that we can build a business that will thrive and serve our clients and serve consumers effectively. So thanks for the question.
+
+Yes. Thanks for the question. We continue to be excited about the cash, check digitization opportunity around the world. We continue to digitize cash and check around the world, and economies continue to grow around the world. So I think continues to surprise many people when they look at developed markets like the United States, how much cash and check still exists. And certainly, when you look to the developing world, how much cash and checks still exist. So we continue to be excited about the runway.
+
+We think it offers us tremendous growth opportunity. And we're going to continue to work with our partners across the ecosystem to get more credentials into consumers' hands, get more acceptance out there in the ecosystem, especially among micro and nano merchants and work with our partners to drive more activation and usage among the credentials and feel good about that entire algorithm.

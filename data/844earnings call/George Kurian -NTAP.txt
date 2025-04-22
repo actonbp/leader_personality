@@ -1,0 +1,96 @@
+George Kurian
+NetApp, Inc. (NTAP) Q4 2023 Earnings Call Transcript
+
+Broadly speaking, the Q4 demand environment was not substantially different from what we saw in Q3, and our plans for next year contemplate continuation of the same environment.
+
+We talked about in the cloud segment, some of the larger customers who had significantly optimized their landscape through the course of the prior quarters began to take on the projects that we anticipated them taking on. These projects take some time to ramp.
+
+We also saw strength in new customer additions and the number of customers that were using multiple products from NetApp, so all good signs for future revenue growth. That being said, customers on a broad basis, still cautious about spending and particularly in the large enterprise segment.
+
+I think broadly speaking, we are super excited about the recent portfolio introductions we've made. We've seen the benefits of improved focus in our field organization. It takes a few quarters to build. And I think if you look at the pattern of sequential linearity through next fiscal year, it is similar to what we have seen in more traditional years.
+
+I think FY 2023 was a bit anomalous. And so we feel good about the progress through the year. I think with regard to the macro, we are not -- we've built our plan assuming the macro stays the same. Clearly, if there's upside to the macro, that should be a benefit to us over the course of the year.
+
+Listen, I think, first of all, we are very pleased with new customer acquisition, the broadening of our workloads, clearly the performance, and the efficiency and multiprotocol capability of our storage is an advantage whether for AI workloads, whether they are on-premises or in Public Cloud.
+
+What we've seen in Public Cloud for AI is a lot of data science teams using the prebuilt tools that are available on the Public Cloud to calibrate and get their learning models of the curve quickly. And that's uniquely available with NetApp.
+
+I think with regard to our perspective for the full year, listen, cloud storage, especially the storage that's sold alongside the hyperscalers will be the primary driver of our business next year.
+
+I think if you look at the total dollars in any given year, the opportunity to expand existing customers is substantially larger than the amount that new customers contribute because they are just small, but we feel good about the pace of new customer acquisition. And now our installed base of cloud customers is very substantial. So, there's a good opportunity to cross-sell and upsell them more capabilities.
+
+Yes. So, let me get the two questions. The first one is what we've seen in the cloud environment is that customers are still progressing new workload deployment, meaning new applications, analytics environment, AIML environment and so on, right, and that has not slowed down.
+
+I think there was a period of time where customers were monitoring their environments and optimizing the infrastructure, but the new deployments continue. I think where we have seen people being more cautious is about migration of on-premises environments, for example, to Public Cloud, where they are benchmarking the total cost of each of those landscapes.
+
+We have a large and growing opportunity in public cloud on new workloads because of the capabilities and the certifications that we continue to bring. And so we're excited about that opportunity.
+
+I think with regard to the customer we mentioned, they were not using NetApp for the landscape that we won. We won -- we replaced a competitive environment, and we did so based on the new C-Series products that had a significant advantage over all the competitive products, both in terms of our traditional advantages around multiprotocol and all of the data management features, but we're also substantially more efficient from a power consumption and density standpoint.
+
+Thank you.
+
+The CloudOps business was relatively flat sequentially. There were new customer additions and some optimizations within existing customers. The majority of the growth rate sequentially from Q3 to Q4 was driven by cloud storage, especially the consumption business with our cloud provider partners.
+
+Yes. We have done exceptionally well in the analytics, AI, deep learning environments. We have both technology leadership across multi-protocol, high-performance, scale-out storage and multi-cloud, which are super important buckets of what customers need to drive these analytic applications. And we have done -- we've doubled our business this past year to a very significant amount.
+
+I think the key use cases are business problems around, for example, in financial services, sentiment analysis, recommendation engines, advanced recommendations engines and e-commerce, precision medicine, cross-department clinical AI solutions.
+
+And then even last quarter, we had a substantial win in a new form of metaverse around autonomous driving, right? So, these are advanced analytics engines that are being deployed on very large-scale data sets. They typically require file and object and cloud integration.
+
+And today's environments are not the advanced LLM model, the majority of the business we see today are really around re-platforming from Hadoop to more modern environments as well as the use of advanced neural networks.
+
+We see the impending onslaught of ChatGPT and tools like that, where customers will take the OpenAI or open source generative AI model, but then build it on top of their own data sets, which require the storage that we have. So, we're excited about the future, and we have real strong performance in our AI and analytics business today.
+
+I think the AI applications that drive business productivity are a topic of discussion in every CEO room around the globe because it is a key way to bring speed and operating efficiency to companies.
+
+And so many of the applications that we talked about help transform a company's business model. And so they will get prioritized in spending envelopes and we are really excited about our opportunity to capitalize on that.
+
+We have done the work not only to build high-performance storage, but in addition, build the integrations into all of the AI and data science tool chains that are common in the world and to enable a really flexible data pipeline that can start in the cloud where the tools are available, but then can be operated at a scale on the data in your data center.
+
+So, we're really excited about what the future holds and we're going to keep pushing forward. I see cloud and I see AI as two big opportunities for NetApp. We are super well positioned in both, and we look to take advantage of both of them going forward.
+
+I think the lower cost NAND technology that we've introduced in our products will become a bigger part of our business through the course of fiscal year 2024 and will be the biggest part of the flash storage growth rate in the industry over the next two or three years.
+
+These HDD replacement cycles are multiyear, right? I think if you saw the high-performance 15,000 HDD segment, it took multiple years to transition that footprint. And so 10,000, which is an even bigger part of the market will take many years to transition. But we're excited about our offerings, the start that we've had and the opportunity over the next many years.
+
+I think it's premature to signal that cloud optimization is behind us. As we commented in our prepared remarks, I think that this customers will continue to manage their spend where that is on data center infrastructure or on public cloud.
+
+I think what we continue to see is the projects and applications that drive business performance especially core business growth are getting prioritized and invested. Those could be analytics, those could be AI, those could be digital manufacturing projects and on and on, right?
+
+I think where we have seen optimization and some amount of caution is in migration of enterprise workloads from data centers, the old lift and shift, I think people are taking a hard look at benchmarking both environments, whether it's public cloud or on-premises. So I think that's where we continue to see some optimization.
+
+In the plan for 2024, the real focus is on accelerating our hyperscaler storage. The storage that is sold alongside our cloud providers, it had a good quarter this quarter. We are uniquely positioned in the market, and we are serving a wider and wider range of applications with the strength of our technology. So, we're excited about that.
+
+Yes. So, maybe I can start with the portfolio. We've introduced three major expansions of our portfolio in the all-flash segment over the last four months to five months. We have capacity flash, the broadest, most feature-rich, most competitive capacity flash products in the industry.
+
+We've announced a set of entry flash products that are shipping, which brings our industry-leading software in an all-flash configuration at a price point that is perfect for midsized enterprises.
+
+And we introduced early this quarter and All SAN Array, which is a block-only storage configuration for customers that have large block storage environment and don't want to use unified storage for those offerings.
+
+So, major expansion to our product portfolio, the most significant expansion since we introduced our flash portfolio many years ago. So, I'm excited about that. That gives us opportunity to both expand wallet share in enterprise customers going after parts of the wallet that we used to not serve, but importantly, address the expanding opportunity within commercial customers.
+
+Our commercial segment has outperformed the enterprise segment throughout this fiscal year and again did so in Q4, representing the resilience of those customers to the macro spending environment. So, we feel good about that. We moved some resources within our spending envelope. We reprioritized some more resources to cover the commercial market for fiscal year 2024.
+
+Okay. Let me hit the sort of the broad picture, right, which is, listen, I think that we are disciplined managers of the business. We are balancing an uncertain macro with the strength of our product portfolio and the long-term opportunity. And I think what you'll see us is we continue to invest in the areas where we see the best returns so that we don't forgo the long-term health of the business.
+
+If we see the year outperform, we will certainly look at investing to further accelerate the business. But I think at this point in time, we want to be prudent in terms of managing the business just given the macro landscape.
+
+I think the second is, with regard to AI uses at NetApp, we have a broad range of users. We already use AI in our customer support and our product portfolio to help customers be able to have much reduced management requirements, right?
+
+So, we automate how data is managed in the system and automate self-healing of a system, as well as give customers intelligent chat bots, for example, so that they don't have to wait in queue for all of their basic questions.
+
+I think with regard to the big areas that we see opportunity is, is really in software development productivity. We have some exciting work already underway using some of these large language models and this profound opportunity for innovation there that we are leaning into. And you'll see the benefit of that in the ability to deliver more software to customers in a faster period of time. And I think those are some of the key areas of focus for us.
+
+Louis, first of all, if you look at the recent print from our competitors, I think we took share already in the current quarter. So, that's a good start to that dynamic. I think with regard to our overall kind of focus areas, we talked about expanding innovation to support our storage business.
+
+And so we've done a lot of product-led innovation into the market as well as broad innovation in storage life cycle management programs, the simplified licensing, the industry's most advanced and complete ransomware protection and recovery guarantees of lots of service innovations as well for our customers.
+
+We have aligned our go-to-market teams starting fiscal year 2024 to be laser focused on our flash portfolio. We think we've got a strong opportunity there. Last year, as I mentioned in our Q3 call, we had a compensation plan that was complex, having our frontline sales team sell a broad array of products, and that impacted execution. We have sharpened that starting FY 2024 per our commitment, and we have brought a much more focused approach to our cloud portfolio.
+
+So, I expect us to -- we have the strongest hybrid flash portfolio in the industry. We now have the broadest capacity flash portfolio in the industry and truly the only unified storage portfolio in the industry.
+
+Unified now includes block, file, object and cloud. And so we've redefined the landscape for unified to take it to the next level. So we're excited about the portfolio. We've got to execute, and we're focused on it.
+
+Thanks Kris. Our focused execution yielded solid Q4 results, capping off fiscal year 2023 with record high annual operating margin and EPS, despite the slow demand environment. The fundamentals of our business model are sound and our confidence in our strategy and the health of long-term opportunity is unchanged. We will continue to prudently manage the elements within our control to drive margin expansion and improve profitability.
+
+I'm excited to enter FY 2024 with substantial new innovations and a more focused operating model to better address areas of priority spending within our customers. I look forward to updating you on our progress on next quarter's call.

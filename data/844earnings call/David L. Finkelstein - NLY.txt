@@ -1,0 +1,78 @@
+David L. Finkelstein
+Annaly Capital Management, Inc. (NLY) Q4 2023 Earnings Call Transcript
+
+Sure. Good morning, Bose. Yes, we could see that continuing. I think one of the points we noted is just the acceleration in activity in the conduit channel and ultimate financing through securitization. So, we do feel good about growing the credit portfolio, primarily through the Onslow Bay channel and we'll look for more opportunities to do so.
+
+I think, the market share that Mike, has captured as it relates to the Non-QM market, I think it's been impressive. We had our highest lock volume and purchase volume last quarter in a quarter where origination declines. So, we feel really good about it and we would expect to increase capital towards that effort.
+
+Well, Agency has a better headline ROE, but you got to consider volatility and the overall capital allocation and still makes sense on a risk adjusted basis continue to rotate further into both resi and MSR on a risk adjusted basis.
+
+Sure. We actually just closed the books for January yesterday, so I have a good month end number for you, which was up 2%. Rates have drifted a little bit higher over the last couple of days. So, we've softened a bit since then, but nothing to write home about.
+
+You bet, Bose.
+
+Sure, Crispin. We'll let Srini, fill that one.
+
+Sure, we did moderate those return estimates given the tightening that did occur later in the quarter. But look, Crispin, we out earned the dividend modestly in the fourth quarter as it relates to the first quarter here.
+
+We do expect EAD to be contextual with the dividend, which we feel good about. And at this time our view is that it's not our recommendation to the Board to make an adjustment to the dividend. We'll see how things progress throughout the rest of the year, but we feel good about this quarter.
+
+Thank you, Crispin.
+
+Sure. Look obviously our overall leverage is going to be a function of capital allocation and the decline in leverage is attributable to some extent a lower weighting to Agency, but also the fact that look we're when we look at the market and what we've recently experienced volatility is something that could persist for a little bit longer.
+
+We're still kind of living underneath the lion's paw as it relates to risk events in the market. And so we're playing it very conservatively. But the good news is, is we're able to earn a good return with the current level of leverage.
+
+So to sum it up, we're comfortable with where we're at here. Our overall leverage is going to be a function of reallocation into either resi or MSR and we feel good about where we're at. We're not of the mindset immediately to increase leverage nor really take it down.
+
+Sure. Give us rate cuts, give us to QT, give us stability around the world and we'll certainly raise leverage. But look at the end of the day here, if you look at our spread shocks, if we do experience spread tightening, we're still going to get very good returns as we saw in the latter half of last quarter, just in terms of the overall model, we are generating a more stable return with less leverage than what a mono-line agency firm would deliver and we feel very good about it.
+
+Now to the extent there are some real green shoots out there as it relates to volatility in the market. Yes, we can increase leverage if spreads are attractive. And to the extent that we get a widening in spreads, we have ample liquidity and in the balance sheet to allow leverage to organically increase without having to worry about selling to manage our leverage.
+
+So it's a really good position to be in right here, Doug. But to the extent things do change for the better and the market is priced to that soft landing scenario, it's priced perfection across all assets with possible exception of some mortgage related assets. So, we're a little bit cautious here, but that could change.
+
+You bet, Doug.
+
+Yes, I think we'll go around the room here but in Agency look we could get mid-teens returns, upper teens returns on specified pools for example, moderate loan balance production coupon pools to the extent we can find them. There are some scarcity, but you can get upper teens in those assets. And then Mike, you want to give a little rundown on the resi front?
+
+Yes, sure. So, both November and December month ends, we did have a little bit of pressure in financing markets, which suggests that balance sheet assets might be little bit heavy and that's what led to a lot of the swap spread tightening that we experienced and for example, in the very front end of the yield curve at the two year level, two year rate, we got to negative 21 basis points on swap spreads versus treasury, so -- versus SOPR. So, the way we viewed it is that that will gravitate to zero through the passage of time over the two years and it made perfect sense to us to transition some of our two year futures over to paying on swap and just since the end of the year those swap spreads have gone from negative 20 or thereabouts to negative 14 this morning.
+
+So, it's been a good trade. We do still think that swap spreads are on the tight side particularly even out the curve with 10-year swaps at negative 36 basis points that to us looks a little bit tight. The Fed has obviously begun discussing the tapering of QT and as the Chair noted last week that will be an active conversation at the March meeting.
+
+To the extent they do move on that this spring, then we will get a little bit of relief as it relates to balance sheet and that should help swap spreads widen back out.
+
+Yes.
+
+You bet.
+
+Yes, let me pass it to Srini to talk about what we're exactly doing in higher coupons.
+
+And one more point to note, I was just going to say that if you look at the overall portfolio, the average dollar price is still $98 notwithstanding the rally we experienced in the fourth quarter and you do get the most spread in the higher coupon. So you take more convexity risk, but we try and mitigate that as Srini said through specified pool selection, but at the end of the day, we get paid to manage convexity risk. And if you're way down the coupon stack in low dollar price securities, you're not going to get the spread you need. So that informs the strategy.
+
+Yes. So to your first point about adding term in the third quarter, you are correct in that and that does reflect the roll down. And I'll tell you another point to note about the repo market today, Rick relative to a number of years ago is that the vast majority of the liquidity is in the very front end of the curve there and to really extract the value in the repo market, it's we do need to stay somewhat short.
+
+We did have some very good opportunities to put on some long-term trades last year that we benefit from. But generally speaking the term of the repo is going to remain relatively short because that's where the liquidity is. And to the extent that the Fed does ease certainly then you benefit from that by being able to capture those lower rates. So to a certain extent that's the case as well to your second point.
+
+We understand our west there.
+
+Thanks, Rick.
+
+Yes, sure. So we have duration has been added organically a little bit since the end of the quarter just through higher rates, but what we're looking for is more persistent signs that inflation has moderated to a point where the Fed feels good about cutting rates and we think we'll get there. If you think inflation prints for the next three months are going to be consistent with what they were for the last three months, we do think the Fed will release beginning in May irrespective of how the economy plays out.
+
+And once we see those signs, we'll be more comfortable with duration because real rates still do look attractive. And ultimately, we think where the long end of the yield curve should settle as we get through this is probably inside of 4% and look for those signs that volatility dissipates and that might be beneficial to the portfolio.
+
+Yes, certainly. One point to notice is we're certainly thankful a little over two years ago we did sell our commercial platform. So we're glad not to be in that sector. We also last year for example we took or we sold all of our CMBX positions to reduce that securitized exposure and currently what we own is roughly $220 million of AAA CLOs, which are almost exclusively multifamily, so very little exposure there.
+
+Now as it relates to the broader CRE market, yes, there's certainly some isolated risks out there. We do think that this particular episode will be contained. There are other banks out there that we'll have to work off some of those CRE loans. The big banks are in good shape, but it's something that's going to impact a lot of the regional banks over the near-term, but we don't see it as being systemic to any extent notwithstanding some of the volatility we're experiencing in markets as a consequence of New York Community Bank.
+
+So long story short, we don't have exposure and we're thankful of that, and we think this will be a relatively muted event in the market, but it is some factors that need to be worked through at the bank level.
+
+Thanks, Trevor.
+
+Sure. So I'll start off with just the overall mortgage market and then Ken can talk about MSR specifically. There has been a little bit of volatility in spreads the past week and it certainly does create opportunities, but it's not the type of event where we're looking to dive into the market, we've reinvested runoff at better levels and things like that. And we're watching, but it's not a catalyst to necessarily jump into the market on MSR.
+
+Yes, we will also see how banking regulation plays out and what impact that may have. But generally speaking, we're reasonably optimistic on our ability to source MSR in a less competitive fashion.
+
+Thanks, Eric.
+
+Thanks, Chuck, and thank you everybody. Good luck and we will talk to you in Spring.

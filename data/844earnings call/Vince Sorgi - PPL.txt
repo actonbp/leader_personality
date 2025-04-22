@@ -1,0 +1,86 @@
+Vince Sorgi
+PPL Corporation (PPL) Q4 2023 Earnings Call Transcript
+
+Morning Shar.
+
+Yes. To your point, Shar, the order suggested that we should come back with another CPCN filing with an in-service date for that second CCGT in 2030. And so we would plan on doing that in a couple of years' time to start to prepare for that and obviously, we'll be updating that as we go through the IRP process this year looking at load and generation economics and all that.
+
+So, the first point is really the updated IRP that we'll file this year and then ultimately, that will feed into a CPCN filing to be -- to have a plant in service in 2030.
+
+Thanks Shar. Appreciate it.
+
+Morning Durgesh.
+
+Sure. So, maybe a precursor to the DSIC waiver is really the LTIP process that we have in the state, Durgesh. In mid-January, we filed a petition with the commission to modify our LTIP, which covers the period. That's the long-term infrastructure improvement plan that covers the period from January 1, 2023 to 12/31/27. So, we're already a year into this current LTIP plan.
+
+We did file for some significant adjustments to that plan, which the LTIP is really the precursor for the types of projects that would then be eligible to flow through the DSIC mechanism.
+
+We're proposing to increase that LTIP plan from about $500 million to about $800 million. We're including a new project or a new program for predictive failure technology.
+
+We've been doing a lot of testing on some new devices that we can put on the grid that actually enable us to identify failing equipment before it actually fails and causes an outage. So, we have some money in there that we want to include.
+
+We're also looking at just other distribution reliability projects. Our reliability very strong in Pennsylvania being led by our transmission results there. We need to continue to improve our distribution reliability, so additional money in there for that. And then, of course, we have the approved projects through the IIJA process that we also updated the LTIP 4.
+
+So, the parties have 30 days to file comments on our LTIP filing. And those comments are actually due today. So, we'll want to review those comments before we file for the DSIC waiver request.
+
+We have notified the PUC of our intention to file that waiver request. And we'd expect to file that relatively soon, Durgesh. At this point, the request what we're still working on, it will likely be in the form of the higher cap on the DSIC.
+
+Great. Thanks Durgesh.
+
+Yes. So, let me talk about maybe data centers more broadly. You're referring to one that's specifically related or will be tied to the Susquehanna nuclear plant. So, most of that activity is really between Talen and the data center entity, although we are working with Talen to ensure that the reliability of power supply is there for that center. So, some incremental work there, Angie.
+
+What I would say, though, more broadly, beyond that specific instances, we've really started to see some data center activity, both in Pennsylvania and Kentucky, with some very large load requirements, again, 1-gig size projects, some smaller than that, but we are seeing some 1-gig projects as well.
+
+And in our territories, we have some -- a number of positive attributes that these data centers are looking for. Not only is our reliability very strong in the top quartile, top decile range, especially in our transmission side of the business, which is where these generally are pulling their power from our reliability there is extremely high. We also have relatively inexpensive land and an abundance of that land in both of our jurisdictions in PA and Kentucky.
+
+And then in Pennsylvania, in particular, we have a decent amount of capacity on the transmission network that we could add this load without a lot of investment that still is incredibly beneficial for our customers because that will still lower the overall cost and bill for our retail customers, the more and more load that we can connect to the transmission network.
+
+And then, of course, we're close to New England and the Mid-Atlantic region, especially as you think about Pennsylvania. So, there's a number of things in our territories that make this attractive. And of course, in Kentucky, we have relatively cheap power prices.
+
+So, very active in working with the data center companies. We haven't included these in our load forecast at this point. We will do that at the appropriate time if and when we close these deals with these folks. But I would just say at this point, a lot of activity going on with the data centers as you're hearing with some of our peers as well.
+
+Yes, for the most part, what we're seeing, Angie, is reliability and reliability of power. I think you're right, there are some data center companies that also want to ensure that, that power is coming from green energy sources like what we're seeing up in Susquehanna, as you mentioned earlier.
+
+But for the most part, it's about reliability and the cost of that power because, obviously, these are huge costs for these data centers is the cost of the electricity itself.
+
+So, to your point, we don't have as much capacity in Kentucky as we do up here in Pennsylvania. And so we would expect there to be incremental investment needed to support data centers in Kentucky perhaps more so than we would need at least in the near-term in Pennsylvania.
+
+Certainly, this will feed into, as I was mentioning before, into our IRP process as we look at our load growth as we think about our generation replacement strategy, a little too early I would say, to say we need to modify our current thinking on that. But clearly, if some of these large centers hit, we're going to have to factor that into the IRP and then ultimately into that CPCN request a couple of years from now.
+
+Thank you.
+
+Good morning. Hey Paul.
+
+Yes. Well, clearly, because we have no rate cases in 2024 across the board, we're able to assess the regulatory environment and the outcomes that our peers are getting. As we know, not every company gets the same outcome even under the same jurisdiction, so it wouldn't totally impact our decision. But clearly, it's something we will keep an eye on and feed into our decision-making.
+
+And again, the fact that we don't have anything for the -- certainly the rest of this year and likely the first one will be down in Kentucky sometime in 2025. I feel pretty good about our timing that we have in the plan right now.
+
+Great. Thanks.
+
+Yes, it's the latter, Anthony. We have some modest value in the plan coming from the DSIC filing. I think the real benefit is it would enable us to stay out longer in Pennsylvania and make the investments that we had talked about.
+
+But yes, to your point, if for some reason that, that request does not get approved, we're comfortable we can manage that and still maintain the growth targets that we've talked about.
+
+Take care Anthony. Go Rangers.
+
+Hey David. Good morning.
+
+Sure. So, a couple of opportunities there. Obviously, we have the RFP that we've issued in Rhode Island. We are not the owners of that, but we would be the offtaker of that generation. And so to your point, we have -- we do have in the plan the transmission required to the enhancements to transmission grid to handle that offshore wind load.
+
+We have talked in the past about our joint venture with wind grid to potentially provide wet transmission solutions more broadly up in Rhode Island or New England that we would partner with them on where we would not own the turbine -- the wind turbine generation, but we would build out a mesh network of sorts to lower the overall cost of the transmission build-out as we think about upwards of 30 gigs of offshore wind over the next, say, decade being built out there.
+
+That opportunity will highly depend on where the US Treasury ultimately comes out on their implementation provisions for the IRA. So, we are monitoring those regulations very closely.
+
+The initial regs that came out from the treasury, we think were in error in proposing that the regulations would limit the eligibility of the ITC credit for that wet transmission only if that transmission is owned by the same taxpayer that owns the wind turbines themselves. That limitation, if the final rules come out that way, would unnecessarily raise the cost of the offshore wind industry, which we know is quite challenged.
+
+And so we continue to engage with the administration and other policymakers to try to improve that final regulation and expand it to all taxpayers, not just ones that own the turbines and to try to bring the overall cost of offshore wind down so that we can get this very important clean energy source kind of up and running in the US. But I can't give you any assurance in terms of what that final rule is going to say.
+
+I can say we don't have any of that upside potential in our business plan. It's not in our growth projections at all at this point. I would say, kind of hinges on this. And then the states really coming together up there and partnering on this broader solution, which we believe will certainly bring the cost of offshore wind down.
+
+Sure.
+
+Just want to say thanks for joining us. Again, strong end to 2023, really looking forward to 2024 and beyond. I've spent quite a bit of time talking about the Utility of the Future strategy.
+
+We do think that's an area that differentiates us from our peers as well as the strength of our balance sheet and our overall dividend policy where we're growing the dividend in line with earnings.
+
+So, just appreciate everybody for calling us and -- for joining us and look forward to providing updates as we go through the year. Thanks so much.

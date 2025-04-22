@@ -1,0 +1,98 @@
+Horacio Rozanski
+Booz Allen Hamilton Holding Corporation (BAH) Q4 2023 Earnings Call Transcript
+
+Good morning, Bert.
+
+Thank you for that question. I'll start. To answer your specific question, I think you're asking the Focused Fox question. To give you some background there. Our contract now that the proposal that the protest has been adjudicated, we can talk a little more about this.
+
+Our contract will end on September 30th. Roughly speaking, we have about 400 Booz Allen people on the contract. We expect to retain about half, about 200 and reallocate them to other mission priorities. We have a lot of important cyber work going on throughout the firm that these folks would be tremendous for. So that's sort of the play on that.
+
+In the greater scheme though, when you look at the business overall, the business is doing great. I'm incredibly proud of where we ended last year with industry-leading organic revenue growth with a lot of momentum, as you pointed out. There's momentum on both sides. I think on hiring and retaining, there's great momentum, but there's also a number of contract wins and around things ramping up that make us feel like certainly over the next six months, the business is poised to perform very well.
+
+We are cognizant, as everybody else is that the second half is going to be challenging from a budgetary standpoint. And so our guidance for FY'24 reflects that range, if you will, the lower end of the range speaks more to a more challenging environment. The upper end of the range speaks more to a second half that looks more like a first half.
+
+But even if I get past that, and I look at the investment thesis horizon and everything else, we're on track. VoLT is paying the dividends we wanted it to pay and it positions us well for the long-term against topics like China, like AI, like 5G, cyber, quantum, I could keep going. So the business is in very good shape.
+
+AI, as you pointed out, this is a topic that has been near and dear to my heart given my own background and something that we, as a firm, have been very focused on. We have a leading position that's backstopped by a talent base that is very large and growing at around 20% per year.
+
+A contract base that has not just some really big AI contracts, but we're infusing AI into all of our major procurements to the extent that it makes sense, and it increasingly makes sense, more and more clients are interested in either having the option to imbue AI or asking for it directly. And so this becomes a differentiator not just against our AI portfolio, but against our whole business.
+
+We have some unique IC and IP in this area that we're very proud of. I talked about AI-Assemble. There's a number of other things that we are doing. And the partnerships that we've built and we continue to build also give us an edge in the market.
+
+We have talked for years about the co-creation that we do with NVIDIA around in Cyber Precog. I spoke about that a couple of calls ago. We talk about the things we're doing with our corporate venture fund, finding small companies that have unique technologies, I really do believe that it's not just that we're a leader today in the federal space, but that we are poised to project that leadership more broadly over time.
+
+Thank you.
+
+Let me first say that my crystal ball is the same as everybody else is. I do believe that this is going to be a huge area of focus for all of our clients. If you break it down, first of all, the digital transformations that we're seeing that really affect our entire client base, especially our civil client base are going to require more and more use of AI to accelerate everything from coding to verifying to then managing these very large systems and very large, if you want, citizen interactions, there's just so much that AI can do to both lower cost and improve the way in which citizens interact with the federal government at the civil level, and that is huge.
+
+On the other side, on the national security side, I also believe that AI is going to increase the efficiency and reduce the decision cycle that our clients need to go through. And tying it to our other priority, this is very important as it relates to China, which, of course, is also investing heavily in AI and the US, which still has a lead, has to continue to maintain this lead.
+
+Our clients understand that, congressional leaders that I've spoken to understand that. Everyone is trying to figure out how to do this in a way that is both aggressive and sensible from the standpoint of being ethical and being very thoughtful about it. And again, we have both the brand, but most importantly, the capabilities and the people to be central to that conversation.
+
+No, no. I appreciate it. This is a great question.
+
+Thank you.
+
+Hey, Rob. Good morning.
+
+It's an interesting debate. And we've seen this before right in the 2011-2012 timeframe. If we end up in a sort of more moderated budget environment in the next couple of years. And we've --- again we've -- from the standpoint of our '24 guide, we have taken some of the historical turbulence into account as we think about the second half of our business.
+
+On your specific question, there's always price pressure in this industry. This is not new. As you know, we have migrated our business to the extent possible to things that are at the center of our clients' missions that require much more technical content, that require a much more specialized IP and IC that make use of these partnerships and create more differentiation.
+
+We are always competing on price. Everybody else is, but I think we are in a somewhat less price sensitive part of the market because of the uniqueness of what we do. And at the same time, as I pointed out, Matt has pointed out in prior calls, we're also growing our business faster than we're growing our infrastructure in our back office in order to create flexibility in our operating model to be able to manage through the cycle.
+
+So if I step back and I say, okay, we have an investment thesis of $1.2 billion to $1.3 billion of EBITDA by FY'25, we're on track to deliver that taking into account, again, a reasonable market projection.
+
+I'll start and I think Matt has probably a lot to say on this topic too. I'll point you to a couple of things. First of all, we have an operating model that allows us to shift resources quickly from one side to another, from one -- when we manage the business, we manage as an entity as opposed to a separate sectors on purpose so that we can really go toward the opportunities and shift leadership, resources and investment quickly as that makes sense.
+
+And I think that gives us some robustness regardless of the shape of the budget going forward. And then the other just minor point that I will make is if you think about our civil portfolio, we do have a significant amount of work, for example, with the VA and organizations that are likely to travel more with the defense portfolio than they will with sort of the more traditional civil accounts.
+
+So it is hard to tell how all of that will play out, that's why we like to stay at the macro level and talk about the overall firm.
+
+Thank you.
+
+Yes. Cai, on FocusedFox, I think you would have to ask the client more than us. But in general, we have a very strong cyber business that is growing fast across the entire portfolio. This is one contract. And albeit a business that we wanted for a long time. It's a business that was migrating, the new contract is very different from the old one in terms of looking for lower skill sets.
+
+And therefore, it did not fully align with the type of work that we do and we like to do in the community. So I guess that's the best explanation that I can give. More broadly, though, we're seeing a lot of opportunity to deploy cyber resources across the portfolio, our defense clients with cyberspace is now really an active warfighting domain are more and more interested in making sure that they can get at scale some unique capabilities. And our civilian clients from a defensive posture are also very interested in that from a law enforcement perspective, from a critical infrastructure protection perspective.
+
+So as I look at, one of the things that we did, which we talked about in 2021, and I know you'll remember, is we built this national cyber platform where we allowed ourselves the opportunity to look horizontally across the entire cyber playing field as opposed to being stovepipe to minimize the national risk that exists in the seams of those stovepipe and that strategy has proven to be very successful.
+
+Thank you.
+
+I'm going to let Matt start on this one since he's got all the background.
+
+Yes. I want to just to amplify on that last point. When we built our investment thesis, we were thinking mid-10s because we also wanted to make sure we had the capacity to invest in the business in the right way. And the good news here is the acceleration of organic growth beyond what we originally predicted, opens that up a little bit.
+
+And then to Matt's last point, the fact that we're running the business so efficiently and so tightly also creates room in our rates to invest in the business and position us for growth. So that is giving us the opportunity to maintain margins above what we thought while also accelerating the investments required so that the business does well not just in '24 and '25, but really beyond.
+
+We're still on track to the $1.2 billion to $1.3 billion. The business is doing extremely well. We're operating organically of our expectations. And as Matt pointed out, we are still very interested in strategic acceleration through M&A, if we can find the right assets at the right price.
+
+When you put all of that together, depending on timing and everything else, where we fall in the range that will be the guidance question a year from now. But right now, we are, again, we recognize that the budgetary situation is challenging that this creates uncertainty. We all read the papers this morning. There's still no deal on the debt ceiling. I think all of that is real, and we're not ignoring it, but we believe that as a business, we are well positioned to have a very strong first half to manage a reasonable set of outcomes in the second half, to deliver another year of organic revenue growth that leads the industry.
+
+And that hopefully positions us really well to have a strong '25 as well. So when you put it all together, we're working on what we can control. And if I can just do a shout out to the team, our team is doing an exceptional job of doing just that.
+
+Good morning.
+
+The Intel business is a very important part of our portfolio. We are very proud of the work that we do there. It fits within our overall national security approach. And there's a very close integration between what we do in defense and what we do in Intel.
+
+And increasingly, between what we do in some areas of Intel on the cyber side and the work that we do on some of the civilian agencies around critical infrastructure protection and the like the percentages and everything else are really driven by where we see opportunity at any point in time.
+
+In the last few years, our Civil business has done extraordinarily well and it's become a bigger share of our business and that's a business that continues to do very well and we're very proud of it.
+
+As we look into this year, I think we think our Intel business will probably level out, be more sort of towards the modest growth, maybe even flat as are -- there's been some contract turnover that we've been talking about.
+
+But I think what's really important to also talk about, which is not going to be in the numbers, is that there's a unique talent base in there that through our national cyber platform is being leveraged across the institution and creating growth in both defense and civilian clients and creating a lot of sustainability across the business.
+
+I think that's a big part of why Booz Allen is successful through different cycles is that we actually have in our operating model and the way we work together the ability to shift resources, I believe, much faster than anyone else. And I think that's a capability that is going to continue to serve us well, given the environment that we're in right now.
+
+If you look at our guidance, 7% to 11%. The top end of the range assumes that the second half looks a lot like the first half, a little bit more like what happened this last year where there was a full budget passed in December and that actually created certainty for our clients, and that was very helpful.
+
+Towards the end -- the lower end, it would be more uncertainty faced by our clients. I want to point out to you in a business like ours, the specific numbers, we don't have almost any programs that are dependent on line item in the budget.
+
+So this is really around how our clients see their opportunity to get things done and how either enable or impaired that it's going to be, and it's more of a perception from their perspective around what's happening than a specific number.
+
+So the sooner there is certainty about what's going to happen almost regardless of what that certainty is the more our clients can prioritize, I think we're well positioned. We're not going to be immune to cuts if there are cuts, but we're well positioned to be more resilient against that because we're at the center of the mission, doing unique and very important work. And that's -- so it really is how soon do we get to certainty.
+
+But overall, again, I'll leave you with a thought that we are guiding to a very strong set of numbers for FY'24, very strong organic revenue growth and really on track with what we said was our investment thesis goal for FY'25. So we're happy with where we are.
+
+Let me thank you all for your questions and for joining us this morning. As always, Matt and I are very proud of what the firm has accomplished and we're optimistic about the future. We have 32,000 people almost at Booz Allen now and they're working as hard as ever to serve our clients and to really change the world. And it's because of them really because of them that Booz Allen continues to thrive. So we look forward to another year of growth and success in fiscal year 2024 and to sharing information with you over time. Thank you again for joining and have a great day and a Happy Memorial Day.

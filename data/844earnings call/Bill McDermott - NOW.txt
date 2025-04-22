@@ -1,0 +1,72 @@
+﻿Bill McDermott
+ServiceNow(NOW) CEO Q4 2023 Earnings Call Q&A Responses
+
+Yes, Brad, thank you very much for the question. Things are going very well out there, and the momentum is terrific. What's really happening and I can say this after 186 CEO meetings in the last six months, the CEOs are now getting very involved with the Gen AI revolution. They realize there has to be architectural adjustments to their environment and the manner in which they manage their data and the platforms they're beholden to actually take advantage of Gen AI.
+
+And if you think about the half a century mess that exists out there with legacy systems, in many cases, multiples of the same system, we have one unifying force in these conversations, which is the Now platform because we cooperate with the complexity of this landscape without putting people in a position to rip and replace.
+So, they're looking for platforms that matter. We're one of those and I think as Gina said, we are the intelligent platform for end-to-end digital transformation. When you have that C-level executive meeting, they really get it now and with regard to Gen AI, the momentum is outstanding.
+
+As I said, that SKU has outsold any other new introduction we put into the marketplace. So, there's a real appetite to invest in Gen AI, and there's no price sensitivity around it because the business cases are so unbelievable. I mean if you're improving productivity, 40%, 50%, it just sells itself.
+So, I think we're in a really, really good place. The Gen AI investments are coming. We're actually getting orders because we have great product, thanks to CJ and his unbelievable engineering team. So, I would tell you at this time last year, compared to this time this year, you should be more bullish now.
+Thank you, Brad.
+
+Yes, I mean, I'll obviously let CJ comment on this also. But you look at the Visa strategic partnership using Gen AI solution to manage end-to-end dispute resolutions with customers. I mean this is one of the great brands in the world, one of the substantial companies.
+
+And just think about the impact Gen AI has in a radically simplifying their conversation with their customer and deflecting all the human capital it takes to resolve these cases when technology can do it.
+
+If you look at EY and the idea of instilling Gen AI governance on a single pane of glass to manage risk and compliance for some of the biggest corporations in the world. If you look at the opportunity, every single industry has a great opportunity. I was in Germany recently, and I was talking to a home appliance industry participant.
+
+Post-COVID, they went from 25% online sales to much more than 50%, and it's growing. So, when CJ and his team brought Field Service Management with Gen AI to the marketplace, just think about one call where the agent instead of -- the rep instead of using a clipboard and a pencil, he's got it on the mobile, knows exactly what part to bring, resolves the case on the spot. That's one part of it, but here is another part of it.
+
+The consumer will pay a lot more if they can get a same-day repairs agreement along with the appliance. And the margins on same-day repair are far greater than the box itself, plus you create a nice annuity stream. So, what we're talking about here is fundamentally rethinking the way business is transformed using our platform and Gen AI.
+And CJ, I know, and I do want to congratulate you and thank you for the job that you continue to do, bringing this innovation to the marketplace. Please give us your thoughts.
+
+Thanks a lot Mark.
+
+Thank you very much, Arjun, and I really appreciate it. Just a couple of statistics on the customer workflows, 18 of our top 20 deals, what we're seeing is there's a tremendous opportunity to really take ServiceNow and squarely place it on the Customer Relationship Management category.
+
+When you think about front, mid and back office and the fact that we can align all three of those things, and nobody has to lose for us to win. We could fill in all the blanks for what the current participants don't do, especially with their integration problems. It's just a fantastic opportunity for our customers.
+
+And I think it's important to note, when I gave the Field Service Management example, our net new ACV in Field Service Management, specifically was up over 50% and year-over-year.
+
+So, I think it's important to recognize that we have a whole list of new logos in this space. And employee workflows, nine of our top 20 deals and was kind of interesting. Every single CEO now is looking to make the people packed far more productive than it is and with natural language to have your employees seek the data and the information they want and have it reported back to them in just a very nice paragraph of content and data so they can do their jobs better, is kind of like in the no-brainer category.
+And we have some really great logos that I'm sure CJ would like to share with you as well. But both of those areas are really good. And incidentally, that employee spot that I mentioned was up 80% year-over-year.
+
+Thank you.
+
+Yes. May I also just add one thing, Kash. If you think about every single industry, they all have their own personality. So, for example, I had the opportunity to meet a pharma company. And as you know, the average life cycle, for example, for clinical trials is over six and a half years. And this is an industry that drops $200 billion a year on this clinical trial process and 90% of them fail.
+
+So, if you just think about that for a minute, you say, well, what can generative AI do to automate document generation, for example, that would be in line with regulatory protocols and you come up with site contracting agreements, for example, that also include the patient, because the patient has to be engaged in the process, otherwise, they won't stay in the trial.
+
+And every time a patient opts out, they lose money, $20,000 per patient. So, generative AI on the ServiceNow platform obviously can go in there and radically cut down the cycle-time of these clinical trials.
+
+So, CEOs right out of the gates are ready to go. Your team, my team, let's figure this out. So, there's a real appetite. And I think why I'm so bullish is we have a platform that already has it.
+
+Thank you, Kash.
+
+And Keith, Gina doesn't brag about this, neither does Russ Elmer, who is our Office of General Counsel lead. We're using the Now platform. So, in all the back office functions of the company, we're so automated, so productive. And they're getting things done on the Now platform that it would take other companies five and six times the headcount to do the same job. And that is really something.
+
+We actually even had with legal service delivery, AI tell us that we're spending too much time on contracts less than $250,000. Our office of General Counsel, Russ made the decision based on AI that we could fundamentally change that and reorient the workflow around those kinds of agreements, which gave us a huge rush, and he didn't have to hire anybody.
+
+And then he actually took that product and our great engineering team built it. We call it LSD, Legal Service Delivery and now lawyers all over the world, they want to jump on. So, everything we do internally with Now on Now as an external marketing force associated with it.
+
+Thank you, Alex.
+
+Thank you, Mike.
+
+Yes, I think we were -- I think, Mike, you called it. I think we were at 23 out of 24 of the world's largest and most significant ones. And now we're at 24 out of 24. And I just seriously want to credit the amazing platform of ServiceNow, the MRA process and integrated risk management and the complexity of going into an environment like that is pretty serious stuff.
+
+And to have a marquee brand trust us and believe in us and believe in ServiceNow the way they did is really inspiring. And I really have to turn it over to CJ and give him so much credit for the hard work that he put into it.
+
+And I know firsthand because I had the front row seat to watching it and how we spent time with this wonderful customer. And CJ, I'm sure you got some color that you might want to put on that.
+
+Thank you very Karl. Appreciate it.
+
+Yes. Well, thank you very much for the question. I really appreciate it. Our federal business is really outstanding. And for the benefit of our shareholders, I think that there's a tremendous opportunity to replicate what we're doing in the United States federal and many other governments around the world. That is clearly an ambition that we have, and we have many use cases and many references to back that up.
+
+So, CJ, I think you spent a lot of time with our team. And I know that I mentioned some of the names like United States Army, United States Postal Service as an example, really marquee wins, really, really important stuff. Why don't you build on that?
+
+Thank you.
+
+
+Thank you, Brad.

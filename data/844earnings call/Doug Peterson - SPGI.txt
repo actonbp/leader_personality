@@ -1,0 +1,62 @@
+Doug Peterson
+S&P Global Inc. (SPGI) Q4 2023 Earnings Call Transcript
+
+Thank you, Manav. This is Doug. Well we're really excited about what we've been able to achieve with the merger. And you've heard us talk about the power of the merger, the capital return that we had, the accretion to EPS, the cost synergies which we now have delivered $619 million. And going forward we're going to keep talking about the revenue synergies.
+
+When we look at the revenue synergies, they started off traditionally with cross-sell, cross-sell within divisions. This is where we were selling Commodity Insights products from the Platts customers to the IHS Markit customers and vice versa. Same in the Market Intelligence business where we're selling financial services products to corporate customers for Market Intelligence. But now we're starting to deliver the new products as well. And a combination of both of these has allowed us to be ahead of the schedule. We're very excited about the new products coming out.
+
+Let me give you one example from the Commodity Insights division something called Platts Connect. Platts Connect is a product that took the platform of Platts Dimensions Pro and took the IHS Markit Connect platform. We put them together. We now have a very unique single holistic platform for prices, for research, for forecasting. But let me hand it over to Adam, since he's on the call and he can give us some more color for Market Intelligence.
+
+Thanks, Tom.
+
+Thanks Alex. This is Doug. Let me start by saying that we always start our year with looking at how we're going to be able to grow our margins. We always build a budget that begins with top line growth. And we want to make sure that we can build our business through investment for innovation, but also continue to deliver margin expansion.
+
+So if you asked about each of the divisions and each of the divisions has different characteristics for how we're moving forward. We have technology and productivity plans in place. But let me start with a couple of the divisions and then hand it over to Adam.
+
+So within the Commodity Insights division, we're looking at as you saw 8.8% growth to 9.5% growth with a margin expansion in the 46.5 to 47.5 range. We have growth in that area in particular in energy transition products. We see high demand coming for new products that relate to carbon to carbon intensity to carbon markets to different types of metals, which are going to be important for the energy transition. So we see a lot of growth in the area coming from energy transition on top of what are the regular markets there. We do have some investments taking place in the Commodity Insights division both for some regional expansion, as well as some new products.
+
+When it comes to Mobility, we're making some investments in some new products in Mobility, so that we will be able to grow our top line. As you see we have an 8.5% to 10% revenue guide as a 39% to 40% margin guide. But we always operate all of our businesses beginning with top line with discipline to deliver growth. Just to mention before I hand it over to Adam as you know we've delivered 1,200 basis points of margin expansion over the last 10 years. So it's something that's in our DNA. But let me hand it over to Adam.
+
+Thank you Scott.
+
+Thank you Jeff. As you know we always apply a discipline to looking at our portfolio, looking at top line growth, looking at the margin expansion, also looking at how it fits across the portfolio. During the year last year, we didn't make a lot of noise about it but we did shut down some very small products. We shut down 8,000 indices that were subpar subside across the businesses within Commodity Insights Market Intelligence or some small products that we moved on. We also had a couple of small divestitures.
+
+But when you ask the question to us, we're constantly looking at the portfolio trying to understand what fits best. We have different themes. You've heard us talk about the key themes private market, sustainability, supply chain, analytics, risk and credit. These are the sorts of areas that we're always looking to expand our presence to make sure we have the best capabilities possible to meet the needs of our clients. But within looking at the needs of clients we look at the shareholders. We look at how we're going to put this portfolio together with the best way to leverage our technology. We will always apply the discipline as well to how we're going to look at the portfolio in the future.
+
+Thank you, George.
+
+Thanks, Craig. As you saw when we put together our information, we put in our slides what are the key factors that we look at. And when you take a step back, we know that GDP growth is always the number one driver. It's the highest correlated factor to our long-term revenue growth. We've looked over the years to see what are those factors that drive it the most. We see some potential slowdown in the economy in the US and EU. We're planning for what we call we're planning against what we call a soft landing which means that there could be some sort of slowdown in the economy.
+
+As you heard we've seen some slowness and a little bit of longer sales cycles in certain segments. But that's – those are some of the downside factors. What would happen with the geopolitical factors, how long will it take before central banks begin to cut rates, we've taken those into account as we built our guidance with some conservatism.
+
+So if we saw a much quicker return to lower interest rates, if we saw much quicker a geopolitical environment that was more stable, these are the kinds of things that create some upside for the company. We also look at segment by segment. We know that the automotive segment is going through a lot of change. We know that the energy transition which is changing the commodity cycle. So we've taken into account all of these different factors as we've looked at the – overall at the guidance. So to your upside risk – upside opportunities we think that it could come if interest rates move down lower faster, if the interest rates if the economies grow faster than we think, et cetera. But these are all the factors we take into account across the divisions, as we're setting up our guidance for 2024. Thanks, Craig.
+
+Great. Thank you for that. And when we think about technology when we think about AI we start with the framework that we showed you in our prepared remarks today which has the foundation of very strong proprietary data. We think that this is going to be one of the most important factors for AI becoming successful at any company no matter where they are. And we think that this gives us a running start in addition to what we've already been developing with Kensho over the last five years.
+
+But turning that into earnings and turning that into growth is something that we're starting to build. We think that the AI opportunities we have, Adam talked earlier about ChatIQ is an example of something that gives customers the opportunity to dig much, much deeper into our data. We think that it's going to create stickiness. We're starting with metrics that look at for example, our Net Promoter Scores. We're looking at retention. We're looking at how people -- how -- what kind of feedback we get from calls from customers that are calling in to see how we're doing.
+
+We also believe that right now we're going to be able to continue to meet our guidance that we gave you for our -- in our Investor Day in 2022. We'll be able to continue along that track. And then we'll be able to come out with much more precise guidance for the impact of AI across our portfolio in the future.
+
+But we see this as something that's going to be a game changer for all of our businesses. It's going to be embedded in everything we do. And we're just now learning how we're going to measure those impacts.
+
+But let me hand it over to Adam because he's very close to a couple of the end market opportunities that we have right now.
+
+Thank you, John.
+
+Thank you, Owen. Well, we take a view that AI is going to be embedded in everything we do. And we don't think there's going to be a killer app. It would be great if there were. That's not our plan. Our plan is to look at AI to see how it can improve our productivity, how we can use it with our developers, our data management, data linking, et cetera, up into how we're going to improve our products and build products and link them over time. As you heard from Adam, we've got a few very exciting products that are already being tested in the market. We've launched one recently and then we've got some more coming. We also have the capabilities of Kensho which are available on the Marketplace. So we don't think of it as a killer app. We think of it as continuous improvement. And we think that if you look at it over time, it's going to be something that's going to change the way we work and the way that our people work. So, we're really excited about it.
+
+We're also excited that we have such a strong internal team that we're one of the first companies who was able to name a Chief Artificial Intelligence Officer, somebody who has the experience of Kensho of being the CEO there with the expertise. We have an open model in terms of the ecosystem we're going to be working with. So we're not looking for a killer application, but we're looking to see every single way we can use it and how it's going to improve the way we serve our customers as well to manage the business. So thank you Owen.
+
+Let me make a couple of closing remarks. And first of all, I want to thank all of you as usual for being on the call and for your excellent questions. And it was great to have Adam and Martina on the call today. And I'm really excited about everything that we're able to deliver in 2023.
+
+We delivered what we think is the promise of the merger. As you know we've paid back over $17.5 billion of capital over the last two years since the merger. We've been delivering innovation. We delivered on our synergies. So we're excited about taking that energy and all of the incredible work that our people have done, and turning that now into growth into the future.
+
+I also want to thank our people as always for their incredible work. It's what made 2023 what it is and it's what makes me very confident about the foundation we have for going forward, and especially our leadership team who is focused on growth innovation and execution.
+
+This is our last earnings call with Ewout. He's been with us for seven years of remarkable service and I want to thank him. He's helped shape our financial strategy. I know that everybody is very pleased with our margin, and as well as our capital return and that's something that Ewout's been instrumental in. He's helped us lead with our accelerated growth with our innovation and he's had a tremendous impact. He partnered with us on all of the major strategic transactions. He's been the sponsor of Kensho for the last five years, which we now talked about many times on this call the importance that brings to the company as well as one of the initial architects as well as executors of the IHS Markit merger. So he's done a fantastic job building a world-class finance organization.
+
+As we previously announced our current Chief Accounting Officer, Chris Craig will be named as the interim CFO on Monday. And he has done a fantastic job here for the last 13 years. And he's going to continue to evaluate the businesses. And as we look both internally and externally for candidates for the permanent role, and I look forward to working with Chris in his role.
+
+But again thank you Ewout. We wish you the best in your new role and continued success in your career. And please keep making the world a better place with your leadership with UNICEF.
+
+So, again, thank you everyone for joining the call. Great questions and we're very excited about the future. Thank you very much.

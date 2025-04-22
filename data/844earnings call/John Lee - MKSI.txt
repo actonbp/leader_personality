@@ -1,0 +1,36 @@
+John Lee
+MKS Instruments, Inc. (MKSI) Q4 2023 Earnings Call Transcript
+
+Joe, it's John. I'll take that. As you know, we only guide one quarter out. Visibility is limited as usual. But we certainly read the same things you do, and we're certainly in constant contact with our customers. And I think our view is consistent with the industry, meaning the first half is kind of consistent with current levels, kind of with our guidance. And then certainly, the industry feels that the second half can be a little better. And our focus is really to continue to do the R&D for future projects with our customers.
+
+And so as you know, MKS has always been very lean and able to react very quickly to any changes in those assumptions. So we are looking at a first half that's kind of consistent with what we just talked about and guided for Q1.
+
+Yes, sure, Joe. So we've kind of alluded to double-digit numbers of customer opportunities at different customers, double digit. And that's remains the same. As you know, the development and work with the customers takes time, because we're working on the next-generation package substrates with these customers.
+
+As you know, Atotech has leading industry market share in that space and the top 30 customers are their customers. So the majority of it is the synergy of Atotech and those relationships, bringing over the laser groups. But our laser group also has had market share leadership in flex drilling. And there are examples there as well and customers there where the laser group is bringing the Atotech opportunity into that customer.
+
+Yes. That's a good question, Krish. Certainly, we look at our performance relative to WFE over the long term because, as you know, during the cycles, it varies when you're going up or going down. Many industry analysts are thinking of 2024 being flat, as you said, for WFE.
+
+I think the only characteristic I'd say that's a little different is when it's flat that long, the inventory burn down eventually finishes. And so even if it's flat, because there's just less inventory burn down, that should be beneficial to those of us in that part of the supply chain.
+
+And in our prepared remarks, we did call out that there have been many product categories where inventory burn down has completed, and we're kind of seeing a balance between what our customers are shipping versus what we're shipping to them.
+
+But it's not done yet. And we called out that memory specific product categories tied to memory. There's still, we believe, some inventory burn down that has to happen. And that is certainly going to be a function of how fast that part of the semi market turns up.
+
+Yes. I think there's no real change. The dynamics are very much determined by utilization versus capacity expansion. So no change there. And to your point, as utilization rates increase, we'll see that in the consumables part immediately and first.
+
+And just like in semi, once the utilization rates hit a certain level, our customers would then be making plans for capacity additions. And the CapEx then would follow, not just in laser drilling, but also equipment for chemistry plating. So what we're focused on now is making sure that we're designed in. So that when those volumes of CapEx occur, we're going to see that volume. But the characteristics of the consumable part of our business versus the CapEx part haven't really changed.
+
+Yes, Jim. Yes, we can give you a little color on that. CapEx for lasers is a little lumpy in the packaging business. And the better-than-expected result in Q4 was really driven by laser drilling for the flex market.
+
+Yes. I think it's still muted, Jim. I think you can see the utilization rates of many of our customers. And as you know, that's driven a lot by smartphones, PCs and servers. And so some of our substrate customers publicly -- public companies have been down 30% year-over-year. So when those utilization rates pick up, then as my answer to Krish's question, we'll see that chemistry go up. And then as that continues, we'll see that CapEx investment happening. But right now, HDI CapEx seems still a little muted.
+
+Yes, that's a good question. The PSD division, the semi part of PSD, that has continued to be strong as we -- as we mentioned in the prepared remarks. And that's, as you said, is going to be one of the bigger long-term drivers of our outgrowth in market share in WFE because of the exposure to lithography, metrology and inspection. And so the slight downtick in PSD was really some muted demand in research and defense relative to what our expectations were.
+
+No. In fact, -- we -- the specialty industrials is made up of many markets, and some can be a little lumpy up and down. But in general, it's been a pretty steady business. And some of the industrials, for instance, like automotive, have actually been very, very steady. So this particular quarter, we're just calling out a little bit of research and defense. That was a little lower than our expectations. But the rest of the specialty industrial markets were very steady, actually.
+
+Yes, we see the same things you see a lot of the chip companies, right? That is playing automotive guiding down. But we really haven't seen that, Jim. It's been a very steady, steady business throughout the year. And kind of our expectation, at least in Q1 as well.
+
+Yes. Thanks, Steve. It's a good question. I think in general, they are correlated. Because if you're making more chips, you're going to have to package them. I think -- so our view is that they are continuing -- going to continue to be correlated.
+
+The difference for MKS is that our exposure to semi is really about CapEx and our exposure, most of our exposure to E&P is consumables. So as we talked about earlier in the earlier question, we'll see that sooner E&P just because of the consumable nature of the business. And then CapEx there would follow as well.

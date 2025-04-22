@@ -1,0 +1,56 @@
+Joel Smejkal
+Vishay Intertechnology, Inc. (VSH) Q4 2023 Earnings Call Transcript
+
+Okay. Hi, Ruplu. Thanks for the question. The distributors, we have 16 business units in Vishay and we are probably about a third have had very active meetings. All of our divisions, the business units have scheduled meetings and we have got to cover multiple regions.
+
+So this is about the leadership of the division head and the product marketing leader, visiting the distributors in the Americas, in Europe and in Asia. So we are not quite at the midpoint of these business units, having the face-to-face meetings.
+
+There is preliminary discussion happening about part numbers where when we go into these meetings, we are actively identifying and speaking about our capabilities with capacity and lead time to support. So I’d say, overall, we are about a third pushing to a half. This is going to continue at least through the first half of this year. It may go into the third quarter as well.
+
+The feedback we are getting. Feedback has been really good. Vishay is showing that we have the capacity available to broaden our support to the distributors. We played a narrow role in the part numbers that we are finding in a number of these technologies, a narrow role in the participation.
+
+The one comment I made about the Americas, we have reached -- achieved 214 new customers based on those 7,700 part numbers that were placed at key distributors in 2023. So that’s good feedback.
+
+Customers are buying Vishay that didn’t buy Vishay and then once we learn about these customers, we approach them to offer broader technologies. We have got 16 different technologies. If they are buying one, we want to make sure they are buying multiples. So the feedback has been good.
+
+The inventory correction you talk about. We have meetings with the OEMs. We have meetings with EMS. We have meetings with our distributors. So the chain, there’s inventory at each one of those steps. The correction that we hear most say by the end of Q2, but it depends on the products. Some products are still in high demand or lack of inventory.
+
+We did not stuff the channel. We did not stuff the OEM with inventory. We were quite flexible. We didn’t enforce NCNR. We didn’t take that strategy and the meetings we are having with OEMs, they are quite happy with how Vishay allowed the OEM to be flexible last year, adjust their demand.
+
+Cancellations were high in Q3, some cancellations in Q4, but the OEMs are giving us signals that they intend to grow this year and they want to position Vishay for greater growth because of how we treated them in 2023 and the inventory that we have there is not as high as some of our peers. So this is the work we have cut out for us. So it’s a bit of a long answer, but I will say by the end of Q2 is what we are targeting for inventory correction.
+
+Ruplu, the Newport Fab is allowing us to -- we talk about a campus. We talk about having this fab -- silicon fab, the ability to support MOSFETs, diodes, as well as the Opto product, plus will bring in some of the thin-film resistor front end. This is a new approach for us.
+
+So we had to close the project that was initially starting in Heilbronn and that’s the write-off that Lori was talking about. We will be more efficient and be able to reduce cost overall not having duplicate fixed cost, because we will be able to put most of this into a single front-end campus in Newport.
+
+Lori, do you want to comment first about the capital allocation?
+
+Ruplu, regarding M&A, we continue to look and we have some targets, circuit protection is one, this would be an addition to Vishay’s portfolio. We always look to broaden our portfolio. So circuit protection is one. We also look at verticals, verticals that help us with specialty materials, that would help to advance our technology.
+
+And then we look at expansions of suppliers that are in the same businesses us, possibly better positioned in a region as we see customers speak about regionalization. We find that as also an important element, that we look at where Vishay is manufacturing today, do we expand in a particular region or can we make an acquisition that positions us quickly in that region? Those are the approaches we are taking today.
+
+All right. Thanks for the questions.
+
+Primarily the distributor destocking. As we have met with the OEMs, the OEMs talk about, if it’s industrial OEMs, they talk about single-digit growth in 2024. The automotives were even greater growth. They were talking about 10% plus in demand of components, that isn’t necessarily car count as we know, there’s a lot of electronic content going in. So those two segments are the largest segments we have.
+
+Aerospace/Defense will continue to grow, medical as well. We see that. So those four segments representing 80%-plus of Vishay. From there, outward shipment of their product, they see growth. It’s the steps in between. So it is the distributor digestion of inventory and some at EMS.
+
+We are looking at cost cutting. It is a topic of daily and weekly discussion across the company. Looking at fixed cost, moving to manufacturing that we have in low cost countries, the volumes are down. We are using government funded short time work program. There’s a number of things that we are working on, on the top in the variable cost to reduce.
+
+The SG&A cost is also being looked at. It’s very important that we continue to be in pace with our customer, the technical staff that we have invested in, the customer is aligning us in a different way than in the past. So we do look at cost.
+
+This is the forecast we put in for the quarter. We are staying close to the market. It is -- if we see Q2 guidance being different, we are going to have to make those appropriate adjustments. We have to manage the business as we see it, but it is a very important topic to protect our margins.
+
+I would say it’s a little slower is the pace, because when you look at -- when we have a discussion with the distributor, they speak about their total umbrella of inventory. They are umbrella of inventories all suppliers.
+
+They understand where Vishay wants to go. They are investing in these SKUs. They are conscious of their requirements every quarter to their shareholders and as they report their earnings. But we are making progress, as we have shown with the number of part numbers we are adding and the feedback that we get from customers that they are finding the product.
+
+We continue this. It’s an important element of our initiative. We would like it to move faster. We really point to 2024 as a POS year, which requires Vishay to be out front with the distributor at the customer to make sure we are realizing a greater rate of POS growth, which then facilitates the continued addition and replenishment of this inventory.
+
+Okay. Cost reduction initiatives are required and important with each of the divisions as we go into each calendar year. So efficiencies, cost reductions of materials landing in lower cost manufacturing sites like Mexico, those additions that we spoke about. Having some of our commodity products being supported by subcontractors also provides us some cost benefits here. We have a number of levers we pull.
+
+The inflationary items, the inflationary items for the most part, seem to be leveling other than wage inflation, but materials, logistics, those items are fairly flat. Logistics has declined somewhat. So I think it’s the initiatives of our Vishay operations team with efficiencies, material reductions, improvements in the processes, which is going to help us offset this, as well as those low-cost sites.
+
+All right. Thanks, Josh.
+
+All right. Thank you again everyone for joining us today for the review of our fourth quarter results. As a reminder, we are holding an Investor Day, our first ever, on April 2nd at the New York Stock Exchange. We look forward to seeing you there. Thank you very much. Have a good day.

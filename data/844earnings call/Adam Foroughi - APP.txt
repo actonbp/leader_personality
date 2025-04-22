@@ -1,0 +1,94 @@
+Adam Foroughi
+AppLovin Corporation (APP) Q4 2023 Earnings Call Transcript
+
+Thanks, Omar. I'll start with the business side, and then Matt will jump into the financials, but ultimately, we launched AXON 2, the upgrade of our AI platform in Q2 last year. From that point to Q4, the business -- the software business grew almost 50%. And obviously, you know, the impact on margins. We've talked about a huge flow through in dollars. The incremental dollars of growth there coming in at 80% roughly in the quarter. This is an early-stage technology. It's only been live for a little over half a year. It's growing exceptionally quickly, very high margin. We think the applications of this core technology are much broader than what we do today. And the team is continuously improving the technology, too. So, we're very excited about where it could go.
+
+Ultimately, when you've got a business that's growing that quickly on a technology that's that new at the margins we operate at, it's very hard to understand going forward exactly where we're going to land, but we've never been more excited about the growth prospects we've got in front of us.
+
+No, we don't have any specific concentration or change of mix, and we index lower in terms of Chinese partners to rest of the world than I think they do, but this is something we'd called out during COVID. China lockdown was a huge area of inefficiency in the market. So, we've seen the market really hit a trough last year, or two years ago, and then start recovering late last year. A lot of that was because Chinese developers were back in office for a year, coming back online, getting efficient again. And we'd signaled that we thought eventually that's going to help bring efficiency back to the market, because while we don't index heavily on the revenue side, there is a lot of content that's created out of China that comes out West and does benefit advertising-related businesses. And so that was a good trend that we've seen continue to expand.
+
+Thanks, Omar.
+
+Yes, we got you, Tim.
+
+Yes. Look, I think we've said this before, when it comes to privacy Tim is, you don't know dates on a lot of these releases. So when you're talking about Google, like, who knows when the actual rollout will be. Cookies were a lot later than expected and still in a very small percentage rollout. So, we don't know when these changes will come. We don't know the exact impact of the changes.
+
+What we do know is that, one, the way we've operated traditionally, we're very entrepreneurial, we're very nimble, and we've been able to adapt very well whenever there have been these changes. And number two, we run a much more of a contextual behavioral model than a lot of properties on the OpenWeb. And so, because we don't interface as much when it comes to really sensitive user data with the consumer, we're in a much better starting point than a lot of other businesses, too. So those two things always give us confidence that no matter what the change is, we're going to be able to navigate it.
+
+Yes, the way Apple responded makes it not really a great business decision to go off store, because one thing people don't talk about is, there is organic value to being on store. So, if you take the 30% fee and figure 10 points to 15 points of value from organic rank, then you're down to 15 points of cost savings and the expense to the developer that they -- all the different layers of expense amounted to roughly 20 points. So, there's no economic reason to go off-store today.
+
+We think over time, though, there's enough global pressure and there's going to be enough movement from the courts over time that they're going to continue to scrutinize us in different jurisdictions where eventually we think there could be benefits economically to the content developers. And if that happens, we've always said that's going to greatly benefit the advertising solutions.
+
+If you just think about the dollars on our platform, majority are transacted to drive IAP today and the dollar is taxed down to $0.70. If that one day went to [85-15] (ph), you could go take that and say every developer now makes 20% more, and how much of that are they going to be willing to put into marketing? A large part of it, which would be greatly beneficial to a platform like ours.
+
+Yes.
+
+Yes. And we just did authorize the big buyback. We're going to be committed to it going forward. We do think as a company like ours, where we're generating this much cash flow, we should be able to continue to facilitate buybacks and return value to shareholders in that manner.
+
+When it comes to the question of where we trade, why we trade at the certain multiple we trade at, but we can't answer that. We're not traders, and it's very hard to unpack. Does mobile gaming discount the overall company valuation? We don't, frankly believe so, because the core software business is growing so quickly and we break out financials. So, it's pretty easy to just say, let's just look at the software segment. There is -- we think the harder part when it comes to our business is that we were in a no-growth period in '22. We've had to come off of that and really focus on execution, which is what we asked of our teams. And now we put together four subsequent quarters of stellar performance.
+
+And as you look at that software segment, there's not a lot of software businesses with 70% plus EBITDA margin growing at the rate that is, I mean, rule of 140, 150 or whatever. And so, it's just an astounding number. And then we convert a very high percentage of that EBITDA to cash flow as well. So we think because the technologies are new, it'll take a while for investors to understand what we already see, which is not only is this very powerful technology in our core market, we've been able to grow much greater than the market is growing because this technology is efficient.
+
+And in conjunction with that, our partners are growing much faster, too. And you see some of these games that are in the market today at the top of the top grossing, they depend on our marketing channel, and they're growing because our solutions become more efficient. That's in our core market.
+
+And now we see applications of that technology in multiple adjacent markets, and we think we're going to be able to go apply it, not only to what we've talked about some other applications too, that we'll talk about in the upcoming quarters. And that's what gets us really excited. So we're for sure committed to buybacks because we see value and we're able to unpack the value much more easily today than investors are. And we hope to be able to articulate that narrative in the coming quarters to investors.
+
+Yes. Thanks, Ralph. Non-gaming is growing faster. Gaming, it's smaller, so obviously there's more room to grow. It's going to be a commitment of ours to broaden out the platform. We've talked about broadening out to non-gaming, that's a component. We've talked about Connected TV. That was an application that's in progress right now, expanding our reach to the television device.
+
+We've talked about delivering marketing solutions to carriers and OEMs powered by AXON 2, that's in progress as well. We're starting to see, as Matt touched on in his script, some benefit from both those initiatives. And we think there are not only those applications, but more beyond that, that we'll talk about in the coming quarters as well. And so, we're very excited about not only what our solution can do within our core category, but the expansion opportunities it presents us.
+
+Look, I mean, what people don't understand about our platform, and I guess we don't tend to articulate to is the MAX business sits on top of over 1 billion daily active users, 1 billion users playing games. So if you think about in the U.S., roughly 170 million daily active users. So you're talking about the majority of American adults are playing games daily in mobile apps, and we're able to service them.
+
+Historically, in this channel, the modernization has been very low per 1,000 impressions, compared to what the social networks and the search engines and the video apps have gotten to. And those companies had very sophisticated technology and a lot of data. We've been able to get to a point now where our technology has become much more efficient. So we're just monetizing this audience more effectively.
+
+What gets us really excited is we're a couple of quarters in. We're really starting from a low monetization point. The whole market is monetizing these users playing games at a low point. When you have that much reach, 170 million daily actives in the states, these aren't people that are just playing mobile games. There's just no way. It's a very, very widespread audience, predominantly adult that are doing other things.
+
+And as these technologies get to a point of predicting more broader application of advertising to this audience, not only will it get more efficient, it will expand out the reach for a company like ours to other verticals, and it will create more efficiency for the publisher, we should grow everything. And so that's what gets us really excited is it all comes down to efficiently monetizing a huge audience that we have access to.
+
+Yes, it's just better. I mean just the technology is built to scale better, it's more efficient, more effective. These are predictive technologies at the end of the day. And I'm drawing the analogy to Chat GPT. And the only reason I do that is because we can all type in a box and get a result. And we all know that Chat GPT 3 to 3.5 to 4, 4 was better than 3.5, it was better than 3, right? But we could have seen that.
+
+Well, what we can't see in a black box algorithm is a type in and a result. But what we can see is that what we're trying to predict is show an advertisement to a consumer for some advertiser and drive value to the advertiser. And there's a whole bunch of predictions along the way, and AXON 2 makes them better than the prior version. And that creates a lot of efficiency gain, both for our business and that of our partners.
+
+Yes.
+
+So on the first, we don't see a whole lot of difference domestic to international. There's consumption that drives our value and there's efficiency of the algorithms and partners that are advertising on us that drive the value. And so other than like one-off holidays in international locations that would alter the revenue percentages. If you assume the period of engagement is consistent, then the revenue mix would also be consistent.
+
+And the other core thing to always remember about our business is, all of our advertising is 100% performance-based. So an advertiser that wants a specific performance of yield and the U.S. is willing to get the same yield in Turkey or in the U.K. or in Germany or in Japan. And so when they advertise with us, they are predominantly global advertisers. So we don't tend to see much variance there.
+
+Yes. We've let you all know that when you see roughly 80% flow-through, we don't really expect that to be different as that software business continues to grow. The flow-through should be a really high conversion to EBITDA.
+
+No. On the incremental revenue growth, yes.
+
+Yes.
+
+Yes. So the first one, the Google announcements on their move to go predominantly real-time bidding in mobile mediated auctions came out, I think it was some point in October. And they had a commitment to do by January. But throughout Q4, the vast majority of the market was traded in a programmatic real-time manner. And the impact of that is twofold for a business like ours.
+
+One is we've operated the MAX platform not charging anything to advertising companies when they're not real-time bidding, but charging a take rate of 5% when they are real time bidding. And we've disclosed that number before. That's just a consistent fee that we charge to bid on our platform. Now with the majority of the market moving that way, that's a good economic development for the MAX platform, and that obviously benefits our software segment.
+
+On the second point of the impact, what real-time bidding does is clear an auction faster. There's less consumption. So there's just less infrastructural load in order to process a real-time auction versus a waterfall auction, and there's a quicker ad delivery. And by delivering an advertisement more quickly, the publisher benefits because they can show more advertisements to their consumer whenever they want to, instead of waiting for an advertisement to actually clear, it clears faster and more show.
+
+By doing that, it creates a world where the publisher starts yielding more in an efficient manner which can then drive up their ad revenue per user. And then the whole formula that we operate on is the publisher makes more, they reinvest more in the user acquisition, their business grows, and we enable that growth, and our business grows with it. So we're only seeing positive from this transition.
+
+Look, since we went public, we've been a very strong independent leader in the sector. I don't think anything has changed there. We've been focused on executing ourselves. And as our technology has gotten more efficient. Obviously, we're driving more value to advertisers. But we've said this for, I think, multiple quarters now, none of us operate in a zero-sum game. So when we're able to drive more value to these advertisers who are buying on a performance basis, they don't go, we have a fixed budget and we're going to pull from here. They go, okay, we have a budget over here. We have budget over here. But AppLovin is now 5 times better than they were. So let's expand the budget with them, too.
+
+And they're able to reinvest more dollars into the user acquisition, which helps their businesses grow. And that's what makes the space quite appealing is that none of it is zero sum, whether on the publisher or the advertiser side. And so we've been able to focus heads down on our own execution. Our team has built really cutting-edge technology that works better than any other -- I think any of the advertisers or our peers have seen in the sector, but that benefits everyone in the sector. And so we're excited that, that is just a reality of the industry we're in.
+
+I'll have Matt cover two and three. On the first one, on the mobile market, we put out a blog. I think it was around Thanksgiving. So it was a good one, highlighting just CPM growth in the industry, comparing '23 to '22 holiday period. And what we saw in Q4 was that just coming off of weak comps in '22 when every part of the economy was fearful and this sector was particularly fearful we saw brands and performance advertisers more willing to invest in marketing dollars.
+
+Now what we don't know about that is are the AI-driven advancements in the marketing technologies that you've seen implied by our numbers and our performance and technology and what Facebook has done and what Google have done over the last year driven that acceleration? Or is it just the economy recovering?
+
+And we think it's a function of both. And we actually think because we're not brand advertising at all. Ours is entirely due to the technology efficiency, you're seeing this market start recovering. It's coming off from weak comps. So getting back to growth is easier than it was in the past. But the marketing technology is evolving from here and continuing to improve is going to be a really good catalyst for a return to growth for this mobile market.
+
+Look, the CTV testing and the rollout is early stage. And we've got a really large software platform business now with net revenue near $2 billion. So for it to become very substantial for these advertisers as the ways out, they're all intrigued by it because traditionally, and I don't know if you do channel checks, you won't find another place where these advertisers can buy on a performance basis, the way we can enable it on Connected TV today.
+
+So I'd say it's first inning, everyone is excited by prospect of being able to go recruit a consumer on a new device that they just had never had the access to before in the way that we can enable it but it's early and in our business as big as we are and as fast growing as that business is for any new initiative to make a material impact, we're talking multiple years.
+
+Yes, it's a good question. Non-gaming we'll probably never get to as quick as mobile gaming. The mobile gaming marketer sees an opportunity and jumps on it. It's just that it tends to be a more commoditized space, and it's a tougher space for content providers to plan, whereas non-gaming enterprises tend to have a brand and they have fixed budgets and they normally plan their budgets in every quarters and years out. And so because of that, it won't ever be a quick to move market, that said, we talked about it growing faster than the gaming segment.
+
+We do know the technology application works across any category that we've seen so far. So as we get a fintech advertiser live, or a rentals company or an e-commerce company, we're seeing success across the board. So it's an area we're investing in. We're increasing our head count there. Now we always operate efficiently and lean. So that doesn't mean a lot of cost, but we are investing in bringing in the right people to really expand these non-gaming verticals because we see a ton of opportunity there.
+
+And I'd say, just given the growth rate we're on, and you've seen for multiple quarters now, the bigger part of our growth is driving more efficient value to advertisers, unlocking more budget and expanding the advertiser total than it is the market. The market isn't growing anywhere near as fast as what we are.
+
+Thanks, Chris.
+
+Thanks.

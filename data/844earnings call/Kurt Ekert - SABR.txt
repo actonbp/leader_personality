@@ -1,0 +1,52 @@
+Kurt Ekert
+Sabre Corporation (SABR) Q4 2023 Earnings Call Transcript
+
+Jed, thank you for the questions. I'll take the -- this is Kurt. I'll take the first piece and then let Mike deal with the converts. When you look at the overall GDS industry, it's recovered to somewhere in the low 70s on a percentage basis versus 2019. Reminder that our number now excludes Expedia, which migrated off of us during COVID.
+
+As I described in my prepared remarks, and Jed, you may not have heard them, I talked about why there has not been full flow-through of industry capacity growth or return to the GDS industry.
+
+And I'll go through those very briefly here. Number one is corporate travel is recovered only to about 75% and of its pre-COVID levels on a unit basis. The GDS industry is traditionally a 50-50 corporate and leisure mix. And for Sabre, corporate and TMC comprises a higher proportion of our booking and client portfolio than it does for our competitors.
+
+Secondly, if you look traditionally, domestic leisure or short-haul traffic tends to accrue more to airline direct, more complex travel such as long-haul international tends to accrue more to intermediary to the GDS channel.
+
+We believe that is still true. If you look at where capacity has been put back during COVID recovery, it has been put back disproportionately on short haul and domestic versus international long haul as compared to the historical proportion of long haul versus short haul. We do not believe that, that is a long-term or permanent trend. So, on each of those, on corporate travel and on short-haul versus long-haul capacity, we're very optimistic about where the industry is headed.
+
+Jed, I also spoke about for OTAs, GDSs and Sabre remain the predominant booking channel for OTAs, it remains an important part of our business and we believe we provide the most efficient platform for them to search, book and service their customers.
+
+That said, during the COVID period, as I acknowledged in our -- my remarks, there has been an increase in the volumes transacted through the airline Direct Connect channel largely with larger OTAs and larger full-service carriers around the world.
+
+Now, that said, if you look at online travel agencies, what we're hearing from them is that where they have done that, they're having challenges with the cost and the complexity of managing those direct connects.
+
+They're looking to us for solutions around automation, shopping and cashing and we believe there may be opportunity for volume recapture. So, suffice to say, we understand the reality of the market [Technical Difficulty] today. We're optimistic that the GDS industry and therefore, Sabre, are well-positioned for growth as we go forward.
+
+When you look at NDC specifically, NDC for brick-and-mortar and for TMC customers only comprises about 1% of the airline tickets that they're purchasing. That is going effectively all through the GDSs from what we understand and can see.
+
+We've invested very significantly not only on connections with carriers, but also on building out that 600 new functionalities or use cases to solve the needs of the brick-and-mortar and TMC customer base around automation, workflow capabilities, et cetera. And so we're very well positioned there. And we don't think that the impact of NDC to-date has been that material in that sector.
+
+With OTAs, we think the adoption for NDC is higher. Some of that may be going through their direct connect channel. But again, they're looking to us for help. So, overall, we're optimistic about where the industry is headed.
+
+Alex, thank you -- on the first piece, which is the average booking fee. Remember that's looking at all components of revenue as compared to the units of air booking. And so you have a few things going on. One is the mix of the type of air booking we're getting globally. The other is that as we grow our land, ground, and sea bookings, which grew at a very strong rate through the year.
+
+And secondly, with payments, you'll see that accrue in to the average revenue per booking. With respect to the incentive structure, we compete in a vigorous industry economics, which are one of the mechanisms by which we compete, which is a very normal construct for a B2B industry. And we value the business that we get from our buyer or agency customers.
+
+So, I'm not going to comment prospectively on the way we view that, other than say, it's a competitive dynamic along with content and technology and product and service.
+
+Victor, thank you for the three questions. This is Kurt. Let me take them in order. First of all, on corporate travel, you're right. What we look at when we talk about corporate travel is largely managed corporate travel, which is what largely transacts through TMCs. And if you look structurally, that's a business that on a unit basis, is about three quarters of the size it was globally versus pre-COVID.
+
+If you read all of the analyst reports and you listen to market conjecture, signs are that corporate travel will grow prospectively very well. I believe on a 20-year CAGR, you're proceeding COVID, corporate travel or managed corporate travel had grown basically at 4% to 5% per year to a $1.3 trillion industry.
+
+So, again, you'd say structurally today, it's a smaller industry. And the question going forward, will it grow at that historical rate or may grow faster because there's still some recovery left in there.
+
+There's a wide range of potential scenarios, and I think that's uncertain, but we're confident that, that growth is going to come. And again, we think we're very well-positioned because we are proportionately more highly indexed against TMC and corporate travel than our competitive peers.
+
+With Hyatt specifically, as we indicated, we'll be beginning the implementation of Hyatt in the first half of this calendar year. And we'll see that ramp up, we think, starting in Q2 pretty well going forward.
+
+The last question is about headwinds and tailwinds on our 2025 outlook with respect to GDS market growth. As I indicated in my prepared remarks and the question earlier, with respect to both corporate travel recovery prospectively or growth.
+
+And two, international long-haul capacity coming back more robustly in the years ahead, we feel very optimistic and confident that we're going to see both of those trends continue.
+
+OTAs have obviously performed relatively well during COVID, and I mentioned some level of Direct Connect activity there. But if based on the conversations we're having with this clientele, we think there's recapture and growth opportunity there as well.
+
+So, I'd say that a lot of the headwinds that the GDS market has faced, we have faced here through the COVID recovery period. Our hope and our optimism is that we're going to see more tailwinds prospectively than what we've realized in recent years.
+
+Thank you everyone again for joining us this morning. We do appreciate your interest in Sabre and look forward to speaking with all of you again very soon.

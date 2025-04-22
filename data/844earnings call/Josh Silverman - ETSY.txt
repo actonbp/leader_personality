@@ -1,0 +1,104 @@
+Josh Silverman
+Etsy, Inc. (ETSY) Q4 2023 Earnings Call Transcript
+
+Okay, so in terms of the magnitude of the growth, we gave you what we're comfortable giving you right now. So anything more than that, if we could have been more specific, we would have in terms of when do we get back to positive growth and et cetera. It's certainly our aspiration. We believe we have every right to be growing not just positive but faster than e-commerce.
+
+And we think, especially when our categories stop being under such pressure and when discretionary consumer product spend in particular stops being under so much pressure, that's going to be very helpful. We do think we outgrew our categories yet again, our pure-play competitors in our categories yet again in the fourth quarter.
+
+In terms of the product and marketing initiatives that we expect to drive a lot of growth, we laid them out in the call. And so first on consideration, that is the biggest thing; people thinking to look on Etsy. Because when they do think to look on Etsy, they usually find something really compelling. So Gift Mode is a great example of us giving you a moment in time when you should really think, I need to buy a gift, I want to go to Etsy. And gifting is an all-year kind of thing. It's not just Mother's Day and Christmas. There's birthdays, anniversaries, back-to-school and on and on.
+
+And on other key elements in consideration, we've said we're in early stages of planning a loyalty program, which is designed to drive consideration among loyal users, more value, more on quality and more on reliability. And I think that that portfolio of bold initiatives, I think can do a lot to continue to drive growth, combined with compelling marketing campaigns. We're going to continue to work through the funnel on really compelling marketing campaigns as well.
+
+Yes, and just to build on that. We have been very focused year after year on what is the value creation of every single squad and what is the value creation of every single dollar we spend in marketing. It has been a very big focus of ours and we think we're pretty good at it. What obviously we can't predict with perfect accuracy is what's going to happen with the baseline, what's going to happen with the overall consumer discretionary spend in our categories. And so that's the unknown and, we'll wait and see. But we gave you the best guidance we know. And we do -- we have reason to believe that we should see trends improve in the second half of the quarter based on the work we're doing.
+
+Yes. So performance is dynamic on a, really, hour-to-hour basis depending on the ROI we're seeing on every dollar we're spending. And we've got pretty sophisticated algorithms that work on, is this bid -- is this click worth this much right now and how much should we bid. And so to the extent that CPCs rise, we naturally pull back, or to the extent that CPCs lower, we naturally lean in.
+
+The other thing, by the way, it's not just CPCs, it's also conversion rates. So in times when people are really budget constrained, we see them actually -- we see conversion rate across the industry go down. We see people comparison shop a lot more. And so we are looking at all of that. And not humans, but machines using AI are looking at a very sophisticated way of what's happening with conversion rate right now, what's happening with CPCs right now.
+
+And therefore, how much is each visit worth and how much should we be bidding. And it naturally titrates. It's a little bit the reason why it's hard to pinpoint exactly what our margin is going to be in any given quarter because it's based on what's the ROI we're getting right now, and we'll naturally lean in or pull back.
+
+What we won't do is send them unprofitably. Not on purpose. So we work hard to try to understand what is the return we're getting. And if the market we think is getting irrational or at least irrational for us, we pull back.
+
+Great. Great question. So look, let's put aside travel, online dining. If you look at e-commerce very broadly, it picks up things that are totally unrelated to Etsy. When you put those aside and you really look at just product, it's very clear that the people gaining share are Amazon, Walmart, Temu, and SHEIN, and almost everyone else is losing share. The number of other people that are growing quickly, you can count on one hand. Almost everyone is losing share to Amazon, Walmart, Temu, and SHEIN.
+
+And so, first of all, those are people, particularly if we look at Amazon and Walmart, and they're really the big winners. So if you look at who is actually, in terms of volume, taking volume in e-commerce, they sell essentials. And when you read their earnings call scripts, what they say in their earnings call is what's driving their sales is essentials and their headwinds are discretionary products.
+
+The second thing is all four of those brands stand for deep discounting. And the trends we see right now are people feel their wallet is under a lot of pressure. By the way, tax returns look like they're going to be lower this year than they were last year. You still hear low consumer confidence and concerns about inflation on core things like food prices. And people, when they have discretionary dollars, want to spend them on travel and want to spend them on dining. And so in this moment, many people are looking for the cheapest way to buy something when they need to buy something that is discretionary.
+
+Now in that environment, Etsy added 8 million new buyers. Etsy buyers spent $3.6 billion on the Etsy marketplace in the fourth quarter alone. So, tens of millions of people are -- 92 million people, in fact, are opening their wallet to come and buy something on Etsy even in this environment.
+
+And in fact, the average buyer on Etsy is spending 20% more, more than 20% more today than they were pre-pandemic. But this is a time when I think products that are not the cheapest possible are out of favor. And I don't think that's forever. When I imagine, going forward, does everyone always wants the cheapest version of any given product? No, absolutely not. I think that that trend, this is a cycle, we're in a moment in the cycle, and I think we'll move to better moments in the cycle, hopefully, soon.
+
+Well, the models automatically incorporate -- well, there's some lag. It takes a couple of weeks for them to experience the fact that conversion rates, for example, are down or up, for them to incorporate that. But things like weaker demand turning -- meaning, conversion rate goes down, the models all automatically incorporate that. Where we're always refining our understanding is we run an incrementality test.
+
+For example, on PLAs twice a year, we hold part of the pantry dark. And we look at if we hadn't bought that click, would we still have gotten it anyway? And it turns out that often, the answer may be yes. It also may be that if someone didn't click on Etsy, but they saw Etsy, it made them think, Etsy sells that, and they come without having clicked. And so you can over or under-attribute.
+
+And so several times a year, we actually run a test to determine, what we call incrementality tests, how much of the final sale value should we attribute to the fact that someone clicked on that ad. And that changes over time as well based on competitive environments. So we are constantly adjusting based on that.
+
+And another input that goes into the model is what do we think about things like future take rate. What you're paying today, would that impact the LTV of a buyer if you think your take rate might go up over time, or if you think you might get more or less frequency over time? So there's some amount of judgment you make, but the models do most of the work. And we really do try to let the models do the work so that we aren't tempted to irrationally over or under-invest in any given quarter.
+
+Right.
+
+Yes, I'm happy to take the first, if you want to add. So, yes. So we laid out, - first, Shweta, thanks for the questions. And, that slide that had consideration and quality, value and reliability with key initiatives under each, that's a pretty good roadmap for some of the bigger levers of the year. There are a lot of other things we're constantly doing to just incrementally get better in ways that drive real measurable value. But the way we run this business is we task every squad in the company with a value-creation goal.
+
+So if you're working on shortening expected delivery date or surfacing higher-quality items higher in search, there's a customer metric, but there's also a, how much extra GMS does that need to produce? And the sum total of that for last year is we think the team produced about $1.5 billion of incremental GMS. We've tasked the team with more, even more efficiency than that this year. We continue to find ways to get more efficient, leveraging new tools and techniques, leveraging new processes. We're pretty agile and we work on getting even more agile and even more focused.
+
+And then with performance marketing and above-the-line marketing, we're also always working to get more efficient. And I'm realizing now is when I talked about how the algorithms are doing the work, I don't want you to think it's static.
+
+We also have multiple squads working on MarTech. And they're constantly focused on things like, how can we make our landing pages more efficient? How can we perform better in SEO? How can we make our bids, you know, even more sophisticated, segment our audience even more?
+
+So we're constantly driving efficiency gains from each of our teams and each of our dollar spend. And so what we've done is we've looked at our plan for the year, what we think it's going to deliver in terms of incremental GMS. The assumption on that, again, is what's going to happen with the baseline, and that is the part that's hard for us to know. So the risk in this plan is, you know, I think we're going to execute on the plan and I think we're going to drive a lot of value. And what's going to happen with the baseline and to what extent is that a tailwind or a headwind to us for the year is still yet to be known.
+
+And I just would add that I find the whole commentary on the year of efficiency interesting because every year is a year of efficiency for us, every quarter is a quarter of efficiency. There hasn't been a quarter or a year when we've said, screw it, let's just, you know, invest and hope for the best. We've been obsessed with efficiency and value creation per dollar invested for the seven-plus years that Rachel and I have been here.
+
+And so every quarter we are looking at, is there a way to squeeze more efficiency? Is there a way to cut more cost? And when we find an opportunity to cut costs, the first thing we look at is can we invest that -- reinvest that profitably to drive growth.
+
+What's going to really move the stock price is getting growth, getting GMS growth up again so that we're driving the multiple. That's what's going to drive growth, but we have to do with cost discipline. So what we're not going to do is invest irrationally, invest a dollar to get a dollar or less back. So when we see an opportunity to put that money back into something that's going to drive growth, we're going to do it.
+
+The result of that is a business where at the core marketplace on Etsy generates EBITDA margin right now over 30%. It's hard to find a marketplace of our size and scale generating EBITDA margins anywhere close to that. And we're very focused on also reinvesting for driving growth. And we're going to continue to make sure we balance those two with an emphasis on investing in growth when we think there's a good opportunity to do so.
+
+Thanks, Shweta.
+
+Hi, good evening.
+
+Sure. I would say we don't have anything to announce yet. And I know that's not going to be very satisfying, but we pay a lot of attention to loyalty economics in a lot of places, having cited Amex, where not only does Amex run really big loyalty programs and things like membership rewards, but we partnered with when I was at Amex Delta and Starwood and a lot of other places. Had a chance to study a lot of loyalty programs.
+
+And thinking hard about, which are the ones that truly drive more return and truly drive more consideration, is a big focus for us. It's got to have both rational and emotional benefits. It can't be just rational. There's got to be some yearn to it. And the goal is to get people to consider Etsy more often. People love Etsy. Talk to buyers and they're all going to say, I love Etsy. Why didn't you shop in Etsy more often? I didn't think of it.
+
+So committing to some form of loyalty program, we think can get them to prioritize Etsy and say I'm in this loyalty program, I should stop by Etsy and see if they have something to offer. If we can just get them to stop by, and see if we have something to offer, the answer is going to be yes, a whole lot of the time.
+
+It has stabilized a bit. If you look at the last four quarters, GMS per active buyer have been relatively stable at $126. So that's good news. And by the way, that's up from about $100 before the pandemic. So in spite of all the headwinds, and everything we've talked about with the macro, still spending 20% more, more than 20% more than they were pre-pandemic.
+
+In the headwinds for the beginning of this quarter, when we said we were off to a slower start, AOVs are down slightly. So when we talk about starting from a low - down mid-single digit and guiding to - we think we will get back to low single digit, by the end of the quarter. One of the headwinds we're seeing is AOVs are down.
+
+The good news on that is, it means transaction volumes are actually holding up better than, what those numbers would suggest. Buyers are still coming and buying on Etsy. They're just even more price sensitive in this moment. And that, I think, is pretty consistent with what we hear with a lot of others.
+
+Yes. And that, by the way, is not a big take rate driver. I think the revenue in that is going to be relatively small, but it's going to be good value exchange, making sure it's really secure to become a seller on Etsy. And I think that's good for all of the sellers and the buyers on Etsy, and the fee we're charging is nominal. If it's not worth $15 to create a shop on Etsy, then maybe you're not committed enough to likely succeed on Etsy.
+
+But that's not a huge revenue driver. We'll continue to see payments coverage expand in other markets and other areas where we think there's fair value exchange, and we think we'll achieve the take rate that we guide into.
+
+And on active buyers, we ended the quarter - ended the year with about 92 million active buyers on a trailing 12-month basis. So at an all-time high. Roughly stable. I don't want to crow too much about it, roughly stable from the prior quarter. But I'm not sure where the comment about more churn was, but I'd say active buyers have been stable.
+
+Thanks, Anna.
+
+Hi Jason.
+
+Yes, you'll have it very soon. So it will be a stack bar every year. The class you joined in 2017, what have they delivered to the class in 2018 all that stuff. And what I think you'll see in those cohorts, just to start with that, is I'm used to, in a lot of e-commerce business, is seeing that ask until down over time. And what you see with Etsy is that it's been more of a smile curve.
+
+And we think that's really healthy. Obviously, the inflection drove just like a massive uptick and then a little bit of a settling back down, which makes everything a little messy, a little harder to make sense of. But the fact that the cohorts, do generally stack on each other really nicely, we think, is a pretty powerful part of what makes Etsy really compelling.
+
+And we've still just been experiencing a bit, of when you look at the stacking of those cohorts, dealing with the post-pandemic, slight compression coming out of the post-pandemic has -- just provides a bit of a headwind. On your first point…
+
+Yes. Helping with seller pricing. Great. Great question. So a couple of things. One, we've had a very big focus on not hand made. And we've shared in the past that the percentage of views that encounter an item that's not handmade is - I think the last time we gave an update, it was cut in half. We've made even more progress since then. So it's a very big focus of our, to make sure that mass-produced items are not visible on the site. It's bad for the brand. And it's not helpful for our sellers in terms of price competition.
+
+But another thing I talked about very briefly in the call, let me unpack that a little bit more, is really elevating quality even more in search results. And what I mean by that is our search algorithm today, is designed to pick items you're likely to buy, right? So the search algorithm using cutting-edge machine learning is saying, what's Jason likely to purchase. What we wanted to do is say, what's Jason likely to love, purchase and loved.
+
+And so forming more of a point of view around does the seller give consistently good quality service, is the item consistently delightful and that leading to frequent - more frequent purchases. Gaining that kind of fidelity and filling a point of view, what's the quality of photography here, what's the quality of the return policies? Does the seller consistently ship on time?
+
+And using that to create an explainable AI model, to rank who should be on top in search, we think can unlock a ton of value, especially as you then start to expose that to sellers, and say to sellers in order to rank higher, the way to do that is to get better on one of the following metrics. Here's how you're currently doing. And the better you do on these metrics, the better you will rank in search.
+
+That creates a race to the top. And I think that's an incredibly exciting thing that, we're going to do that we're very focused on right now. It's one of the initiatives I talked about this year, and I think that over the kind of next couple of years can have a very big impact. So Etsy does far, because our unexplainable machine learning model is incredibly sophisticated at picking the thing you're likely to convert most at.
+
+And so, we've got to come up with an explainable version of the model that doesn't do any damage at least, right, that can largely match our black box model. And then get better from there. And there's some R&D that needs to happen, and that's the kind of R&D that's happening right now.
+
+Thanks, everyone. Thank you very much.

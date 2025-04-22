@@ -28,6 +28,7 @@ ENV/
 .venv
 env.bak/
 venv.bak/
+venv_harrison/
 
 # IDE
 .idea/

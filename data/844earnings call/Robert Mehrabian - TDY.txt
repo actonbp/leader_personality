@@ -1,0 +1,94 @@
+Robert Mehrabian
+Teledyne Technologies Inc. (TDY) Q4 2023 Earnings Call Transcript
+
+Alright. Yes. We're right now expecting uptick in those businesses in the second half of the year. We think that what will happen is that we will have a linear ramp in sales and earnings throughout the year with about average revenue increase of about 4% and earnings as we've outlined up to $20.68, which would reflect also an improvement in margin from this year to next year of another almost 50 to 60 basis points.
+
+So yes, we're anticipating that. On the other hand, we're also adjusting our cost structure and if necessary, we'll do more. So that our earnings remain healthy.
+
+Sure. Jim, we are expecting margin improvement in every segment. A little lower in instruments, maybe 25 basis points. We already have very healthy margins there.
+
+On the other hand, in Digital Imaging, about 80 basis points. In Aerospace and Defense, we think we'll have 80 to 90 basis points. And engineered systems around 50 basis points. So overall, Jim, in the segment, we anticipate about 70 basis points margin improvement. And overall, for the company between 50 and 60 basis points. In a way, it's kind of similar to what we achieved this year. Which was about 60 basis points over last year.
+
+Yes, Greg, let me give you the segment first. And then I'll try and answer the first question. From a segment perspective, with the instrumentation, would grow about 3.5% this year over last year. We think Digital Imaging will -- going back to instrumentation, there's a difference between the different businesses that we have. The marine businesses with healthy background backlog, as George mentioned, would grow about 6% to 6.5%, whereas environmental would be just under 3%, and we're expecting T&M to basically hold.
+
+Going to Digital Imaging. We believe that the overall sales increase would be above 4%. Aerospace and Defense, about 5%. Engineered Systems, about 4%. And when you add all of that up, we expect an average of about 4% at this time.
+
+Sure. Let me start with Q4, please, and then I'll go to some of the others. In health care, we had really nice Q4. Revenue increased about 13.5% to 14%. In Aerospace and Defense, it increased about 5%. This offset basically weakness in our industrial and scientific vision systems.
+
+The flip side, if you go over to our FLIR businesses, we have really robust growth in our surveillance system, about 16.5%, and some of our detection products Overall, in Q4, FLIR revenue defense increased about 4.8%.
+
+Now going forward, to the future. I'll make a little distinction between DALSA e2v and FLIR. We think that DALSA e2v would have a modest growth of about 3%, offset by about 4.5% in FLIR. As mentioned earlier, clear defense especially, is experiencing really good order intake -- and we expect the growth there to exceed that of the rest of the imaging. So I can give you more detail, but that's basically a summary of it.
+
+Well, Sure. Obviously, CR is always an unpleasant occurrence for us. The way we're looking at it is we're only right now considering the orders that we have in house. We're not really looking at future orders. So book-to-bill has been healthy. These are longer-term programs. And frankly, we have some exciting new products coming out, which are being now tested. For example, if you look at our Black Hornet, we -- Black Hornet 3, which is our nano drones. Black Hornet 3 had a really good run over the past 5, 6 years. We've introduced a Black Hornet 4, which is already getting traction. We also have some really nice programs in space development agency, tranche true tracking layer as well as our international sales in that domain are healthy.
+
+So in some ways, while CR would be not a pleasant thing to experience. We've done it in the past. We've had CRs in many years. Right now, we're looking at what we have in our backlog, which is healthy.
+
+I think basically, it’s tough comps rather than real declines. We think our drone businesses are healthy. We also have some businesses that our anti-drone or flame detection systems, which we’re selling in Europe, which are very healthy. So I think it’s just a matter of tough comps. Other than that, we feel very good about our drone businesses.
+
+Good, Joe. Good.
+
+Yes, you're right. It came in a little lighter, but we made some really good progress in the third quarter, and especially in the fourth quarter, from our managed working capital perspective, we had some significant improvement in our -- trying to reduce our inventory.
+
+The flip side is, we also did not -- we're always like most companies suffering from not being able to get cash for our R&D. So I'd say but that affected us maybe $75 million or $60 million to $75 million.
+
+Our cash, nevertheless, if you looked at it, we paid down $680 million of debt in 2023. Our debt-to-EBITDA ratio -- net debt-to-EBITDA ratio is about 1.9. So let me fast forward to 2024. We believe we'll do a little better in 2024 than we did in 2023. We'd like to think that we would have a 100% conversion, recognizing that there is always going to be this R&D headwind. Even though everybody in the Congress has agreed that the R&D program should be passed. I think nothing is passing in this Congress. So we're not -- we're assuming we don't get that.
+
+Nevertheless, we think will be somewhere between $900 million, $925 million and $1 billion. If we hit those numbers, which we think we will then our debt-to-EBITDA ratio should go down from 1.9 to closer to 1.1 to 1.2, which is -- which puts us in a really good position to be able to make both small and midsized acquisition.
+
+Okay. Let me just pick the first part. Industrial and scientific vision, I'm going to say we're down about 2% year-over-year, larger declines in Q4 than that. In terms of the margins, FLIR margins actually improved significantly year-over-year. It went from 20.3% in 2022 to 22.1% in 2023, which was very healthy. As a consequence, we were able to hold the overall margins in Digital Imaging relatively flat.
+
+Yes. We think FLIR would have some margin expansion. But if you look at it as a whole segment that is our Digital Imaging segment, we expect margins to increase somewhere between 50 and 100 basis points in 2024.
+
+Yes, Kristine, let me see if I can do this properly. We -- we are in the process, for example, now in terms of space consolidation. What we're doing is we're getting out of leased spaces and moving to owned spaces. For example, in Massachusetts, we have an own space in Bevrica, we're getting out of a lease space there, and that should be effective in March. That will help us say something of $500,000, $600,000, $700,000.
+
+The issue that we have whole consolidation overall is helpful. It's the growth of our businesses and the lower costs that we have put in place this year. that should be more helpful. So when Edwin thinks about or talks about margin improvement, he is looking at really a lower cost structure, which we've achieved maintaining that and getting some growth, especially from our longer-cycle businesses. So it's a combination of those. I would say, lower cost and growth trumping just space consolidation.
+
+For industrial automation, really is it's a combination of things. We're seeing, for example, some improvement in the semi market now, projections for improved semi market recovery. We'll also seeing some pickup in smartphones now, which is our consumer-related businesses, which affects our Micro Electro Mechanical Systems MEMS programs, in the other markets, especially laboratory instrumentation, we don't have as much visibility, frankly, we haven't seen these kind of declines before.
+
+So we think those should come back. But we're not counting on them a lot. We think there's a flip side of our environmental businesses, which is -- that's a part of which is the air quality, water quality monitoring, which have been very healthy. We have a nice backlog and -- we think the combination of those 2 will help us in that part of our instrumentation business.
+
+Yes. I have to tell you, valuations on the larger deals have not come down yet as much as we would like. We've looked at some of the prices that our competitors have paid for large ones, those are kind of out of our range of what we would consider.
+
+On the flip side, we see some opportunities in smaller bolt-on acquisitions, what we call single pearls, which are available, and we will be pursuing those.
+
+If you looked at our '68, '69 acquisitions over our history, the string of pearls are of '68, '69. And they are the easiest to integrate. We can fit them in and we can improve their margins as we go. The larger deals, we have to be a little more patient because right now, prices are still pretty high.
+
+No. The answer is no. I don't expect Digital Imaging margins to go down. I think that should go up a little bit in Q1 and then pick up the rest of the year. As I mentioned before, Andrew, this -- we think Digital Imaging as a whole should have margin improvement in '24, somewhere between 50 basis points and 100 basis points. We'd probably more prejudice towards the higher number.
+
+But nevertheless, no, I don't think we're expecting to suffer there because as we've done before, when some of our markets soften up, we take cost out. And then that helps maintain our margins. And the markets come back -- we really enjoy the margin improvement. So no, I don't think digital imaging is going to go down.
+
+Sure. If you look at instrumentation, which is all legacy Teledyne in some ways. Which is marine, environmental and test and measurement. The book-to-bill in Q4 was 1.12 which is very healthy, driven primarily by Marine, which was really good.
+
+Digital Imaging, we -- or excluding FLIR, I'm just answering your question precisely, it was just over 1. Aerospace and Defense, it was closer to 1.2. That's historical paradigm. And Engineered Systems was just over 1. And then if you look at FLIR, which is our big acquisition, obviously, it was just over 1. So all in all, whether it's our historical Teledyne or Teledyne Plus FLIR, if you look at Q4, our book-to-bill was over more closer to 1.07%.
+
+Yes. The answer is yes. We have a pretty good read on what's coming. We have some new products. I mentioned the Black Hornet 4. I mentioned the space Tranche 2. The primes that have gotten their awards in last week or we are up to all of them. And we feel good about that.
+
+Yes, about 4%.
+
+Yes. I think it'd be above 1.4 or a little under, if that's going to be our lowest quarter. And I'm saying that because of the short-cycle businesses that we're seeing. We have orders on long-cycle businesses. But we -- our short-cycle businesses -- we're assuming that will not recover much in Q1 and so it should be flat year-over-year in terms of revenue and then pick up.
+
+That's very good. We look at our pipeline, as necessarily say that we have better orders at this time. But we're talking to our customers, we're looking at that inventory level, but they're sharing that with us. And we see that inventories are going down. As a consequence, we expect that we will start getting the orders. long cycle, of course, you understand that's much easier because we already have the orders, and we feel good about that.
+
+So the other thing that we do on the short cycle is we look at the generator trends that people are talking about in terms of what happened in the semi industry in the past number of quarters. And what's expected -- what people are projecting. We'd be thinking that environmental and test and measurement will eventually pick up. But we're also seeing some pickup in MEMS already in flame infrared as well as our maritime businesses. So that's what's encouraging. We see some lowering of inventories for our customers as well as some pickup in certain unique businesses of ours.
+
+Yes. You said it better than I could. We're always a little conservative. The other -- there's one other thing that I should mention. When we look at our segment, per se. And we look at increases in segment margins. We have to be cognizant of the fact that the new management, which is Edwin and George are now going to be their costs or their pay is going to reflect in the corporate portion. And we're also seeing a little higher medical and insurance premiums. So corporate, we expect would go up. That's why while the margins in the segment look much higher, the corporate margins are -- we're assuming they're going to be increasing about 50 to 60 basis points.
+
+Yes. Let me just say that the confusion may have reason because I was answering 2 questions at the same time. The first part was larger acquisitions because we -- our leverage ratio is obviously going down and it go down faster this year.
+
+The larger acquisitions right now that we look at are pretty expensive. People are paying prices that we are not going to. On the other hand, smaller acquisitions are available, and we expect to make some this year. So I think we'd be patient for the larger ones like we always have been and -- but we will make some smaller acquisitions this year. So we have a reasonable product line.
+
+Let's stay with aerospace first. A significant amount of our revenue in aerospace is in the aftermarket. Because we have a very large embedded base in aircraft of various kinds. So we think that is going to be very helpful for us.
+
+We also are -- obviously, in 737, we have a product line that's going into that. And we think that's going to help us regardless of the current issues with builds and so on.
+
+On the defense side, we are seeing some good programs in modernization, stockpile, replacement. And we think those would be helpful to us. And obviously, we believe it will be a balance of improvement, both in aerospace and in defense perhaps 5% to 6%. 5% to 6% in each domain.
+
+Split, no. And the reason -- let me start there. And the reason I say that that's a pain for our investors. And 90-plus percent of our investors are institutional investors. We don't want to cause that kind of a problem for them. We have very small fraction of our investors that are retail investors.
+
+Going back to buyback. Right now, we think our investment returns are much better reflected in acquisitions than stock buyback. You don't want to say never because stock goes down a lot, then it becomes attractive. I'm hoping that doesn't happen. We do have open authorization if we wanted to do that.
+
+But right now, I don't see that as long as we have attractive acquisitions, even small ones, we'll do those. And there's nothing wrong also having some cash on the side in these days. with the interest rates that we're seeing. So we have to pay down about $600 million of debt this year. In some ways, it's unfortunate because it's fixed debt at less than 1%. But then we don't have to pay down debt going in 2026. So we'll have a lot of cash available to do things. So we think we'll be okay.
+
+First point, backwards, in '23, we had some nice price increases. I'm going to say broadly 2% to 3%, let's say, 3%. We expect the same in '24. In some areas, obviously, we were able to increase price more than 3%. But in some areas like government contracts that are not peak [indiscernible] the cost plus then you can increase prices as such.
+
+So I think 2% to 3% is what we're looking at for '24.

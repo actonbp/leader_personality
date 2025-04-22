@@ -1,0 +1,66 @@
+Rajiv Prasad
+Hyster-Yale Materials Handling, Inc. (HY) Q4 2023 Earnings Call Transcript
+
+Yes, I'll take that. So if you look at our -- typically, if you look at our average expense in capital projects, if you go back a few years, it's been running around between $40 million and $50 million. But over the last two or three years, while we had this spike in working capital and we needed to moderate our expenditures, we also moderated both CapEx and OpEx, and that continued through 2023.
+
+But there are projects, significant project as part of our growth strategy that have been held back a little bit. And so over the next two years, we want to catch up on that. So that is the main driver for the additional CapEx. It's around product development and also improving our operational footprint.
+
+Yes, I think it'll be in that sort of neighborhood for two years, and then we'll come down to more normal kind of run rate, and it's really making up for the deficits over the last three years.
+
+No, I think what happened was, as we stated in our release is we were in the middle of a number of product launches and some late issues happened, particularly related to software on some of those launches. So trucks are on wheels, but we couldn't ship them because we had to correct these issues.
+
+So that happened towards the second half of the quarter. And as we sit here today, we've now mostly cleared all those trucks. So those were shipped instead of in December, they were shipped in January and early February.
+
+As we've guided we expect strong in the first half of the year.
+
+Well, maybe I'll have -- kind of answer part of it, and then maybe Scott can step in. But as we've said, we've started to see a bit of a slowdown in the market, and this is the trend we see that as the market slows down a little bit, and again, it's coming from pretty high levels then we see that reflected in the run times of the truck.
+
+So the hours per week the trucks are being used, and then that proportionately impacts the amount of servicing that needs to be done, and therefore the part consumption. I think we expect to see, as we've said, a little bit of a slower first half from just some economic slowdown around the world, but then we expect that to return in the second half of the year.
+
+I'm not sure that was a hugely significant drop in any event.
+
+Particularly large.
+
+Yes. And one thing to look at is how much Germany slows down and they're a big part consumer for us.
+
+Sure. So I think if you look at our business, we are very strong on the counterbalance side of the business in big truck, and our product range still needs to fill out on the -- using the scalable modular on the warehouse side. So we do expect some of the warehouse where our lead times now are the shortest. And so we are being more competitive in the marketplace.
+
+So some margin compression on our warehouse business. But one thing we're seeing is the modular scalable for, I'm thinking about more 2025, 2026, and going forward is a mechanism for us to have elevated margins because we are able to really tune the trucks in with the right cost and the right price for the customer and therefore make our target margins better.
+
+So we think that longer term that strategy is really starting to work. Our warehouse trucks with the same modular design, with scalability will come out more in 2025 and 2026. So we'll see the same impact then. But in the meantime, we have to get through the period with the current set of products.
+
+Yes. And then we have only a mixture of things. We haven't talked about 2025 yet, but if we think about it, we expect some of that second half of 2024 to continue but then start to rise as we get into the rest of the year. But again, we are in the middle of modeling our financials for 2025 and I think we'll have a better idea of that at the next quarter.
+
+Yes, majority of the cancellations we're seeing are from our major accounts. And really what it is, is there was very bullish infrastructure build out by a number of our suppliers, and as things have slowed down, they've also slowed down the opening of new facilities or expansion of facilities. And so that's what's been driving our cancellations and it's really a mixture -- small amount of cancellation mostly deferrals to future time as they delay some of their projects.
+
+Yes, I mean just think about it as about $2 million a month.
+
+Yes. So I think that's the…
+
+Ten months of orders already for 2024. Our backlog is almost at $3.3 billion. And if you look at what we did in 2023, it was $4.1 billion. The way I would characterize it is that both for our big trucks and our counterbalanced trucks we will continue to have good pricing because we have long lead time still on those products.
+
+And on the warehouse side, we will be more around our target margin to ensure that those lines -- those production lines have the orders to support their production rates.
+
+No, it's actually mostly counterbalance.
+
+Yes. So we are obviously very focused on what market dynamics are taking place. The first thing I would say is hydrogen continues to be an issue, the availability of hydrogen as the fuel. With the trucks we are running at the ports, for instance, there's intermittent outage of hydrogen. And the team is working very closely with hydrogen producers to find the right solutions.
+
+But then we've also seen increase in interest both by end users and also by integrators of both stationary and mobile chargers as our electricity network kind of certainly at times has hit its capacity.
+
+And as you've seen, there have been some outages. There's more search for what a green backup power solution looks like. And actually, some of the generated solutions that are being developed is actually for charging battery-electric trucks, which is strange, but also for backup power, for kind of remote work, but also backup power for instance data centers, et cetera.
+
+So that's been increasing and we've seen much more interest on the marine side. And then we continue, port equipment is going to be very important because the ports are under a lot of pressure to decarbonize. And then I think we'll see slower progress on the on-road solutions.
+
+So, I think initially they're focused with medium-duty trucks and batteries. I mean we field for at least a third of those solutions which are power hungry, which have auxiliary kind of devices that need to be powered while the truck is stationary, like a garbage disposal truck. There was probably batteries won't be good enough. We think longer term they're going to need fuel cells.
+
+But those markets probably are a little slower than we expected. But on the other hand, the generator market and the marine market, and port are still very, very active.
+
+Hello?
+
+We don't see decrease in volume, we just see a bit of margin compression on the warehouse trucks. That's the only thing --
+
+Yes.
+
+I think if we achieve our booking target in 2024, our backlog ending 2024 will still be well above our desired level. And that we -- on some of our most important lines, like the big trucks and the larger counterbalanced trucks and even our smaller counterbalanced trucks we don't see normalization of backlog until early 2026. So there'll still be over-optimal backlog until then. Does that help?
+
+Thanks, Ted.

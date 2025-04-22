@@ -1,0 +1,80 @@
+Jamie Iannone
+eBay Inc. (EBAY) Q4 2023 Earnings Call Transcript
+
+Yes, thanks, Nikhil. I'll cover the GMV one and then I'll ask Steve to talk about margin. So, when we looked at the start of the year here, we talked about, January having some weather impact. You heard that from other folks as well and improvements kind of since then. You saw, January retail sales show the consumer is a bit stretched. But when we look at the overall plan that we have for the year, we feel really good about the strategy that we're executing on.
+
+When you look at focus categories, they continue to outperform the rest of the business. For FY '23, it was a 4% year-over-year growth, about seven points ahead of the business. We like what we saw in terms of the investments that we made in Germany and feel really good about the roadmap that we have in front of us, to drive growth in the business in Q3 or Q4, as Steve outlined.
+
+You know, I think importantly, when we look at the kind of underlying health of the business, right now we still have U.K. just in our technical recession, Germany commerce growth is still in negative territory. And so, we have those impacts from the market, but the underlying business and what's happening in the core, we feel really good about. And that's what makes us confident in being able to drive GMV growth as we outline there. Steve, do you want to talk about margin?
+
+Yes, so first let me talk about kind of the e-commerce piece. Specifically, we did customer acquisition costs. This is where eBay has a unique advantage. So first, the vast, vast majority of our traffic is organic. People coming to the eBay app or typing in ebay.com, which is a key benefit. The second is our ability to monetize users that we acquire across multiple categories, is a huge win for us.
+
+So, when you look at someone coming in into a single focus category, they end up shopping across categories on the site, usually more than they buy in other categories from that from that one initial acquisition. So our ability to kind of manage the CAC and the CLTV, is I think much different than others. And that's just based on the scale of what we have.
+
+I think our focus on non-new and seasoned, is very unique and our drive towards refurb, luxury, authentication, and the trust we put on the marketplace is a real differentiator for us. For example, we've seen the fourth straight quarter now of growth in our luxury business. Our refurbished business maintained double-digit growth all in a somewhat challenging macro environment. So that's unique.
+
+As we look at the generative AI, it's still early days. I can give you some of the early perspectives, but when I'm having a hard day, I go read the message boards about how consumers feel about these features that they're launching, because they just love it. They love the speed with, which it allows them to get more inventory on the site. And what we hear is, this is going to lock more of their things in their closet, and their garage, because we're speeding up the listing process.
+
+So today, it's already been used by millions of sellers, our first version of the magical listing process, and over 90% of customers actually take the content that we have and include it in their listing. It has a satisfaction score of 80, which is very high for a brand new release on the product, and continues to get better each day.
+
+And then, we've had our other products and employee beta, and now out to a single percentage point of our customers, things like the enhanced background that I talked about. And I've been around this business for 20 years. There is nothing that moves product, like better pictures on the marketplace. It's why we now have larger pictures on our desktop view item.
+
+But the quality now of being able to take a picture that you take on your rug or even on your unmade bed, and put it on a beautiful background and make the product look more appealing for sale, we're excited to be able to get features like that out. So, we'll continue to update you on the progress, but I can tell you that the anecdotal feedback is really good, the quantitative numbers, of what we're seeing is helpful, and the pace of innovation around AI is exciting.
+
+Yes. What I would say is that, if you look at both U.K. and Germany, two of our largest markets, they're both experiencing a GDP decline. So U.K., which is our second largest market, entered a technical recession. If you look at the cost of living challenges that are happening over there, that's obviously been a challenge. And the German business has been in recession and is still experiencing negative e-commerce growth from that standpoint.
+
+But one of the unique values of eBay is that, we offer great values on the marketplace. So, I think the reason that our refurbished business, for example, is so strong, our luxury business is so strong, is that even in challenging times, people are looking for a value on the marketplace. And so, I would say I'd call out specific areas like that. Refurbished growing double-digits, I think, is a sign of the consumer looking for value.
+
+Also, the consumer was looking for a lot of value in December, and we really lean into that, across the globe. And that's been a big differentiator for us. And our parts and accessories business, continues to perform well. It grew mid-single digits for the fourth straight quarter, and consumers looking for a value in what we offer there. So, some puts and takes across categories, but those are the ones that, I think I would highlight, and what we see happening, especially over in Europe.
+
+Yes, our buyers are exactly where we expected them to be. When you think about our enthusiast buyers, which is what we really track and go after. We said that, we would see a stabilization, coming off of the COVID time period, and that's what we're exactly seeing. It was roughly flat quarter-over-quarter at $16 million. We've been driving, healthy buyer acquisition and buyer retention, especially in our focus categories.
+
+Our enthusiast buyers are spending over $3,000, which is essentially like membership level spends, when you think about it. So, our acquisition is healthier year-over-year. Our reactivation is healthier year-over-year, and our churn is down year-over-year. So, we're pleased with what we're seeing on the buyer side, and we're continuing to lead in with new advancements and capabilities for buyers.
+
+What I called out on the call is things like, we have over 100 million vehicles stored in my garage, and we're using now predictive maintenance, to say it's time to change, this element for your car. Here's the parts on eBay that fit it exactly. They're backed by guaranteed fit. So, we continue to build new tools for buyers, to activate them onto the site and drive retention, and that's been working very well.
+
+Thanks, Justin.
+
+Yes, Doug. One of the things I'm excited by is that, we've had this model of building in a hybrid environment, and having extremely large private cloud, which has allowed us to manage our cost infrastructure, even as we've grown to, now close to 2 billion listings on the marketplace. But more importantly, the benefit of being able to take our 30 years of really rich data of e-commerce and combine that in a hybrid sense, in some cases with open source LLMs.
+
+In some cases LLMs that we built, in another case with commercial LLMs, makes us able to do those, in a really efficient manner, without really massively impacting our cost structure, in any meaningful way. Also, having good latency in terms of getting it back, and also being able to fine tune the quality of the data of what's coming back from an inference has been important for us.
+
+So, we've used across the board all different models. We started, in some cases, with some commercial models and then moved those to open source, or internal models and as we've refined them and gotten better. And that's been working out really well for us. Like I said earlier to the question about magical listing, when we look at the scale and volume of the millions of listings that we get each day and what consumers are hitting us with.
+
+Making sure that we have, an incredible amount of quality in terms of what's happening with the AI and ease of use. And thus far, really positive feedback from it. The models are working well. And what's great is that the team iterates every single week, to make them better. Steve, maybe you just want to cover how we're managing the cost.
+
+The last thing I'd say is that, that refers a lot to how we're using it with our consumers. I would say internally across the organization, we're also pushing very aggressively, to drive productivity in the organization. So whether that be all of our engineers now using copilot tools as they do development in our customer support centers, we've been using AI to really change the level of engagement we have with customers and the productivity.
+
+I call it the success of our employees there, where we summarize contacts from customers to make it easier, summarize initial responses, all the things that we can do, when you think about our scale of, over a million self-service queries a week, in a customer service perspective, AI is incredibly helpful there. So those are just two examples of how we're using it across the board, to drive productivity in the organization.
+
+Yes, specifically on the low price, and if you're referring to like the [T-Move] machine, we really haven't seen a significant impact from them on our business. We really have a differentiated strategy, with what we're doing with our focus categories and going after non-new in season, for the business. And years ago, we really moved away from the low ASP, low quality items on our marketplace.
+
+And that hasn't been a focus for us for many years now. So I think, that's the first key differentiation I'd call out. The second is that, obviously some of the competition is spending a lot of money from a marketing standpoint in the marketplace. But one of the great benefits of eBay, is just the vast amount of organic traffic we have. The vast, vast part of our traffic either comes directly to the app or types in eBay.com.
+
+So, we're less reliant on paid from that perspective. The last thing I'd say comes back to kind of the CAC, CLTV question, which is, we can have one of the most healthiest CACs out there in the marketplace, because of our ability to drive CLTV, really driving by the moves we've made to not be focused on active buyers, but really on acquiring enthusiast buyers, or quickly moving new buyers up to, become enthusiast buyers.
+
+And because of the cross category shopping nature of the business allows us to drive that CLTV higher for us. And then finally, the opportunity to turn them into sellers, or to have buyers who sell on the marketplace also helps with that overall equation. And those are really key differentiators for us at business and why we feel really well positioned on a go forward basis in the e-commerce landscape.
+
+Yes, when you think about our focus category strategy of really kind of leaning in on this specific area, driving the CSAT to a whole double-digit level, we essentially apply that to a certain segment of our business in Germany to our C2C segment. And that's exactly what we're seeing, Tom is, greater than 20 point improvement in NPS in that business, which is really great for us. It's an important business.
+
+And what we really focused on was designing around the needs of the buyer. So that's searching SEO improvements, specifically around language needs in that market. The second was, really a focus on local and things like map based browsing in that market. Given the geography of it, we have more of that type of business in Germany than we do, for example, in our U.S. business and leaning into it.
+
+And the third is doing pricing adjustments for our C2C business there, really leaning in to being able to drive buyers, who sell and bring more C2C inventory on the marketplace. And that's been working well for us. We've seen double-digit increases in buyers who sell on the platform and a really kind of healthy business there in terms of first gen listings, that type of thing.
+
+So, with everything that we do, we look at, what's successful, what do we take to other markets, and we'll continue to do that and look at that on a go forward basis. But overall, we feel really good about the metrics that we're seeing in Germany, and the health of the business and the strong numbers we're putting up despite negative e-commerce growth in that marketplace.
+
+Yes, look, the expansiveness of our marketplace, is what allows us to really go after launching compelling Gen AI features. So specifically in parts and accessories, for example, we use AI to expand the fitment capabilities of finding what vehicles a part will fit. But now we're using it for things like predictive maintenance and things like that. The vast majority of categories are really relevant for these horizontal innovations, things like magical listings, things like backgrounds, enhancers, et cetera.
+
+So search uses AI, advertising uses AI. So across the board, we're using it in very compelling places. We use it in our marketing to do much more personalized marketing, things like subject lines that can be really tailored based on what's happening on the business. When I think about our CBT business, it remains very strong on the marketplace. So, we've built more and more features to make CBT easier for both buyers and sellers.
+
+I'd call out the work that we did in payments on buyer and seller FX, really making that seamless. We've talked over the last two quarters about eBay international shipping with the concept of really opening up the 190 different geographies that we have around the world, to our sellers from that perspective. And so, it will continue to be a focus, will continue to make it easier and easier for buyers and sellers, to interact across borders and drive that strategy forward.
+
+Yes, so, when you look at it overall, when you talk about something like the U.K. or Germany, where the consumer is more stretched in cost of living challenges, et cetera. We tend to lean into the deals and values on the marketplace. So refurbished, used. And so it's not really impacting as much their overall business with us, more so in terms of the categories and where they're buying.
+
+So, I'd probably say like refurbished is a good example. Refurbished growth is up double-digits. We've talked in the past that, macro has pressured the, spend and move some of the enthusiast buyers, to mid-value buyers. That's a little bit why, we see the enthusiast number flat quarter-on-quarter. But we're pleased with that stability in this environment, because it means, the eBay value proposition is really resonating for those customers.
+
+In terms of driving frequency, it's one way where we're looking at things like all the programs that we have, whether that's safe seller, or stores, or the marketing that we put out to our customers. We're now able to use generative AI, to make that experience so much richer. The combination of our internal LLMs, and the data that we have about what's been happening over the 30 plus years.
+
+Combined with the ability to really build compelling marketing, to those customers, is coming to a whole new level. And Alexandra, I think we're just at the early stages of what's possible there. And what's exciting at eBay is the canvas that, we have to work with. When you think about, the number of consumers that have transacted with a given seller on the platform and have saved that seller.
+
+When you think about 100 million vehicles being in my garage, when you think about, the sizing data that we have for people for apparel, it gives us the unique ability to drive a lot of frequency on the platform.

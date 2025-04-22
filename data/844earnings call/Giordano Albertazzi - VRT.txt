@@ -1,0 +1,78 @@
+Giordano Albertazzi
+Vertiv Holdings Co (VRT) Q4 and Full Year 2023 Earnings Call Transcript
+
+Good morning.
+
+Thank you, Andrew. I'll start, and David, if you want to chip in. I mean, we've been pretty vocal about the strength of our pricing muscle built over the last 12 plus months. It's something that continues to be simple. Just by the same token, I've been vocal about the fact that while we continue to believe that we operate in a price favorable environment, but the marginal price gains will diminish for obvious reasons and a different inflationary environment we're in. But we operate the biggest part of our business operates in favor from a demand supply balance environment. So we continue to count on price. Now, the pace of that price will, again, the price gains diminish, but we're confident we'll continue to be positive.
+
+And I don't know, if you want to add something, David?
+
+Well, you know, we continue to believe that we believe and we have a strong business North America pipeline is very, very encouraging. I just want to remind that the Q1 last year in North America, but in America, sorry, was particularly strong. You remember we were coming out of 2022 where we had a lot of, let me say, pent up backlog. So that is also a reason. But we feel very good about our business in America.
+
+Thanks.
+
+Thank you, Lance. So the -- as you notice, of course, we are very happy about our book-to-bill and our backlog. We have dynamics in the sense that certainly our second half orders ’23 were strong and good. And that reflects in the way, the shape of our backlog in general. We do not see a supply chain bottleneck, our end. It's never infinite, but the constraining factor, if you will, if we can call it so, is the fact that simply there's large projects and with large projects we're talking have relatively long requested lead times from our customers. So it's a natural cycle. We were vocal in the past and we continue to be vocal that the whole industry needs to confront itself with power availability, permitting, etc. But I would say that in the in the twelve, eighteen months, is really the natural pace of build outs and sites, etc. So we pretty much deliver on what our customers request right now.
+
+I'll start, Nigel, to answer your three questions in one. So clearly, clearly we like the acceleration.
+
+We like the acceleration in orders and the -- you remember we were vocal about the strength of pipeline, both at Earnings Call in October and in November at Investor Day. That continues to be true. What we have positively noticed is an increased velocity in the pipeline. So we believe that's a characteristic trait of the pipeline that will stay with us. So that is true, the funnel continues to grow. And that's true pretty much globally, certainly for the Americas, EMEA and in many parts of Asia. So we're positive. We're positive about that. So we see opportunity out there. Do you want to comment on the -- on the other part of the other question?
+
+Thank you, and a good day to you. As I explained on a couple of occasions, it's very, very hard for us and I think for everyone, truly to be exact. It's not an exact science as said in where we're going through the slides. It’s not exact science deciding what goes to or being sure of what goes to AI applications or not. As I said, there are some pro-lines that are univocally destined to high density GPU AI like any sort of high density cooling or liquid cooling, some elements of in Rack Power Distribution. But at a certain stage, we want to make sure that we don't go to the side of too much details and too much details also from a competitive standpoint.
+
+But we are very happy about the trajectory of the backlog and the trajectory of the pipeline. But the vast majority of our portfolio is really fungible, as I said, in the sense that also a lot of what you see built today and designed today is not univocally one or the other. It is data centers that need to be hybrid in their very nature because they will host both traditional, let's say, CPU and GPU with configurations that may and will actually change over time. So the mix of loads in the same data center changes.
+
+The challenge here for all in the industry, and that's why we cooperate very, very strongly with hyperscalers and the largest colos, is how do you design it in a way that you can transition that way? How can you build that intrinsic flexibility there? So that's why it's very difficult for me to answer in a credible way to your question. And I would invite the entire industry to be less [blankly] black and white on this because I don't think you can.
+
+Having said that, we're very happy about the trajectory, we're very happy about the trajectory of what is univocally destined to AI, but also the pull-through of what we know, believe, see is AI-driven, medium, long-term in our pipeline. Direct or immersion? Direct, that's what we hear in spades, that's the discussions that we have predominantly with all. Does it mean there is no room for immersion? No, but we just see more direct than anything else. But again, the fun part of the -- a lot of the -- a very interesting part of our job today is that we really figure out and design with the big players across the world what the future looks like and that is a highly cooperative activity. That was a bit long answer, sorry about that, but hopefully.
+
+Thank you.
+
+Scott, it’s very much, we do not deviate very much from what we were saying at Investor Day, quite honestly. So if I go back to those thought processes, we would see, let's say, going to a 15% to 20% of the overall, let's say, thermal part, over time as that builds up.
+
+But again, it's really still a bit early.
+
+Capacity and capacitization is an ongoing. I would say that the big steps we’re opening, what I’ve talked about so many times, India and Monterrey. After that, it's more of a gradual expansion, adding lines, adding shifts, improving utilization, improving output, investing more in assembly lines and tools. So in general, we do not see, in this moment, we do not see for 2024, capacity -- or beyond, of course, capacity as a limiting factor, not in any kind of material fashion. Clearly, as I mentioned, we make capacity decisions almost on a weekly basis because never have we experienced a market that is dynamic to this extent. And I want to make sure we have a very robust process to be there and to provide our customers with the right capacity.
+
+Thanks, Scott.
+
+What we're saying is that here, in the space of the 12 months, our plan is to make sure that we have the necessary demand to cover the direct-to-chip liquid cooling needs of the industry and making sure that we do not limit ability of our customers to grow their direct-to-chip liquid cooling. That means that we, indeed, start from a relatively low base. When we were talking about $100 million at Investor Day, of course, that doesn't mean its all liquid cooling, by the way. We were talking about a backlog that was spread over months and quarters, so it's not necessarily a peak point realized at the beginning of the year. The fact is, we start from a low base. We believe that we'll be able to bring the capacity that the industry needs and plus, and that's done activating three Vertiv plants across all continents and with a rapidity and with a broad reach of our supply chain. So the message is, without going in exactly in the numbers for obvious reasons, but the message is we will have capacity, and we have capacity. And we have the technology, and that's why we see a lot of conversation and a lot of pipeline forming in this moment.
+
+Hey, good morning.
+
+The line was very noisy, but we believe that we have understood your question. So Q4 for EMEA was predominantly a question of customer readiness and site readiness, so not so much an internal capacity, but it was more the customer side receiving. When it comes to the sequence of quarters going into 2024 for EMEA, it's probably a little bit premature. We certainly will have a challenging comparison in Q1, so do not expect necessarily this acceleration that we shared with you to happen necessarily in Q1. But instead, we are convinced, and we are very happy about the pipeline, and we are happy about the example and specifically refer to our order intake in Q1. So we are quite optimistic about EMEA.
+
+Our long-term, let's say, vision stays what we shared with you at Investor Day and, of course, with a good Q4 under our belt. Backlog 16% up is something that makes us certainly very happy and that is heading in the right direction. When it comes to this year vis-a-vis future years, or next year and future years, I would say that we do not see a distribution that is, anyway, much different than what we saw a year ago in the same condition. So I would say pretty natural, and pretty regular split, let's say, this year and next year.
+
+Is the backlog good? Yes. Is the backlog, let's say, encouraging? Absolutely, absolutely. You saw -- you know our long-term view. You have our 2020-2024 plan. And yeah.
+
+Good morning.
+
+We closed CoolTera acquisition on the 8th of December. So yeah, it's not three months yet. But yeah, I would say that our plan and our Investor Day vision of the future included certainly an important acceleration in liquid cooling and AI. It was already a part of our portfolio. The difference is, with the acquisition, and one may think that we probably kind of were aware that things would -- may have evolved that direction on the 29th of November. But that gives us, again, more, let's say, confidence in the ability and the speed to execute on that plan, so nothing revolutionary, nothing dramatically different. Are we in a better position because we have secured something that was likely but not sure? Yeah, absolutely.
+
+Yeah, telecom is, let's say, it ebbs and floods depending on the technology waves. 5G, of course, created acceleration a few years ago and then slowed down. And that's typically the type of cycle that business is. We do not see any imminent cycles and hence, we continue to believe that that market will be pretty slow. We do not think that would be shrinking. In the future, there will be new technology, new acceleration. Certainly an area where a very distributed edge could, at a certain stage, have a positive impact. And we're there with the technology, with the presence, with the go-to-market and the capacity. But again, in our guide and our vision for the future, we are very prudent with this space.
+
+Thank you.
+
+Hey, Steve. All good.
+
+Yes, we believe that orders will grow. We started, of course, mentioning that Q1 will be sequentially up. Sorry, it will be year-on-year up, not sequentially, year-on-year up in high teens, as explained during the slide show. But we believe that, overall, the year will be up.
+
+We are talking about an environment going forward where the price cost is up. And we believe in an environment in which price remains positive, as I explained. That necessarily translates in the same equation being true for orders. Otherwise, that would be a short-lived statement.
+
+We do not expect that.
+
+Steve, thank you.
+
+Sure, let me start. I'm not sure I fully heard you very well on the first part of the question. But when it comes to capacity, it's never adding a second shift or not. When I say adding more shifts in general, adding more capacity, utilization of the asset, so think about our capacity increase as exactly a combination of more, net-net more square feet, square meters, more utilization, investment going up. And you have seen our CapEx projections go up year-on-year. And there is a utilize -- at VOS, Vertical Operating System productivity, certainly plays a big role. And there is an ability to utilize more the capacity that at any given instant we have available. And this is not different from what we shared already in October and indeed at Investor Day. So there is flexibility in that respect and flexibility we are using.
+
+But the first part I couldn't capture very well. So real quick, as we are at time.
+
+Can you ask again?
+
+So I think we are reading too much into that. Read it like the industry has a growth rate in direct-to-chip. We want to make sure that we provide capacity over and above that growth rate. So that whatever the industry needs, we'll be able to cover that.
+
+Well, thank you. Thank you very much. And thanks everyone for your questions and looking forward to more interaction in the next few days.
+
+I want to thank the Vertiv team globally, hard work in 2023, and we have executed well. As we mentioned a few times in the recent past and continue to do, we are shifting our culture towards a high-performance culture. It doesn't happen overnight, but it's certainly happening at Vertiv. Gradually, a lot more to do but we're heading in the right direction. We've started to develop the right sense of urgency across the organization, and you can see that.
+
+As I like to say, I'm pleased, but absolutely never satisfied. Good year 2023 and looking forward for a stronger year yet in 2024, a lot of potential, very excited. Thanks everyone for joining us, and we'll speak soon.

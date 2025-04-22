@@ -1,0 +1,88 @@
+Steve Sell
+agilon health, Inc. (AGL) Q4 2023 Earnings Call Transcript
+
+Lisa, thanks for the question. I guess I’d start by saying I think we’re operating in a very dynamic utilization environment and what we’ve communicated today sort of tries to demonstrate the respect for that environment. We obviously have seen an acceleration in trend in Q4, stepping up to a Q4 trend level of 7.7%.
+
+Our assumption into ‘24 is that utilization continues at that level. And so, we see it persisting. And looking at the data that Tim talked about, we didn’t see a tremendous set of seasonality within that, but concluded that this will persist. And that’s been reflected within our guidance for 2024.
+
+We do expect, as we said, that benchmarks will catch up with this. We’ll see what the final notice looks like when we get that later in Q2. And we have been encouraged, as we’ve talked with some of our plan partners about their plans for 2025 in terms of their bids and specifically that they will be focused on bidding for margin. And that’s obviously material as it flows through to us. So, our belief is that it is ongoing and it’s going to be at this elevated level at least through 2024.
+
+Sure. Our revenue guidance for the year includes the impact of v28, which has that rough 2% impact we’ve talked about, offset by our actions and the other elements in revenue. The two midnight rule is factored into our in-patient assumption in ‘24 and is part of that trend that Tim and I laid out for you in 2024.
+
+And then supplemental benefits, as we look at the relative change from ‘23 to ‘24 across the mix of our payers, we do not see nearly as great an escalation as we saw ‘23 over ‘22. And our payer conversations right now are focused on our ability to mitigate those things we can’t control, like supplemental benefits, whether that’s through a carve out, whether that’s through a corridor or capping that. So it’s a combination of those things, Lisa. Tim, anything you’d add to that?
+
+Sure. So I’ll take the first one, and you take the ACO [technical difficulty]. So, Justin, in terms of trend, we are seeing some step up in terms of in-patient medical. It is in line with what we considered within that overall trend, and the two day rule is definitely contributing to that. But it’s still in line with what we’ve laid out for Q1 and within the full year.
+
+The other categories that we are seeing stepping up is the ones that we’ve talked about before, which is the surgeries principally in the outpatient side, but also seeing some in-patient surgery, a lot of that was in Q4, some may have been driven by exhausting maximum amount of pocket and some just sort of induced utilization around that. But also specialty cost and Part B drug.
+
+The full year national ACO REACH, Justin is at 6.8% and our performance came in at 2.7%. So we beat that national benchmark by 410 basis points.
+
+Thanks, Justin.
+
+Yeah, Ryan. No, listen, I really appreciate the question, and we obviously are in a volatile environment, as we’ve talked about. I think we believe the future is value based care and full risk value-based care. I think we building a differentiated model and it made significant investments at the market and the platform to make that a reality. And I think we’ve got lots of data points like the one I just shared on ACO REACH or locally with our payers that we can outperform that fee-for-service environment.
+
+But specifically to your question, I think we’re in this transition period in terms of MA funding and plan bids and we’re doing it against a backdrop of an elevated utilization environment. And so what we’re doing is, we’re actively tuning our payer economics and our risk sharing. We’re doing that two ways. One is in terms of an increased percentage of premium for capitated business that we’ve got and we’ve been able to have some success around that. We’ve got more conversations actively going.
+
+And the second is reducing our exposure for elements that are really out of our control. So supplemental benefits, star scores outside of the ones that we control around that or just aggressive bid that lead to far higher utilization assumptions than were laid out from an actuarial perspective. And so that tuning, Ryan gets reflected in a variety of ways.
+
+But I think that’s the way we’re looking at it. I think our payers are looking for us to do more. We’re just looking for an economic and a risk sharing arrangement that sort of balances the environment.
+
+So to-date we’re relatively early in that. We have had some success across some very key markets, across a couple of payers. We’ve got it going with many payers right now, Ryan. I would say, the value that we provide is very evident to these payers, particularly in this utilization environment. And they want to have a strong primary care supply chain. And our groups represent the largest and sort of most prestigious groups within their communities. And so it’s very important. So that is factored into our discussion and we’ll give you an update on the next call in terms of how that’s progressing. But I think we’re pretty optimistic.
+
+So the Class of ‘24 assumption reflects the full step up in the utilization trend that we talked about across the entire book. I think it drops from $76 PMPM to $52 PMPM is the math on that change. So that is what’s driving the change that you see there.
+
+And Eduardo, what I would say is, all of our clinical programs, palliative, renal, high risk management, are focused on reducing unnecessary ER and in-patient visits. We had really good success in ‘23 with those with – at in-patient medical down 2%, which is far better than sort of what we’ve seen nationally. And I think we’re expanding those two more markets and enrolling more patients in those programs based on a more accurate assessment. So, those are the things that are giving us the confidence around the numbers you just laid out.
+
+And if you include the supplemental benefit effect, the non-medical that 7.0% that Tim talked about, Whit, goes up to 8.2% for 2023.
+
+And Whit – sorry, go ahead.
+
+Sorry, go ahead.
+
+I just was going to give the context of, in the assessment we talked about receiving in February and doing the analysis from some of our largest national payers that are more complete than the composite that Tim talked about, but also in that, were updated seasonality factors and census data, because the world is moving for everyone. And so, that was all incorporated into the scenarios that we talked about. And ultimately where we landed on that most conservative scenario.
+
+So the financial data pipeline, Elizabeth, that I talked about in my remarks that we’re standing up this year, we are receiving claims already from our largest payer, and we’ll have many more of our largest payers talked about in Q1, that’ll be north of 50% of our members will be covered within that. And by Q2, we’ll have 75% of those based on our seven largest national payers. What that does for us is it gives us the ability to really have a very consistent data set across three quarters of our members.
+
+It allows us to be faster with it and to be far more detailed at the cost of care category level than we have been able to historically, because you’re kind of wrestling very different data sets. And so, it effectively becomes our data set that as soon as it’s updated, we have that ability to just move with it that much more rapidly. And so, I think that’s what you’re referencing is where we’re at on that progression, and we’re on track and encouraged by that. And that will be a component as we come back and start talking to you in future calls on the assessments we’re making.
+
+So we – thanks, Sean, for the question. We have a really strong Class of ‘25, very excited to be implementing them right now. As I said, it’s at least five groups and 60,000 senior patients, and it will be at least one new state for us. If you think about it in sort of comparison to the Class of ‘23 and ‘24, you’re going to see a greater concentration of these new groups in existing states and markets than what we’ve seen. We think that’s really prudent.
+
+You’re able to leverage existing contracts, clinical programs, infrastructure around that, so that helps a lot. It is also in contrast, like, the Class ‘23 and ‘24, it’s less diverse. You’ve got more sort of multispecialty groups and primary care, and not as many different types of groups within those.
+
+And then, as we just talked about, kind of the geo entry costs really account for the potential for more membership than that 60,000 I talked about in the Class of ‘25 or in the longer implementation cycles for the Class of ‘26. So some early onboarding costs for that. So that’s sort of the complexion of that group. And we’ll be sharing details on each one of these groups here in the coming period.
+
+Well, I think so ‘25 is that we said at least, right, so five groups and 60,000. So there is the potential for that to grow. I do think we’re very prudent in terms of, in particular, our payer contracts. Now, this class is in the footprint that we sit in today, so you’re able to leverage a lot of existing footprints. So there’s probably not as much of a dynamic on that. But a big part of this is sort of the pull through on these groups. But that’s sort of where we’re at right now. At least five groups, at least 60,000.
+
+Yeah, Stephen, I mean, it definitely is a dynamic environment and you’ve got the elevated utilization. I appreciate you’re asking about the cohort data. I mean I think clearly elevated costs impacted the member cohorts and the market cohorts that are in the deck that’s on the investor website.
+
+I think we’re encouraged when you look at the member cohort data, which is basically members that came on at ‘18, kind of how they’re performing across time. ‘19, same thing. If you look at the classes of ‘18, ‘19 and ‘20, they are progressing or sustaining near $150 PMPM. That’s on the low side, but we’ve talked about that 150 to 200 is sort of where we’re shooting for, and obviously we’ve got some that are north above that.
+
+The market class data, what we’ve shown you for the first time within that, is the impact of dilution from mid-teens same-store growth year in, year out. And so it’s very impactful in terms of what you’re able to drive across those markets. And our action plans are focused on. We’ve added 400 providers and 100,000 MA members since the initial year one. Those are dragging those markets.
+
+So you see a $36 PMPM impact in the market Class of ‘18, an $86 PMPM impact in the Class of ‘19, and a $44 PMPM impact in the Class of ‘20. Those are dragging those market numbers that you see on the next page. And so our opportunity is in that action plan I talked about around addressing PCP variability.
+
+How do we focus on those new doctors? How do we focus on those new patients? How do we get them more educated and understanding sort of the elements of the value based care model and really what’s available to them within the care team to drive that improvement. We see that as a major opportunity for us to drive those up.
+
+And so I think we believe based on ‘18, ‘19 and ‘20, you can get members to that level. And with markets, we’ve got to be able to accelerate and drive that cohort maturation for those newer members and newer PCPs at the same level. So that’s kind of how we’re thinking about it. That’s a lever we can control.
+
+You’ve talked about levers outside of our control, like how plans file their bids and their benefits. We are encouraged based on what we’re hearing around that and how they’re thinking about ‘25. That would obviously flow through dollar for dollar to us. That’s part of that payer economics and risk sharing discussion that I talked about.
+
+And then there’s obviously what will happen from a benchmark perspective and how much of this accelerated utilization will be captured within that. But we think we’re in this two-year cycle, we think those elements should improve the spread ‘25, ‘26, ‘27. But we’re really focused on what we can control and we see this variability with newer doctors and with newer members as a great opportunity for us.
+
+Sure.
+
+I think the math is, if you do a $10 PMPM adjustment in terms of a bid across a 0.5 million seniors in MA, I think it’s an annual number of $60 million, right. So that if you talk about low double-digits, that gives you the ability, the sort of dimension what that could look like. And that’s one element of this, George.
+
+And so, I think we’ve had conversations with people. Some people are thinking more than that, some people, I think, are still trying to figure that out. But I think that’s one piece of it. But I will come back to what I was just talking to Stephen about, the thing we can control is really around this variability and the new docs and the new patients, we think that can be very material in terms of the improvement that we can see from that perspective as well.
+
+And then there’s just this natural maturation in the cohorts, right. In a very difficult year, you’re seeing us projecting a 40% step up in medical margin from ‘23 to ‘24, a big part of that is this Class of ‘24 that comes on great experience, longer implementation. But I think if you think about our business as members mature across time, you should see this natural evolution and this spread should correct from where it sits today.
+
+So I mean, I’ll just back up, Adam to what I said, which is, we are really trying to tune our payer economic and risk sharing arrangements in this environment. Utilization is up and we’re managing that. We should probably be receiving a larger percentage of premium. That’s part of the dialogue that we have with them, given the consistency of performance from a quality perspective that we’re delivering for them and for their patients. So that’s kind of a big part.
+
+The things outside of our control, how do we look at that? Do we corridor it? Do we cap it? Do we carve it? I mean – getting into sort of future scenarios about what gets changed and how that flows through? I don’t have a perfect crystal ball on that, but I do think this idea is, we are delivering an incredibly valuable service for them and we are trying to look at a sustainable model for them and for us that works around that. So that’s sort of a general answer to your question, but a lot of dialogue with them as they think about their ‘25 bids, as they think about ‘25 markets and how our partnerships fit within that.
+
+And, Adam, what I would say is, just we’re seeing tremendous leverage on the efficiency side from the investments we’re making in technology and the – centralization, standardization of activities that we’re doing, like chart reviews that previously got done within the local markets. And so I think just the scale that we’ve got, there’s a tremendous opportunity, not just in things like discussions with payers, but also from an efficiency perspective, for us to drive further – further around that. So I think as we continue to grow, there’s going to be far greater leverage from that perspective.
+
+It’s another benefit of growing in your existing footprint.
+
+Well, thank you. Obviously, we’re living in a very dynamic environment. I think our ‘23 results and ‘24 guide we’ve shared with you are clearly impacted by those. But we feel like our targeted action plan is on track and our business model is working. And I think when you look at our cohort data, even in a difficult environment, it shows the value we’re providing to physicians and sort of what the long-term opportunity is within the business. So we look forward to talking with you all soon. Thanks for joining us.

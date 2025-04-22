@@ -1,0 +1,96 @@
+Neil Hunn
+Roper Technologies, Inc. (ROP) Q4 2023 Earnings Call Transcript
+
+Good morning, Deane.
+
+Yes, so I think -- first, appreciate the comments on Procare. I think there's like 80,000 five-star ratings in the app store. So your colleagues are a couple of many about the liking the application and the engagement with their kids in their early childhood education centers. Relative to the question about the IPO is a competitor, I mean maybe on some transactions, but most of what we're going to look at are going to be sub-scale for the IPO market.
+
+The TAM here is sub $1 billion, that's not a very IPO-able type market. So this is again small market leader. The market is growing low-double digits that we talked about, which underpins the mid-teens growth rate we're underwriting to hear.
+
+In terms of valuation in multiples, I think we're just in a world where sellers, especially private equity sellers understand the cost of capital, where the world is. They have constraints from their LPs. They need to get liquidity back to them. They can't raise new funds without it. And so, I mean, it's hard to guess with this asset would have traded for 12 months to 18 months ago, but substantially -- substantially higher on a multiple basis. So we think for the moment the valuations are coming to us because of the market for us that we just talked about.
+
+I think Procare is like a perfect example by earlier stage, right? So these are not early-stage companies. They are earlier than what we've typically acquired in the past. So they meet all of our criteria. I have to emphasize that every time we talk about maturing leaders. So it's a leader in a small market. The base, the competition is understood and observable in the marketplace. The relative market share advantage this company has is particularly interesting. So those are common traits of everything we've always acquired.
+
+In this case, the market is growing a little bit faster and the underlying business model -- margins are going to scale as the business grows. So that's the earlier part of what we're talking about. Historically, we would have maybe waited by Procare until the next trade, the one after, the one that just occurred. And so when we look at the model of this over a long arc, it's just much more value for our shareholders to do this type of transaction.
+
+In terms of the pipeline, it is as Jason said in his comments, as I said in my comments, just a noticeable change in activity since our last call in the marketplace for some of the reasons that we talked about, and it's a variety of opportunities. I mean, we know we're leaning into doing more bolt-ons, so there's a fair amount of bolt-on activity in there. That's a lot of what Jan and her team are working to build, and then there's a fair number of these emerging, maturing leader, excuse me, maturing leader type profiles and will just ask them, we'll be patient and disciplined to figure out the right ones for us.
+
+Thank you.
+
+I'll take the first to that and then ask Jason if he wants to add any color. So you're right, the call -- I mean the principal driver of the growth rates in this range for '24 is DAT & Link and freight matching businesses. Foundry had, as we talked about, had a tough '23 with the actors and writers strike. On top of that, they started that migration to a full subscription model.
+
+And so, '24 will be a bit muted for Foundry as well, but that's a small relative to the impact of DAT and the Canadian Freight Match businesses. We've assumed sort of muted conditions throughout the whole year. There certainly are market prognosticators that are suggesting a second-half pickup. We've not assumed that in our model. We want to see it before we load it in, and that's our core assumption relative to the Freight Match businesses hitting that.
+
+Sure. I mean it's -- I'll just comment and share a few of the thoughts, we said in the prepared remarks, right? So the our long-term aspirations are to grow organically in that 8% to 9% range and we believe we have the possibility to do that. It's going to take a few more years to get into that run-rate. That's the aspiration of what we're all working towards both in the group executives and all the operating teams across the company.
+
+As you know, the last three years there was an 8%, 9%, 8% throughout that whole period of time. We said those were benefited by some market tailwinds, some back from the pandemic, you know, a raging freight market, things like that. Supply chain sort of bottlenecks and releases. And that was sort of in the last three years. So as we look at this year compared to history and then also, or the possible in the arc, we think our current course and speed is in the 7% to 7.5% range organic growth through all that noise.
+
+So as we compare, we're doing in '24 against all that, it really is two simple reconciling factors. One is, we just talked about in the last question. The freight markets being slow. Our expectation for them to be slow throughout the whole year. And as we talked about for a few quarters last year in our Application Software segment, there was notably less large customer activity, like enterprise class customer activity. Deltek, a little bit, we talked about Frontline. A little bit of smaller business called Data Innovations, which all makes sense. The large companies anticipating a slowdown. They just got cautious in their buying behavior.
+
+The good news is, Deltek ended Q4 with a fair amount of momentum. I think they're up low-double-digit, either high single low-double digits in the quarter. So they exited with a fair amount of momentum, it's one data point. We want to see a few of those thrown together.
+
+And so we're -- those are the two reconciling items, the freight slowdown, expectation slowdown in large activity in Application. That's embedded in our model and those are reconciling factors between last year and where we are this year and also pretty much a reconciling factor between where we are this year and where we think we are from a run rate.
+
+Yes.
+
+Yes. I think the step up at the year, I mean Deltek was strong in Q4. And it's one data point. The pipeline looks attractive. The pipeline for Frontline looks attractive at both the Enterprise and SMB portion of their business, but we've been through the better part of three, four quarters where the Enterprise activity was slow and we're just not going to underwrite that in our guidance at the moment.
+
+Yes. I think just more longer-term on the SaaS migration. We have a little bit over $900 million and an on-premise maintenance. That -- as that converts, it converts -- is our recent history, the last two or three or four years it is north of two times on an ARR basis as it converts from on-premise maintenance to SaaS and cloud. So when we do that, it's actually going -- we believe historically it's been a bit of a net growth driver.
+
+While we might -- we will convert perpetual licenses which are end period one-time revenue to SaaS and that's a classic J-curve. The companies that are undergoing this transition, we're going to convert this $900 plus million of maintenance at a clip that will overwhelm that J-curve effect. So we believe it's a net growth driver. Foundry is a bit unique, in that they are making a, just a -- almost like a day-one pivot and their business model shift, and the other companies are doing more of a migratory approach
+
+So I mean both, and as we talked about, both Neptune and Verathon were just great. And last year both grew faster than the segment. Obviously, they are a predominant element of the segment. We believe that the long-term growth rate at Neptune is probably in the high single digits area.
+
+And we believe that the long-term organic growth rate of Verathon is probably a bit higher than that. It's -- we want -- we want to believe that it's going to be a low double digits. We want to see a couple more years of that, some more R&D productivity. We're super encouraged by the pipeline of R&D and the momentum they have in the market across the three product categories. So that's where we expect the long-term growth rates to be there.
+
+Yes, I mean, we're always -- our long-term policy is between 3 times to 3.5 times. If you look back to 2015, '16, you can never be right at that level, some you go above it and come below it. It's always this this process and where do you draw a line through those swings. We're going to just -- we're business model pickers. As you know, we're going to continue to look for the very best businesses at the most attractive valuations that meet all of our criteria, and then we'll look for the best way to finance those from that point. We certainly understand, I think acutely risk, both risk in the businesses, risk in the capital structure, and that's a big part of how we think about deploying capital and how we value assets.
+
+Good morning.
+
+Well, I think scaling certainly helps. We've added a fair amount of capacity at Neptune. We've added supplier capacity at Verathon. We've added supplier capacity at the rf IDEAS -- the RF products businesses. And certainly were not the similar for most companies. The supply chain operations teams are going from a -- from a model that was focused in the last three or four years on resiliency to maybe a more balanced between resiliency and sort of just-in-time, which certainly will help with inventory turns and asset velocity. So we do think there's a little bit of money trapped in inventory for us, so will be more of working capital advantage if we can execute on that plan. In terms of margins, I'll look to Jason.
+
+I think it's probably more just scaling infrastructure. I mean, what we -- our cost of goods is so low relative to industrial type companies that the input cost are a fraction of the cost structure of our Enterprise, but your thoughts about that?
+
+So, we appreciate the question, right? So we started this portfolio of 5% to 6% growth. We're in a point of, we think 7% to 7.5% on the way to 8% to 9%. So we've made a fair amount of progress over the last four or five years. It's less about which company. It's more about the process and discipline across all 27, now going into 28 companies. And you've heard us talk about this on repeat in the past, but it's just if anything were consistent. So it's about how do each of our businesses design a strategy in terms of where to play and how to win, and where they have the right to win for durable long-term growth.
+
+The second thing is, then how do you process enables the execution of that strategy so that you're on repeat. We can use our long-term forever ownership period as a long-term competitive advantage. So as we stack capabilities that become enduring, then we can outpace our competitors.
+
+And then third, is how do we run a talent offense, where we use talent as a long-term competitive advantage. We've talked a lot about the upgrade at the field leadership level over the last three or four years. The expectation for performance is much higher, much, much higher. The alignment of our compensation is tighter to that expectation.
+
+And so it's all three acting in unison, that you get the Verathon's that a decade ago were low-single digit growers and now hopefully low double-digit growers. You take businesses like Deltek, they have the mid and they come solidly mid-plus or maybe they can inch in the high singles over time. So it's about every business doing a little bit better on a sustainable basis.
+
+You bet.
+
+Good morning.
+
+So DAT dynamics are a little bit different than what you described. DAT is when the freight markets are very strong, DAT grows in-line or maybe ahead of that strength. When the freight markets are weaker, they tend to slow down and then they sort of -- so therefore if you looked at their growth, it's more like stairstep type growth in this particular case, because we're coming off such a search for a couple of three years, it's a little bit more exaggerated.
+
+The dynamic that you're describing perfectly describes our ConstructConnect business, which is the construction analytics business, where -- when you think about building product manufacturers and contractors and subcontractors, subscribed or content about what commercial real estate buildings are in the process of being planned and built, they want to look for where their next jobs are going to come from.
+
+So in the construction markets, real estate markets are white hot and contractors are fully subscribed years out. You the value of our information is less when the market slows and their backlog is standing, then the value of what we offer is much higher. So we tend to have a little bit of a countercyclical sort of demand driver inside the ConstructConnect. We go by the way, Matt and his team for their ConstructConnect are working to balance out and have done a good job. So hopefully the go-forward will be up in up that markets and up-and-down markets. But that's the -- that's what our product strategy is trying to execute.
+
+I think unfortunately our read across the macro market is in a great win, right, because we operate at these relatively insulated end-markets, government contractors, property and casualty insurance, or brokerages where employment is higher, life insurance where employment is higher, healthcare where employment is higher, education where employment seems stable if not higher, right? We're in the sort of relatively isolated protected end-markets where the macro swings aren't -- don't impact that much. It doesn't have that much impact on the way we drive compliance bookings across our portfolio.
+
+I will say for labor market generally loosening up. It's been advantageous for us. We're also been able to not just fully staff at our business level, but use this opportunity to last probably 12 months plus to significantly upgrade talent across the organization.
+
+Thank you.
+
+Hi, Terry. Good morning
+
+Super. Appreciate that question. The short answer is categorically yes. And we see that -- first when you when you do the lift and shift from a legacy product to the current cloud-delivered product, there is a -- there is migratory benefits as we talked about Strata as a good example. Same-store sales, 2 to 2.5 times uplift. But then while they're doing that, the checkbooks open and they buy more modules at that moment where total ARR goes up over 3 times and they lift and shift their customer base. Same can be said, saw a different metrics, Aderant, Vertafore, etc.
+
+And so, what you're talking about is one of the principal benefits both to the customer and to us, our companies for delivering cloud-delivered, SaaS deliver software, which is being able to be on the most recent release. So, be able to take advantage of all the R&D innovation and more easily be able to take additional products because the delivery mechanism is faster and the implementations are more smooth. So you're exactly right , we're seeing it across the portfolio and expect to see a lot more of that in the years to come.
+
+So, as we always said we're going to be business model pickers. The reason, historically we've been attracted to vertical, small market verticalized software businesses is because the basis of competition needs to be able to be understood and observed. We want to be able to compete based on both the value proposition of the product but also the intimacy with the customer and the customer relationship.
+
+The vast majority of our companies. Their customers want us to win, right, that we are so integral to what they do, they want us to win there always giving us input and feedback about how to be better how to deliver more value to them. And so it's those dynamics that we look for. There were certainly some nichey horizontal type things that meet those criteria, but not a lot. Right. A lot of the horizontal have gigantic TAM to compete on the base of an algorithm. There's very little loyalty to the company. So those types of things will never invested in.
+
+Relative to your comment about. Payments business models are we have a variety of business models, software, there's on-prem their SaaS. We just bought a business that is the integration of SaaS, software and payments. Where you have deep embedded integration with what the company does and products do with the payment stream. And so it's a business model , we're open-minded to the business model construct as long as there is immense amount of durability embedded in the business model.
+
+Really appreciate the opportunity to address this question, because one of the aspects of the business that we like quite a bit. So. The way that we segment the market are basically, enterprise, mid and single operators. So 10-plus centers, one to 10 centers and a single operator center. Pro is the demonstrable leader relative market-share advantaged substantially higher than the 1.5 times at both the enterprise and the mid. And the growth rates and the enterprise and the mid is actually growing faster than the overall market.
+
+So the markets the segments where broker also is highly compete very well in the single operator. I don't want to. Comment on that. They compete very effectively there as well. But the strongest and have the largest market-share in the enterprise and mid, which means that as the market consolidates ever so slowly over-time that accretes to our advantage
+
+Yes. International is not a meaningful part of the business today. It is certainly something that we will consider in the long-term strategic outlook for the business, but not something and probably the near-term because there's so much opportunity domestically to get after.
+
+I appreciate the questions and have a great one.

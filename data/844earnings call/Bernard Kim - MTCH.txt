@@ -1,0 +1,36 @@
+Bernard Kim
+Match Group, Inc. (MTCH) Q4 2023 Earnings Call Transcript
+
+Great. Thanks, Shweta, for the first question. We've had collaborative dialogue with Elliott over the past few weeks ever since we learned about their stake in the company. We are looking forward to continuing to engage with all of our shareholders, including Elliott.
+
+I'll take that one. Great question, Chris. The refresh in December was our first step in the product modernization that we're undergoing as a team. It's been less than two months since the refresh went live, and we're already seeing encouraging signs.
+
+For example, over 80% of our daily users are currently using dark mode. And as for prompts and quizzes, we're excited about the early adoption rates. Quizzes are already seeing a 15% adoption rate, and prompts are not that far behind. This is a strong indicator of user engagement, especially considering how recently these features were introduced.
+
+I'd like to add that it's important for us to remember that these features are optional. So not all users will adopt them, but their presence offers more ways for users to engage.
+
+Our approach last fall testing numerous features independently before combining them into a broader refresh has created tremendous learning across Tinder. These tests have taught us quickly to identify what works and what doesn't work, informing our fail-fast strategy for 2024.
+
+And as Gary mentioned, we are leaning in on our marketing strategy. However, it's crucial to leverage marketing to spotlight new product features. Therefore, we might adjust our spend levels to align with the rollout of these new features throughout the year.
+
+Hey, Zach, thanks for the question. We're going to hold back on diving into the specifics of our upcoming ALC offerings for competitive reasons. But what I can share, historically, our two main ALC features, Super Like and Boost, have been helping users gain more visibility and stand out. But we actually have not launched any new ALC features for a long time.
+
+We're now exploring additional ALC features that can bring even more value to our users. Our team will vigorously test new offerings to see what resonates most with our daters. And in this effort, we mobilize our portfolio of brands to partner and collaborate with Tinder on these tests. This approach is similar to how swipe up actually tested weekly subs to tune the right offering before we introduced them on Tinder and Hinge. This team effort will be instrumental in trialing some of these potential new features before we roll them out on Tinder. Expect to see a new ALC offering from us in the second half of this year.
+
+Thanks, Ben, for the question. Now over the last 18 months, Faye has been a real partner to me. She's so passionate about Tinder and knows the business and product inside out. We've stabilized and returned Tinder to revenue growth. And I believe that Faye is only going to accelerate that momentum.
+
+The team is fully aligned and clear on their goals. Faye has been instrumental in shaping our road map. And now as CEO, she is pushing forward with modernizing the product, boosting development speed and bringing vital leadership. And her focus will be particularly in enhancing women's experience and the overall ecosystem health at Tinder. She will share more of our plan later this year, but the core focus is clear: making Tinder more engaging for younger users and ensure superior experiences for women.
+
+Now as for my role, I have a ton of rewarding work to do across the portfolio. There's a wealth of exciting innovation sprint across Match Group that I'm deeply involved in. Now at the same time, I'm committed to maintaining a close and effective partnership with Faye and the Tinder leadership team. We will ensure that we continue to drive Tinder growth together as a team.
+
+Thanks, Mark. I was actually hoping that someone ask me about AI. And I want to just share some of my thoughts around AI. I mean, I believe that AI is existential to the future of Match Group and our business. AI will help us create improved user experiences and will truly make our products better. And that puts us in a different category from other companies that are just looking at optimizing through AI and slight improvements.
+
+This technology is revolutionary for dating, and we're bringing it to life across our entire portfolio. I envision AI to be felt through the entire experience, influencing everything from profile creation to matching and connecting for dates, literally everything.
+
+Our data as a team and deep understanding of dating and singles is a rich resource for informing our AI dating models internally. Our two biggest brands, Tinder and Hinge, have their own AI strategies tailored to its unique needs and listening to daters and what they want.
+
+Now, we do have this central innovation team working across the entire portfolio on moonshot ideas and incubating new products. And our talented team at Hyperconnect is playing a crucial role in supporting all of these initiatives across the company. I'm really excited about this revolution going across the entire team. Gary mentioned in his comments that we are investing $20 million to $30 million in AI innovation. And I absolutely believe it's the right thing for us to do to drive enduring strength, better experiences and future growth for our business.
+
+I'll take the first part of that question, Cory. We feel really good about the progress that we've made at Tinder over the past few months, and the results have aligned really well with our expectations. We've demonstrated Tinder's capability to deliver. They've achieved double-digit revenue growth for the last two quarters consecutively. And I'm really excited about the continued strong execution velocity and the product and marketing road maps for 2024.
+
+Now we acknowledge that Q4 was a large sequential payer decline, but we are optimistic about the future as we see these declines moderating. Looking ahead, we're confident that in Q3, Tinder payers will turn positive on a sequential basis. This confidence stems from marketing coupled with several product initiatives that are underway. Our key strategies include enhancing the visibility and value of our paid packages and dynamically showing the right offer to the right user at the right time. Now additionally, our monetization team is working on more market-specific conversion strategies and experimenting with unbundling certain premium features that currently sit behind a paywall.

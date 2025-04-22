@@ -133,8 +133,8 @@ if [ -n "$PERSONALITY" ]; then
 fi
 
 # Run the speech descriptive analysis
-echo "Running speech descriptive analysis with command: python3 src/speech_descriptives.py $SPEECH_ARGS"
-eval python3 src/speech_descriptives.py $SPEECH_ARGS
+echo "Running speech descriptive analysis..."
+python3 src/speech_descriptives.py --data_dir "$DATA_DIR" --output_dir "$SPEECH_OUTPUT" ${LIMIT:+--limit $LIMIT} ${PERSONALITY:+--personality_file "$PERSONALITY"}
 
 # If embedding analysis is requested, run it
 if [ "$EMBEDDING" = true ]; then

@@ -1,0 +1,45 @@
+Chris Cartwright
+TransUnion (TRU) Q4 2023 Earnings Call Transcript
+
+Yes. Good morning, Jeff. I think I'll start answering that, Steven. Yes, so on the Neustar front, the headwind to hitting our growth targets there beyond mid-single digits has been the decline in the transactional components of the portfolio. In a more difficult economic environment, marketing and advertising activity has pulled back.
+
+In addition to the volume slowdown, we've seen with clients working to reduce data costs, right, and relying more on first-party data. So both of those have been headwinds to our sales. We've compensated a bit for the cutback on the data side by selling more first-party record hygiene and identity resolution services.
+
+So really, what we need is, I think, a stable floor in those areas and perhaps some rebound in activity. The guidance that we provide at Neustar is consistent with our overall guidance this period. It's intended to be conservative, yet constructive we're pushing to exceed that guidance and we hope we'll be able to do over the course of the year
+
+Yes. So obviously, Andrew, we have been navigating a pivot in the consumer business over the past 18 months or so. Part of that is the direct business, which has been in decline in part because of market demand shifting more towards premium, but also some adjustments in our marketing practices. That area has been the most pronounced decliner.
+
+Where we're at now is we can see it getting to kind of a neutral state over the course of the year, sometime probably mid-second quarter, a combination of reaching an equilibrium on our marketing practices and enjoying the benefits of the annual price increase and the like.
+
+We expect indirect to remain kind of a low single-digit grower over the course of the year. And of course, breach protection and identity protection through our Neustar acquisition – I'm sorry, through our Sontiq acquisition is doing particularly well. It grew over 20% last year, had a really strong fourth quarter. Again, think of the consumer guide in total in the context of an overall conservative corporate guide, right, where we're steering more towards the high end of things.
+
+And look, I think its important just to emphasize in the big with regard to TU in the consumer space is that, we believe we will return this business back to consistent positive organic growth. And we intend to compete across the full dimension of opportunities, whether that be identity protection, freemium offering, and the like.
+
+Sure. So in U.S. Financial Services, I mean, look, as we know, there was a year of turmoil in 2023, not only were we dealing with the impact of inflation and much higher interest rate, which slowed demand. But we're also dealing with deposit outflows from certain segments in banking because of the instability that we experienced in the second quarter. That led to a material slowdown in September of last year. We modeled a continuation of that slowdown in the fourth quarter, in fact, a deterioration from that rate. It turned out that, that was a bit conservative, and we overperform that, as you can see.
+
+Turning to 2024, we think we're at or near a floor in most of these services, but we're not assuming any improvement, right. So we kind of budgeted for steady volume across the different subcategories of financial services in the U.S. over the course of the year.
+
+Now growth rates are going to improve in the second half because comparables are easier in the second half. And of course, by the second half, we're getting the full benefit of price actions of both our own and third parties. But it's kind of a steady sailing forecast, if you will. We're not building in any uplift from the potential for interest rate reductions by the Fed.
+
+Yes. Well, last year was an especially difficult one for fintech, largely because of the increase in borrowing costs and the difficulty of getting funding. And I think also some concerns about the health of the consumer from the third quarter forward. We saw a pretty material reduction here in the U.S. That segment probably fell roughly 20% last year.
+
+Again, our assumptions for 2024 are more or less steady from the volumes that we experienced in the fourth quarter. we're encouraged by the stability that we're seeing. And we're encouraged by an uptick in some batch activity which suggests that there will be more marketing activity in this space, but we haven't modeled too much of that optimism into the guide.
+
+Yes. And you also mentioned the UK, I mean, clearly it was even more difficult year. Today, you had a number of players that exited the market, that impacted our overall fed in the UK. We’re continuing to – high-single digit growth…
+
+Hey. So Kelsey, I think I followed the question. We had a little bit of a technical glitch here, but I think you’re talking about mortgage headwinds due to a rollout of the single bureau prequalification that the FHFA has sponsored. We have modeled that into our assumptions. So it is baked into the guide that we have provided. We expect that it will cause some volume deterioration, but again, that’s factored into. Well, that’s just one factor in our process of estimating where we think mortgage volumes will be.
+
+So we look at all of the publicly available information, we talk to our client advisory board. We’ve got the historical trajectory of this, and then we have made some adjustments for an industry-wide adoption of a single bureau pull at prequalification.
+
+Sure. Todd?
+A couple of call points on emerging tenant and employment where we signed this consent order saw revenue turn negative as we had to discontinue certain products. CFPB subsequently has issued guidance to the industry that confirms very tightly to the consent order that we sign. And we’re seeing other industry players adopt similar adjustments and curtailments to the type of information that they’re providing. And we think it’s the good news. We think CFPB levels the plane and once we lap these changes, we’re going to return to zero.
+
+The other thing I would mention, the communications vertical [Audio Dip] growth overall, those services that we provide, while they’re mature, they’re extremely profitable, most importantly, the feedstock for the new generation of trusted call solutions that’s driving [Audio Dip].
+
+Yes, the second part was about the pricing. I’ll wait here, because I didn’t hear it. I mean, obviously, Manav, as you well know, third-party pricing is the biggest driver of price increases in mortgage and has been for the last couple of years. Our comment about our own pricing, you should think of it as more or less consistent with our annual pricing practices. And then again, as we all know, if the Fed were to lower rates mortgage volumes is probably the first area where we would see some uptick.
+
+Yes. Look, this is an opportunity, I think, for us to just provide some context and clarification on the nature of the guidance 3% to 5% organic. Clearly, Todd and I feel the odds are more towards the high end of that range. And again, we wanted to be conservative given the environment in which we’re operating, we’re not modeling in volume increases due to rate cuts, that would all be upside. And we’re steering the business towards what we hope will be outperformance.
+
+Yes, for sure. So the guide to Neustar margins getting to the level of the full enterprise, at least to peak margin performance was more in the context of a four- to five-year period, right? We’ve had two years of ownership. We’ve added 1,000 basis points. We’re headed toward 32% this year. And while we’ve achieved the $80 million in cost reductions, look, we think there’s more juice in the squeeze, so to speak. We’re not formalizing yet. We’re not guiding to it.
+
+The other factor that’s going to give us material margin upside is as the revenue growth rate increases in Neustar, assuming we start to enjoy flattish market conditions on the marketing side, and get some uplift on the risk side through all of the innovation that we’ve done with our fraud mitigation suite, we’re going to get higher flow-through that’s going to help drive margins up to that initial post-acquisition guide.

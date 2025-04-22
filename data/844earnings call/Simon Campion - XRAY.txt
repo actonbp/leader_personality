@@ -1,0 +1,62 @@
+Simon Campion
+DENTSPLY SIRONA Inc. (XRAY) Q4 2023 Earnings Call Transcript
+
+Sure. Thanks, Nathan. I'll start and then we can hand it over to Glenn. I think as we've said on many occasions over the past year or so, we had disinvested in a few crucial areas in our business, namely our sales force, our commission plans and clinical education. And over the past year, we have systematically gone after each one of those and invested in them. I think the best benchmark or the two best benchmarks are the fact that we added almost 50 heads in our U.S. commercial team on implants and DSOs and also added significant investment in clinical education.
+
+And as I mentioned in the prepared remarks, we delivered over 30% more courses in 2023 than we had before. And in fact, this year, we'll also extend the reach of DS World events. So, they are two key areas that we've invested in, in addition to work on our network and other, what we would call, hygiene factors within our organization. And to give you some color on the numbers, I'll pass it over to Glenn.
+
+Yeah. So Nathan, as we've said, I think the last time, we rolled out a Byte Plus pilot, which is where we refer customers to a dentist. We're now active. We extended the pilot. It started off with about 10 locations and we're now in 25 locations. What we've heard anecdotally from those customers is that the patients that are filtering through to them are good candidates for orthodontic treatment. But as we hypothesized, this was also going to generate incremental traffic for these dental practices. So several of them have noted that these patients are getting other treatments aside from orthodontic treatment in their practices and they would otherwise not being a dental patient.
+
+And then just to back up on to SureSmile, again, what we've heard anecdotally is -- with the launch of the SureSmile simulator in the September timeframe, our customers have seen an increase in their treatment acceptance rates as well when you can show a patient live, the smile that they should expect to have the dentists are saying that the treatment acceptance rate they're suggesting is being accepted.
+
+Sure. So I'll start with this and then Glenn can give you some additional color. Listen, as we've done every quarter, we have -- we completed our customer survey with over 3,500 respondents in the last quarter. And I would say, in the US sentiment has remained stable, if not a little more positive than in the past, and that goes across all dental categories. But the areas of continued pressure for us, and I would assume others or Germany and Australia around investments in capital equipment.
+
+As we've noted before, in the US, anything above $20,000 or $25,000 tends to be funded or financed rather by our customers, while that number is much lower in other geographies. So, continued pressure in Germany and Australia, in particular, but more positive sentiments in general in the U.S.
+
+Yes. So thanks, Jon. So SKU optimization, as we've noted before, we're focusing on Endo and Resto. We're targeting about 60% of our SKUs in that space. We've been thoughtful about this process. We've run a number of pilots in different geographies, and that gives us a high degree of confidence that we can execute on that. We expect benefits from it to begin to materialize at the back end of 2024 and then into 2025 and beyond. And we also intend, as we noted in the prepared remarks, to begin to look at other aspects of our portfolio outside of Endo and Resto.
+
+I think we noted at the last earnings call that we've stood up a team to do this work, we are working in conjunction with our countries and our regional leadership teams. I think we -- the company had done this historically in the past, but created a little visibility for the commercial teams on the ground and for customers. And we are not going to make that error again. So we're being very thoughtful about it. Andreas, do you have any comments to add to that?
+
+Thanks for your question, Jon.
+
+Now much better.
+
+And then the additional piece here around DS core, Michael, we launched that DS World 2 years ago now, almost. We added to it with the communication canvas in May of last year and the SureSmile simulator in September. We just launched some more capability around the user experience and user interface. And each time we have incrementally added or improve the user experience and added clinical functionality, we have seen an uptick in the number of accounts using DS Core. So that will continue to be central to any new product introductions or new software introductions in 2024 and beyond. And at the back end of last year, we also launched the new X-smart Pro endodontic system. We've had very positive feedback from customers in Europe about it, and we do expect to bring that to the US market later this year as well.
+
+Sure. So I think your first question was around pricing, I would say, very, very modest pricing on the EDS side in 2023, and we expect rapidly even more modest pricing in 2024 and beyond. Now with respect to innovation, as we noted in November, December time frame, we brought on a new Chief Technology Officer, who is driving a far more disciplined and organized process than we've had historically at Dentsply Sirona. We've already made, I think meaningful changes to how we innovate and how we milestone and monetize new product introductions.
+
+Around innovation in EDS, I think the 4% is an okay number. For now, we have to be extraordinarily diligent with how and where we spend that 4%, and that's what Kevin is doing right now. A large part of that 4% is going towards the digitalization of dentistry and DS Core. We do see that as no pun intended as core to our future. And we have seen the improvement in adoption as we expand the clinical functionality of it.
+
+We do spend a, I would say, a significant amount of money on innovation in our EDS portfolio. And I mentioned the launch of the X-Smart Pro device late last year, which we'll launch in the US later this year. So we are innovating, the feedback is positive on that. We need to be extraordinarily diligent with respect to identifying unmet clinical needs in the EDS portfolio, so that the products that we launch are meaningful and are not simply me-too products and make a difference to the patient outcomes and to clinical efficiency.
+
+Is there an opportunity for lower prices? For sure. And we have demonstrated that we are prepared to do so where appropriate. We launched Primescan Connect in the DI space two years ago. As Glenn noted, we've seen, I think, rapid uptick of that, particularly in 2023. And as Glenn also noted, we have both premium and value-based implants, which showed similar growth trajectories in Q4. So we are not afraid of the value segment when we know what we're getting into. Andreas?
+
+Hey, Erin, thanks for the question. Let me start with China specifically. And then maybe Andreas can take the competitive piece. We've been super happy with China performance on implants this year. We grew significantly in implants this year in both the private and public sectors. That led to growth overall in China despite the headwinds that we had in early 2023.
+
+And as Glenn noted, we expect more than 25% growth in implants again in China in 2024. So it clearly shows that our team can execute in China with respect to implants. We've, as I noted previously, our portfolio across the board, but particularly in Implants, is very, very competitive. The 2,000 customer survey that we did last summer told us that our portfolio is very, very competitive and has no meaningful gaps. So we're quite comfortable with it.
+
+We have demonstrated, I think, progress in the U.S. where we slowed the deterioration throughout the year. And as Glenn noted, we expect to grow implants in the U.S. in 2024 at -- and in response to a previous question, I noted that as part of our $3 bridge, we expect implants to be growing at market rate by 2026. That's our expectation.
+
+So, I think near-term opportunities may be technology-type acquisitions that require little integration, Erin. And then I do think we'll be back in the market in 2025 and beyond for large scale M&A that requires integration. But we are focused on ourselves right now in 2023 and 2024, unless we see something that's a nice tuck-in. We'll probably avoid it until 2025 when we've restored the stability of our organization.
+
+So let me start, Kevin, about -- there's another function here, and it's called execution. And that's within our control. I think over the past year, we've demonstrated that we're bringing improved systems and processes to our company, which includes commercial, adjusting how we pay our sales reps and investing in clinical education, which we know is crucial for dentists and welcomed by dentists and particularly by DSOs who want to partner with us on the provision of training. So part of that 4% to 6% is ourselves getting better and improving that execution, and we've demonstrated that that we are well-underway in that process.
+
+Glenn, do you want to comment on the macro piece?
+
+I think there's probably a correlation between both of them, Kevin, for sure. We've also added the SureSmile simulator to DS Core, which, as I noted in response to your previous question has driven up treatment acceptance rates in our customers. And we also have not been shy in driving what we feel is a differentiated offering compared to our competitors with respect to the fewer revisions. So I think it's a combination of many, many factors. And back to the previous question, execution and commission plans is another factor.
+
+Glenn, you have something to add?
+
+I think the majority of the growth is coming from the competitive dynamics that have taken place over the last couple of months. So, certainly, more than half of that growth.
+
+Thank you.
+
+Thank you. Thank you, operator. So thanks to you all for joining today's call. Before we close, I would like to leave you all with some key points. Firstly, we are well positioned in attractive industries. We have the largest end-to-end dental portfolio that is more than 45% digitally connected. We do have leading brands and strategic objectives that focus on high-growth areas such as aligners, implants, our digitalization strategy enabled by DS Core and Continence Care.
+
+Secondly, our transformation is taking place. And while there is more work ahead, we do have a clear and actionable path to accelerate profitable growth. We expect that 2024 will be an inflection year for improved profitability and adjusted EPS growth.
+
+Thirdly, we are building a durable, sustainable business that's better positioned to navigate external challenges and capitalize on new market opportunities as we move forward. We remain with our conviction that we are on the right path to deliver meaningful value over the long-term.
+
+As you may have already seen earlier today, we also announced Eric Brandt's intent to retire from the Board of Directors following our May Annual Meeting. Eric has served as a Director of the company for nearly 20 years and as Chairman for six years. I would like to express a sincere thanks to Eric for his many years of services to Dentsply Sirona and wish him all the best in his future endeavors.
+
+And finally, on behalf of our management team, I would like to extend our gratitude to all our employees for their tenacious commitment to the business and the ongoing transformation process. And we especially want to express our appreciation to those employees who have been impacted by our restructuring program and wish them the very best in their future endeavors. Thank you.

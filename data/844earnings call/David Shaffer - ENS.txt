@@ -1,0 +1,63 @@
+David Shaffer
+EnerSys (ENS) Q3 2024 Earnings Call Transcript
+
+Well, let's just specialty and there's two pieces. It's the transportation side and it's the aerospace and defense side. So the - in the, specifically in the rest of world, I would say most of the opportunities are in the transportation area. And it just seems like there's been a level setting of some of the economic pressures we've been facing quarters prior, and things are improving there.
+
+In the Specialty segment, in the aerospace and defense side, both in European market and in the - especially in the U.S. market, we've seen a tremendous increase in activity, quoting activity and opportunities. As you can imagine, is related to a lot of the geopolitics and the issues going on around the world in the Ukraine and in the Middle East and so forth. So yes, there's a lot of positive momentum building.
+
+We've had some big wins, and in the space area of late. So yes, specialty has got some great trends. The challenge, Greg, as you know, has been in our ability in the Missouri factories to achieve the transportation revenue targets we're looking at. This is - and I alluded to this in my prepared remarks, I want to make sure it's clear that let's say, our five-year models and our long-term planning have always assumed a certain mix of products between our different business segments.
+
+And even though they're all TPPL, there the tooling and the equipment necessary to build our different SKUs can be very different. And that mix has changed dramatically as our telco broadband business has slowed down. So we're - the point we're trying to get to, I'd say, point B, is the expression we use, the endpoint is align assembly lines that are sort of ambivalent as to what products we're making, whether it's transportation.
+
+And our journey to get to Point B, has been a little challenging. As we came out of COVID, a lot of the tooling and equipment lead times we were seeing were in the 18-month, 24-month category. And we really expected going into this budgeting cycle that those lead times were coming down, and they really haven't. And it's been - we've been pulling our hair out a little bit with some of our suppliers, especially on the equipment and tooling side.
+
+So I don't know that we're going to be fully at point B until probably calendar year '25. Maybe as March, April time frame is where things are winding up right now. So in the meantime, that's just - that puts a lot of pressure on the specialty P&L. And - but we certainly are moving in that direction. So Greg, hopefully, that's enough color on the specialty side.
+
+Sure. The explicit purpose of this benefit is to stimulate additional manufacturing of volume - high-volume density batteries in the United States. That's the whole purpose. And with EnerSys, indeed, that's what we intend to do with the proceeds. So whether that's a combination of investment in our TPPL factories. As you noted, we are still working very hard on the business plan, to manufacture our own lithium ion cells domestically.
+
+These are all factors, which are accelerated, or enabled by the additional funding. It de-pressure the balance sheet in terms of our leverage ratios. So there's a lot of positive impact. As you noted, it's got a terminal value. I mean it has a terminus state. So, we're on the shot clock in a sense. So we're trying to do as much of these business planning activities in parallel that, we can do.
+
+So in terms of site selection, in terms of lining up our technology partner in [Burcor], we've been doing as much as we can in parallel, working towards a point at, which we can make a final investment decision with our Board, as to whether to proceed, with the various capital investment plans, we're laying out, including the new lithium factory. So Andy?
+
+Thank you, Greg.
+
+Right. So Noah, it's good to hear your voice. Just as a level set, just - remember, we're about - our exposure to telco broadband globally is around 33% of revenue. Roughly, I don't think that's an exact number. But it just gives you a sense for how important this segment is to us. And we have two on the board. We have two telecom veterans. I grew up in the telecom piece of the business.
+
+Sean and Drew, obviously, have that. I don't think any of us remember seeing a situation where spending declined so rapidly and so abruptly across the segment. So it's been a very unique period of time, at least - in recent years, and we've been adjusting. And a lot of our initial focus, has been on revenue recovery in different areas. So we push or in data centers. We're outperforming in aerospace and defense.
+
+And the biggest piece, as I noted earlier, when we were talking to Greg is to try to rotate more of our TPPL production capacity in the transportation segment. So that's what we're trying to do on the revenue side. And then we've been taking - we noted in my prepared remarks and Andy's on the cost side. We closed Spokane. We've exited resi business. We've done a restructuring in that business. And so Andy, what would you say the annualized savings, are for those actions we've taken so far?
+
+So, they're definitely material actions. And then in terms Noah about when we expect things to recover. So as I again said in the prepared remarks, and this is the first time for a lot of us, almost always in the DC power and battery world in December, we get a bunch of use it, or lose it kind of spending from our customers. We just didn't see it this year. It was very unique, very different.
+
+And then January got off to, I would say, a slow start in terms of when budgets are released. Now the good news is, we've seen budget releases at two of our three biggest telco customers, and we expect the budget release on the third big telco customer here in the coming weeks. So it's slow for sure in terms of recovery, but we are seeing opportunities.
+
+And Noah one of the things we haven't done even though we've tightened up some CapEx, we did the restructurings, we noted earlier, we haven't taken our foot off the gas at all on the new product development. So that's the lifeblood of this business. And we've had some big recent good news. We noted in the first orders for the Touch Safety PX [ph] and our first orders for our new Hyperboost programs.
+
+These are both small and macro cell enablers. So there's a lot of positive momentum. And when we talk to the customers, they keep telling us it's coming, its coming, it's coming. It's just a sense of financial management and budget releases and so forth. Andy, do you have anything to add to that?
+
+Yes. I would think, it's fair to say that we're not done. I think that's a fair comment. And our goal, is and will always be, to have a minimum 10% return on sales on any business sector we're involved in. So that's the threshold. And as you know, this particular segment has gone through significant changes, between tariffs and supply chain issues.
+
+And then there's a level of volatility that the telco equipment and our investment in Alpha has exposed us to a greater level of volatility than possibly, we've seen historically on the battery side. But that said, we agree with you whole heartedly that 10% remains the target. And Sean is very committed to that.
+
+I think wireless is - Noah the way I think of it, is wireless is an enabler for AGVs. I think the whole - so in the AGV areas, you tend to have a little more higher engineering content systems tend to be a little bit more bespoke. So, the margins - and the margin opportunities are a little richer versus some of the products that are the high-volume long runners. So, we think that higher AGV mix is better for margins, and particularly the wireless charging is a great enabler there. So, we're excited about that space.
+
+Noah, I mean - and Andy's dead on and just at the highest level, what we've really done is leaned into technology to try to improve our margins and our average selling prices and content in this business, and it's working. And to Andy's point, this from a volume standpoint, this has been reliable. But between these higher content, higher average selling prices, better margins, couple that with OpEx leverage.
+
+We just don't think we need a lot more OpEx. These are the areas. And again, Sean was very committed on the OpEx side in this business. And we know he's going to bring some of that to, his new assignment in Energy Systems. And so, I agree with everything Andy just said.
+
+Thank you.
+
+I would say, Blake, that I don't see any major change in the trajectory of the maintenance-free conversions. And as a reminder, maintenance free for us is a combination of both our TPPL and our new lithium motive power products. We just went through the budget approval process with our Board I guess that was last week, Andy. And we've got some pretty aggressive targets laid out in these areas.
+
+And that's - obviously, our management incentive plans are tied to that budget in that cycle. So there's a lot of continued focus in these areas. And so, I don't see any major trends. And to your point, especially on the TPPL side, there's some opportunities for some accretive margins. So these trends are - should continue to go forward. Offsetting that will be regional pressures that, may occur in Europe or Asia.
+
+Those are the storms we weather every day. There may be commodity pressures or FX pressures, one never knows. But in terms of the neutralizing those macro impacts, this is a journey we're continuing to stay on. And then the OpEx leverage piece as well. I know in the budget, the motive team did not really layer in much additional OpEx at all going into fiscal year '25.
+
+I think that we've absorbed tremendous amounts of manufacturing variances this year that we didn't have in our original budget. And a lot of that is associated with this transitioning from lines that, were sort of more bespoke for making just one type of battery. So certainly, as we get more flexibility in the business, this legitimately can add a significant material impact on our manufacturing variances. It's just - and we're ready just as much as the investors.
+
+We're ready for this period to get over. It's just been extremely - the lead times on the equipment and tooling has been really a gating factor in this transition. But as we move in that direction, Blake, there's certainly upside opportunities not only from a revenue growth perspective, but also just from purely the flexibility, of being able to move volume more efficiently, between the various factories.
+
+Thank you very much.
+
+Well, I just want to thank everybody for joining us, and we'll speak again in 90 days. Thank you, and have a great rest of your week. Bye-bye.
+

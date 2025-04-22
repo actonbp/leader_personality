@@ -1,0 +1,90 @@
+William Ready
+Pinterest, Inc. (PINS) Q4 2023 Earnings Call Transcript
+
+Yeah. Thanks, Eric. So we also see the broader ad market as stable to improving. For us, Retail was the fastest growing segment. And we're seeing across the entire ad industry, performance matters more than ever, and we're winning on that front. We're driving more performance to advertisers than ever before.
+
+As I mentioned in my remarks, large advertisers are opening up their performance budgets for us. Doubling our clicks sent to advertisers year-on-year, a strong indicator of not only the value that we have already created, but of how much more value capture is still left in front of us on that.
+
+So we also see that improvement, but performance is the name of the game, and we've made a major progression on performance over the last 18 months. And so those are the comments I'd make offer because Julia wants to add any more on some of the other things that we saw in the market there.
+
+Thanks, Ross. Great question. And as we've talked about on the international front, we see Pinterest significantly undermonetized across the board. But the most undermonetized internationally. We have approximately 80% of our users outside the U.S., but only 20% of our revenue. So as we shared at our Investor Day, we think that's a meaningful opportunity for us to increase that ARPU internationally.
+
+At Investor Day, we talked about how we would leverage both 3P, as well as resellers and other partnerships to help us advance there. So, we're quite excited about the partnership with Google as particularly for those unmonetized markets, we think it can help us to accelerate the ARPU journey for those markets and bring more relevant content and actionable content to users in those markets.
+
+As we've demonstrated that our users have a commercial intent on our platform, the ads can be great content. You've seen that in our increase of impressions, ad impressions, while also increasing engagement, demonstrating that the ads can be great content when they use it in a commercial context, we think it will also be additive from that perspective as well.
+
+Your question on Amazon, we feel really good about the way the Amazon partnership is scaling also. And there are international markets that can be in play there as well. So as we've talked about the 3P strategy overall, we think about 3P as a way to fill in gaps in our auction and bring more relevant content to our users.
+
+And so we're quite pleased with the way the Amazon partnership is progressing. And the Google partnership with the focus on our unmonetized or undermonetized international markets, we think will be quite additive as well.
+
+Sure, thanks. Thanks, Rich. So video remains more than 30% of our revenue. It's been a bright spot for us on the platform that we are driving really great monetization on video. And we've talked about how much AI is a core competency for us and how much that has driven increases in relevancy on the organic side, as well as improvements on the ad side as well. Our model being 100 times larger than they were a year ago, as we talked about last quarter.
+
+And so one of the things we're seeing from that AI-driven improvement in relevancy is a really good ability to discern what's relevant for which user at the right moment in time, and that includes both video and still images.
+
+And so we're seeing that work quite well in our feed, the balance between video and still imagery and I think you see it reflected quite well in our progress with users that we just put up our best user growth quarter since Q1 of 2021.
+
+We're deepening engagement per user. Gen Z is now our largest fastest-growing demographic. They're very video-centric as well. We are winning with Gen Z. So I think those are all the things I'd point to that say we're really getting the right balance of still imagery versus video with really good multi mobile capabilities and our AI-driven relevancy on those things.
+
+Gen Z, the demographic tends to be more video-centric and as we've talked about, we are performing quite well with Gen Z. But interestingly, it's not just video. When we see things like I talked about collages in my comments, we are creating entirely new content types on Pinterest like collages where users can curate, and they've done that historically on board, but collage as now make that an even deeper level of granularity where people can put together outfits and room designs at much greater granularity driven by AI recommendations on those things.
+
+And so we're seeing Gen Z really engage deeply with that as well. And as I mentioned in my remarks, not only is that driving engagement, it's driving shopping behaviors of 75% plus of those collages that are created contain shoppable products. And so quite pleased with how our team leveraging AI is finding great ways to bring new content types to the right users at the right moment in time, particularly around commercial intent.
+
+Thank you.
+
+Thanks for the question, Mark. As we talked about at our Investor Day, we've got multiple ways to win here. We've talked about driving better lower funnel performance. We are driving forward on that, performing quite well on that front. We talked about international in 3P. We see those contributing quite nicely as well.
+
+And so it is very much a multipronged approach, and we see really solid performance across each of those very much in line with the plans we laid out at our Investor Day. So, in the same way that we talked about multiple ways to win at Investor Day. We see progress on every single one of those fronts, and we see it as a balanced approach, and we continue to see that way as we look into Q1 and next year.
+
+Thanks for the question, Ron. So as we've talked about before, we've been on a major transformation from a primarily brand ad-driven platform a couple of years ago to a performance-driven platform today. And we shared at Investor Day two thirds of our revenue now coming from the lower funnel. So we are well down that path on that transformation.
+
+At the same time, we are continuing to launch major improvements to our performance ad product and we're on an adoption curve there. So for example, we launched Mobile deep links to GA sort of middle of the year last year. And then we are still seeing more and more retailers not only adopt that, but then shift budget to us as a result of that.
+
+With direct links, we launched that as we were right into the holiday shopping season when most of the retailers are sort of hunkered down and that really making major shifts. So we're able to deliver that without the advertiser doing work, and we doubled the number of clicks we sent to advertisers year-on-year. And as we're going into Q1, we're seeing that now start to show up in budget allocations moving to us. But we think we have a lot more of that to go.
+
+And to give you a little bit more sense of this, if you looked at our lower funnel performance tools, things like conversion API, mobile deep links, direct links, clean rooms. At the start of last year, we had roughly 2% of our revenue coming from those who have at least three of those lower funnel tools. By Investor Day, that was 13% of our revenue coming from those that had at least three of those lower funnel tools. By the end of the year, it was 23% of our revenue coming from those who had at least three of those lower funnel tools.
+
+So that gives you a sense for how we're making strong progress, but also to my comments around how there is a lot more of the value capture still in front of us from products that we have already launched that we know are performing well. And of course, we are continuing to innovate there as well. So a lot more to come on that.
+
+Thank you.
+
+Certainly, on Gen Z, we've talked about it's more than 40% of our user base now. And there's multiple factors driving the improvement in users and engagement at its core. We're helping users find more of what they're interested in, on Pinterest, helping them take action on it and delivering a positive environment for them that they see as an oasis away from the toxicity of much of the rest of social media. This gets cited to us directly particularly by Gen Z users.
+
+And so we are carving out a unique space for ourselves that is quite different from the rest of social media that is more about users investing in themselves. Things are additive to their lives versus sort of viewing the lives of others or that where they feel like they have to perform for others. And so it is a really unique and ownable space, and we're seeing that really cut through with users and again, with advertisers as well to see it as a brand-safe environment.
+
+On geographies, as you mentioned, you can see the geographic growth there. The couple of things I'd mention are just on U-Can. We saw, again, another nice, really nice growth quarter there in our mature markets. I've been saying this for the last six quarters.
+
+Our mature market is much more about driving depth of engagement, and we feel really good about the depth of engagement that we're driving, particularly actionability on to the platform. You see that reflected in the increase in clicks, where users are taking action on our platform, a big question 18 months ago. Users not only come here with intent, but they are taking action.
+
+And internationally, the big question there has always been the monetization. And we have nice momentum there, but we have a lot more that we can do, and we're quite excited about our first-party selling efforts, the things we can do with reseller partners and agencies. We're making progress on those fronts and then bring 3P into the mix there with Google, particularly for those unmonetized and undermonetized markets.
+
+We think there's a lot we can do that not only drives the monetization per user, but again, drive that actionability for the user that we think can help further enhance the user engagement for users in those international markets.
+
+And on your question on the value capture versus value create. There's always a lag between these things. Advertisers need to see the performance sustain and you see it flow through into their models and their measurement. And so the thing we feel really great about is that, that value - the value create is the hardest part and has to happen first, and we're seeing that as we drive more users with more intent to those advertisers.
+
+So that's really fantastic raw material for us. And we've only really just started the value capture on that. And what comes ahead in that is some of that is just advertisers see that bake into their own models of performance. Some of that is about getting advertisers on to privacy safe measurement.
+
+Julia talked about, and we started talking about this Q1 - late Q1, I believe, of last year around adopters of API for conversions as a cohort growing at 30%, approximately 30%, those that had not adopted being mid single-digit decliners. That trend continues as we drive that adoption.
+
+So as I mentioned in my comments, the performance doesn't matter to the advertisers if they can't see it through their measurement. So driving that adoption curve on measurement matters quite a lot as well.
+
+But we're seeing - again, we're seeing that budget shift toward us continue. We saw that through the year this past year, doubling our growth rate from the beginning of the year to the end of the year. We see further acceleration as we look into Q1 as reflected in our guide. And we think there's a lot more of that to go as we continue to drive through that adoption curve. I hope that helps.
+
+Yes. Thanks for the question, Colin. So on your first question around MAU, we are seeing progress both in bringing new users to the platform. We talked about Gen Z, where we are winning with Gen Z and they are finding Pinterest quite compelling and unique and different from the rest of social media.
+
+So we are bringing new users on the platform like our Gen Z examples. But it's also the case that we are deeply engaged with existing users, giving them more reasons to come back to Pinterest more frequently. And I'd say there's two large drivers in that.
+
+One is as we make better and better recommendations. That gives them more reasons to come back and giving them more suggested use cases, helping them to broaden out what they think they can do on Pinterest showing them adjacent use cases. So that's working quite well.
+
+And then it's the actionability. As I've said many times before, Pinterest had previously solved digital window shopping, but all the stores were closed, actionability was hard. How good was the digital window shopping, so good that people would keep coming back even though all the stores were closed. But as we open those stores, people have good reason to come back more and more frequently.
+
+So the MAU acceleration and the growth there is broad-based and it is both bringing new users on the platform, winning with Gen Z, as well as driving depth of engagement with new adjacent use cases and better actionability that caused users to come back more frequently.
+
+On your second question, on relevancy. This is where we just get really amazing first-party signal that feeds AI. AI is only as good as a signal upon which is acting. And we get really amazing signal on what users are interested in. I've talked about Pinterest predicts and our ability to predict there and see trends that are coming because users plan for the future on Pinterest. We see users in their shopping journeys long before that intent has been expressed on other platforms. And so that's really rich signal.
+
+As we're leveraging next-gen AI with models that are 100 times larger than they were before, we're seeing really fantastic ability to take that completely unique signal to Pinterest and convert that into great relevant recommendations for users. I shared on our last call that we saw approximately 10 percentage point improvement in relevancy when we move to our large language models.
+
+And that flywheel between the user coming and curating, giving a signal of what they're interested in and then us being able to give better and better recommendations to users. We see that flywheel accelerating, particularly as we bring in more actionability.
+
+So again, AI is a core competency for us. And importantly, we have a completely unique signal that you wouldn't find elsewhere around the user curation particularly around their commercial intent. And when we see that really just continuing to drive that flywheel as we go forward. Hopefully, that helps.
+
+Thanks again to all of you for joining the call and for your questions. We look forward to keeping this dialogue going. As always, we hope you enjoy the rest of your day.

@@ -15,6 +15,7 @@ Binghamton University
 
 import os
 import re
+import json
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -52,8 +53,13 @@ class SpeechAnalyzer:
         if not self.data_dir:
             raise ValueError("No data directory specified")
             
-        # Find all text files in the directory
-        speech_files = glob.glob(os.path.join(self.data_dir, "*.txt"))
+        # Find all text files in the directory using os.listdir
+        try:
+            all_files = os.listdir(self.data_dir)
+            speech_files = [os.path.join(self.data_dir, f) for f in all_files if f.endswith('.txt')]
+        except Exception as e:
+            print(f"Error listing directory {self.data_dir}: {e}")
+            speech_files = []
         
         # Limit the number of files if specified
         if limit and limit > 0:
@@ -90,20 +96,26 @@ class SpeechAnalyzer:
             # Add to combined text for aggregate analysis
             self.combined_text += " " + clean_text
             
-            # Basic statistics
-            word_count = len(word_tokenize(clean_text))
-            sentence_count = len(sent_tokenize(clean_text))
+            # Basic statistics - use simpler methods to avoid NLTK issues
+            words = clean_text.split()
+            word_count = len(words)
+            
+            # Simple sentence counting by looking for sentence terminators
+            sentences = re.split(r'[.!?]+', clean_text)
+            sentences = [s for s in sentences if s.strip()] # Remove empty sentences
+            sentence_count = len(sentences)
+            
             avg_sentence_length = word_count / max(1, sentence_count)
             
             # Vocabulary richness
-            unique_words = set(word.lower() for word in word_tokenize(clean_text) 
+            unique_words = set(word.lower() for word in words
                                if word.isalpha() and word.lower() not in self.stop_words)
             vocabulary_size = len(unique_words)
             
             # Word frequency
-            words = [word.lower() for word in word_tokenize(clean_text) 
+            filtered_words = [word.lower() for word in words 
                      if word.isalpha() and word.lower() not in self.stop_words]
-            word_freq = Counter(words)
+            word_freq = Counter(filtered_words)
             
             # Store word frequencies for this file
             self.word_freqs[ceo_name] = word_freq
@@ -160,22 +172,45 @@ class SpeechAnalyzer:
     
     def generate_aggregate_stats(self):
         """Generate aggregate statistics across all speeches."""
-        # Get overall word frequency
-        all_words = [word.lower() for word in word_tokenize(self.combined_text) 
-                     if word.isalpha() and word.lower() not in self.stop_words]
-        self.overall_word_freq = Counter(all_words)
-        
-        # Calculate descriptive statistics
+        # Initialize stats with defaults
         self.stats = {
             'Total Files': len(self.results),
-            'Avg Word Count': self.result_df['Word Count'].mean(),
-            'Min Word Count': self.result_df['Word Count'].min(),
-            'Max Word Count': self.result_df['Word Count'].max(),
-            'Std Dev Word Count': self.result_df['Word Count'].std(),
-            'Avg Vocabulary Size': self.result_df['Vocabulary Size'].mean(),
-            'Avg Lexical Diversity': self.result_df['Lexical Diversity'].mean(),
-            'Most Common Words': self.overall_word_freq.most_common(20)
+            'Avg Word Count': 0,
+            'Min Word Count': 0,
+            'Max Word Count': 0,
+            'Std Dev Word Count': 0,
+            'Avg Vocabulary Size': 0,
+            'Avg Lexical Diversity': 0,
+            'Most Common Words': []
         }
+        
+        # If no results, return the default stats
+        if not self.results or len(self.results) == 0:
+            self.overall_word_freq = Counter()
+            return self.stats
+            
+        # Get overall word frequency
+        # Process the combined text more carefully
+        if not self.combined_text.strip():
+            self.overall_word_freq = Counter()
+        else:
+            # Split into words more safely without using punkt_tab
+            all_words = [word.lower() for word in self.combined_text.split() 
+                        if word.isalpha() and word.lower() not in self.stop_words]
+            self.overall_word_freq = Counter(all_words)
+        
+        # If we have actual results, calculate real statistics
+        if len(self.result_df) > 0:
+            # Calculate descriptive statistics
+            self.stats.update({
+                'Avg Word Count': self.result_df['Word Count'].mean() if 'Word Count' in self.result_df else 0,
+                'Min Word Count': self.result_df['Word Count'].min() if 'Word Count' in self.result_df else 0,
+                'Max Word Count': self.result_df['Word Count'].max() if 'Word Count' in self.result_df else 0,
+                'Std Dev Word Count': self.result_df['Word Count'].std() if 'Word Count' in self.result_df else 0,
+                'Avg Vocabulary Size': self.result_df['Vocabulary Size'].mean() if 'Vocabulary Size' in self.result_df else 0,
+                'Avg Lexical Diversity': self.result_df['Lexical Diversity'].mean() if 'Lexical Diversity' in self.result_df else 0,
+                'Most Common Words': self.overall_word_freq.most_common(20)
+            })
         
         return self.stats
     
@@ -446,14 +481,24 @@ def main():
     results_csv = os.path.join(args.output_dir, 'speech_results.csv')
     results_df = results.copy()
     
-    # Convert list of tuples to string for CSV output
-    results_df['Top Words'] = results_df['Top Words'].apply(lambda x: ', '.join([f"{word}:{count}" for word, count in x]))
+    # Check if we have any results before saving
+    if len(results_df) > 0 and 'Top Words' in results_df.columns:
+        # Convert list of tuples to string for CSV output
+        results_df['Top Words'] = results_df['Top Words'].apply(lambda x: ', '.join([f"{word}:{count}" for word, count in x]))
+    
     results_df.to_csv(results_csv, index=False)
     
     # Save stats to JSON
     stats_json = os.path.join(args.output_dir, 'speech_stats.json')
     stats_copy = analyzer.stats.copy()
-    stats_copy['Most Common Words'] = [(word, count) for word, count in stats_copy['Most Common Words']]
+    
+    # Convert numpy types to native Python types for JSON serialization
+    for key, value in stats_copy.items():
+        if isinstance(value, (np.int64, np.float64)):
+            stats_copy[key] = float(value)
+    
+    # Convert tuple to list for the most common words
+    stats_copy['Most Common Words'] = [(str(word), int(count)) for word, count in stats_copy['Most Common Words']]
     
     with open(stats_json, 'w') as f:
         json.dump(stats_copy, f, indent=2)

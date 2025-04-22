@@ -1,0 +1,91 @@
+{
+  "Total Files": 15,
+  "Avg Word Count": 2296.866666666667,
+  "Min Word Count": 1077.0,
+  "Max Word Count": 4452.0,
+  "Std Dev Word Count": 961.9137819001887,
+  "Avg Vocabulary Size": 404.2,
+  "Avg Lexical Diversity": 0.1879370416083345,
+  "Most Common Words": [
+    [
+      "think",
+      277
+    ],
+    [
+      "really",
+      155
+    ],
+    [
+      "going",
+      129
+    ],
+    [
+      "growth",
+      97
+    ],
+    [
+      "see",
+      96
+    ],
+    [
+      "would",
+      94
+    ],
+    [
+      "good",
+      90
+    ],
+    [
+      "us",
+      90
+    ],
+    [
+      "like",
+      86
+    ],
+    [
+      "last",
+      82
+    ],
+    [
+      "year",
+      80
+    ],
+    [
+      "lot",
+      76
+    ],
+    [
+      "also",
+      73
+    ],
+    [
+      "want",
+      66
+    ],
+    [
+      "look",
+      66
+    ],
+    [
+      "business",
+      65
+    ],
+    [
+      "little",
+      64
+    ],
+    [
+      "get",
+      63
+    ],
+    [
+      "bit",
+      60
+    ],
+    [
+      "market",
+      60
+    ]
+  ]
+}

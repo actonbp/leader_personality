@@ -1,0 +1,315 @@
+instrument,alpha,key,text,label,big_five_trait,liwc_prediction
+16PF,0.85,-1.0,Am easily discouraged.,Emotional Stability,Neuroticism,Neuroticism
+16PF,0.85,1.0,Am not easily frustrated.,Emotional Stability,Neuroticism,Neuroticism
+16PF,0.85,1.0,Am relaxed most of the time.,Emotional Stability,Neuroticism,Neuroticism
+16PF,0.76,-1.0,Consider myself an average person.,Intellect,Openness,Neuroticism
+16PF,0.76,1.0,Counter others' arguments.,Intellect,Openness,
+16PF,0.85,-1.0,Dislike myself.,Emotional Stability,Neuroticism,Neuroticism
+16PF,0.85,1.0,Feel comfortable with myself.,Emotional Stability,Neuroticism,Neuroticism
+16PF,0.85,-1.0,Feel desperate.,Emotional Stability,Neuroticism,Openness
+16PF,0.76,-1.0,Get confused easily.,Intellect,Openness,Neuroticism
+16PF,0.76,-1.0,Have a poor vocabulary.,Intellect,Openness,
+16PF,0.85,-1.0,Have frequent mood swings.,Emotional Stability,Neuroticism,Neuroticism
+16PF,0.76,-1.0,Know that I am not a special person.,Intellect,Openness,Neuroticism
+16PF,0.76,1.0,Know the answers to many questions.,Intellect,Openness,Extroversion
+16PF,0.76,1.0,Learn quickly.,Intellect,Openness,Neuroticism
+16PF,0.76,1.0,Make insightful remarks.,Intellect,Openness,Neuroticism
+16PF,0.85,-1.0,Often feel blue.,Emotional Stability,Neuroticism,Openness
+16PF,0.85,1.0,Readily overcome setbacks.,Emotional Stability,Neuroticism,Neuroticism
+16PF,0.76,1.0,Reflect on things before acting.,Intellect,Openness,Neuroticism
+16PF,0.85,1.0,Seldom feel blue.,Emotional Stability,Neuroticism,Openness
+16PF,0.76,-1.0,Skip difficult words while reading.,Intellect,Openness,Neuroticism
+16PF,0.76,1.0,Tend to analyze things.,Intellect,Openness,Neuroticism
+16PF,0.76,1.0,Use my brain.,Intellect,Openness,Neuroticism
+16PF,0.76,1.0,Weigh the pros against the cons.,Intellect,Openness,Extroversion
+6FPQ,0.73,1.0,Accept people as they are.,Agreeableness,Agreeableness,Extroversion
+6FPQ,0.73,-1.0,Am annoyed by others' mistakes.,Agreeableness,Agreeableness,Neuroticism
+6FPQ,0.73,-1.0,Am easily offended.,Agreeableness,Agreeableness,Neuroticism
+6FPQ,0.85,1.0,Am good at making impromptu speeches.,Extraversion,Extroversion,Neuroticism
+6FPQ,0.73,1.0,Am inclined to forgive others.,Agreeableness,Agreeableness,Neuroticism
+6FPQ,0.8,1.0,Am interested in many things.,Intellectual Openness,Openness,Neuroticism
+6FPQ,0.73,1.0,Am not disturbed by events.,Agreeableness,Agreeableness,Neuroticism
+6FPQ,0.85,-1.0,Am not good at getting people to like me.,Extraversion,Extroversion,Neuroticism
+6FPQ,0.8,-1.0,Am not interested in abstract ideas.,Intellectual Openness,Openness,Neuroticism
+6FPQ,0.8,-1.0,Am not interested in theoretical discussions.,Intellectual Openness,Openness,Neuroticism
+6FPQ,0.8,1.0,Am open to change.,Intellectual Openness,Openness,
+6FPQ,0.85,1.0,Am skilled in handling social situations.,Extraversion,Extroversion,Extroversion
+6FPQ,0.85,1.0,Can talk others into doing things.,Extraversion,Extroversion,Neuroticism
+6FPQ,0.8,1.0,Carry the conversation to a higher level.,Intellectual Openness,Openness,Neuroticism
+6FPQ,0.85,1.0,Express myself easily.,Extraversion,Extroversion,Neuroticism
+6FPQ,0.85,-1.0,Find it difficult to approach others.,Extraversion,Extroversion,Neuroticism
+6FPQ,0.73,-1.0,Get back at others.,Agreeableness,Agreeableness,
+6FPQ,0.85,1.0,Have a natural talent for influencing people.,Extraversion,Extroversion,Neuroticism
+6FPQ,0.73,-1.0,Hold a grudge.,Agreeableness,Agreeableness,
+6FPQ,0.85,-1.0,Keep in the background.,Extraversion,Extroversion,Neuroticism
+6FPQ,0.85,-1.0,Lack the talent for influencing people.,Extraversion,Extroversion,Neuroticism
+6FPQ,0.8,-1.0,Prefer to stick with things that I know.,Intellectual Openness,Openness,Neuroticism
+6FPQ,0.8,1.0,Prefer variety to routine.,Intellectual Openness,Openness,Neuroticism
+6FPQ,0.8,-1.0,Rarely look for a deeper meaning in things.,Intellectual Openness,Openness,Neuroticism
+6FPQ,0.73,1.0,Take things as they come.,Agreeableness,Agreeableness,Extroversion
+6FPQ,0.73,1.0,Tolerate a lot from others.,Agreeableness,Agreeableness,
+6FPQ,0.8,-1.0,Try to avoid complex people.,Intellectual Openness,Openness,Neuroticism
+6FPQ,0.73,1.0,Try to forgive and forget.,Agreeableness,Agreeableness,Neuroticism
+6FPQ,0.8,1.0,Want to increase my knowledge.,Intellectual Openness,Openness,Neuroticism
+6FPQ,0.85,-1.0,Would describe my experiences as somewhat dull.,Extraversion,Extroversion,Neuroticism
+7FACTOR,0.75,-1.0,Act wild and crazy.,Conscientiousness,Conscientiousness,Neuroticism
+7FACTOR,0.77,1.0,Am concerned about others.,Agreeableness,Agreeableness,
+7FACTOR,0.86,1.0,Am not easily bothered by things.,Emotional Stability,Neuroticism,Neuroticism
+7FACTOR,0.84,-1.0,Am not interested in abstract ideas.,Intellect,Openness,Neuroticism
+7FACTOR,0.77,-1.0,Am not interested in other people's problems.,Agreeableness,Agreeableness,Neuroticism
+7FACTOR,0.86,-1.0,Am often down in the dumps.,Emotional Stability,Neuroticism,Neuroticism
+7FACTOR,0.82,1.0,Am open about my feelings.,Extraversion,Extroversion,Neuroticism
+7FACTOR,0.84,-1.0,Avoid difficult reading material.,Intellect,Openness,Neuroticism
+7FACTOR,0.75,1.0,Believe laws should be strictly enforced.,Conscientiousness,Conscientiousness,Neuroticism
+7FACTOR,0.75,-1.0,Break rules.,Conscientiousness,Conscientiousness,
+7FACTOR,0.84,1.0,Carry the conversation to a higher level.,Intellect,Openness,Neuroticism
+7FACTOR,0.75,-1.0,Do crazy things.,Conscientiousness,Conscientiousness,Neuroticism
+7FACTOR,0.75,1.0,Do things by the book.,Conscientiousness,Conscientiousness,Neuroticism
+7FACTOR,0.75,-1.0,Do things in a half-way manner.,Conscientiousness,Conscientiousness,Neuroticism
+7FACTOR,0.82,-1.0,Don't talk a lot.,Extraversion,Extroversion,
+7FACTOR,0.77,1.0,Feel others' emotions.,Agreeableness,Agreeableness,Neuroticism
+7FACTOR,0.77,-1.0,Find fault with everything.,Agreeableness,Agreeableness,Neuroticism
+7FACTOR,0.86,-1.0,Get stressed out easily.,Emotional Stability,Neuroticism,Neuroticism
+7FACTOR,0.84,1.0,Have a rich vocabulary.,Intellect,Openness,Neuroticism
+7FACTOR,0.77,1.0,Have a soft heart.,Agreeableness,Agreeableness,Openness
+7FACTOR,0.82,-1.0,Have difficulty expressing my feelings.,Extraversion,Extroversion,Neuroticism
+7FACTOR,0.84,-1.0,Have difficulty understanding abstract ideas.,Intellect,Openness,Neuroticism
+7FACTOR,0.84,1.0,Have excellent ideas.,Intellect,Openness,Neuroticism
+7FACTOR,0.82,-1.0,Hold back my opinions.,Extraversion,Extroversion,Neuroticism
+7FACTOR,0.77,-1.0,Insult people.,Agreeableness,Agreeableness,Neuroticism
+7FACTOR,0.75,-1.0,Jump into things without thinking.,Conscientiousness,Conscientiousness,Neuroticism
+7FACTOR,0.75,1.0,Like order.,Conscientiousness,Conscientiousness,Neuroticism
+7FACTOR,0.82,1.0,Make friends easily.,Extraversion,Extroversion,Extroversion
+7FACTOR,0.77,1.0,Make people feel at ease.,Agreeableness,Agreeableness,Openness
+7FACTOR,0.82,1.0,Never at a loss for words.,Extraversion,Extroversion,
+7FACTOR,0.75,1.0,Pay attention to details.,Conscientiousness,Conscientiousness,Neuroticism
+7FACTOR,0.77,-1.0,Put people under pressure.,Agreeableness,Agreeableness,
+7FACTOR,0.84,1.0,Quick to understand things.,Intellect,Openness,Neuroticism
+7FACTOR,0.82,-1.0,Speak softly.,Extraversion,Extroversion,
+7FACTOR,0.77,1.0,Sympathize with others' feelings.,Agreeableness,Agreeableness,Neuroticism
+7FACTOR,0.77,-1.0,Take advantage of others.,Agreeableness,Agreeableness,
+7FACTOR,0.82,1.0,Take charge.,Extraversion,Extroversion,
+7FACTOR,0.86,1.0,Take things as they come.,Emotional Stability,Neuroticism,Extroversion
+7FACTOR,0.82,1.0,Talk to a lot of different people at parties.,Extraversion,Extroversion,Neuroticism
+7FACTOR,0.84,-1.0,Try to avoid complex people.,Intellect,Openness,Neuroticism
+7FACTOR,0.75,1.0,Try to follow the rules.,Conscientiousness,Conscientiousness,
+7FACTOR,0.84,-1.0,Will not probe deeply into a subject.,Intellect,Openness,Neuroticism
+AB5C,0.75,1.0,Accomplish my work on time.,Conscientiousness,Conscientiousness,Conscientiousness
+AB5C,0.75,1.0,Am careful to avoid making mistakes.,Conscientiousness,Conscientiousness,Neuroticism
+AB5C,0.75,-1.0,Am often late to work.,Conscientiousness,Conscientiousness,Conscientiousness
+AB5C,0.81,-1.0,Dislike learning.,Intellect,Openness,Neuroticism
+AB5C,0.75,-1.0,Do not plan ahead.,Conscientiousness,Conscientiousness,
+AB5C,0.75,1.0,Do things according to a plan.,Conscientiousness,Conscientiousness,Neuroticism
+AB5C,0.81,1.0,Enjoy thinking about things.,Intellect,Openness,Neuroticism
+AB5C,0.75,1.0,Keep my checkbook balanced.,Conscientiousness,Conscientiousness,
+AB5C,0.75,-1.0,Leave my work undone.,Conscientiousness,Conscientiousness,Conscientiousness
+AB5C,0.75,1.0,Like to plan ahead.,Conscientiousness,Conscientiousness,Neuroticism
+AB5C,0.75,-1.0,Neglect my duties.,Conscientiousness,Conscientiousness,Neuroticism
+AB5C,0.75,-1.0,Often forget to put things back in their proper place.,Conscientiousness,Conscientiousness,Neuroticism
+AB5C,0.75,-1.0,Put off unpleasant tasks.,Conscientiousness,Conscientiousness,
+AB5C,0.75,1.0,Return borrowed items.,Conscientiousness,Conscientiousness,Extroversion
+AB5C,0.81,1.0,Show a mastery of language.,Intellect,Openness,
+AB5C,0.75,-1.0,Take tasks too lightly.,Conscientiousness,Conscientiousness,Neuroticism
+AB5C,0.81,1.0,Try to understand myself.,Intellect,Openness,
+AB5C,0.81,1.0,Use difficult words.,Intellect,Openness,Neuroticism
+BFAS,0.89,1.0,Am a person whose moods go up and down easily.,Neuroticism,Neuroticism,Neuroticism
+BFAS,0.89,1.0,Am afraid of many things.,Neuroticism,Neuroticism,Neuroticism
+BFAS,0.89,1.0,Am easily discouraged.,Neuroticism,Neuroticism,Neuroticism
+BFAS,0.89,1.0,Am filled with doubts about things.,Neuroticism,Neuroticism,Neuroticism
+BFAS,0.89,-1.0,Am not easily annoyed.,Neuroticism,Neuroticism,Neuroticism
+BFAS,0.89,-1.0,Am not embarrassed easily.,Neuroticism,Neuroticism,Neuroticism
+BFAS,0.84,1.0,Am quick to understand things.,Intellectual Openness,Openness,Neuroticism
+BFAS,0.84,1.0,Am quick to understand things.,Intellect,Openness,Neuroticism
+BFAS,0.84,-1.0,Avoid difficult reading material.,Intellectual Openness,Openness,Neuroticism
+BFAS,0.84,-1.0,Avoid philosophical discussions.,Intellectual Openness,Openness,Neuroticism
+BFAS,0.84,-1.0,Avoid philosophical discussions.,Intellect,Openness,Neuroticism
+BFAS,0.89,1.0,Become overwhelmed by events.,Neuroticism,Neuroticism,
+BFAS,0.78,1.0,Believe in the importance of art.,Intellectual Openness,Openness,Neuroticism
+BFAS,0.89,1.0,Can be stirred up easily.,Neuroticism,Neuroticism,Neuroticism
+BFAS,0.84,1.0,Can handle a lot of information.,Intellectual Openness,Openness,Neuroticism
+BFAS,0.84,1.0,Can handle a lot of information.,Intellect,Openness,Neuroticism
+BFAS,0.89,1.0,Change my mood a lot.,Neuroticism,Neuroticism,
+BFAS,0.78,-1.0,Do not like poetry.,Intellectual Openness,Openness,Neuroticism
+BFAS,0.78,1.0,Enjoy the beauty of nature.,Intellectual Openness,Openness,
+BFAS,0.89,-1.0,Feel comfortable with myself.,Neuroticism,Neuroticism,Neuroticism
+BFAS,0.89,1.0,Feel threatened easily.,Neuroticism,Neuroticism,Neuroticism
+BFAS,0.84,1.0,Formulate ideas clearly.,Intellectual Openness,Openness,Neuroticism
+BFAS,0.84,1.0,Formulate ideas clearly.,Intellect,Openness,Neuroticism
+BFAS,0.89,1.0,Get angry easily.,Neuroticism,Neuroticism,Neuroticism
+BFAS,0.78,1.0,Get deeply immersed in music.,Intellectual Openness,Openness,Neuroticism
+BFAS,0.89,1.0,Get easily agitated.,Neuroticism,Neuroticism,Neuroticism
+BFAS,0.89,1.0,Get upset easily.,Neuroticism,Neuroticism,Neuroticism
+BFAS,0.84,1.0,Have a rich vocabulary.,Intellectual Openness,Openness,Neuroticism
+BFAS,0.84,-1.0,Have difficulty understanding abstract ideas.,Intellectual Openness,Openness,Neuroticism
+BFAS,0.89,-1.0,Keep my emotions under control.,Neuroticism,Neuroticism,Neuroticism
+BFAS,0.84,-1.0,Learn things slowly.,Intellectual Openness,Openness,Neuroticism
+BFAS,0.84,-1.0,Learn things slowly.,Intellect,Openness,Neuroticism
+BFAS,0.84,1.0,Like to solve complex problems.,Intellectual Openness,Openness,Neuroticism
+BFAS,0.84,1.0,Like to solve complex problems.,Intellect,Openness,Neuroticism
+BFAS,0.78,1.0,Love to reflect on things.,Intellectual Openness,Openness,Neuroticism
+BFAS,0.78,1.0,Need a creative outlet.,Intellectual Openness,Openness,Neuroticism
+BFAS,0.89,-1.0,Rarely feel depressed.,Neuroticism,Neuroticism,Openness
+BFAS,0.89,-1.0,Rarely get irritated.,Neuroticism,Neuroticism,Neuroticism
+BFAS,0.89,-1.0,Rarely lose my composure.,Neuroticism,Neuroticism,
+BFAS,0.78,1.0,See beauty in things that others might not notice.,Intellectual Openness,Openness,Neuroticism
+BFAS,0.78,-1.0,Seldom daydream.,Intellectual Openness,Openness,
+BFAS,0.89,-1.0,Seldom feel blue.,Neuroticism,Neuroticism,Openness
+BFAS,0.78,-1.0,Seldom get lost in thought.,Intellectual Openness,Openness,Neuroticism
+BFAS,0.78,-1.0,Seldom notice the emotional aspects of paintings and pictures.,Intellectual Openness,Openness,Neuroticism
+BFAS,0.84,1.0,Think quickly.,Intellectual Openness,Openness,Neuroticism
+BFAS,0.84,1.0,Think quickly.,Intellect,Openness,Neuroticism
+BFAS,0.89,1.0,Worry about things.,Neuroticism,Neuroticism,Neuroticism
+BFAS-20,0.91,-1.0,Am a very private person.,Extraversion,Extroversion,Neuroticism
+BFAS-20,0.88,1.0,Am always prepared.,Conscientiousness,Conscientiousness,
+BFAS-20,0.91,-1.0,Am easily disturbed.,Emotional Stability,Neuroticism,Neuroticism
+BFAS-20,0.88,1.0,Am exacting in my work.,Conscientiousness,Conscientiousness,Neuroticism
+BFAS-20,0.9,1.0,Am full of ideas.,Intellect,Openness,Neuroticism
+BFAS-20,0.9,1.0,Am good at many things.,Intellect,Openness,Neuroticism
+BFAS-20,0.88,-1.0,Am hard to get to know.,Agreeableness,Agreeableness,
+BFAS-20,0.88,-1.0,Am indifferent to the feelings of others.,Agreeableness,Agreeableness,Openness
+BFAS-20,0.88,1.0,Am interested in people.,Agreeableness,Agreeableness,Neuroticism
+BFAS-20,0.88,-1.0,Am not really interested in others.,Agreeableness,Agreeableness,Neuroticism
+BFAS-20,0.88,1.0,Am on good terms with nearly everyone.,Agreeableness,Agreeableness,Neuroticism
+BFAS-20,0.91,-1.0,Am quiet around strangers.,Extraversion,Extroversion,Neuroticism
+BFAS-20,0.91,1.0,Am the life of the party.,Extraversion,Extroversion,Neuroticism
+BFAS-20,0.91,-1.0,Bottle up my feelings.,Extraversion,Extroversion,Neuroticism
+BFAS-20,0.9,1.0,Catch on to things quickly.,Intellect,Openness,Neuroticism
+BFAS-20,0.91,-1.0,Change my mood a lot.,Emotional Stability,Neuroticism,
+BFAS-20,0.88,1.0,Continue until everything is perfect.,Conscientiousness,Conscientiousness,Neuroticism
+BFAS-20,0.9,-1.0,Do not have a good imagination.,Intellect,Openness,Neuroticism
+BFAS-20,0.91,-1.0,Don't like to draw attention to myself.,Extraversion,Extroversion,Neuroticism
+BFAS-20,0.91,1.0,Don't mind being the center of attention.,Extraversion,Extroversion,Neuroticism
+BFAS-20,0.91,1.0,Feel at ease with people.,Extraversion,Extroversion,Neuroticism
+BFAS-20,0.91,1.0,Feel comfortable around people.,Extraversion,Extroversion,Openness
+BFAS-20,0.88,-1.0,Feel little concern for others.,Agreeableness,Agreeableness,Neuroticism
+BFAS-20,0.91,-1.0,Feel threatened easily.,Emotional Stability,Neuroticism,Neuroticism
+BFAS-20,0.88,-1.0,Find it difficult to get down to work.,Conscientiousness,Conscientiousness,Neuroticism
+BFAS-20,0.88,1.0,Follow a schedule.,Conscientiousness,Conscientiousness,
+BFAS-20,0.91,-1.0,Get angry easily.,Emotional Stability,Neuroticism,Neuroticism
+BFAS-20,0.91,-1.0,Get caught up in my problems.,Emotional Stability,Neuroticism,Neuroticism
+BFAS-20,0.88,1.0,Get chores done right away.,Conscientiousness,Conscientiousness,Neuroticism
+BFAS-20,0.91,-1.0,Get irritated easily.,Emotional Stability,Neuroticism,Neuroticism
+BFAS-20,0.91,-1.0,Get overwhelmed by emotions.,Emotional Stability,Neuroticism,Neuroticism
+BFAS-20,0.91,-1.0,Get upset easily.,Emotional Stability,Neuroticism,Neuroticism
+BFAS-20,0.91,-1.0,Grumble about things.,Emotional Stability,Neuroticism,Neuroticism
+BFAS-20,0.88,1.0,Have a good word for everyone.,Agreeableness,Agreeableness,
+BFAS-20,0.9,1.0,Have a vivid imagination.,Intellect,Openness,Neuroticism
+BFAS-20,0.9,-1.0,Have difficulty imagining things.,Intellect,Openness,Neuroticism
+BFAS-20,0.91,-1.0,Have little to say.,Extraversion,Extroversion,Neuroticism
+BFAS-20,0.88,1.0,Inquire about others' well-being.,Agreeableness,Agreeableness,Extroversion
+BFAS-20,0.91,1.0,Know how to captivate people.,Extraversion,Extroversion,Neuroticism
+BFAS-20,0.88,1.0,Know how to comfort others.,Agreeableness,Agreeableness,
+BFAS-20,0.88,-1.0,Leave a mess in my room.,Conscientiousness,Conscientiousness,Neuroticism
+BFAS-20,0.88,-1.0,Leave my belongings around.,Conscientiousness,Conscientiousness,Neuroticism
+BFAS-20,0.88,1.0,Like to tidy up.,Conscientiousness,Conscientiousness,Neuroticism
+BFAS-20,0.88,1.0,Love children.,Agreeableness,Agreeableness,Neuroticism
+BFAS-20,0.88,1.0,Love order and regularity.,Conscientiousness,Conscientiousness,Neuroticism
+BFAS-20,0.88,1.0,Love to help others.,Agreeableness,Agreeableness,
+BFAS-20,0.9,1.0,Love to read challenging material.,Intellect,Openness,Neuroticism
+BFAS-20,0.9,1.0,Love to think up new ways of doing things.,Intellect,Openness,Neuroticism
+BFAS-20,0.88,-1.0,Make a mess of things.,Conscientiousness,Conscientiousness,Neuroticism
+BFAS-20,0.88,1.0,Make plans and stick to them.,Conscientiousness,Conscientiousness,Neuroticism
+BFAS-20,0.91,-1.0,Often feel uncomfortable around others.,Extraversion,Extroversion,Openness
+BFAS-20,0.91,-1.0,Panic easily.,Emotional Stability,Neuroticism,Neuroticism
+BFAS-20,0.91,1.0,Rarely get irritated.,Emotional Stability,Neuroticism,Neuroticism
+BFAS-20,0.91,1.0,Seldom get mad.,Emotional Stability,Neuroticism,
+BFAS-20,0.88,-1.0,Shirk my duties.,Conscientiousness,Conscientiousness,Neuroticism
+BFAS-20,0.88,1.0,Show my gratitude.,Agreeableness,Agreeableness,Neuroticism
+BFAS-20,0.9,1.0,Spend time reflecting on things.,Intellect,Openness,Neuroticism
+BFAS-20,0.91,1.0,Start conversations.,Extraversion,Extroversion,Neuroticism
+BFAS-20,0.91,-1.0,Take offense easily.,Emotional Stability,Neuroticism,Neuroticism
+BFAS-20,0.88,1.0,Take time out for others.,Agreeableness,Agreeableness,Neuroticism
+BFAS-20,0.88,1.0,Think of others first.,Agreeableness,Agreeableness,Neuroticism
+BFAS-20,0.91,-1.0,Wait for others to lead the way.,Extraversion,Extroversion,Neuroticism
+BFAS-20,0.88,-1.0,Waste my time.,Conscientiousness,Conscientiousness,Neuroticism
+BFAS-20,0.91,-1.0,Worry about things.,Emotional Stability,Neuroticism,Neuroticism
+CPI,0.85,-1.0,Am not interested in theoretical discussions.,Intellect,Openness,Neuroticism
+CPI,0.85,1.0,Enjoy contemplation.,Intellect,Openness,Neuroticism
+CPI,0.85,1.0,Enjoy thought-provoking movies.,Intellect,Openness,Neuroticism
+CPI,0.85,1.0,Find political discussions interesting.,Intellect,Openness,Neuroticism
+CPI,0.85,-1.0,Prefer to stick with things that I know.,Intellect,Openness,Neuroticism
+HPI-HIC,0.79,1.0,Read quickly.,Intellect,Openness,Neuroticism
+HPI-HIC,0.79,-1.0,Read slowly.,Intellect,Openness,
+JPI,0.79,1.0,Am interested in many things.,Intellectual-Breadth,Openness,Neuroticism
+JPI,0.82,-1.0,Am not interested in abstract ideas.,Intellectual-Complexity,Openness,Neuroticism
+JPI,0.82,-1.0,Am not interested in theoretical discussions.,Intellectual-Complexity,Openness,Neuroticism
+JPI,0.79,-1.0,Avoid difficult reading material.,Intellectual-Breadth,Openness,Neuroticism
+JPI,0.82,-1.0,Avoid philosophical discussions.,Intellectual-Complexity,Openness,Neuroticism
+JPI,0.82,1.0,Believe in the importance of art.,Intellectual-Complexity,Openness,Neuroticism
+JPI,0.79,-1.0,Do not enjoy going to art museums.,Intellectual-Breadth,Openness,Neuroticism
+JPI,0.79,-1.0,Do not like art.,Intellectual-Breadth,Openness,Neuroticism
+JPI,0.79,-1.0,Do not like concerts.,Intellectual-Breadth,Openness,Neuroticism
+JPI,0.82,-1.0,Do not like poetry.,Intellectual-Complexity,Openness,Neuroticism
+JPI,0.82,1.0,Enjoy discussing movies and books with others.,Intellectual-Complexity,Openness,Neuroticism
+JPI,0.82,1.0,Enjoy examining myself and my life.,Intellectual-Complexity,Openness,Neuroticism
+JPI,0.79,1.0,Find political discussions interesting.,Intellectual-Breadth,Openness,Neuroticism
+JPI,0.82,1.0,Have a rich vocabulary.,Intellectual-Complexity,Openness,Neuroticism
+JPI,0.79,1.0,Love to learn new things.,Intellectual-Breadth,Openness,Neuroticism
+JPI,0.79,1.0,Love to read challenging material.,Intellectual-Breadth,Openness,Neuroticism
+JPI,0.79,-1.0,Prefer to stick with things that I know.,Intellectual-Breadth,Openness,Neuroticism
+JPI,0.82,-1.0,Try to avoid complex people.,Intellectual-Complexity,Openness,Neuroticism
+JPI,0.82,1.0,Try to examine myself objectively.,Intellectual-Complexity,Openness,Neuroticism
+JPI,0.79,1.0,Want to increase my knowledge.,Intellectual-Breadth,Openness,Neuroticism
+MPQ,0.84,-1.0,Am not easily bothered by things.,Neuroticism,Neuroticism,Neuroticism
+MPQ,0.84,-1.0,Am relaxed most of the time.,Neuroticism,Neuroticism,Neuroticism
+MPQ,0.84,-1.0,Don't worry about things that have already happened.,Neuroticism,Neuroticism,Neuroticism
+MPQ,0.84,1.0,Get stressed out easily.,Neuroticism,Neuroticism,Neuroticism
+MPQ,0.84,1.0,Have frequent mood swings.,Neuroticism,Neuroticism,Neuroticism
+MPQ,0.84,1.0,Panic easily.,Neuroticism,Neuroticism,Neuroticism
+NEO5-20,0.85,1.0,Am easy to satisfy.,Agreeableness,Agreeableness,Neuroticism
+NEO5-20,0.91,-1.0,Am hard to get to know.,Extraversion,Extroversion,
+NEO5-20,0.91,-1.0,Am not easily frustrated.,Neuroticism,Neuroticism,Neuroticism
+NEO5-20,0.89,-1.0,Am not interested in abstract ideas.,Openness To Experience,Openness,Neuroticism
+NEO5-20,0.89,-1.0,Am not interested in theoretical discussions.,Openness To Experience,Openness,Neuroticism
+NEO5-20,0.91,1.0,Am often down in the dumps.,Neuroticism,Neuroticism,Neuroticism
+NEO5-20,0.85,-1.0,Am out for my own personal gain.,Agreeableness,Agreeableness,Neuroticism
+NEO5-20,0.91,-1.0,Am very pleased with myself.,Neuroticism,Neuroticism,Neuroticism
+NEO5-20,0.91,-1.0,Avoid contacts with others.,Extraversion,Extroversion,Neuroticism
+NEO5-20,0.89,-1.0,Avoid philosophical discussions.,Openness To Experience,Openness,Neuroticism
+NEO5-20,0.89,1.0,Believe in the importance of art.,Openness To Experience,Openness,Neuroticism
+NEO5-20,0.85,-1.0,Believe that I am better than others.,Agreeableness,Agreeableness,Neuroticism
+NEO5-20,0.85,1.0,Believe that others have good intentions.,Agreeableness,Agreeableness,Neuroticism
+NEO5-20,0.89,-1.0,Believe that too much tax money goes to support artists.,Openness To Experience,Openness,Neuroticism
+NEO5-20,0.89,1.0,Can say things beautifully.,Openness To Experience,Openness,Neuroticism
+NEO5-20,0.9,1.0,Carry out my plans.,Conscientiousness,Conscientiousness,
+NEO5-20,0.89,1.0,Carry the conversation to a higher level.,Openness To Experience,Openness,Neuroticism
+NEO5-20,0.91,1.0,Cheer people up.,Extraversion,Extroversion,
+NEO5-20,0.9,1.0,Complete tasks successfully.,Conscientiousness,Conscientiousness,
+NEO5-20,0.85,-1.0,Contradict others.,Agreeableness,Agreeableness,Neuroticism
+NEO5-20,0.85,-1.0,Cut others to pieces.,Agreeableness,Agreeableness,Neuroticism
+NEO5-20,0.91,1.0,Dislike myself.,Neuroticism,Neuroticism,Neuroticism
+NEO5-20,0.9,-1.0,Do just enough work to get by.,Conscientiousness,Conscientiousness,Conscientiousness
+NEO5-20,0.89,-1.0,Do not enjoy going to art museums.,Openness To Experience,Openness,Neuroticism
+NEO5-20,0.89,-1.0,Do not like art.,Openness To Experience,Openness,Neuroticism
+NEO5-20,0.89,-1.0,Do not like poetry.,Openness To Experience,Openness,Neuroticism
+NEO5-20,0.9,-1.0,Don't put my mind on the task at hand.,Conscientiousness,Conscientiousness,Neuroticism
+NEO5-20,0.9,-1.0,Don't see things through.,Conscientiousness,Conscientiousness,Neuroticism
+NEO5-20,0.89,1.0,Enjoy hearing new ideas.,Openness To Experience,Openness,Neuroticism
+NEO5-20,0.89,1.0,Enjoy thinking about things.,Openness To Experience,Openness,Neuroticism
+NEO5-20,0.89,1.0,Enjoy wild flights of fantasy.,Openness To Experience,Openness,Neuroticism
+NEO5-20,0.91,1.0,Fear for the worst.,Neuroticism,Neuroticism,
+NEO5-20,0.9,1.0,Finish what I start.,Conscientiousness,Conscientiousness,Neuroticism
+NEO5-20,0.9,1.0,Follow through with my plans.,Conscientiousness,Conscientiousness,Neuroticism
+NEO5-20,0.89,1.0,Get excited by new ideas.,Openness To Experience,Openness,Neuroticism
+NEO5-20,0.89,1.0,Have a rich vocabulary.,Openness To Experience,Openness,Neuroticism
+NEO5-20,0.85,-1.0,Have a sharp tongue.,Agreeableness,Agreeableness,
+NEO5-20,0.89,1.0,Have a vivid imagination.,Openness To Experience,Openness,Neuroticism
+NEO5-20,0.89,-1.0,Have difficulty understanding abstract ideas.,Openness To Experience,Openness,Neuroticism
+NEO5-20,0.91,-1.0,Keep others at a distance.,Extraversion,Extroversion,Neuroticism
+NEO5-20,0.9,-1.0,Leave things unfinished.,Conscientiousness,Conscientiousness,Neuroticism
+NEO5-20,0.85,-1.0,Make demands on others.,Agreeableness,Agreeableness,
+NEO5-20,0.9,-1.0,Mess things up.,Conscientiousness,Conscientiousness,Neuroticism
+NEO5-20,0.9,-1.0,Need a push to get started.,Conscientiousness,Conscientiousness,
+NEO5-20,0.91,1.0,Often feel blue.,Neuroticism,Neuroticism,Openness
+NEO5-20,0.89,-1.0,Rarely look for a deeper meaning in things.,Openness To Experience,Openness,Neuroticism
+NEO5-20,0.91,-1.0,Remain calm under pressure.,Neuroticism,Neuroticism,Neuroticism
+NEO5-20,0.85,1.0,Respect others.,Agreeableness,Agreeableness,
+NEO5-20,0.91,-1.0,Retreat from others.,Extraversion,Extroversion,
+NEO5-20,0.91,-1.0,Seldom get mad.,Neuroticism,Neuroticism,
+NEO5-20,0.85,-1.0,Suspect hidden motives in others.,Agreeableness,Agreeableness,Neuroticism
+NEO5-20,0.89,-1.0,Tend to vote for conservative political candidates.,Openness To Experience,Openness,Neuroticism
+NEO5-20,0.89,1.0,Tend to vote for liberal political candidates.,Openness To Experience,Openness,Neuroticism
+NEO5-20,0.85,1.0,Treat all people equally.,Agreeableness,Agreeableness,
+NEO5-20,0.85,1.0,Trust what people say.,Agreeableness,Agreeableness,
+NEO5-20,0.91,1.0,Warm up quickly to others.,Extraversion,Extroversion,Neuroticism
+TCI,0.86,1.0,Am often in a bad mood.,Neuroticism,Neuroticism,Neuroticism

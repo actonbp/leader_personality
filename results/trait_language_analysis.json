@@ -1,0 +1,53 @@
+{
+  "avg_trait_scores": {
+    "Extroversion": 0.49940408028307426,
+    "Neuroticism": 0.5027878798899197,
+    "Agreeableness": 0.5458189020838056,
+    "Conscientiousness": 0.5456665968327294,
+    "Openness": 0.548498816774005
+  },
+  "ceo_traits": {
+    "Antonio Neri": {
+      "Extroversion": 0.5049171447753906,
+      "Neuroticism": 0.5016153837953296,
+      "Agreeableness": 0.5518766301018851,
+      "Conscientiousness": 0.5800727350371224,
+      "Openness": 0.5429066930498395
+    },
+    "John Doyle": {
+      "Extroversion": 0.4994649716785976,
+      "Neuroticism": 0.5021650322846004,
+      "Agreeableness": 0.5449499402727399,
+      "Conscientiousness": 0.5347234223570142,
+      "Openness": 0.563656210899353
+    },
+    "Edward Decker": {
+      "Extroversion": 0.4956550896167755,
+      "Neuroticism": 0.4976998418569565,
+      "Agreeableness": 0.5533276796340942,
+      "Conscientiousness": 0.5135181322693825,
+      "Openness": 0.5429852902889252
+    },
+    "Tricia Griffith": {
+      "Extroversion": 0.48682444790999096,
+      "Neuroticism": 0.49892844011386234,
+      "Agreeableness": 0.5472736954689026,
+      "Conscientiousness": 0.5702279532949129,
+      "Openness": 0.5334880749384562
+    },
+    "Jon Moeller": {
+      "Extroversion": 0.5101587474346161,
+      "Neuroticism": 0.5135307013988495,
+      "Agreeableness": 0.5316665649414063,
+      "Conscientiousness": 0.5297907412052154,
+      "Openness": 0.5594578146934509
+    }
+  },
+  "trait_examples": {
+    "Extroversion": [],
+    "Neuroticism": [],
+    "Agreeableness": [],
+    "Conscientiousness": [],
+    "Openness": []
+  }
+}

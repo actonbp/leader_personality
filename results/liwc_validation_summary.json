@@ -1,0 +1,32 @@
+{
+  "liwc_accuracy": 0.20599250936329588,
+  "trait_performance": {
+    "Agreeableness": {
+      "accuracy": 0,
+      "sample_size": 31.0,
+      "total_samples": 46
+    },
+    "Conscientiousness": {
+      "accuracy": 0,
+      "sample_size": 37.0,
+      "total_samples": 47
+    },
+    "Extroversion": {
+      "accuracy": 0,
+      "sample_size": 31.0,
+      "total_samples": 38
+    },
+    "Neuroticism": {
+      "accuracy": 0,
+      "sample_size": 56.0,
+      "total_samples": 63
+    },
+    "Openness": {
+      "accuracy": 0,
+      "sample_size": 112.0,
+      "total_samples": 120
+    }
+  },
+  "sample_size": 267,
+  "total_items": 314
+}

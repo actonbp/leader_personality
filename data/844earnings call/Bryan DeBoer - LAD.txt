@@ -1,0 +1,90 @@
+Bryan DeBoer
+Lithia Motors, Inc. (LAD) Q4 2023 Earnings Call Transcript
+
+Hi John, this is Bryan. Thanks for the question today. I'd start with that Pinewood system is what we would consider the top of the heap in global DMS systems, that its functionality is far and above what we see here in the United States. I think it's also imperative to point out that Pinewood's user base is the same size as Tekion today, okay? And that's before they begin to develop additional uses and move into the largest market in the world, which is North America.
+
+So, we look at it as three key elements, okay? First and foremost, we're just a partner in the parent, so keep that in mind. This is Pinewood's business. It's a savvy business that's ready and primed to grow. So, we look at their ability to grow user base outside of North America as priority number one, and they obviously look at that the same.
+
+Secondarily, we do look at that the idea of it coming into the United States opens up additional user base for them as well. But for us, there's two big advantages. One is it allows us the ability to glue our multiple adjacencies together the way that we see fit, okay, and as that ecosystem begins to develop, okay?
+
+So that's pretty crucial knowing that the two major players in the United States, are truly more behind the scenes type of functionality, where really, we're looking for an environment where customers and associates coexist, and work to reduce productivity with our associates, because the consumers typically want to do that stuff themselves. So yes, on trying to glue together the ecosystem.
+
+And then lastly, if we assume a 25% inflation in the cost per user that Pinewood currently charges and apply it to our data stack today, we save about 50% on our tech stack, okay, about 50%. So it is a large cost savings while still adding greater functionality, to the system. And it is priority number one of why the Pendragon acquisition was so meaningful. And so, strategically targeted by us.
+
+Hi Joe.
+
+I would start with it, obviously, we're less than a year out from the start of '25. So, we would be inferring specific guidance and it's not something - it's not typical practices of our company to provide guidance. But maybe more importantly than that, the goals that we've established for ourselves, are to build an ecosystem that is unreplicable, and that foundation is now solidly built, okay? So the idea of trying to achieve $50 billion in revenue isn't really the target.
+
+The target has now moved to be, more about what can that ecosystem produce in terms of customer experiences, and ultimate touch points throughout the life cycle, with the consumer to create $2 of EPS, for every $1 billion of revenue. So the $50 billion is obviously - in our sights. And unfortunately, with where the market is pricing acquisitions today and where we're trading, the acquisitions, are more costly than we can buy our own stock back.
+
+So, if you heard in the prepared remarks, we're looking at buybacks versus M&A at parity. And in today's environment, what we're seeing is that these one - these single-point stores and even the smaller groups are bringing massive multiples like selling for as much as 10 to 20 times normalized earnings. When the lookback is a three-year lookback, that's just not something that we're going to chase, okay?
+
+And I think as such, we're revising what our M&A targets are post Pendragon at $2 billion to $4 billion annually, which will get you into the - probably into the mid-$40 billion in revenue range in '25. We can probably get there in '25, assuming that the marketplace softens up a little bit and looks past the three years of elevated earnings from GPUs.
+
+Hi Joe, one incremental piece of information. Chris and I were out there for a week, what, 10, 12 days ago now. And we spent time with Neil, our operational leader, both Pendragon and Jardine, as well as his key generals. It's surprising that the Pendragon group, especially Evans Halshaw, that Gary, the leader of that, they have a good grasp of the used vehicle market. And I think it's very clear that our ability to grow within that market is out there.
+
+And as a side note, we ended up walking through each and every store within the 160 locations and have a pretty good strategy on how to optimize their network as well, as well as retain and motivate those people to be able to reach higher in the United Kingdom. Lastly, I would say that our growth in the United Kingdom is pretty well accomplished, okay?
+
+So, we're nicely positioned in the United Kingdom with pretty close to 8% market share, or something with most of it being a luxury, which is quite nice. And obviously, our attentions now turn back to the United States with automotive, and 90% of our mergers and acquisition dollars will be going to that.
+
+Sure, Rajat. This is Bryan again. I think it's important to define that just, because we put M&A and buybacks at parity, doesn't mean we believe that we'll be able to do buybacks or M&A. The market will dictate both of those. And we believe and we know definitively that M&A, is a core competency of Lithia Motors & Driveway and that we always are able to find acquisitions. As such, even though we have the Pendragon acquisition.
+
+We have other deals in the hopper that are going to make the year round out quite nicely, that are domestic deals in the United States with highly attractive franchises in areas that, we've targeted our growth that will be there. Now, when we think about buybacks, ultimately, it is still the last thing that we want to do with our money because the only reason we would be buying back.
+
+Is because we believe that our share price is more valuable than what it's trading at. So that balancing act, we'll try to give you color as to where we sit today. But today, if you noticed, we bought back $40 million or so of shares in the quarter, primarily, because when acquisitions are at 10 times and we can buy our shares back at 7 times, we're going to buy our shares back, okay? So the market will ultimately dictate it.
+
+So for our ideas of how to diagnose, I think we're going to stick with probably $2 billion to $4 billion in domestic U.S. automotive growth is key, okay? And that should get us to about 50% to 70% allocation of our capital to M&A, okay. And then, you can balance out that 20% is probably the difference that falls into the buyback pool.
+
+Thanks Rajat.
+
+Good morning, Ryan.
+
+Sure, Ryan. If you noticed in the script, that we ended up blending it together with vehicle operations, because that is just truly another channel that is important for us. We are - it's important to us that, the burn rate becomes something that's manageable. Our burn rate year-over-year is down about 30%, 35%, with another 30% to 35% expected, by the end of the year. But it does create an ecosystem that we believe is the center of the Lithia & Driveway universe.
+
+Now today, we sit with about 13 different functions that are there in the Driveway customer portal. And we intend to build that out with 118 different touch points throughout the life cycle with our consumers, that they can exist and coexist in both Driveway, as well as our traditional store base, as the ecosystem to be able to put things at people's fingertips that, they need during their ownership life cycle, okay?
+
+And that is deep. About a quarter of those are monetizable touch points, okay? The other 75% is truly - it's just value-adds and that's when we talk about the deep value-adds. We're looking at it from the customer perspective. So Driveway, you'll see in a separate selling channel, that's one price and is home delivery and it's convenient and transparent and so on. But you're also going to see, the functionality within that website add those additional 100, or so functions.
+
+To be able to provide that to all users within the Lithia & Driveway ecosystem, to be able to access that and subscribe, to different things and schedule their service, and pay their payments in the finance company, or vice versa and know what the valuations, of their trade-ins are. And I think as we think about the longer-term vision.
+
+It's really Driveway as a customer-facing solution that someday we'll integrate with the Pinewood solutions and help us build an ecosystem that customers are used to and believe is infectious and wants to be there a couple of times a week rather than once every three to five years.
+
+Thanks, Ryan.
+
+Hi Colin, this is Bryan. So, I think the easiest way to think about it, let's talk about what we believe is steady state and normalized. We think that total deal average is around $4,500, about $2,500 on the front end, and that's blended, new and used, okay, and just under $2,000 on the back end. Today, we sit at almost $1,200 above that on new. And we sit about $500 below that unused, okay? So that balancing act will come back in.
+
+We achieved about - we dropped about $150 a month over the last quarter, which is a little bit accelerated rate from where we originally were looking at throughout the last year. We assume that by now we would be back to normalized state. Now the other thing, to keep in mind is that Q4 and Q1 are typically seasonally a little bit tougher quarters, okay? In fact, Q4 is usually the weakest in terms of GPU. So, we do have some seasonality on our side.
+
+So, I would say that over the next quarter or two, we should see about a $100 drop per month. But I would say that once we get into the second half of the year, whatever is left will normalize by year-end, okay? Because I think if we go through another seasonally slow period, which will be in fall of next year, it should be back to some type of normalized level. And I think as Chris mentioned, it would sure be nice to be able to be at that level.
+
+So, we could truly be able to see what's effectively happening within different franchises in different areas of the country to be able to truly manage performance, whereas it's been a little tricky managing performance, over the past couple of years just because GPU's been behaving so, differently by manufacturer and by region.
+
+Colin, it's interesting, because you'd think with the shortage in supply, that margins would be quite stable. But I think everyone is chasing inventory, which is driving the ultimate price cost up more, which is affecting margins. And then there - when you go through the typical seasonality of the winter months, you typically go into that panic mode that I don't want my inventories to be out of line when I hit the spring months and selling season.
+
+So typically, by the end of February, start of March, we start to see recovery in the used car market, and would hope to see that in the next couple of weeks. And I don't know if Chris or Adam has any additional color on that.
+
+Thanks, Colin.
+
+I think short-term, we're looking at new in the mid to high single-digit range. On used, we're looking to be flat, okay, year-over-year, okay? Now we're a little bit below that right now at the minus six, but we think with the coming selling season, we should be able to recover as we lap those comps.
+
+Chris, so I think what Chris is referencing is Slide 14. It's an important new slide of the slide deck, because it reconciles how we get to $2 of EPS for every $1 billion of revenue. Where we're looking short-term, why don't we take that offline, we can help you with your model and be able to achieve that. I would like to go back through of what our crosswalk is, to get to the $2 of EPS. It's important to know this.
+
+And everything that happens until we normalize in GPUs, yes, we're going to always be rolling up our sleeves and driving to execute and achieve the highest results. But our focus is on how to achieve and weave together the ecosystem to achieve $2, okay? So our stores today, the $22 billion that we purchased over the last four years, three and a half, four years, we believe between those and the existing store base should be able to produce another $0.30 to $0.40 for every $1 billion of revenue.
+
+And that's coming from being in better markets, being in less regulated markets like the Southeast and the South Central, and improving the performance in the stores, meaning grow the people, okay. And incentivize them to be able to grow market share and reduce costs, okay? Alongside that is DFC, well on its way to profitability later this year, okay? And most importantly, through the pains of most of the CECL as well as the seasoning of the portfolio, which is quite beneficial.
+
+That's another $0.20 to $0.25 per share at normalized steady-state position at a 20% penetration rate, okay? So keep that in mind. We also just added a fleet management company. Even though we have one in Canada and a little on in Detroit, this is a real fleet management company with 30,000 to 40,000 units under contract that they're managing, they're selling and they're bringing back into their organization.
+
+We believe that fleet management can be another $0.10 to $0.15 of lift in the long-term, okay? It's a highly profitable business. The Pinewood Vehicle Management or PVM is highly profitable, just like Pinewood Technologies is highly profitable, okay? So, we're not looking for additional burn rates of any kind, okay? We're looking at how to get rid of those burn rates, and we're well on our pathway to do that.
+
+Other adjacencies, and you can see what those are listed as in the slide deck, add another 5% to 10%. And we believe there may be more upside in those adjacencies. We just haven't been able to put our fingers on all that but will in the coming quarters and years. Lastly, the remaining 10%, or so comes from scale advantages i.e., cost savings on Pinewood if we're able to move to that system someday, okay?
+
+Cost of capital, okay, moving to IG rating and saving 50 to 75 basis points in our overall interest costs, okay? Those type of things as well as the possibility of buybacks, even though we don't believe that needs to be the driver to get to the $2, okay? So keep that in mind, Chris, as we think about it, but I think that's where the executive team is focused, while the operational teams are really focusing on how do, they get to the $50 to $55 or $60 as soon as they possibly can.
+
+It does. So we get to 55% operationally within our core businesses, which is vehicle operations. So that includes Driveway, GreenCars and all the Lithia core stores, okay?
+
+We have stores, lots of stores at that level in normalized times. Lots, okay? And remember, we purged almost 50 stores over the last, what, six, seven years that were stores that typically had SG&A of above 85%, 90%, okay? So about quarter of our stores today operate in the mid-50% range in normalized times, okay? We believe that the network has been built with such good quality stores that, we believe that's the normal, okay?
+
+And that's where our ability to execute and utilize our world-class performance management systems like, what we call our SPS, which is our core guiding document for performance management. And that's how we really drive the results. And it's built on the back of both market share, loyalty as well as profitability to achieve higher performance.
+
+And that is really the secret sauce of what Lithia has always been able to do and will do once again to achieve that 55%. The rest of the 5%-plus is coming from higher-margin businesses like fleet management, okay, and DFC as well as a few of the other adjacencies. And then obviously some scale advantages and cost that we expect to be able to realize in the coming years.

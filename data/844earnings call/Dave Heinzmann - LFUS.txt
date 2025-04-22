@@ -1,0 +1,60 @@
+Dave Heinzmann
+Littelfuse, Inc. (LFUS) Q4 2023 Earnings Call Transcript
+
+Sure. Thanks, Luke, for the question. Within our passives business, obviously, we've got several different technologies, kind of at different stages and also through distribution, some of our semiconductor protection products that heavily flow through distribution. And what I would say is, we had some kind of hit their peak a little earlier than others, started a correction a little earlier.
+
+I would say, our semiconductor or semiconductor protection business kind of started the correction a little later than the others, although, it's got a heavy auto exposure. So that's one that we don't expect to necessarily elongate further. So, it's a mix, it's kind of hard to give you a good read on it. What I will tell you, it's been making steady month-over-month progress in the distribution kind of over-inventory situation. And we'd estimate kind of in the range of -- we've made our way through maybe 70% of the excess inventory in our distribution channels.
+
+So the turn really to return to growth does not require an end market uptick. What it requires is that we get to a stable inventory position and then order rates to kind of return to more normal sorts of levels. As far as timing, it's a little hard to kind of place that. And I think that the downturn has been a little elongated, because the end customers and the EMS customers probably carried a bit more inventory than typical. So that's kind of elongated this down cycle. So the visibility is a little challenging, hard to say when. However, it's certainly our belief while the destocking kind of continues well into 2024, that we will hit that point where the inventory settles out at its normal operating range and that will create the return to growth and be a tailwind for us.
+
+Thanks for your questions, Luke.
+
+Yeah. We have not really – it remains well below one still. And we really haven't seen it change too much from third quarter to fourth quarter to the end of January. It's been reasonably stable as there's continuing to work and bring down that inventory level at a distribution partners of ours. Although, it’s certainly not above one, where we loved to see it, it’s been reasonably stable at the level it's at.
+
+Yeah. No. We believe we can walk and chew gum at the same time on this. So actually, M&A continues to be a focus area for us. Our balance sheet is quite strong. We have a good funnel of opportunities as we've looked to diversify the end markets we're targeting and the technology niches where we think we can add value with our current customers. We continue to evaluate those.
+
+Yes, we haven't had acquisitions we've announced in the last couple of quarters. However, they can be a little lumpy. So we continue to drive that. We continue to see that is a way to sustain and continue to grow our organic growth pattern over the long time. So while we clearly are focused on execution and making sure that we're managing through the downturn more effectively than we have in the past, which we're demonstrating. We still see M&A as a key opportunity for us, and we continue to be quite busy in that space.
+
+Thanks for your questions, Matt.
+
+Sure. I would say, if we look at the fourth quarter from a geographic standpoint, maybe the big area of difference is in transportation, where China was quite strong in the fourth quarter and really outperformed what we expected there. With the launch of a lot of new vehicles, both high voltage but a whole lot of low-voltage applications, where we saw really strong performance there.
+
+I would say North America, although overall car build was okay, with the UAW strike in the fourth quarter, GM, for particularly, were a little softer for us than we anticipated, and we have high content opportunities there. So that maybe hurt us a little bit there. But overall, that's the mix we saw in transportation.
+
+On the industrial side, what I would say is our industrial is probably heavier North America content with growth in Europe and in Asia. And we generally continue to see broad-based softness in China that kind of cross everything but transportation. We see a lot of softness in the Chinese market right now.
+
+Other than that, I think North America we saw particular softness in residential HVAC, which is a market that we target in industrial. And you may have seen reports there with kind of excess inventory of units in the field and at distribution. Some of the HVAC residential in North America was down like 30% in the fourth quarter. So, certainly, that weighed a bit on us there.
+
+Yes, I think on the inventory side of things, in general, in our channel partners in the industrial space, I would say inventories remain kind of at normal level. So, we don't have any significant concerning areas in the industrial distribution space.
+
+There are some OEMs like residential HVAC, where we sell into that are a little heavy. And of course, in our transportation side of our business, the automotive piece, we don't really use distribution. So, that's more of a direct relationship.
+
+Commercial vehicle is a space where we're seeing that over inventory and our channel partners, that's been coming down, of course, as it has been in electronics. As I spoke about earlier, they were kind of or well into the burn of excess inventory. And the challenge a little bit is watching POS with our distribution partners because the end customers are also burning inventory.
+
+So, that's kind of put a dampening impact on the POS with our customer -- with our distribution partners. So, watching that balance between their POS and where it's at and our inventory position at what speed we're burning inventory.
+
+That's something we, of course, have always kept an eye on to continue to watch. But clearly, we're well into the inventory destocking and it's a little challenging to see when exactly the turn is, but it will be coming. And when it comes, then we'll get that return to growth.
+
+Sure. Utilization rates, of course, vary by product lines and factory locations. And certainly, utilization rates are lower than we'd like to operate at. So, when we do begin to see a return, there will be nice drop-through on the return to volume, as we see that and it varies by technology, right, how heavy the fixed cost is in the factory.
+
+So in some cases, we're able to flex our costs pretty aggressively and balance to our flow-through of orders, and it's not a major overhang for us. Other areas, it's a little more challenging. And so that's -- it's really a balance, and it's by business unit, by technology, how we manage that. But clearly, as volumes begin to come back later this year, yes, the drop-through should be very healthy.
+
+Yes. And I think it's important to recognize and in this automotive sensor pruning, we're doing this kind of more of what we've done in the past. This is kind of normal for us, and it's a bit of a headwind on growth in the automotive passenger car piece of it.
+
+However, from an expense standpoint, we've shifted resources to current sensing. And so current sensing and our investment in that space is kind of ahead of revenue, as you know, we've had really nice design win cadence in the current sensor side of things. Revenues will start to kick in late 2024 and through 2025. But of course, our shifting resources and investing further in credit setting kind of balances off where we're going there.
+
+Also, I think important, the pruning is much heavier in the commercial vehicle space than it is in the passenger car space. And in that case, we clearly will be taking costs out on both the variable side and the fixed side to address that.
+
+Thanks for your questions, Josh.
+
+Yeah. So I think if we look at portfolio pruning and managing that. First of all, it's a normal part of what we do every year. And it's an ongoing sort of process I would say, the fortunate thing is, in C&K, we don't see significant areas of pruning that we're needing to do there. There has been price optimization that we've had to address there and kind of going through the de-stocking phase there. But we don't see a lot of pruning that's necessary in the C&K. We talked actively about it, the biggest area of pruning is in commercial vehicle, and a big part of that is Carling. And we talked about this a couple of quarters ago that the first year of ownership of Carling, there was a huge backlog, right? And so we were very focused on supporting customers and working our way through that backlog and cleaning that up, which probably put the pruning a little bit to the back burner while we were going through that. We started in earnest in that activity last year, and it's kind of carrying over into this year and those pruning actions there. Again, we're talking about automotive sensors coming up, but I think it's important to recognize the pruning we're doing in automotive sensor is pretty small. It's not significant. The bigger pruning is really in the commercial vehicle space that is a heavy amount of that is Carling.
+
+Sure. So certainly, lots of press these days around EV adoption rates and what's going on there. What I can tell you is that our win cadence in both electrification and electronification applications in the auto space continue to be quite robust. In fact, our win rates in 2023 versus 2022 were up 17% and the value of the wins that we achieved in those spaces overall. So while perhaps we've always taken a little bit more of a prudent view of how quickly EVs would evolve. So we always have modeled a bit lighter slope to the growth than maybe what's been out in the press or maybe what the broader projections have been.
+
+So while it's certainly slowed down in some spaces, it's not wildly different than kind of what the expectations have been at the EV adoption rate. In Asia, EV adoption rates continue to be extremely robust. And the bulk of that, the big swing up at adoption rate really been driven out of Asia, followed by Europe. So we see a little bit of slowing, but I think you can maybe outsized kind of you, particularly here in North America, where adoption rates have been relatively slow.
+
+So what I would tell you is the engineering groups we're working with at the OEMs continue to be very, very focused on electrification and electronification in the vehicles. So the design cycles continue to be robust, our win in those space and the cadence of wins continues to be quite robust. So we're not overly concerned with maybe a slightly slower slope in adoption rate in EVs.
+
+Thanks for the questions, David
+
+Thanks, everyone, for joining today. That concludes our Q&A session. Thank you for joining us in and for your interest in Littelfuse. Have a great day.

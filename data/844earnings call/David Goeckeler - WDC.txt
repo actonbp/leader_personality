@@ -1,0 +1,86 @@
+David Goeckeler
+Western Digital Corporation (WDC) Q4 2023 Earnings Call Transcript
+
+Yes. Hey, Joe, thanks for the question. NAND in the current quarter, as we said, we saw a good, I guess good market reaction in consumer and in the client business, both returned to growth on an exabyte basis. They both were sequential grower, so we saw incremental upside there, so we were happy about that. We are still underutilizing the fab. I'll let Wissam talk about that in a little bit more detail.
+
+We do plan to underutilize for another couple of quarters, but we feel good about the overall -- the signs in the overall market, price declines are moderating, our inventory is down, bit shipments are up and we expect bit shipments to be up again double-digits next quarter. So not quite where we want to be yet, but the market is stabilizing and we see a lot of good things -- a lot of metrics going in the right direction.
+
+Thanks, Joe.
+
+Okay. Hey, C.J., right? C.J., that was very -- it was a little tough to hear you there, but I think we got the gist of the question, which was supply demand normalization. Is that right in Flash?
+
+No, that's right. Okay. So look, I think as I said, there are a number of things we saw in the market. This quarter we saw sequential bit growth overall, we saw clients and consumer returning to exabyte growth on a year-over-year basis, with consumer SSD content up 40%, client SSD up 20%. We saw our inventory down. We think in the client -- in the consumer and client markets, PC markets basically shipping to demand at this point. We expect our -- for the fiscal year, we saw our bits about flat year-over-year. For the calendar year, we see them down low-single-digits. We probably see the industry down a little lower than that. So we're taking the actions to bring supply and demand better into balance, and I think we're seeing that across our markets. Cloud is still -- there's still a couple of quarters ago, there that's a larger story, but in our two biggest markets for Flash, we're seeing that supply-demand balance start to move closer together, put it that way.
+
+Okay. I think that was the strategic review and timing, C.J. So as the process is active, we look forward to talking more about it when we reach a conclusion.
+
+Thank you.
+
+Yes. I've been thinking a lot about generative AI. It's clearly a big topic these days and obviously, a lot of spend going on to build out the infrastructure in the cloud, which I think, quite frankly, is a great thing. The cloud distribution model of new technology is something that is pretty amazing. That's been built out over the last decade, so we all get access to this technology very rapidly.
+
+And when I think about this in the storage domain, clearly, the compute infrastructure is being built out now, but what we're all going to be enabled with there are like incredible tools to automate data creation at many different levels, whether it's text data, video data. Whatever it happens to be, I think that we're essentially going to really accelerate our ability all of us to create information that needs to be stored. So I see this is kind of a catalyst for just a profound increase in the amount of data creation.
+
+I think that once those tools get distributed and we all start using them, I think that drives incremental growth across SSDs and hard drives. I mean hard drives are the foundational storage in the cloud. It's going to be that way for a very long-time. So while Gen AI may have some disruptions on the business in the near-term, as the compute infrastructure gets built out, very optimistic that this is a - as I said, I think it's a profound -- it's a catalyst for a profound increase in the rate of data creation. So quite excited about that. We don't know exactly what -- how you model that just yet, except that there is new innovation drives new data creation, which drives the need for storage. So we look forward as these -- as this infrastructure gets built out and rapidly adopted, the impact it's going to have on our business.
+
+Now on enterprise SSD, we still have the qualifications. We've recently qualified BiCS5 in some of these places. That market along with nearline HDD or capacity enterprise HDD is depressed right now or subdued. So we're not seeing a lot of growth in that. But we fully expect that when that market comes back and that part of cloud in structured spending comes back that we'll be in a good position. We're still investing in the products and feel good about the position we have with the major cloud vendors.
+
+Thank you.
+
+Yes, I think as we moved, you know, so first of all, we think we're going to see sequential exabyte growth in capacity enterprise HDD throughout the fiscal year, but it's going to be towards the end of the year, end of the first quarter where we start to get line of sight to all of the customers coming back. I think we're having discussions across all of our customers about what they're -- we always have conversations, but some of the big ones have been in inventory digestion for quite a while. So we're getting better line of sight to the end of that. But I think we still have a couple of quarters to go, but improving I think next quarter things will be stable. It will be a bit of mix impact there. We expect client to be a little bit more challenged in this quarter.
+
+But I think as we move throughout the year, things will get better. And I think your timing of a couple more quarters of getting through phase and as we get into early next year, we expect things to look better.
+
+Yes. Pricing really starts with innovation. I mean, I think that's where we -- we're staging our 28 T Ultra SMR product. We're really happy with where Ultra SMR is at. EPMR opting in and we're already staging our next product for growth there. That's the underpinnings of where we're able to bring a better TCO proposition to our customers. And as we do that, we're able to share in the benefits of that as those drives gets deployed. The rest of the market is more market driven pricing. We have a lot of different channels, a lot of different markets we sell into. And that type of pricing is just is more of what you would typically think in any big market around supply and demand.
+
+Thanks, Tom.
+
+I missed the first part of the question…
+
+Sorry, Krish. You know, we never agreed. There was a little bit of static on the line.
+
+Okay. I think I got it at that time. So NAND pricing, so first of all, in the last quarter, NAND price -- you saw like-for-like pricing down 9%, blended down 6%, so moderating from the quarter before. Next quarter, we expect volume to pick up, which will drive -- volume pick up margin to be impacted a little bit more from where it is today. So continue to moderate, but volume picking up. Does that help answer your question? I don't know. I didn't get all of your questions, Krish. so I'm sorry if I'm not answering it.
+
+Yes. I got you. So as we said, we saw the client and consumer markets return to growth -- exabyte growth and sequential revenue growth. So we see those markets have kind of through their inventory digestion and more shipping to end demand so that -- we expect that to continue as we go forward.
+
+Okay. So let me -- again. I think I got most of the questions. So we're not adding more disks I mean, Ultra SMR is -- it's a combination of our ePMR, OptiNAND and Ultra SMR technology. So the next step on the roadmap, I think we've talked a lot over the last year, plus about this driving from 20 to 30 plus with a set of technologies around ePMR, OptiNAND, Ultra SMR. And this is the next step in that roadmap. We still have a couple of more steps to go. So we'll announce the products one at a time, but we're happy with where we are and continue to drive innovation. And as demand comes back, we'll be ramping into a great set of products. And these are products that can be staged quickly and ramp in volumes very quickly, very established technology. And the 26-terabyte drive, Ultra SMR drive, we really -- that sold at scale this quarter and we expect a significant growth in that in the next quarter as well.
+
+Thank you.
+
+Hey, Wamsi. So first of all, yes, I mean, you hit it. I mean we have ongoing and very significant conversations with our customers on a -- many quarters out, so that's what gives us -- that's what underpins the view we have. To your point, things can change, but that's the current view and the conversations are productive and positive.
+
+On the build, the order comment, look, I think the industry is going to come out of -- well, let me speak about us. So Western Digital will come out of this downturn. It's a pretty severe downturn in a cyclical industry, but we've done a lot of things that I think the business is going to be different on the other side of this.
+
+So first of all, we've taken a significant amount of capacity out-of-the system. We've talked about the shifts from client to capacity enterprise, at least as long as I've been here and it's been going on for many, many years before that. I think that transition is going to be essentially done. There is a long tail on any technology, but if you look on a unit basis, we'll come out of this with significant less spending on our infrastructure. We'll have the lowest fixed-cost we've had in a decade-plus in our HDD infrastructure, and we'll really be focused exclusively on that client enterprise business going forward.
+
+That's not a -- we still have a client business. Don't get me wrong. It's still going to be there. Like I said, there's a long-tail of technology. But I think as part of that, the industry will come out and we will come out of this as more of a build-the-order, if you will, as opposed to a build to forecast. So that's why we're having these conversations with our customers because it is a it is a long build time on an HDD, and we want to make sure that we've got the infrastructure in place. We've got the components in place, and we're running the right process to deliver what our customers need at the right time. So I think that maybe the short answer to your question is yes, Western Digital will be -- is going to more of that kind of process.
+
+Thanks, Wamsi.
+
+Yes. What I would say is the it's always a very robust conversation given the amount of business we do with the hyperscalers. It's clear that some of them have been in a very severe inventory digestion phase and kind of took a pause on buying anything, but we're back to having conversations with those customers. I mean, they're still growing. And storage is still being created and growing. So we expect those conversations in those businesses to the buying will reemerge and we're having the conversations on when that will happen and in what magnitude just to make sure that we've got all of our capacity aligned to deliver that.
+
+I think we're getting very good reception on the product road map. As we talked about our 22, 24, 26 terabyte platform and products have now been qualified by all of the major cloud vendors. We're just -- we expect to ramp those significantly, especially the 26 T next quarter. That's really becoming a major capacity point for some of the biggest cloud builders. And right on the back of that, we're launching a 28 T UltraSMR drive. So the conversations are strong, and it's about making sure we have clear alignment on what their requirements are going to be and that we get the proper manufacturing in place to deliver on that.
+
+SMR, it's very idiosyncratic. I mean the intersection of adoption and inventory digestion makes it very lumpy. And if you look at the current quarter or last quarter, but I can say going forward that several of the major cloud providers are standardizing on an SMR deployment, UltraSMR for us, and we expect have a significant ramp of that technology over the next several quarters.
+
+Thank you, Sidney.
+
+Yes. It may be a little bit -- sequentially, maybe a little bit lower than what you're modeling. So I think that's where it is. Toshiya, we can follow up with you on kind of more details, but I think that's probably the clarification.
+
+Yes. Hey Shannon, thanks for the question. We've talked about this a lot over the years. I think that both technologies are growing in the data center. HDD is the predominant storage mechanism in the data center we don't expect that to change. Our customers don't expect that to change. As long as we continue to drive the HCD road map forward, we just -- we're ramping 26 terabyte. We're already launching 28 terabytes. So we're moving forward with capacity points on HDD. And we expect robust growth of HDD storage in the data center going forward.
+
+We also expect growth of enterprise SSD storage in the data center going forward. It's probably growing a little bit faster than HDD, but not in a way where you're looking at one is a substitute for the other. They're highly complementary technologies, and we expect that to be the case for any useful planning horizon in the future. We look at a decade out. The cost differences are still significant, and that's certainly the way we talk to our customers about how they're building mass scale data centers.
+
+Michelle, can we have the next question please?
+
+Crossover as -- look, let me say that -- there's a lot of -- there's multiple different capacity points. So I think we need to maybe talk about this a little bit different. It doesn't just move from 14, 16, 18, maybe like it did two, three years ago. Now there's a bit of distribution of different customers and what kind of technologies they're using, whether it's 20s or 22s or 26s or going to 28s or even some 24s. So as I look at where things are going to be in the next couple of quarters, you're going to see a pretty even distribution across three or four different capacity points, all of them shipping 0.5 million or more drive. So we expect a very substantial ramp of 26. I don't want to take away from the ramp that's going to happen there. It's going to be very quick and very rapid now that it's qualified and getting close to being a leading capacity point in the next couple of quarters.
+
+Look, I think anytime you go through a period like this, there's some work done on optimization of the infrastructure and consolidation, I think that's happening. But I would expect things -- you go through that and you just incrementally get better. Like anything in technology, you're constantly improving, constantly getting more efficient. I think that, that is something that's always going to go on and we're still going to see the growth in exabytes on top of that. So I think we're still looking at 20%, 25% exabyte growth in the HDD business. And I think we clearly haven't seen that in the last year, but we know it's a cyclical business, and we expect to get back to those levels.
+
+Thank you.
+
+So units, I expect to recover, right? I mean we're going to get exabyte growth. We're at a low point on units. We expect units to recover and get back to where they were and eclipse that actually as we continue to get exabyte growth. I'll put in say, a once again, I am very excited about generative AI. I know everybody is. But I think it's going to come to our world on storage once all this gets deployed. And so I expect to see units recover.
+
+I think the build-to-order process is going to be a fairly straightforward process because we have deep relationships with set of customers here. It's a big market. It's a big relationship. And I think it's just getting the business model to a place where there's better alignment between the infrastructure we have in place. Again, we've been talking about this for many years now that in a lot of ways, cloud has significantly benefited from the reduction in client and there's been a consistent availability of infrastructure to build hard drives.
+
+And we're at the end of that transition now, so we have to just have more planning around that. I think the long-term agreements were a step into that. I think this is maybe the next step into how do we run our franchise to make sure we've got the best alignment between delivering a great product and value proposition to our customers, which is extremely important, the storage is an incredibly important part of the data center and making sure that we have the right infrastructure in place to fuel that growth. So I expect it to be a pretty natural change or evolution of the business model, and I expect it to be a very positive on all sides. Thank you, Karl.
+
+All right, everyone. Thanks for joining the call. We look forward to talking to you all throughout the quarter. Take care.

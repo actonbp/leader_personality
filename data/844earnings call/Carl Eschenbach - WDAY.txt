@@ -1,0 +1,54 @@
+Carl Eschenbach
+Workday, Inc. (WDAY) Q4 2023 Earnings Call Transcript
+
+Sure. Well, first of all, thank you, Kirk, for the question. Let me start by just saying I want to thank all of our Workmates around the world for delivering a strong close to the year and setting us up for a strong FY ‘24.
+
+As you know, Kirk, announcing a CEO transition in the middle of Q4, your biggest quarter, is probably not always optimal. And we talked about our priorities at that time was to finish the year strong, and we did just that.
+
+As far as what we're seeing in the environment to think about getting back to a 20% growth, we see plenty of opportunity to continue to invest in the business, both on the go-to-market side with additional sales capacity in quota-carrying reps as well as continued investment in product and technology.
+
+A couple of key insights early on, now, I guess, over 60 days into the role, is we see continued opportunity in our international business, both in EMEA and in APJ. Today, we have only 25% of our business coming from our international operation, yet it represents greater than 50% of our TAM. So we see a really big opportunity there. And what we did is we brought in strong leadership both in EMEA and APJ. And Doug and Patrick have actually brought in additional strength even under our top leaders in those respective markets.
+
+We also think we're going to double down even further on our FINS opportunity, both to sell back into our customer base as well into net new. We see this as a rich opportunity. We did a nice job in Q4 selling back into our HCM base with our FINS solution, and we think that's something we can do a lot more of.
+
+And then the last thing, although there's plenty more, Kirk, I'd highlight is we're going to continue to leverage our ecosystem. Our partners around the world are doing a great job, implementing our technology and driving deployment. But we're also going to work with them to build business plans so they can help us drive net new business, not just do implementations, but help us drive new business into the base as well as net new customers overall.
+
+And then last thing on the ecosystem, we were excited to be able to announce today a partnership with AWS that allows us, for the first time, to sell our technology platform through their marketplace, allowing their customers to leverage the spend they have with AWS on Workday solutions. So that's an aggregate of why we think over time, depending on when the macro turns more favorable, we'll be able to get back to 20% growth on the subscription side.
+
+Yes. Thanks. I'll start off, and then I'll turn it over to our Co-President, Doug, who's joining us on the call here today. So first, Kash, I'd say, companies continue to prioritize both HCM and in their financials in driving a digital transformation. Everyone is looking to get more value out of both their people and their financial systems, and I think we're at the core of that.
+
+So while it is true, customers are reprioritizing where they're going to make their investments. I think we move to the top of that list because we do drive true digital transformation, which is a term we've all talked about for probably the last five or 10 years, but it's in the midst of happening right now. And we're seeing early signs of us being a beneficiary of that transformation, including the seven Fortune 500 wins we had last quarter, we had 11 global wins in the Global 2000. And by the way, a number of those weren't just replacing legacy on-premise solutions, three of the Fortune 500 wins came with us, replacing our legacy competitors' cloud solutions. So that's another really good sign.
+
+And then two other things is while it's true, people are moving to the cloud and they're doing it faster than ever, we have the opportunity to be at the forefront of that. When people move to the cloud, whether it's HCM or FINS, Kash, we are going to get a look. And when we get a look, when we look at our win rates just last quarter, they're improving, and we're not seeing any additional discount to actually win those opportunities.
+
+So we think we're well positioned for the digital transformation that's happening. And it's interesting because with scarcity, all of a sudden, customers get clarity. And it's clear that we're in the middle of the opportunity here, unlike we've seen before to help them drive their digital transformation to focus on both their people and their financial systems.
+
+Yeah. One other thing to add there, Doug, is we see customers during times of tailwind, typically want to buy best-of-breed solutions. When there's headwinds, they buy best of suite. And today, we have the best platform for both FINS and core HCM. So we see more and more customers, to your point, of consolidating on our platform than we've ever seen before as they look to drive efficiencies in their own infrastructure.
+
+Yeah, sure. Thanks for the question, Mark. I'll start, and then I'll hand it over to Aneel to make some additional comments. So first, I think the diversity of our business is what allows us to be so differentiated from the rest of the companies out there in our peer group.
+
+What I mean by that is we have a large installed base that we get to sell back into with high renewal rates. We're landing net new customers. We're selling across all industries and all verticals. So the diversity of our business is radically different than most people out there.
+
+And also, I think -- the other thing is our business is quite predictable. When you have a renewal rate like we have on a quarterly basis, we can really dial in what we think we're going to deliver to all of you in the Street and hit that with consistency. So we are diverse in our business. We have durability in our business model with good operating margin and good solid growth and good cash flows. And I just think as compared to the rest of the industry, we can weather any potential headwinds we're seeing going forward, which is reflected in our FY 2024 guidance.
+
+And Aneel, maybe you'd like to add some color around this question as well.
+
+Yes, sure. So a couple of things. So as you know, I had a front row seat to the last five years as a Board member, and I had a good understanding of Workday, the business model and the opportunity. And what I would say is now being on Board almost a full quarter, right, the opportunity is probably even bigger than I anticipated.
+
+That being said, the company is doing a lot of things right. Just look at our results for the full year last year, our results for Q4. So with the executive team and our Workmates have done is pretty special.
+
+That being said, there are opportunities for us to get back to that 20% growth going forward. I've mentioned a couple of them earlier. So first and foremost, I think one of the things we're doing around consolidating all go-to-market under Doug Robinson, who's been here for 11-plus years, was a good move. He now is responsible for everything from a go-to-market perspective, including sales, presales, partners, our industries and revenue operations were before that was broken up. So I am focused on driving operational efficiency across the company and across organizations. And we're starting to see that play out already.
+
+The second thing I mentioned earlier is I just think we have a tremendous opportunity to grow the business internationally. Our performance internationally is I don't think where it should be, but we're going to really focus on it. We have new leadership in place, and we're going to drive a different level of execution both in EMEA and across APJ. And I think that's also important.
+
+The last thing, as both Aneel highlighted and Barbara and myself, we are looking for ways to optimize our workforce. And one of the things we're doing here in Q1 is we're doubling down our efforts on product and technology. So we continue to focus on innovation. And we're also investing heavily in go-to-market, specifically around quota-carrying capacity. And it is our belief and my personal belief that those who can invest in innovation and technology and go-to-market when markets are potentially challenging like we're faced today will be the fastest to emerge on the other side and reaccelerate growth.
+
+So I think there are just a couple of areas of focus for us, along with a number of other things, including the ecosystem what we spoke about and Doug mentioned earlier. So there are some of the things in the near term you can expect from us and I think they'll drive long-term durable growth that gets us back to that 20%.
+
+Yeah, I agree with you. Actually, the commentary I always respond with people ask this question, I say there's -- it's consistently inconsistent depending on who you talk to out there. But what we do know is companies are continuing to invest in technology. And if you have a strong value proposition like we have around HCM and FINS, we should be able to navigate the choppy waters that we're faced with going forward. And I think that was reflected in both Q4 and our FY 2024 guide. So we're staying the course. We're prudent in our guidance. And we have a lot of confidence that our team will execute regardless of what we face in the future. So it's uncertain, but we're prepared for it as well.
+
+Yeah, Doug, why don't you take that, and then I'll add any color.
+
+I think it's really well said, Doug, and that's specific to the GSIs, but we're also looking for alternate routes to market like the announcement we just made with AWS to be on our marketplace, which is a new distribution channel for us here at Workday. So we're looking at driving operating leverage on the go-to-market, both through GSIs and additional ecosystem partners going forward, which is really important, we haven't done that in the past.
+
+Thank you.

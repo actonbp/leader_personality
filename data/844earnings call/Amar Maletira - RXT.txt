@@ -1,0 +1,19 @@
+Amar Maletira
+Rackspace Technology, Inc. (RXT) Q4 2023 Earnings Call Transcript
+
+So, I think we didn't follow the first one. It was not very clear. Can you repeat the question? I'm sorry. It was not very clear in the room.
+
+The answer is no. Did that answer your question?
+
+Thanks.
+
+Yes. I think the - so thank you very much for the question, Ron [ph]. And the six to nine months lag of - that commentary was mainly on our bookings converting to revenue. So the bookings, is what builds the backlog. Our Private Cloud business did very well, from a bookings perspective in Q4 in the fiscal Q4, where we grew sequentially 86%, grew 96% year-on-year.
+
+It was the highest quarter in the last eight quarters, and we entered the year, with a huge backlog. And the backlog actually grew 188%, year-on-year, compared to what we saw, when we entered fiscal '23. So that backlog to convert to revenue typically takes six to nine months, because we have to stand up the environment, we have to migrate the application, and once the application migrates to our data center.
+
+And we manage and operate, then that application and workload stays with us for the next five to 10 years. So that six to nine-month lag, is mainly for backlog converting to revenue. Now in terms of sales cycles, I think that's where your question is. Listen, I think the demand environment continues to remain uncertain. Entering 2023 - 2024, we see a similar - what we saw in 2023.
+
+We believe customers, will continue to spend on digital transformation, mainly enabled, by cloud and AI. However, we continue to see slower decision cycles, and the sales cycles are getting extended. In our Public Cloud services business, as you know, that it's a very - it's a cyclical business. Many companies in the services ecosystem, are reporting that they are facing, some cyclical headwinds, and so are we.
+
+But when you talk about our Private Cloud business, the dynamics are really different. Customers are looking, to move out of their data centers, and reduce both their CapEx and OpEx investments. And so - we see relatively better demand in Private Cloud. And the very fact that, we grew our overall bookings in 2023 at 20% year-on-year, is basically a proof point that, the Private Cloud demand, is pretty strong. Was that helpful, Ron?
+

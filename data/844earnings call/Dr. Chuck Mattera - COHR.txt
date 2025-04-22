@@ -1,0 +1,96 @@
+Dr. Chuck Mattera
+Coherent Corp. (IIVI) Q4 2023 Earnings Call Transcript
+
+Okay. Thank you, Samik. I’ll take that. Maybe three points are helpful. The first one is that the Q4 bookings that we had a surge that we reported, that surge was all about AI. That’s number one. Number two, we have revenue for 800G transceivers contemplated inside our guidance in the $4.5 billion to $4.7 billion. There’s meaningful revenue for a delivery of 800G transceivers. Those have already started. In the first half of the year, we will see a ramp from Q1 to Q2, but the substantial amount of revenue we will deliver, it will be in the second half of the year. And what’s in front of that is managing our scale and especially managing our supply chain, and so we see the opportunity for over and above what we have in our plan. But that opportunity will require quite a few more synchronizations, including in the supply chain.
+
+As we work our way through in the next few months through the first and second quarter, we’ll have our eyes set as we work to compete for the greater opportunity that may come inside this fiscal year.
+
+Okay. Well, I’ll start out and then I’ll ask Giovanni to finish it off, Samik. As you know, we’re a vertically integrated supplier. And in addition to selling both VCSEL-based and EML-based transceivers for this application, we are also a supplier to the merchant market. And having said that, our ability to scale both at high performance and high volume and high quality to be able to meet this ramp is partly the basis on which we’re going to continue to win both new orders and to be able to ship.
+
+Giovanni, please elaborate.
+
+So Samik, I would say that roughly like, would be like one-third short reach, short wavelength, two-third long reach, long wavelength and -- which obviously, we can support both with our internal devices. And we see that kind of ratio being different in terms of volumes because price is different, so the volume will be probably 50-50. And that kind of ratio will probably be the same for the next five years, and I’m specifically talking about AI here, right? So the 800G, maybe even the -- in the future, the 1.6T, et cetera. So that kind of ratio will remain in the next few years, too.
+
+Okay, Simon. Simon, let me clarify and let me repeat what I said in response to Samik’s question. Our guidance -- our revenue guidance for the full year and for the first quarter, but especially for the full year, contemplates a meaningful amount of revenue for shipping 800G transceivers. I want to repeat that. Our plan contemplates a substantial amount of shipments. I believe that there may be additional upside. That additional upside might be as much as $200 million. But for us to have the confidence to add it into our plan, we need to manage quite a few aspects of our ramp, and we’re going to go for it. But I cannot be sure that we’ll be successful in having everything come together in time to be able to have the confidence to add that $200 million or up to $200 million, but we’re focused on it. And if we have anything more to say 90 days from now, we will.
+
+With regard to your second question, our belief is that we’re in a market leadership position. It’s a competitive market. There are strengths that we bring. And we’re going to continue to compete on the basis of the strengths that we have in this generation. Those strengths I outlined were evident in FY23 with a rather substantial ramp in Datacom transceivers year-over-year from ‘21 to ‘22 to ‘23. We have the ability to scale, and we have the laser components for the generations that exist today and the 1.6T, which are coming.
+
+And so, on that basis, I think it’s the first inning. It’s very difficult to be assessing the -- what the score will be in the fifth inning and the sixth inning of the game. Everybody is just getting started, and we’re well positioned to be able to move even further past our own aspirations for our leadership position in this market.
+
+Right. This is the first inning of the game. It’s the beginning of -- I’m not even sure it’s a cycle. It’s the beginning of a revolution. And there’s a lot more to come, we believe. And by the way, if 90 days from now, I can update you on the possibility of additional revenue that we can add to the guidance, if we’re able to operationalize it, there may be more to come because this is just getting started, and we think that in ‘24 rolling into ‘25 is going to continue to drive our growth.
+
+Well, the Telecom business itself given our position of our portfolio, the strength that we have with the Telecom customers, I’m expecting that the second half of the year to be better than the first half of the year, and that we’ll expect -- I do expect to see -- signs of recovery before the end of this calendar year. Signs of recovery will be followed through on new orders, and those new orders will be consistent and commensurate with both the launch of some new products, including our pluggable DCO modules. And the ramp of those products from a base that we believe we can grow our share meaningfully beginning in the second half of next year. So Telecom would be one.
+
+I do think the industrial market is broad-based. We’re diversified. And I don’t want to say that we’re at the bottom, but I do believe that any meaningful increase in macroeconomic activity, we will begin to see it both in laser utilization, in our service business and the further adoption of laser technology, including for EV battery welding as just one example. Our silicon carbide substrate business is growing, is growing super nicely, I would say, and I’m expecting that to continue into ‘24.
+
+Maybe I’d stop. Meta, take a follow-up, if you like.
+
+Meta, every manufacturing line has a first constraint. And when it’s broken, there’s one right behind it, the second constraint. Our job and our expertise is being able to figure out how to manage multiple constraints at one time. Managing the supply line, we have critical components that we’re dependent on, and that supply line for the last six months or so has been in a wind-down mode with the tide going up. And the rather sudden adoption in the beginning of this -- the game in this first inning caught many in the industry by surprise. And therefore, we have to manage through certain aspects of the supply line. It’s going, but if it were going faster, we’d be able to take on more because we have the capacity to do more, and we’re aiming to do more. I believe that customers want us to do more. And so, in the next couple of months, the urgent approach to managing our entire manufacturing capacity will continue, and we’ll give an update in 90 days.
+
+Let me give it to you in broad strokes because I think that’s -- that will do it for you.
+
+Our Datacom transceiver sales in ‘23 were approximately 20% of our consolidated revenues. And as it relates to AI, whereas there may be some applications and sockets that are at data rates that are less than 800. For us, when we talk about it, we’re really talking about 800, and you’ll hear us talk about our road map for 1.6. But in FY23, it was not a material amount. We began shipping in the third quarter, and it’s going to step up rather substantially in ‘24.
+
+Okay. Thank you, Vivek. Mary Jane?
+
+Yes. Good morning, Tom. Just give us a second. Yes.
+
+Well, there are solutions that from a power consumption and generally speaking, performance standpoint, are better suited for silicon photonics. You still need a laser for those solutions. And we see -- I would say there is a split -- silicon photonics is not in the slide, it’s not identified. It’s not split between short reach and long reach, short wavelength, let’s say, or what we call it short reach, long reach. So I would say that split is still one-third short reach, two-third long reach, and both of them are related to the AI ramp that we talked about. So, that’s what we are seeing.
+
+So the growth -- and of course, there is no -- that’s not all of it. That’s growing fast, but it’s also -- there’s a VCSEL part, which is also growing very fast, and that’s unrelated to the silicon photonics part. But just with respect to silicon photonics, that’s the split between -- still all the AI, but it’s a split of, let’s say, one-third, two-third short reach, long reach.
+
+Jed, can you repeat your question? Which set of…
+
+Okay, Jed. Jed, in our Wide-Bandgap electronics platform, the majority of the sales are for silicon carbide substrates. That’s -- there were no indium phosphide or gallium arsenide, there’s nothing of any other compound semiconductors. But we do have our ion implantation services business, which includes providing ion implant services for silicon carbide to customers who are operating fabs. And so, it is silicon carbide-based. And that’s the focus of our Wide-Bandgap electronics platform, and it is growing. It is outpacing the growth of the Company.
+
+No, I’m expecting that in FY24 and planning that about 40% to 50% of our capital will be invested in silicon carbide to fuel the growth.
+
+Mary Jane, would you like to?
+
+It’s Giovanni’s segment. Giovanni, would you like to add?
+
+So Jed, just -- I’ll give you a number. FY23, FY24, we expect growth of at least 40%, four zero.
+
+Chris, could you repeat the first part of your question? The nonfinancial part?
+
+Giovanni, would you take that?
+
+So, let me start with the -- our strength in the device technology. We currently should sell more devices than we actually use internally. So, we -- most of our competitors are actually our customers too, as you probably know. So because of the broad-based laser and receivers technology platforms that we have work both in short wavelength, short reach and long wavelength long reach. So we are engaged on some, let’s say, nonstandard designs with some end customers. But even those customizations at the end of the day, in terms of guaranteeing interoperability, they will have to be standardized at some point.
+
+So, I don’t believe there is any difference in terms of the process of standardization that we’ve seen in the past 20 years in the Datacom book. Of course, as the people trying to improve performance, cost of ownership, et cetera, there are ways to customize the solution internally. I want to remind you that at the end of the day, all of these x100Gs are all 100G optical lanes, so all comes down to 100G anyway. And so some of them are parallel, some of them are different types of approaches, multiplex and so forth. But at the end of the day, it’s all 100G in the optical lane level, even if there may be 200G electrical lanes coming soon in the future, of course, 200G optical lanes coming soon. But today, that’s where we are.
+
+So, there is some level of customization that I don’t think it changes the -- again, our ability to compete is still substantially better than, I would say, most of our competitors because we -- as you know, we are the most vertically integrated out there, which doesn’t only improve our ability to, as we were saying earlier, to have and support the demand that we see, but also the ability to differentiate at the transceiver internal design level. So, we are engaged from that perspective, some of these super customer -- call it, customized solution for some of the AI players.
+
+Mary Jane, would you…
+
+Okay, Chris. I won’t be able to speculate on what it could have been. It’d be too complex a function and have great uncertainty, I think. But 90 days ago, I said I thought that the moderation would persist at least until the end of this calendar year and maybe longer, and it’s still not possible to call it any better than the remarks I made earlier. And as it relates to Telecom as one -- as a kind of a primary market where we were -- we are affected by it, I am hopeful for sure and looking and engaged in discussions with customers. I believe that we won’t see a turn up before the second half, and I believe that we will begin to see some signs of it by then.
+
+Giovanni, maybe just talk about VCSELs, EMLs and optics.
+
+Ananda, we are the largest transceiver maker in the marketplace. And as it relates to this 800G opportunity and more broadly AI, including the generations to come, our goal is to be the market leader. It’s early as a starting point, but even though it’s early, we’ve gotten busy. I believe that in ‘24, what we have baked into our plan is already a super exciting ramp, and I believe that there will be a possible upside of several hundreds of millions, even in ‘24, in the back half of ‘24. And I believe that our ability to address the market, to serve the market, to scale in the market is going to be critical for us to be able to win. Our goal is to be the market leader.
+
+Yes, absolutely. Let me repeat. Our laser-based technology, both short wavelength and long wavelength, and the demands on that laser technology, including for 800 but especially for 1.6, will separate us even further from the other players in the marketplace because we are the only vertically integrated company that has a road map to support well beyond 800G. And I believe that those are among the very strong value propositions that we present to a customer.
+
+Okay. Ruben, I’ll ask Giovanni to address both.
+
+Ruben, let me clarify. My earlier comment was about 20% of our consolidated FY23 sales were in Datacom transceivers. So, let me ask if you have any question about that.
+
+I’m glad we’re talking. As we indicated in the shareholder letter, we had a 10% customer in the communications market that was in the data communications market. And that -- the demand for those legacy products in my prepared remarks, I alluded to the declining demand for certain legacy products from our customers. That demand in FY24 is going to roll off. That is our plan. As it rolls off, even faster than it rolls off, I’m expecting that inside the fiscal year ‘24 that we are able to replace it with 800G AI transceivers at a minimum, and we’re aiming to do more than that. Is that clear?
+
+You’re welcome, Ruben.
+
+Giovanni, do you want to…?
+
+Great questions, Jim. Thanks for your questions. Mark, will you address both?
+
+Okay. Thank you, Tim. We had very strong shipments in communications in the fourth quarter. I think that will be down into the first quarter. I think that’s the number one driver in the change from Q4 to Q1. That accounts for maybe more than half or two-thirds of the variation and the rest of it is spread across the other markets or across the other segments and markets.
+
+What was the second part of your question?
+
+It’s a combination, and the moderation that we saw in the March quarter in the Telecom market, that persisted in Q4 and it will leak into -- at least leak into Q1 as well. It’s a meaningful part of it.
+
+Giovanni, why don’t you take it?
+
+Kevin, we’re going to wrap the call.
+
+Thank you.

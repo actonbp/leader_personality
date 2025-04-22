@@ -1,0 +1,52 @@
+Rick Wallace
+KLA Corporation (KLAC) Q4 2023 Earnings Call Transcript
+
+Hey, Joe, thanks for the question. This year has been a strong year for that. We have a very strong market position there. So that's been good for us. And you're seeing investment from the global players, but also investment in infrastructure in China to provide more domestic supply.
+
+It tends to invest according to a different cycle. I wouldn't exactly call it countercyclical, but the lead time to get equipment to actually make silicon wafers to take some time. And so you see those customers continuing to invest through to prepare for future demand, they're also dealing with new capacity requirements related to hybrid bonding and some of the other wafer-to-wafer packaging that are out there that are driving incremental demand as well.
+
+So look at this year, it's going to continue to grow, this year, expected to do well. And then -- but I do think, as we move into next year, we'll see some moderation of that investment. So while I don't think it will fall off a lot, I don't think we'll see it grow into next year.
+
+So we had some movement across a number of our customers, and the numbers overall is, frankly, pretty low, but that was part of it. The other part is we also had some shipments that we weren't expecting to make in the quarter related to one of our Chinese DRAM customers. And a clarification of some of the export rules enabled us to ship some additional equipment there. So that was a factor in the upside on the DRAM side.
+
+Hi, C.J. It's Rick. The answer is the demand continues to be very strong and for a couple of reasons that we've talked about many times. And we have struggled in increasing the output. So we're still booked out through as far as we can see into next year. So business remains strong. The product has had a lot of success dealing with some of the challenges we're seeing.
+
+So we expect that to remain elevated, and we're working hard to actually increase capacity in order to meet that demand, but that's going to take some time. Lead times will come down a little bit. I don't know if they'll come down all that much, given the drivers of that product line. But as new capacity comes online as we move through '24, and beyond we see it -- we'll see them come down a little bit, but I think you'll still see them remain elevated for some time.
+
+
+One of the nice we talked about in the past data is that we're still running Gen 4 in addition to Gen 5 and Gen 4 is really seeing pretty good adoption in prices that we didn't necessarily forecast in automotive. So we still have pretty good tailwinds for that.
+
+Yes, I won't calculate what the government will do or not do on that. We have ongoing conversations with them, obviously, and really -- we've been supportive of their efforts to try to figure out how to cut off the very leading edge. Beyond that, that's not conversations we've been having with them. But in terms of quantifying, obviously, given that most of the business we have in China as legacy, that would obviously impact our ability to support them in legacy.
+
+Well, so I would say that we were supply constrained, but for a different reason, we continue to struggle with the demand that we've had for optical. And as I mentioned to a prior question, we continue to see demand for that. So it's true that we manage our supply chain, but we still had gaps. It wasn't like we got hit with things that we didn't expect. We just couldn't ramp as much as some of our customers wanted. The process control intensity has gone up.
+
+I mean one thing that we clearly forecasted and we're seeing by out now is as EUV gets adopted in more nodes and more layers, and advanced architectures happen, there's a greater need for process control, and that's really what we're experiencing. So when we talk about in the Analyst Day and what we're seeing play out is increased need for process control across all technologies and we feel good about how that looks as we go forward and some of the splits of the forecast we had for our Analyst Day for 2026.
+
+Yeah. Sidney, it's a good question. And it's something that we had already factored in to our plans as we looked out. What you're seeing is the adjustments to some of the ramp plans. And so there's still some shipments going into some of these facilities, fewer tools. But it's something that we already made adjustments for. I think it tends to usually shorter lead time, tools feel it first and then it gets progressively eventually, those delays filter into everybody, but it does take some time. So we feel very good about the forecast we provided here in terms of our expectations over the next couple of quarters.
+
+Yeah, our market share continues to be strong. I mean, we started focusing on legacy market opportunities several years ago. In fact, we started some older product lines, and they continue to be the most competitive really at all price points turns. So, we feel while there is more competition trailing edge, we're very well-positioned to be able to win.
+
+And a lot of customers have a lot of confidence around the world in our capabilities. So, we feel good about our ability to compete, again, standing competitors that are out there. We've been competing with people for a long time in terms of capabilities. So, this is not unique that we would have competition in China.
+
+And you have to remember, our competitive offerings in China or in any other region are really based on the portfolio of products that we can offer. So, we can offer a lot of solutions to our customers.
+
+To Rick's point, some of our older generation tools, which we've restarted, but even de-configured versions or more recent tools. And then we allow our customers to manage across their requirements either for economic or more advanced tools, more capabilities. So, our go-to-market in terms of the portfolio benefits us in that region as much as it does anywhere else.
+
+
+Great. Thank you very much.
+
+I mean they've slowed down. I mean, for sure, we've seen and heard the reports on forecast for their investment in WFE going down. So, I think that's been the main one.
+
+What the leading indicators that we are looking at that are encouraging, as I mentioned earlier in this call, we had utilization rates creep back up from what was forecasted just a few months ago. The other thing is we're still seeing a heavy number of design starts. And so of course, it takes a while for those to filter through. But we still anticipate a very large number of designs at the advanced out -- and so that will portend for a strong business down the road. You can't pick the timing -- but I think that this slowdown in terms of their investment is related to the overall business environment, but not the fundamental dynamics. I think that as pretty good as we get the next few quarters, is behind us.
+
+Yes. Yes, your math is consistent. So yes, that's how it will play out, assuming the December quarter comes through the way we expect today. We talked about their wafer obviously, being a strong driver, optical inspection, reticle inspection is also a business that isn't declining as much as the overall market. So -- so we've seen strength in those areas. So it's mostly there.
+
+Look, given the percent of investment that's happening in logic and foundry, obviously, the process control tends to be there is higher than it is in memory. So that tends to provide a nice tailwind in terms of the dynamics within WFE playing towards KLA. And so obviously, the products we talked about are big drivers. But overall, it's good in terms of the percent spend on our products as a percent of the total.
+
+Harlan, yes, good observation. And we have seen an increase. There haven't been a ton of bright spots with our customers, but that's one, and that has happened fairly recently. We've seen an uptick. It's a small – relatively small number at as a percent. It's got quite a bit, but off of a small number. So absolutely, we've seen it, and we see it directly tied to some accelerated orders for some work that we've done, as you know, with EPC and finding some of the products we have semi process control and EPC, we've absolutely seen that. So we're seeing an uptick in that.
+
+Yes, you had the overall packaging market down with 15% to 20% or so. But if we look at our packaging business within the company, it's pretty flattish year-to-year. Rick talked about some of the recent upside we're seeing related to some of the AI drivers that are recurring right now. So it's a good and evolving story moving forward as more complexity moves into the package across process but also process control.
+
+Sure. I think that for KLA, the one thing you have to keep in mind is we're still supply limited on some of our most critical process control products that apply to the leading edge, such as optical and even some of the reticle products. We just cannot -- we still cannot meet demand. So I think we have a natural governor in there in terms of being able to keep that business sustained over the next several quarters based on even the current booking environment. So I think that's one factor.
+
+And then the other is we still see, especially with the new architectures that are being out there and people moving to the next-generation transistor architectures, a lot of demand for the leading edge in the R&D phase. So we feel pretty good about how we're positioned for that much so than one who is primarily focused on capacity we see.

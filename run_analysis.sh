@@ -130,6 +130,14 @@ for package in $REQUIRED_PACKAGES; do
     fi
 done
 
+# Add check for Harrison models script dependencies
+HARRISON_PACKAGES="joblib openai tiktoken sentence-transformers pycaret"
+for package in $HARRISON_PACKAGES; do
+    if ! python3 -c "import $package" &> /dev/null; then
+        MISSING_PACKAGES="$MISSING_PACKAGES $package"
+    fi
+done
+
 if [ -n "$MISSING_PACKAGES" ]; then
     echo "Missing packages:$MISSING_PACKAGES"
     echo "Installing required packages..."

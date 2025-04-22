@@ -1,0 +1,87 @@
+Terry Duffy
+CME Group Inc. (CME) Q4 2023 Earnings Call Transcript
+
+Dan, Sunil and Julie will.
+
+Thanks, Dan.
+
+Thanks, Alex.
+
+Thanks, Owen. I'm going to turn it to my colleague, Suzanne Sprague, the President of our Clearinghouse and heads up our Clearing and Risk, and she can give you some fairly good color as it relates to the DTCC arrangement.
+
+And Owen, I think just to add to what Suzanne said, as you know, and others on the line know, over the last year or so, our former colleague that headed up their business, Sean Tully, talked about the efficiencies that would go along with getting us into the offsets with DTCC and in the ranges of anywhere from 40% to 80%. And so Suzanne's numbers of 75% to 80% are on the high end of what we were originally looking for. So this is a very exciting opportunity for us and more importantly, our client base.
+
+Thank you.
+
+Sure, Ken. There's a little bit to unpack there. So I'm going to take part of it. I'm going to take some of it and ask Mr. Sammann to comment on the gas and the back part of your energy question. But when we talk about our Argus contract, we're talking about a contract that is based out of the same region that there's a competitive contract trading as well. We're just pointing out that our contract is very much attracted by the large commercial participation with the reflection of over 0.5 million open positions compared to others in the same region that have the same risk characterizations as ours. So we think that's a very much a net positive for us. As far as market share goes, Ken, being around a long time, like unfortunately I said earlier, when you look at markets that are in a 10 month range of less than $10 a barrel in energy, you will see shifts in behavior shifts of percentage points here or there going back and forth, depending on what's going on, on any given day. So that doesn't surprise us. We've seen that historically since we acquired the New York Mercantile Exchange. So, those are things I'm not surprised by in this low-vol environment. So, that being said, let me -- if that gives you an understanding of what we're talking about in the Midland area and also about the percent changes going back and forth in low-vol times, and then I'll ask Derek to comment on the gas and the options as well, I think was the other part of the question.
+
+Yes.
+Ken, hopefully that gives you a little bit of color on the energy markets in the Gulf Coast and other places.
+
+Thanks, Ken.
+
+Okay. Thanks, Brian. Lynne will touch on the data as the market data pricing changes that you referenced. And then I'll have Tim McCourt and probably myself touch a little bit on the trading volume as it relates to DTCC and the arrangement associated with it. Lynne?
+
+Does that get to your question on the data, Brian?
+
+Okay, so on the trade volume question that you had is relates to the DTCC arrangement, is that the second part?
+
+We're always cautious on expectations, but let me go ahead and have Tim start a little bit with the client base on how they're reacting to it. And I think you got a little bit of a flavor for it on the previous answer that Ms. Sprague gave as it relates to the clients that are using it already getting the 75% to 80% efficiencies with their margin portfolios. But Tim, let me turn to you for some comment.
+
+And Brian, the only thing I would add to that, you have to look at what we talked about earlier today, and you see the entire 2023, especially going into the end of Q3 and the beginning of Q4 of 2023. We saw the record open interest in our treasury complex across the curve, which is very encouraging for us. So, from our standpoint, owning a cash platform and owning the largest listed business in the world, this is very exciting for us. We've talked all along about futurization of products. You're seeing that more and more every single day, the electronification of different products. And with the growth in our rates business going into last year, I think was just another example that with the record open interest in trade coming into our treasury complex. So, from the growth, it's hard to say what the growth is coming from or what's driving it, but by owning both platforms, we get the benefits either way, and we saw the benefits really materialize on the future side in 2023, especially in Q4.
+
+Thank you.
+
+Yeah, thanks, Benjamin. And I'll start with the rates just for a minute, and my colleagues can jump in if they'd like, especially Julie Winkler, who's in charge of our new client acquisition. But on the rate side, I think a lot of it goes to what I just said on the futurization of the marketplace and people trading more and more futures contracts versus maybe particular other venues. And that's an ebb and flow situation. So I'm not saying it's going to continue at the pace it continued in '23, and I'm not saying it's not either, though. So I like the way the trajectory is. And I think a lot of the clients, when you look at what happened with the duration risk through 2023 for a lot of different participants, they are now looking at using the marketplace, which are most deep liquid markets, which are ours, to mitigate and manage that risk. So I think we're seeing it from them. As you know, the direct clients, we can see, but some of them are coming through our major banks, so we don't know exactly who the client is to the person or the entity. But you can definitely see that people are looking at the fundamentals that are going on around the world and using our marketplace to use it. So I think that's part of the new clients. On the energy side, I think when you look at the new clients, I think you'd have to be exceptionally excited by the commercial energy participants that Derek referenced, especially in the Gulf Coast contracts. We're looking at close to 80 different commercial participants that are trading in those Argus contracts that we referenced earlier. So that's a growth for us on the energy side. So this is all part of it. So we're not just looking at retail or other proprietary trading. We're looking at true commercial participation, which is a reflection of the health of anyone's marketplace. So I think that's what's really exciting for us as we look at the new clients coming into our marketplace.
+
+And I'll ask my colleague, Ms. Winkler, to make some further comments.
+
+Thanks, Julie. And, Benjamin, let me end on this note as it relates to that. I think it's really important and we don't state it enough. As it relates to our rates business, especially, you look at some of the largest participants who I referenced earlier, between their activity in swaps and futures, and futures is a critically important point here, they're saving roughly $7 billion to $8 billion a day in margin efficiencies where they could deploy that capital in other activities, whether it's trading other parts of their business. That's hard to replicate. And that's a benefit to the largest clients in the world that can use that money to be deployed elsewhere. So that has grown substantially since 2015. So that's been a big growth driver for us over the last 8.5 to nine years as well.
+
+Thank you.
+
+Yeah, it's a good question, Alex. I'll turn it over to Mr. McCourt. He'll start and I'm going to jump in as well, and maybe Ms. Winkler also. So go ahead, Tim.
+
+And I think just to add to what my colleague said, Alex, I think it's really important that we, when he references the risk management of these, we're a risk management institution and we're looking at massive amounts of open interest that have portfolio margin associated with them that cannot be replicated at other entities, so we -- to the degree we can. So we are really excited about our equity franchise. We do recognize, so we're not saying we don't recognize the growth that has been in zero DTEs. As you know, our zero DTEs expire into futures and theirs expire into cash. That has been a difference that it seems that the retail participants seem to like a little bit more than the professional participant. So we are obviously looking at different things as this continues to evolve.
+
+Thank you.
+
+Thanks, Kyle. Tim?
+
+And so Kyle, let me make a few more points on this. I think you said it in your question, timing. Timing is everything as it relates to certain products and certain product launches. So I don't think a lot of people would have believed that the short end of the curve was going to continue to be the attraction point for as long as it has been to date. We listed a T-Bill contract where someone would say, well, geez, we haven't had that since 1980 or 1981. Why did you bring that back out? Well, the cost for us to do that is very de minimis. And we can get these contracts out there quickly. And if people need to manage risk, even if it's small at that current period of time, it's a good thing for CME. So I think when you look at the corporate bond market, timing is everything. And we're not trying to nail the timing perfectly, but we want to make sure that these products are available if in fact people need to manage their risk more closely today than they did when others [prior] (ph) listed these contracts. So you never know and again, these are not big lifts for CME. We can continue to do it, but we also have other value-added propositions that some others don't when we list new contracts.
+
+Thank you.
+
+It's a great question, Michael. We haven't talked too much about that. So I appreciate the opportunity to discuss it real quick on the call. I'm going to turn it to Lynne, but I'm going to make a few comments as it relates to it as well because I think it goes into the strategy we originally acquired NEX in the cash markets and also the post-trade services that came with it and what our thought process was. So I'll save those comments and I'll let Lynne go first.
+
+I have nothing more to add than that because I think Lynne summed it up. That's where I was going to go with the benefits of once we acquired the business, getting focused on the cash markets to complement our futures markets was something we're really excited about with NEX. And then when you look at the post-trade services and now having the JV, I think that was nothing but a bonus for us to be able to do that with IHS and then ultimately with our partner at S&P Global. So I think Lynne summed it up quite well.
+
+Thanks, Simon. Tim?
+
+Thanks, Jim. Thanks, Simon.
+
+You got it, Derek?
+
+Lynne? Thanks, Derek. Lynne?
+
+Thanks, Chris.
+
+Let me just touch on that a little bit, Craig, because I don't want you to read any more into it than where it's at. You've got to remember, we just came off of the biggest transition of a benchmark from LIBOR to SOFR. And we thought it was really important to let the market continue to mature, even though we've become the natural home for SOFR, I think we're just at 100% of the market. There's a handful -- is that fair? 99.9% of the market is now at CME. From my standpoint, as I look at the pricing with my team and I look at some of the rates businesses, I really believe it was important to let that benchmark continue to mature. And I didn't think it was appropriate to raise them on the mature products right now as we're going through a cycle where risk management continues to be critical. We had a great expansion, as I said earlier, from what I believe is a movement a little bit from cash into futures. And I don't want to ruin that momentum. I want to let it continue to flow. But again, it was basically around the maturity of the SOFR futures contract and the options associated with it. So that was really my thinking with my team when we did the pricing on the rates. Lynne?
+
+Does that give you a little color why we did it, Craig?
+
+Thank you. Appreciate it. Thank you, sir.
+
+Okay. Lynne?
+
+I'm going to jump in before Lynne does and I'm going to ask Suzanne too also, you can go ahead. But I think what's interesting is, Alex, on that point we've seen some really massive fluctuations in that cash balances that go up and down in a very short period of time. I mean, I'm talking about days. So it's really hard to say if there's a floor on that or not or if there's a ceiling on that or not because it does fluctuate and I think after you saw some of the recent numbers as of yesterday, I think it caught some people offside a little bit and that we don't know what that means to our cash balance at the Fed or not. So I think it's quite fascinating what's going on right now and I think that's going to be a bit of a pattern this year. So I don't want to draw too much conclusions on where that balance is going to be at or not but it's really going to be hard for us to predict what our floor could possibly be on it. Go ahead, Lynne.
+
+Thanks, Alex.
+
+Thanks, John. Tim can comment and I won't be able to help myself, I'll make a comment as well.
+
+And, Owen, the only thing I would add to that, we've heard for a lot of years, what does it mean when an ETF versus a future? Are they competitive in certain asset classes? All we have seen is the futures continue to grow as they list ETFs, as people need to do risk management, as other people are taking passive interest in some of these ETFs. So I think the ecosystem is good as it continues to grow. Tim just outlined some of the numbers. So I don't see this any different than some of the growth of our other products. I actually am very encouraged by this.
+
+Thank you.
+
+We want to thank you all very much for covering CME. We're excited by the quarter. We look forward to talking with you next quarter. We think it's going to be a busy year and look forward to answering any other questions you have for us on follow-ups as we go forward. Thank you.

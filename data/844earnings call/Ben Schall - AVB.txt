@@ -1,0 +1,76 @@
+Ben Schall
+AvalonBay Communities, Inc. (AVB) Q4 2023 Earnings Call Transcript
+
+Yeah, Adam, it's Ben. Just to reiterate, some of our key themes from prior conversations, and we remain very focused on the spread between our development yields and underlying market cap rates. That's the value we create, and we need to be appropriately compensated for the development risk and then the other component is obviously where we're raising the capital, both the source of it and the cost of that capital. So those are the higher level elements that we triangulate around, and then there's the deal specifics that Matt referred to.
+
+Yeah, why don't I give it to you by Coast. So on the East Coast, we're trending sort of in that low 2% range. The West Coast was modestly positive about 50 basis points, and the expansion region is essentially flat.
+
+Yeah, we haven't broken it out between urban and suburban in terms of the forecast. I can tell you in Q4, we certainly saw better growth out of our suburban portfolio, which was about 200 basis points. The urban portfolio was essentially flat. I did provide sort of the breakout in January as well from East and West, but in terms of urban, suburban, we've not traditionally broken that out. If you look at it on a blended basis, as I mentioned before, it was 2%.
+
+If you think across the markets, it's really kind of market specific is more the driver than urban, suburban in many cases. So for example, in the York metro area, we're expecting better growth out of this city and northern New Jersey, less growth really in Westchester, Long Island, Central Jersey. If you go to the Mid Atlantic, it's very different. We're expecting challenged growth in the district, but better growth in Northern Virginia and Suburban Maryland.
+
+On the West Coast, fortunately we don't have a lot in urban Seattle, but urban Seattle is pretty rough right now, I would say. More of our north and east side portfolio is performing much better and then generally down in the Bay Area, I think we're all familiar with the challenges in San Francisco. We certainly expect it to lag in a similar theme in LA. So I think you have to kind of go through each market individually to look at it, but that gives you hopefully some color by region.
+
+Yeah, I probably wouldn't extrapolate that going forward right at this point. I think it's a good kind of point for where we were in Q4. We do expect based on what I just said, a lot of these suburban markets will hold up better in some of these specific regions, but I wouldn't necessarily count on it being a 200 basis point spread as you move through the full year.
+
+Yeah, no, I think that is the right way to look at it. I don't know the exact number, but we have capitalized interest rate -- interest expense going down by $0.04, which is about $5 million year-over-year and it's at a blended capitalized interest rate of 3.5%. So I think it is going down by a couple $100 million and the reality is we have, and this is the natural ebb and flow of construction and progress. We have more completions this year than deals entering new construction. So that'll oscillate over time and it creates a little bit of a period over period volatility in the capitalized interest expense calculation, but that's just the nature of that.
+
+We don't -- we start projects when they're ready to go, not at a completely constant evenable -- even rateable basis over the course of the years and there's a little bit of CIP decline from '23 moving into '24.
+
+The part, Steve, I'd add to that is you think about this cohort of projects. Starts are definitely coming down this year for financing reasons, economic reasons, but deals that we can make sense of and that we can capitalize in an appropriate way have the potential to open up into a pretty nice pocket, pretty nice window when you look out three years from now. So tough to forecast a lot of other variables in there. And as you said, we're conservative in underwriting based on today's environment, but we do keep that in mind as well.
+
+Yeah, that's accurate, Steve.
+
+Yeah, John, I think it's footnoted on the slide, but just to be specific, when you start the year, it reflects essentially the rent roll or gross potential is a common term for the month of January relative to the average gross potential or rent roll that we had in place for 2023. So as I mentioned earlier in response to Steve's question, you tend to realize a substantial portion, if not all, of your rent roll growth in the first nine months of the year or so. It accelerates in the spring, peaks in the summer, and then starts to come down in the fall as a result of not only decelerating like-term rent change, but the mix from unlike-term rent change where you burn off short-term premiums and other things.
+
+So essentially, in Q4, you don't really see sequentially, if you think about it, any material growth occur during that period of time. So you might have eight months or nine months that you're up kind of an average of a point and a half, like as we were talking about, and the last two or three months is closer to zero and that's how you get closer to kind of the low ones. But we can certainly walk you through it in more detail offline if you like.
+
+It's also probably a timing issue. We described the point and a half as kind of where we were spot basis at the end of Q3. I know some companies sort of estimate where they think they might be in January and provide that information on their calls. We tend to provide on a spot basis.
+
+For Avalon Connect specifically, the costs associated with those programs are essentially 100% expensed.
+
+Yeah. Josh, what I would do is refer you back to the slide on the revenue decomposition and that contribution of 80 basis points from other rental revenue. Almost all of it, not all of it, almost all of it is related to Avalon Connect driving other rental revenue up. There's also increasing trash fees and other things that are happening, but most of that increase is related to Avalon Connect.
+
+Yeah. Why don't we get back to you on that as opposed to going quarter-by-quarter on the call, if that's okay. We'll ramp up as we move through the year, for sure and essentially what happens is, think about it as mirroring lease expirations, because we push that through at the apartment level as leases expire. So that's the way probably to think about how we'll bleed through quarter-to-quarter at a high level.
+
+Yeah. Why don't I give you some high level commentary, since that's a lot of categories to go through on the call, but sort of high level things to think about here; property taxes, overall, we're expecting year-over-year growth sort of in the mid 4% range. A substantial portion of that is being driven by the phase-out of property tax abatement programs, as I mentioned in my prepared remarks.
+
+Insurance, we are expecting another year of kind of double digit growth in insurance, given what's happening in the market, which, we can certainly talk about if you like. As it relates to utilities, Avalon Connect, I just mentioned, we're expecting utilities as a category to be sort of in the low double digit range and again, almost all of that is related to Avalon Connect.
+
+Core utilities are actually quite modest in terms of growth rate and a couple others maybe to mention are on the payroll side. We've essentially got a merit increase of 4%. That's about 90% of payroll. Benefits are going up about 6%. So those two combined are 420 basis points, but we're picking up about 100 basis points from our payroll reductions.
+
+So that will net out in the low threes and then the only other thing of note I would say, really, that's a little unusual, is in our office operations category, it's accounting for 20 basis points, 25 basis points of total expense growth, really related to legal and eviction costs that were somewhat elevated last year. We expect them to be elevated a little bit more this year as we continue to process people who are non-paying residents. So those are some sort of high level comments. Hopefully those are helpful.
+
+Yeah, happy to take that one, Brad, pretty much consistent with what we've outlined in terms of our outlook. And I would say relative to historical norms for January growth, it's modestly below. Sort of if you look at the change in asking rent in the month of January, say, for the five years pre-COVID as compared to this January, asking rents are trending up just at a slightly lower growth rate.
+
+Yeah, we're expecting average asking rent growth throughout the year to be sort of in that 2.25% to 2.5% range and actual rent change in the portfolio would be roughly 2%.
+
+Yeah, good question. When I talk about it in the context of maybe rent basis, I would say Northern California is still a long ways to go. We have rents that are essentially asking rents today that are down roughly 10% from pre-COVID peak levels. That's primarily driven by San Francisco being 12%, 13% below peak, which is, that's a pretty significant number and what I would say is that while I think we're seeing some green shoots in San Francisco in terms of what's happening with, say AI as an example, there's a long ways to go in terms of getting the sort of quality of the built environment at a place where people are comfortable, office leaders, business leaders, kind of calling people back to the office and/or people wanting to migrate to the city and be able to feel comfortable with what they're doing.
+
+So I'd say there is a lag there. How long it takes to play out, I think these things take a fair bit of time when you're talking about quality of life issues, crime issues, things of that sort. So I don't think this is necessarily a couple quarter type of issue. I think there's several quarters, depending on the political will of what happens to actually see it sort of trend the right direction for us in a more meaningful way.
+
+In terms of Seattle, I think a couple of things to think about as it relates to Seattle. Seattle rent levels for us are up about 8% from pre-COVID peak levels, but it is a very bifurcated market. The urban core of Seattle, whether it's right downtown, stuff like Union, Capitol, etcetera are much more challenged because of not only the quality of life issues that I mentioned that you have in San Francisco also in play there, but there is a meaningful amount of supply being delivered more in '24 than was delivered in 2023, which will compound the issue versus if you're mainly suburban, north end, east side, you're much more well-positioned. That's where the majority of our assets are in Seattle.
+
+Rich, we are not seeing significant distress in the system. You know, there obviously is the potential wave of maturities that's being highlighted by folks. For the most part, at least in our markets and the assets that we're spending time in and around, we're seeing lenders agree to extend out loans. We're seeing equity step in and put up more capital.
+
+Now, not all debt providers and equity providers are able to do that. So that does create the potential for some dislocation, but we're not necessarily seeing it of size. I'd say we're preparing to be ready to take advantage of it, but not seeing it at this point.
+
+Operationally, you know, the theme I would take you to is look back over, I don't know, this last cycle, last decade, world of capital being homogeneous. Capital is flowing to all types of players and generally is flowing at a similar cost to all types of players and so as we think about positioning going forward, there is an element of thinking about how we take advantage or step in opportunities for assets that are being operated by, less sophisticated players, players with less scale.
+
+And I'll kind of end on the theme of as we're thinking about the opportunity set out there, it is a combination of both places where we can bring our balance sheet to bear and bring our strategic capabilities to bear and we've spent a lot of time on our operating model transformation. It's got two impacts. It's one, it helps us drive internal growth, but we're also bringing those operational capabilities to our external growth.
+
+Yeah, sure, Alex. We did have elevated write offs in '23 in general, and I think that's just a reflection of the fact that we have been as we've been talking about adapting our pipeline to reflect the changes in the economic realities, as asset values have dropped and cap rates have increased. So we're generally very focused on risk management. We keep a close eye on capitalized pursuit costs in every one of our deals. And our risk management has actually been one of the keys to us being able to develop profitably across multiple cycles over, really our 30-year history as a public company, 35-year.
+
+The write-offs this past quarter, actually, there was one project in Denver actually was an Urban Denver kind of getting back to your first point. The other one was a public private deal in California, and we've had a number of those where, the economics have just changed sufficiently that we didn't necessarily see a path to in many cases, we are able to recut the deal and get a path to a revised deal that does make sense.
+
+In those particular cases, that wasn't the case. So we had to let those go, but I would also just taken a big step back here that if you look at our total book of development rights, we currently have land on the balance sheet of $199 million and we have another $67 million in capitalized pursuit costs. So that's $265 million in total and we're controlling opportunity to build about 11,000 units with that investment, which is pretty strong leverage on that pursuit capital and I think, compares favorably to a lot of other both public and private players in the space.
+
+So it's that's kind of where it sits today and I'd say that we've gotten through a lot of the deals that were underwater and when we look at our pipeline going forward, we feel pretty good about it.
+
+Yeah, good question. What I would say is seasonally, rents start to pick up in January. Rent growth typically accelerates asking rent growth, this is as you move through the spring and into the summer. So typically what you would see is this would be sort of the low point of the year, kind of December, January, and then things would improve from here.
+
+So certainly, I mentioned, we're talking about basically getting flat for the year. So, we've got several months here where it will continue to improve, flatten out and then probably as we get to Q4, you would see it come back down and go slightly negative again, which is not uncommon in this kind of an environment. So you start to see sort of positive numbers as you get into Q2 and Q3.
+
+Yeah, we're not providing any guidance as it relates to 2025 at this point. I did indicate what it was for 2024 as it relates to revenue and the impact on OpEx in my comments, my prepared remarks.
+
+Great. Well, thank you, everyone, for joining us today and we look forward to connecting with you over the coming months.

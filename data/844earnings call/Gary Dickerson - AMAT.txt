@@ -1,0 +1,26 @@
+Gary Dickerson
+Applied Materials, Inc. (AMAT) Q4 2023 Earnings Call Transcript
+
+Hi, Vivek. This is Gary. Just also what Brice said on the prepared remarks was for the full year China was 27% and actually it's down a little bit. But really pretty much same zip code as it was in the previous year. And as we go through the year, we would think it gets more back to the historical averages.
+
+Hi, Toshiya. Yeah. I would say that relative to Applied's performance, I'm very optimistic. In leading foundry logic, we're really well-positioned for the major inflections that our customers were ramping Gate-All-Around and Backside Power Delivery. Gate-All-Around, we'll see some revenue in '24, but that's going to be ramping more significantly in the future years. And Backside Power, we'll see some revenue also in '24, but also a significant ramp in the coming years.
+
+And each one of those inflections is a billion dollar incremental opportunity for Applied and we can capture more. We're on track to capture more than 50% of the overall spend for those major inflections. So really good position in foundry logic for Applied overall, as we said in the prepared remarks. We think that business will be healthy in '24.
+
+DRAM is another case where we're really well positioned for the major inflections. We've gained 10 points of overall DRAM share in the last ten years. And again, going forward, we feel like we're well positioned. We have design wins for those future inflections in DRAM, and we see opportunities to continue to drive share there.
+
+In packaging, that business is a billion dollars for us today and we're in very good position for all of the different architecture inflections in packaging. And there again, we have an opportunity to gain over 50% share in packaging inflections as that goes forward. So all of those areas that we talked about, the leading edge foundry logic, DRAM, packaging, all of those areas are very strong for us. And as we said, ICAPS will be weaker in '24, but those opportunities, those markets will offset some of the weakness in ICAPS.
+
+And Brice, I don't know if you want to add anything on the overall market.
+
+Hi, Srini. Thanks for the question. So ICAPS is half of the total foundry logic business. So historically that's -- it's been in that zip code. So foundry logic is about a third, ICAPS is about a third, memory is about a third, with the compute memory DRAM being stronger than storage memory NAND. So that's the mix.
+
+And I would expect that that mix will continue going forward. I mean, in any point in time, you could have some small changes in the mix, but we see foundry logic still remaining very strong going forward with that, about two-thirds of our overall business split between the leading edge and ICAPs.
+
+If you think about the big inflections, there's AI for high performance computing, but there's a lot of growth in edge computing across many different industries. So when we look at the markets, we think that mix is going to be pretty much similar to what we've talked about before, one-third foundry logic leading, one-third ICAPS, one-third memory. And then did you have another question or Brice, did you want to add anything?
+
+Yeah. The other thing I would add is that, as I said earlier, we're really well-positioned for the major inflections. If you look at foundry logic, Gate-All-Around, spending starts to ramp in '24. We've been gaining share in DRAM and we're well positioned for those inflections. And as Brice said, packaging was strong in '23. We believe it'll still be strong in '24, and we're positioned to capture more than 50% of the spend in all of those different packaging architectures as they ramp in '24. So again, all of those areas will continue to be strong for Applied in '24 and beyond.
+
+Yeah, Joe. This is Gary. Also, as Brice said, if you look at the efficiency of the spending, it's going to be less, especially with those new customers for many years. So the wafer starts versus the output, the yields are going to be much less from a device standpoint. So again, that's going to impact the overall output. And we think, again, the gap there with their domestic demand will keep that market healthy for a number of years.
+
+Yeah, Sidney. Just talking with customers, certainly the forecast from them for compute memory is stronger than storage memory. And if you look just at one example on an AI server, the DRAM content there is much higher than an industry standard server. So again, just, I've spent a lot of time on the road this last three months, and they -- customers are pretty optimistic about DRAM longer term and compute memory demand.
